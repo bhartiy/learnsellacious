@@ -1,5 +1,6 @@
 ---
 title: Requirements
+visible: true
 ---
 
 Before we begin, please ensure that you have met the Minimum Requirements in order for Sellacious to run smoothly:
