@@ -27,16 +27,16 @@ PHP `v7.0` is recommended as it will bring more stability, speed and security to
 PHP Extensions: `ZIP Library.` <br>
 PHP Extensions: `CURL Library.` <br>
 PHP Extensions: `MB String Library.` <br>
-PHP Extensions: `MYSQLi` <br><br>
+PHP Extensions: `MYSQLi` <br>
 
 PHP: `[memory_limit = 128MB].` <br>
 PHP: `[upload_max_filesize = 128MB].`<br>
 PHP: `[post_max_size = 128MB].`<br>
 PHP: `[max_execution_time = 120].`<br>
-PHP: `[magic_quotes_gpc = Off].`<br><br>
+PHP: `[magic_quotes_gpc = Off].`<br>
 
 **MySQL Requirements**<br>
-Sellacious requires a minimum version of MySQL 5.0.4+.<br><br>
+Sellacious requires a minimum version of MySQL 5.0.4+.<br>
 
 **Recommended Hosting Providers**<br>
 We have ran a couple of tests on these hosting providers and we would like to recommend them because they have survived our test and they seems to be pretty good at what they are doing.
