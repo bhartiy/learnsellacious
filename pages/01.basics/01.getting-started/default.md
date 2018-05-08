@@ -41,6 +41,8 @@ Sellacious requires a minimum version of MySQL 5.0.4+.<br>
 **Recommended Hosting Providers**<br>
 We have ran a couple of tests on these hosting providers and we would like to recommend them because they have survived our test and they seems to be pretty good at what they are doing.
 
-[CloudAccess](https://www.cloudaccess.net) - Official Joomla! demo provider. They know what they are doing.
-[SiteGround](https://www.siteground.com) - Optimized to run on Joomla! sites. [Recommended]
-[Rackspace](https://www.rackspace.com) - Pretty good support and fast servers.
+* [CloudAccess](https://www.cloudaccess.net) - Official Joomla! demo provider. They know what they are doing.<br>
+* [SiteGround](https://www.siteground.com) - Optimized to run on Joomla! sites. [Recommended]<br>
+* [Rackspace](https://www.rackspace.com) - Pretty good support and fast servers.<br>
+
+> We do not have any affiliation with any of these or other hosting provider, selection of host is completely on your discretion, we do not provide any support related to server issues. These recommendations are based on tests. If you are hosting provider, and would us to check if we are completely compatiable with your offering kindly [contact us](http://www.sellacious.com)
