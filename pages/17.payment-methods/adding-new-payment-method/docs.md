@@ -1,0 +1,6 @@
+---
+title: 'Adding new Payment method'
+visible: true
+---
+
+Your page content goes here.
