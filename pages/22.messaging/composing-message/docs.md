@@ -13,8 +13,8 @@ a) From the compose menu in sellacious backsite.
 ![](messaging2.jpg)
 b) From the read messages menu in the sellacious backsite.
 ![](messaging2%281%29.jpg) 
-<br>
 4. Fill the information about the messages for recipients, subjects and the content.
+When you click on the recepients text box all the categories are to be appeared. The categories include the staff,client,seller and manufacturer.
 ![](messaging3.jpg)
 5. click on send button to compose the message details, the message is successfully sent.
 ![](messaging4.jpg)
