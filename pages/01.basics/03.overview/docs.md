@@ -7,7 +7,6 @@ taxonomy:
 visible: true
 ---
 
-
 Quickstart installation is very easy to install same as the joomla installation.The quickstart package is a free and it consists of sample data with the template named 'squick'.
 
 1. Download any Quickstart package.
@@ -15,7 +14,10 @@ Quickstart installation is very easy to install same as the joomla installation.
 3. If you are installing it on a online server, create a MySQL database and assign it a user with full privileges.
 4. Open your browser. For local server, navigate to the folder containing the Quickstart package files(i.e. localhost/folder). For online server, navigate to your main domain or appropriate subdomain (i.e http://mydomain.com/), depending on where you have uploaded the Quickstart installation package.
 5. You will be redirected to the <strong>Joomla Web Installer</strong>.
-6.Fill the required fields mentioned on the Joomla Web Installer screen.(We suggest you to not use 'admin' as your administrator username!)
+6. Fill the required fields mentioned on the Joomla Web Installer screen.(We suggest you to not use 'admin' as your administrator username!)
+7. Please make sure that you choose the Sample Data as an option. This will install the Sellacious sample data.
+8. After successful installation, please remove the installation folder by clicking the option.
+9. You can login to the administrator panel by www.domain.com/administrator.
 
 
 
