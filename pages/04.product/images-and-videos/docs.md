@@ -9,6 +9,7 @@ visible: true
 4. Fill the information about the product in different sections available in the product window.
 5. You can add Variant details/images/attachment/price.
 6. click on save button to save the product details, the product is successfully added to your inventory.
-7. After saving the new product. when you reopen that product again.On the bottom right side you can upload the image of the product as product Image button.You can upload the product image there.
+7. When you save the product for the first time then the upload option will be visible.You can upload the product image here. 
+Note: You can upload the videos for the E-Products only. 
 8. Then you can save the product.
-9. Now you can see the product image is created.
+9. Now the uploaded image and videos are to be shown in the frontend of your webiste.
