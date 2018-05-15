@@ -11,5 +11,5 @@ visible: true
 6. click on save button to save the product details, the product is successfully added to your inventory.
 7. When you save the product for the first time then the upload option will be visible.You can upload the File attachments here. 
 8. Then you can save the product.
-9. Now the uploaded file attachments are to be shown in the frontend of your webiste.
+9. Now the uploaded file attachments are to be shown in the frontend of your site.
 
