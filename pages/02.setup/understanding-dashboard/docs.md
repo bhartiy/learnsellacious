@@ -24,7 +24,7 @@ From here you can analyze the growth of your site. Sellacious gives you many opt
 
 **Users**: The number of the users whose profile is currently active on your website.
 
-**Quick links:**
+**Quick links**
 
 Quick links provide to direct access for creating the Products Shipping Rules Coupons etc. The quick link is a list of unstructured links placed in a prominent place on a page. It helps the quick access for accessing the sellacious backend.
 
