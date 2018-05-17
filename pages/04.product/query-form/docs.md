@@ -15,4 +15,4 @@ Query Form is the field in which we can add the price display for each product i
 2. For creating the query form fields, select the query form fields from the drop down bar.
 3. You can create the query form by using the new button.
 4. Fill the information of the query form details.
-5. Click on the save button to save the detaisl of the query form.
+5. Click on the save button to save the details of the query form.
