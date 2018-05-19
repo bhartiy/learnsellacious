@@ -3,4 +3,8 @@ title: Variant/Options
 visible: true
 ---
 
-Your page content goes here.
+### Chapter 6
+
+# Variants/Options
+
+Discover the **variants/options** of sellacious 
