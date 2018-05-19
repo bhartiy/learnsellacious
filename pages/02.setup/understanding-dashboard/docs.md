@@ -35,7 +35,7 @@ This link is the direct access to the product catalog (list view of the products
 This quick link is the direct access to the orders page of your site. From here you can manage the orders of your site. You can edit statuses, track the orders. To know more about this feature of sellacious, please click here.
 <br>**First/new shipping rule**
 This quick link is the quick access to the creation of the new/first shipping rule. From here you can create a shipping rule. There are many options to configure the shipping rule. You can create them for an entire shop or for particular users/products/sellers. This is the link to know about these rules more in details. 	
-<br>**First/new coupon**
+**First/new coupon**
 This link is the direct access to the coupon. From here you can create your first/new coupon. You can create a coupon from here for the site, seller. There are many filters to apply on the coupon. You can create a coupon for the particular product, user category, seller category, geo-location. To know more about coupons, please click here. 
 <br>**First/new shop rules(taxes/discounts):**
 This link is the direct access to the shop rules (taxes & discounts). You can create your own first/new shop rule from here. Similar to shipping rules and coupons, shop rule also has many filters. 
