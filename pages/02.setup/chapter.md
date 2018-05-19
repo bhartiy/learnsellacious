@@ -3,4 +3,8 @@ title: Setup
 visible: true
 ---
 
-Your page content goes here.
+### Chapter 2
+
+# Setup
+
+Discover the **setup** of sellacious 
