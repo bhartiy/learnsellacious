@@ -3,8 +3,8 @@ title: Variant/Options
 visible: true
 ---
 
-### Chapter 6
+### Chapter 1
 
-# Variants/Options
+# Basics
 
-Discover the **Variants/Options** of sellacious 
+Discover the **basic** of sellacious 
