@@ -7,4 +7,4 @@ visible: true
 
 # Variants/Options
 
-Discover the **variants/options** of sellacious 
+Discover the **Variants/Options** of sellacious 
