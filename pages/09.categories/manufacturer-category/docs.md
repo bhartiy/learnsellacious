@@ -3,6 +3,8 @@ title: 'Manufacturer Category'
 visible: true
 ---
 
+Manufacturer category is the category in which to create the manufacturer.
+
 1. Go to the sellacious panel of your website.
 2. For creating Manufacturer, go to categories and select manufacturer from the dropped down menu.
 3. To create a new manufacturer profile, click on new button.
