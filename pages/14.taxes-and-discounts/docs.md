@@ -3,4 +3,8 @@ title: 'Taxes and Discounts'
 visible: true
 ---
 
-Your page content goes here.
+### Chapter 14
+
+# Taxes and Discounts
+
+Discover the **Taxes and Disounts** of sellacious 
