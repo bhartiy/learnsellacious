@@ -3,7 +3,7 @@ title: Introduction
 visible: true
 ---
 
-Payment methods are the type of payments can transfer from the account.
+
 
 1. Go to the sellacious panel of your website.
 2. For adding payment method, go to Settings and select payment method from the dropped down menu.
