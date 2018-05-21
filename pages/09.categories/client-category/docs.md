@@ -3,6 +3,7 @@ title: 'Client Category'
 visible: true
 ---
 
+Client category is the section in which we can create the client from the backsite of the sellacious.
 1. Go to the sellacious panel of your website.
 2. For creating client, go to categories and select client category from the dropped down menu.
 3. To create a new client  categories  profile, click on new button.
