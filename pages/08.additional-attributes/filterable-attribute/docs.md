@@ -3,4 +3,4 @@ title: 'Filterable Attribute'
 visible: true
 ---
 
-Your page content goes here.
+Filterable Attribute is the attribute in which the field should be listed for filtering with the other fields. You can choose whether to allow the filterable or not in every attribute section.
