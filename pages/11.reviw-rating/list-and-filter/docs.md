@@ -7,6 +7,7 @@ Review and Rating is the detailed list view which was submitted by the customers
 <br>**Rating**: Rating is the scale which is submitted by the user of their satisfaction. If the rating is 1, then the rating is poor and when the rating is 5, it represents the rating is excellent. click on the rating Drop down list will be appear like rating 1 to 5. 
 <br>**Review**: In review you have to write the summary regarding of the product in the front end. Product reviews are used to give customers an opportunity to rate and comment on products they have purchased, right on the product page. The review of the products are to be listed here.
 
+**Listing reviews and ratings**
 <br>**Status**: The status represents the product is published or unpublished. The green tick represents the publish status and the red cross represents the unpublish status. When you click on the circle button you can change the status of the product.
 <br>**Title**: The title of the products are to be listed here with the blue button shown near the laptop is to access to the front end.The title of the product can be change from the product catalogue in sellacious panel.
 <br>**Seller**: The seller who is selling the product. The name of the person who is selling the product.It can be client, manufacturer,etc.
