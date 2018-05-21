@@ -3,7 +3,6 @@ title: 'Managing Order'
 visible: true
 ---
 
-
 1. Go to the sellacious admin panel.
 2. For managing order to your inventory, go to Shop and select order from the dropped down menu.
 3. When you order products from the frontend. All the order are to be listed here in
