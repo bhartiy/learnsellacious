@@ -3,4 +3,8 @@ title: 'Shipping Rules'
 visible: true
 ---
 
-Your page content goes here.
+### Chapter 15
+
+# Shipping Rules
+
+Discover the **Shipping rules** of sellacious 
