@@ -3,9 +3,9 @@ title: 'Managing Variant'
 visible: true
 ---
 
-
 1. go to the sellacious panel of your website
-2. To manage the variants, first navigate to shop on the left side of the panel. Then,click on inventory manager option from the dropped down menu.
-3. You can change manage variants of any product of your inventory under inventory manager.
-4. Select any product from the inventory manager then click on the manage variants. You can edit the basic price, stock and over stock of the products.
-5. Then click on the save button for save the changes and click on save button to save the details.
+2. To manage the variants, Go to the shop then select product catalogue.
+3. After saving the product once, The variant option will be available.
+4. Adding the variant, Click on the add variant button.
+5. To delete the varaint, Click on the close and discard button.
+6. Click on Save button to save the product varaint details.
