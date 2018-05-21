@@ -3,4 +3,8 @@ title: 'Categories '
 visible: true
 ---
 
-Your page content goes here.
+### Chapter 9
+
+# Categories
+
+Discover the **categories** of sellacious 
