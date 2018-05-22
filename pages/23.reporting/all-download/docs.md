@@ -3,7 +3,7 @@ title: 'All download'
 visible: true
 ---
 
-ALL downloads will list all the downloads done in your account. The report details of:
+ALL downloads will list all the downloads done in your account. The report details includes:
 
 <br>**File name**: Name of the file client downloaded.
 <br>**seller**: The name of the seller who is selling the product.
