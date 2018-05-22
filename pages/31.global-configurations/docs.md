@@ -3,4 +3,8 @@ title: 'Global Configurations '
 visible: true
 ---
 
-Your page content goes here.
+### Chapter 31
+
+# Global Configuration
+
+Discover the **Global Configuration** of sellacious 
