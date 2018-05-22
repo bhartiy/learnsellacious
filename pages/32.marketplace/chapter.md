@@ -3,7 +3,7 @@ title: Marketplace
 visible: true
 ---
 
-### Chapter 32`
+### Chapter 32
 
 # Marketplace
 
