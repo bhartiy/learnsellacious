@@ -3,4 +3,8 @@ title: 'Email templates'
 visible: true
 ---
 
-Your page content goes here.
+### Chapter 29
+
+# Email Templates
+
+Discover the **email templates** of sellacious 
