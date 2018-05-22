@@ -22,5 +22,11 @@ If this module is published, it is suggested to publish the Administrator multil
 
 Use Dropdown: If set to 'Yes', the content languages native names will display in a dropdown.
 Use image Flags: If set to 'Yes', will display lanuguage choice as image flags.Otherwise will use the content language native names.
-Active Language: Display or not the active language.
+**Active Language**: Display or not the active language.
 Horizontal Display: Click on 'Yes' If you want to set horizontal.
+**MENU ASSIGNMENT**:
+You can choose where you want to show the module. You can select any one of the option from here.
+On all pages
+No. of pages
+Only on pages selected
+On all pages except selected
