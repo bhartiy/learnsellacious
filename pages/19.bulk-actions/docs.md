@@ -3,4 +3,8 @@ title: 'Bulk Actions'
 visible: true
 ---
 
-Your page content goes here.
+### Chapter 19
+
+# Bulk Actions
+
+Discover the **bulk actions** of sellacious 
