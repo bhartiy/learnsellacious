@@ -14,6 +14,6 @@ You can set the product type by:
 
 Create the product type from the category section
 1. Go to the sellacious admin panel.
-2. For creating the product type, go to the Categories then select teh All categories from the drop down menu.
+2. For creating the product type, go to the Categories then select the All categories from the drop down menu.
 3. Click on the new button to create new category for your store.
 4. Click on the save button to save the details.
