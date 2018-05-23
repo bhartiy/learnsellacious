@@ -9,3 +9,4 @@ The Hotlinking of the software is the direct download link in which the anyone h
 3. Create an eproduct in your shop.
 4. Go to the inventory tab, On the upload product click on the add more files.
 5. You can set the hotlinking from here. If you want to use the hotlinking then set as 'Yes' and if you don't want to use the hotlinking then set as 'No'.
+6. Click on the save button to save the details.
