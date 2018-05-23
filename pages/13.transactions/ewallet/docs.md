@@ -4,6 +4,7 @@ visible: true
 ---
 
 Ewallet contains the account balance in which we can add and withdraw the fund.
+
 **Add fund**:
 1. Go to the sellacious admin panel.
 2. For adding the fund, click on the new fund button.
@@ -14,11 +15,12 @@ Ewallet contains the account balance in which we can add and withdraw the fund.
    <br>d) Transaction Amount: The amount to be transferred.
    <br>e) Notes
 4. Save the details by submit button. 
-Place withdrawal
+
+**Place withdrawal**
 1. Go to the sellacious admin panel.
 2. For Withdrawing the fund, click on the new place withdrawal button.
 3. Fill the information regarding the ewallet:
    <br>a) select user: Enter the email id.
    <br>b) Transaction Amount: The amount to be transferred.
-   <br>c) Notes
+   <br>c) Notes: Notes are the small informative description.
 4. Save the details by submit button.
