@@ -5,6 +5,7 @@ visible: true
 
 1. First of all, go to the Joomla administration panel of your website.
 2. Go to Extensions and click on Templates.
+
 <br>a)**Edit**: 
 <br>i) Go to the joomla admin.
 <br>ii) Go to the extensions->templates.
