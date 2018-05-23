@@ -50,3 +50,10 @@ When the price display is show email us for price then email address menu will b
 The price display in which the prices are to be shown as the query form feature. It is attached with the form regarding the product queries.
 
 **Query form fields**:  Select the fields for the query form mentioned above.You can add the fields of the query form according to your choice.
+
+You can create the pricing for the product.
+1. Go to the Sellacious panel of your website.
+2. For adding pricing to your inventory, go to Shop and select Product Catalogue from the dropped down menu.
+3. To create a new product, click on New button.
+4. You can set the pricing of your product from the pricing tab in the product catalogue.
+5. Click on Save button to save the product details, the product is successfully added to your inventory.
