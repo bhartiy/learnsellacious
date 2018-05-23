@@ -1,5 +1,5 @@
 ---
-title: '>Selling/Not Selling'
+title: 'Selling/Not Selling'
 visible: true
 ---
 
