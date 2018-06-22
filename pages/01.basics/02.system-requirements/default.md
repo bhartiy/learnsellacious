@@ -6,7 +6,7 @@ visible: true
 Before we begin, please ensure that you have met the Minimum Requirements in order for Sellacious to run smoothly:
 
 **Minimum Requirements**<br>
-In order for Sellacious to operate correctly, please ensure that the following system requirements are met.<br>
+In order for Sellacious to operate correctly, please ensure that the following system requirements are met:<br>
 
 `Joomla 3.6` and above is installed.<br>
 PHP `v5.6+` and above.<br>
