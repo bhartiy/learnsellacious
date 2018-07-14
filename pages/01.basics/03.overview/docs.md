@@ -14,6 +14,7 @@ Installing this will create exact replica of what you see on our demo. This is f
 Quickstart installation is very easy to install same as the joomla installation.The quickstart package is a free and it consists of sample data with the template named 'squick'. It normaly takes just 10 minutes to create a multivendor website using our quickstart.
 
 1. Download the quickstart package following steps mentioned in "Getting started" tutorial. 
+![](quickstart1.jpg)
 2. Unzip "Demo Clone" archive to correct folder: When installing on Localhost use Http/www/htdocs folder when install on web use website root folder mostly its named as `public html` or `www`. 
 3. While you are extracting Files in the correct folder, create a database in MySQLi and assign it to correct user. in XAMPP, dabase user is root with no password by default. You can use PHPMyadmin for creating a database. 
 4. Once database is created assign it to correct user with full previleges. In localhost XAMPP step 4 is not required as all databases bydefault are under user `root` with no password.
@@ -31,12 +32,6 @@ Quickstart installation is very easy to install same as the joomla installation.
 12. You can rename sellacious administrator panel by just renaming the folder `sellacious`. You can find this `sellacious` folder in public_html. 
 13. Sellers/staff/administrators will also login from www.domain.com/sellacious we recommend to rename it to mode generic name like `backoffice` to read it www.domain.com/backoffice
 
-
-
-
-
-
-![](quickstart1.jpg)
 
 
 
