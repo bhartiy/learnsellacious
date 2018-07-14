@@ -19,6 +19,12 @@ Quickstart installation is very easy to install same as the joomla installation.
 4. Once database is created assign it to correct user with full previleges. In localhost XAMPP step 4 is not required as all databases bydefault are under user `root` with no password.
 5. Open your browser. For local server, navigate to the folder containing the Quickstart package files(i.e. localhost/folder). For online server, navigate to your main domain or appropriate subdomain (i.e http://mydomain.com/), depending on where you have uploaded the Quickstart installation package.
 6. You will be redirected to the <strong>Joomla Installer</strong>.
+7. Fill the required fields mentioned on the Joomla Web Installer screen.(We suggest you to not use 'admin' as your administrator username!)
+![](joomla1.jpg)
+8. Please make sure that you choose the Sample Data as an option. This will install the Sellacious sample data.
+![](Sample-data.jpg)
+
+
 
 
 ![](quickstart1.jpg)
@@ -27,10 +33,8 @@ Quickstart installation is very easy to install same as the joomla installation.
 4. If you are installing it on a online server, create a MySQL database and assign it a user with full privileges.
 5. 
 6. 
-7. Fill the required fields mentioned on the Joomla Web Installer screen.(We suggest you to not use 'admin' as your administrator username!)
-![](joomla1.jpg)
-8. Please make sure that you choose the Sample Data as an option. This will install the Sellacious sample data.
-![](Sample-data.jpg)
+7. 
+8. 
 9. After successful installation, please remove the installation folder by clicking the option.
 ![](remove.jpg)
 10. You can login to the administrator panel by www.domain.com/administrator.
