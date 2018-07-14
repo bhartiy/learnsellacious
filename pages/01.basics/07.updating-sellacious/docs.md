@@ -4,7 +4,10 @@ media_order: 'update.jpg,Update1.jpg'
 visible: true
 ---
 
-1. First of all, go to the Joomla administration panel of your website.
+Very Important: Kindly Take backup of your sellacious before updating sellacious. 
+It's preferred not to upgrade live site and upgrade it over stagging first, test it and then move it to live. 
+
+1. Go to the Joomla administration panel of your website.
 2. Go to Extensions and click on Manage -> update option from the dropped down menu.
 ![](update.jpg)
 3. Choose the files for update.
