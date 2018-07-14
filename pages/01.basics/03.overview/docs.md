@@ -23,23 +23,16 @@ Quickstart installation is very easy to install same as the joomla installation.
 ![](joomla1.jpg)
 8. Please make sure that you choose the Sample Data as an option. This will install the Sellacious sample data.
 ![](Sample-data.jpg)
-
-
-
-
-![](quickstart1.jpg)
-
-2. Unzip the Quickstart package and extract it in the site folder of your online/local server.
-4. If you are installing it on a online server, create a MySQL database and assign it a user with full privileges.
-5. 
-6. 
-7. 
-8. 
 9. After successful installation, please remove the installation folder by clicking the option.
 ![](remove.jpg)
 10. You can login to the administrator panel by www.domain.com/administrator.
 ![](webmaster.jpg)
 
+
+
+
+
+![](quickstart1.jpg)
 
 
 
