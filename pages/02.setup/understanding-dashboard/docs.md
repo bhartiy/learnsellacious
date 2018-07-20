@@ -1,5 +1,6 @@
 ---
 title: 'Understanding Dashboard'
+media_order: dashboard.jpg
 visible: true
 ---
 
@@ -56,4 +57,4 @@ Today  In this row,The statistics were  shown according to the current day with 
 
 **Note**: The blue plus icon on the right bottom side: Direct access to create a product easily.
 
-
+![](dashboard.jpg)
