@@ -1,5 +1,6 @@
 ---
 title: Advertisement
+media_order: 'special_categories.jpg,special_categories1.jpg'
 visible: true
 ---
 
@@ -14,6 +15,9 @@ You can create the advertisement by:
 1. Go to the sellacious panel of your website.
 2. For adding Special categories to your inventory, go to special categories and select special categories from the dropped down menu.
 3. To create a new special categories  profile, click on new button.
+![](special_categories.jpg)
 4. Fill the information about the category name, status, fee recurrence days of the Special categories.
+![](special_categories1.jpg)
 5. Click on save button to save the Special categories details, the Special categories is successfully added.
+
 
