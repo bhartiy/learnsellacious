@@ -15,8 +15,8 @@ PHP Extensions: `CURL Library`. It is requires by Sellacious to perform outgoing
 PHP Extensions: `MB String Library`. It is used by Sellacious in manipulating of database strings.<br>
 PHP Extension: `MYSQLi`. It is used by Sellacious for managing database.<br>
 
-PHP: `[upload_max_filesize = 8MB]`.<br>
-PHP: `[post_max_size = 8MB]`.<br>
+PHP: `[upload_max_filesize = 20MB]`.<br>
+PHP: `[post_max_size = 20MB]`.<br>
 PHP: `[magic_quotes_gpc = Off]`.<br>
 PHP: `[max_execution_time = 60]`.<br>
 PHP: `[memory_limit = 64MB]`;<br>
