@@ -8,15 +8,15 @@ taxonomy:
 visible: true
 ---
 
-When you download Sellacious you will find quickstart of sellacious under folder "Demo Clone" 
-Installing this will create exact replica of what you see on our demo. This is for both multi vendor and single vendor ecommerce. Configuring correctly will convert a simple single vendor ecommerce to multivendor marketplace and a multi vendor marketplace to simple single vendor ecommerce.  
+When you download Sellacious, you will find quickstart of sellacious in "Demo Clone" folder.
+Quickstart is an exact replica of what you see on our demo. This is for both multivendor and single vendor marketplace and configuring correctly will convert a simple single vendor marketplace to a multivendor marketplace and vice-versa. 
 
-Quickstart installation is very easy to install same as the joomla installation.The quickstart package is a free and it consists of sample data with the template named 'squick'. It normaly takes just 10 minutes to create a multivendor website using our quickstart.
+Quickstart is very easy to install same as the Joomla installation. The quickstart package is free and consists of sample data with the Sellacious default template 'Squick'. It normally takes just 10 minutes to create a multivendor website using our quickstart.
 
 1. Download the quickstart package following steps mentioned in "Getting started" tutorial.
 ![](quickstart.png)
-2. Unzip "Demo Clone" archive to correct folder: When installing on Localhost use Http/www/htdocs folder when install on web use website root folder mostly its named as `public html` or `www`. 
-3. While you are extracting Files in the correct folder, create a database in MySQLi and assign it to correct user. in XAMPP, dabase user is root with no password by default. You can use PHPMyadmin for creating a database. 
+2. Unzip "squick_quickstart_v..." archive to correct folder. When installing on Localhost use http/www/htdocs folder, when installing on web use website root folder, mostly its named as `public html` or `www`.
+3. While you are extracting Files in the correct folder, create a database in MySQL and assign it to correct user. In XAMPP, the database user is root with no password by default. You can use PHPMyAdmin for creating a database in localhost. 
 4. Once database is created assign it to correct user with full previleges. In localhost XAMPP step 4 is not required as all databases bydefault are under user `root` with no password.
 5. Open your browser. For local server, navigate to the folder containing the Quickstart package files(i.e. localhost/folder). For online server, navigate to your main domain or appropriate subdomain (i.e http://mydomain.com/), depending on where you have uploaded the Quickstart installation package.
 6. You will be redirected to the <strong>Joomla Installer</strong>.
