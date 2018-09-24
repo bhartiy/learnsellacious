@@ -7,7 +7,7 @@ Remarkable features are the product or variant features that makes a particular 
 
 You can add the remarkable features for your product by:
 1. Go to the sellacious admin panel.
-2. For adding features list, Go to the shop then select the product catalogue from teh drop down menu.
+2. For adding features list, Go to the shop then select the product catalogue from the drop down menu.
 3. Click on the new button to create new product.
 4. On the basic informtaion tab, go to the feature list.You can add features of your product from here.
 5. Click on the save button to save the details.
