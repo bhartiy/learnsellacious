@@ -8,6 +8,7 @@ visible: true
 **Over stock**: a supply or quantity in excess of demand or requirement.
 
 We can manage stocks from three ways:
+
 **Managing stock through product:**
 1. Go to the Sellacious panel of your website.
 2. To manage through product, first navigate to shop on the left side of the panel. Then click on Product Catalogue    option from the drop down menu.
