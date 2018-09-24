@@ -7,7 +7,7 @@ You can handle the products according to the category. In categories include the
 
 You can create the product categories as following steps:
 1. Go to the Sellacious panel of your website.
-2. For creating tyhe categories to your inventory, go to category and select the categories from the dropped down menu.
+2. For creating the categories to your inventory, go to category and select the categories from the dropped down menu.
 3. To create a new category, click on New button.
 4. Fill the information about the category in different sections available in the category window.All the categories are be listed when you click on the product categories.
 5. Click on Save button to save the category details, the product categories is successfully added to your inventory.
