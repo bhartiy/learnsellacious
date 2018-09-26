@@ -1,12 +1,41 @@
 ---
-title: 'Minimum and Max Quantity'
+title: 'Minimum and Maximum Quantity'
 visible: true
 ---
 
+===**Minimum & Maximum Quantity** Numeric values should be whole numbers.
+**Minimum quantity** – Customer must purchase more than this amount.
+**Maximum quantity** – Customer must purchase less or equal to this amount.
+
+By Default sellacious provide Minimum & Maximum Quantity column, but the user have to enable it.
+
+**To enable Minimum & Maximum Quantity column:**
+
 1. Go to the Sellacious panel of your website.
-2. For adding maximum and minimum quantity to your product, go to Shop and select Product Catalogue from the dropped down menu.
-3. To create maximum and minimum quantity product, click on New button.
-4. Click on the inventory tabe, Enter the value of minimum purchase quantity and maximum purchase quantity.
-5. Fill the information about the product in different sections available in the Product window.
-Click on Save button to save the product details, the product is successfully added to your inventory.
-You can create other products by using above method.
+2. Go to settings menu at the left menu bar and select global configuration from the drop down           
+    Menu.
+3. In the extension’s setting, go to Frontend display options.
+4. At the bottom, there will be an option of Backend Display Option.
+5. Edit the fields, check Minimum & Maximum Quantity  in all columns.
+6. Save the changes you made.
+And In Creation of  any product a Minimum & Maximum Quantity option will be  available.
+
+**You can add Minimum & Maximum details through import method and the steps are:**
+
+1.  Go to the sellacious panel of your website.
+2. To import, first navigate to import utility on the left side of panel. Then click on importer option  
+     from  the dropped down menu.
+3. In the Sellacious native format, select download with all specifications column and open the 
+     downloaded file.
+4. You can create a new product there and add Minimum & Maximum by filling credentials in 
+     Minimum_Quantity and Maximum_Quantity column.
+5. If you want to add Minimum & Maximum details for the created product then write 
+    Product_Title there and add numeric value in Minimum_Qunatity and Maximum_Quantity.
+6. Download the file in .csv format.
+7. Edit this file to Add/Update stock
+8. In the Import utility on the left pane, selects importers.
+9. In the Sellacious native format, select upload csv and upload the downloaded csv file.
+10. Select options which you want to import in Import configuration.
+11. Click refresh Cache from left sidebar.
+12. And your changes will be updated.
+
