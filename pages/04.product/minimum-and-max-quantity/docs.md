@@ -33,10 +33,9 @@ And In Creation of  any product a Minimum & Maximum Quantity option will be  ava
 5. If you want to add Minimum & Maximum details for the created product then write 
     Product_Title there and add numeric value in Minimum_Qunatity and Maximum_Quantity.
 6. Download the file in .csv format.
-7. Edit this file to Add/Update stock
-8. In the Import utility on the left pane, selects importers.
-9. In the Sellacious native format, select upload csv and upload the downloaded csv file.
-10. Select options which you want to import in Import configuration.
-11. Click refresh Cache from left sidebar.
-12. And your changes will be updated.
+7. In the Import utility on the left pane, selects importers.
+8. In the Sellacious native format, select upload csv and upload the downloaded csv file.
+9. Select options which you want to import in Import configuration.
+10. Click refresh Cache from left sidebar.
+11. And your changes will be updated.
 
