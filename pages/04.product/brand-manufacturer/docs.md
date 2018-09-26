@@ -16,7 +16,7 @@ To enable Manufacturer column:
 5. Edit the fields, check manufacturer in all columns.
 6. Save the changes you made.
 
-And In Creating any product it shows an option for manufacturer.
+And In Creation of  any product a manufacturer a Manufacturer option will available.
 
 **Now You can create manufacturer or brand by the following steps:**
 1. Go to the Sellacious panel of your website.
