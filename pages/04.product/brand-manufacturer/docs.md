@@ -48,12 +48,11 @@ And In Creation of  any product a manufacturer a Manufacturer option will availa
 7. If you want to add Manufacturer details for the created product then write Product_Title there 
    and add Manufacturer details.
 8. Download the file in .csv format.
-9. Edit this file to Add/Update stock
-10.In the Import utility on the left pane, selects importers.
-11.In the Sellacious native format, select upload csv and upload the downloaded csv file.
-12.Select options which you want to import in Import configuration.
-13.Click refresh Cache from left sidebar.
-14.And your changes will be updated.
+9.In the Import utility on the left pane, selects importers.
+10.In the Sellacious native format, select upload csv and upload the downloaded csv file.
+11.Select options which you want to import in Import configuration.
+12.Click refresh Cache from left sidebar.
+13.And your changes will be updated.
 
 You can mention Brand and Manufacturer name in Manufacturer option. But if you want to make a different column for Brand, create a new column Brand From Additional Attribute.
 
