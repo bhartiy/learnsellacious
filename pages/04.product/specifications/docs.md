@@ -4,6 +4,7 @@ visible: true
 ---
 
 _**Specifications**_ are added to a product to describe it precisely, a detailed description of the design and material used in its making. 
+
 **You can add specifications to a product from the following ways:**
 
 1.  Go to the sellacious admin panel.
