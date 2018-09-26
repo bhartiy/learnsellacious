@@ -4,7 +4,7 @@ media_order: 'product_catalogue.jpg,manufacturer.jpg'
 visible: true
 ---
 
-### ## ### ###### # **User can mention manufacturer details in Manufacturer column.**
+#### ### ## ### ###### # **User can mention manufacturer details in Manufacturer column.**
 
 **By Default sellacious provide Manufacturer column, but the user have to enable it.**
 To enable Manufacturer column:
