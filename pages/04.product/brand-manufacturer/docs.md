@@ -4,7 +4,7 @@ media_order: 'product_catalogue.jpg,manufacturer.jpg'
 visible: true
 ---
 
-# **User can mention manufacturer details in Manufacturer column.**
+### ## ### ###### # **User can mention manufacturer details in Manufacturer column.**
 
 **By Default sellacious provide Manufacturer column, but the user have to enable it.**
 To enable Manufacturer column:
@@ -23,10 +23,14 @@ And In Creating any product it shows an option for manufacturer.
 2. For creating brand/Manufacturer to your inventory, go to Shop and select Product Catalogue 
     from the dropped down menu.
 3. Click on the new button, Then on the basic information tab go to the manufacturer menu.
+
 ![](product_catalogue.jpg)
+
 4. Select the manufacturer, If the manufacturer is not listed then create a manufacturer from the 
     category section.
+    
 ![](manufacturer.jpg)
+
 5. Save the details by using the save button.
 
 You can mention Brand and Manufacturer name in Manufacturer option. But if you want to make a different column for Brand, create a new column Brand From Additional Attribute.
