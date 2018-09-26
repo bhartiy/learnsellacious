@@ -3,7 +3,8 @@ title: 'Minimum and Maximum Quantity'
 visible: true
 ---
 
-===**Minimum & Maximum Quantity** Numeric values should be whole numbers.
+~~**Minimum & Maximum Quantity**~~ Numeric values should be whole numbers.
+
 **Minimum quantity** – Customer must purchase more than this amount.
 **Maximum quantity** – Customer must purchase less or equal to this amount.
 
