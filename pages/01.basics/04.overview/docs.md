@@ -3,15 +3,14 @@ title: 'Quickstart Install'
 media_order: 'quickstart1.jpg,joomla1.jpg,Sample-data.jpg,remove.jpg,webmaster.jpg,quickstart.png'
 published: true
 taxonomy:
-    category:
-        - docs
+    category: docs
 visible: true
 ---
 
 When you download Sellacious, you will find quickstart of sellacious in "Demo Clone" folder.
 Quickstart is an exact replica of what you see on our demo. This is for both multivendor and single vendor marketplace and configuring correctly will convert a simple single vendor marketplace to a multivendor marketplace and vice-versa. 
 
-Quickstart is very easy to install same as the Joomla installation. The quickstart package is free and consists of sample data with the Sellacious default template 'Squick'. It normally takes just 10 minutes to create a multivendor website using our quickstart.
+Quickstart is very easy to install same as the Joomla installation. The quickstart package is free and consists of sample data quickstart packages comes free with all our Free or Paid templates. The default free template "SQuick" also contain this magical file. It normally takes just 10 minutes to create a multivendor website using our quickstart.
 
 1. Download the quickstart package following steps mentioned in "Getting started" tutorial.
 ![](quickstart.png)
