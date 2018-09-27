@@ -3,7 +3,7 @@ title: 'Getting Started'
 visible: true
 ---
 
-This guide will help you with the quick steps to building your Awesome store using sellacious. Ideally, it should not take more than 10 min to create an online store. Sellacious is a "download and install" software and not a SAAS, that means you need a basic server to run it. 
+This guide will help you with the quick steps to building your Awesome store using sellacious. Ideally, it should not take more than 10 min to create an online store. Sellacious is a "download and install" software and not a SAAS, that means you need your own server to run it. 
 
 Sellacious runs on Joomla CMS. To cut the complications we have created a Quickstart package. It contains Sellacious, Joomla, a Free Template, several modules, plugins, etc. When installed, it will create a replica of our Demo. This is very useful when you want to experience sellacious quickly. Installing from JED or web is recommended for more advanced users, who understand how Joomla and Sellacious works. 
 
