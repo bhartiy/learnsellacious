@@ -40,3 +40,4 @@ Sellacious can be installed on Joomla by using ['Install by upoading'](https://s
 ![](sellacious_installation.jpg)
 9. Login to your Sellacious panel by using your Joomla credentials, Sellacious is ready to use.
 ![](sellacious.jpg)
+10. You can also access this backoffice using www.yourwebsite.com/sellacious You can also rename /sellacious to /backoffice etc by renaming the folder. 
