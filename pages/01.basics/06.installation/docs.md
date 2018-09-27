@@ -1,9 +1,8 @@
 ---
-title: 'Install from Joomla'
+title: 'Install from Joomla Administrator'
 media_order: 'Install.jpg,install_from_web1.jpg,download_n_install.jpg,sellacious_installation.jpg,component1.jpg,Upload1.jpg,sellacious.jpg'
 taxonomy:
-    category:
-        - docs
+    category: docs
 visible: true
 ---
 
