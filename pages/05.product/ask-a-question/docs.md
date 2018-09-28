@@ -12,7 +12,7 @@ visible: true
 2. At the bottom **Ask a question** section is presented on the product page.
 3. Add your name, email and ask any question related to the product.
 4. Click on the submit button.
-5. And your asked question will sent to the admin and se;ller of that product.
+5. And your asked question will sent to the admin/seller of that product.
 ![](ask_a_question.jpg)
 
 **If the seller/admi wants to see or answered the asked question, following steps are:**
