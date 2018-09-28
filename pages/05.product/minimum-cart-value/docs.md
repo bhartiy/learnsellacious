@@ -3,10 +3,17 @@ title: 'Minimum Cart Value'
 visible: true
 ---
 
-1. Go to the Sellacious panel of your website.
-2. For adding minimum cart value to your inventory, go to Setting and select Global configuration from the dropped down menu.
-3. To create minimum cart value, Go to the shop settings tab.
-4. On the minimum cart value, You can enter the minimum car value required to be able to complete the checkout process.
-5. Click on Save button to save the details, the minimum cart value is successfully added to your inventory.
+**Minimum Cart value :**  You can set a minimum price for the users to checkout. You  set the minimum cart price 500$ So the buyer can not checkout, If the product price is less than 500$.
 
+**You can set the Minimum Cart Price through following steps:**
+
+1. Go to the Sellacious panel of your website.
+2. Select setting menu from left menu bar.
+3. Click on global configuration.
+4. In Extension’s setting click on shop settings tab.
+5. There will be a field named Minimum Cart Value.
+6. Enter the value there.
+7. And the user can only checkout, If the total price will be equal or greater than the Minimum Cart Value.
+8. If the total price is lesser than the Minimum Cart Value then he will not able to checkout.
+9. Click on Save button to save the details, the Minimum Cart Value is successfully added.
 
