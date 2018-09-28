@@ -15,7 +15,7 @@ visible: true
 5. And your asked question will sent to the admin/seller of that product.
 ![](ask_a_question.jpg)
 
-**If the seller/admi wants to see or answered the asked question, following steps are:**
+**If the seller/admin wants to see or answered the asked question, following steps are:**
 
 1. Go to the sellacious admin panel.
 2. Go to shop, and select **Product Question** from the drop down menu.
