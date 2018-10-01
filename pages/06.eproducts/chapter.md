@@ -1,5 +1,5 @@
 ---
-title: Eproducts
+title: EProducts
 visible: true
 ---
 
