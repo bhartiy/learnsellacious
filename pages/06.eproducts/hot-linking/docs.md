@@ -8,6 +8,8 @@ visible: true
 
 The **Hotlinking** of the software is the direct download link in which no one have to purchase the download.
 
+**To set the Hotlink Of an Electronic-Product, follow the steps:**
+
 1. Go to the Sellacious panel of your website.
 2. For Checking the File version, go to Shop.
 3. Select Product Catalogue from the dropped down menu.
