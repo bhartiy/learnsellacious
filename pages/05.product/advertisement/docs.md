@@ -39,11 +39,14 @@ If you want to assign a product to a new special category, you can create a new 
 2. Go to categories, select special categories from the drop down menu.
 3. In the special categories, click on new button on the top.
 
-[](special_categories.jpg)
+![](special_categories.jpg)
 
 4. fill the credentials to create a new special category.
-5. click on save.
-6. And your new special category is created.
+
+![](special_categories1.jpg)
+
+6. click on save.
+7. And your new special category is created.
 
 
 
