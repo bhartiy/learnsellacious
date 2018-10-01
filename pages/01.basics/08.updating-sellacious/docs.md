@@ -20,7 +20,7 @@ It's preferred not to upgrade live site and upgrade it over stagging first, test
 5. Click on it, and it will find the available updates of sellacious.
 6. When the updates are found.
 7. Select the file you want to update.
-8. And Click on the update button present at the top to update the files
+8. And Click on the update button, present at the top to update the files
 
 ![](joomla.png)
 
