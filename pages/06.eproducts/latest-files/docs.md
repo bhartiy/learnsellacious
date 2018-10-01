@@ -4,7 +4,7 @@ media_order: 6.png
 visible: true
 ---
 
-* It is used to mention whether the product is latest or not. You can declare a product latest by only selecting 'yes' or 'no' option.
+* It is used to mention whether the product is latest or not. You can declare a product latest by selecting 'yes' or 'no' option.
 * It is mentioned when the Product type is electronic.
 
 **To make a Product latest or not,follow steps:**
