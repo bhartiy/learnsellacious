@@ -18,3 +18,23 @@ visible: true
 9. In Max Download Priod, you can mention the time. So, that till that time the user can download it.If in case Max Download Period is 6 days, then the user can download the **Max Download Limit**(value) till 6 days.
 10. Click on Save button to save the product details.
 11. And the Download limits of that product will be saved.
+
+**You can add Download limits of Electronic Products through import method and the steps are:**
+
+1. Go to the sellacious panel of your website.
+2. To import, first navigate to import utility on the left side of panel. Then click on importer option  
+   from  the dropped down menu.
+3. In the Sellacious native format, select download with all specifications column and open the 
+   downloaded file.
+4. You can create a new product there and add Download limits by filling credentials in 
+   **EPRODUCT_DOWNLOAD_LIMIT** and **EPRODUCT_DOWNLOAD_PERIOD** column.
+5. If you want to add Max Download Limit and Period of Electronic product then write 
+   Product_Title there and add numeric value in **EPRODUCT_DOWNLOAD_LIMIT** and **EPRODUCT_DOWNLOAD_PERIOD**
+   column.
+6. Download the file in .csv format.
+7. In the Import utility on the left pane, selects importers.
+8. In the Sellacious native format, select upload csv and upload the downloaded csv file.
+9. Select options which you want to import in Import configuration.
+10. Click refresh Cache from left sidebar.
+11. And your Download Limits Of that product will be saved.
+
