@@ -1,10 +1,10 @@
 ---
-title: EProducts
+title: E-Products
 visible: true
 ---
 
 ### Chapter 5
 
-# Eproducts
+# E-Products
 
-Discover the **eproducts** of sellacious 
+Discover the **E-Products** of sellacious.
