@@ -1,5 +1,5 @@
 ---
-title: '6Related Product'
+title: 'Related Product'
 visible: true
 ---
 
