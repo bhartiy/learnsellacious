@@ -26,3 +26,22 @@ If a you want to create a new product, all you have to type the group name and p
 4. Click on save .
 5. And the product is saved in that group.
 
+You can create a Related Product group through importing method and the steps are:
+
+1. Go to the sellacious panel of your website.
+2. To import, first navigate to import utility on the left side of panel. Then click on importer option  
+   from  the dropped down menu.
+3. In the Sellacious native format, select download with all specifications column and open the 
+   downloaded file.
+4. You can create a new product there and assign it to a group or you can aasign an available product to a group. 
+5. Add Related product group by filling credentials in RELATED_PRODUCTS_GROUPS column.
+8. Download the file in .csv format.
+9. In the Import utility on the left pane, selects importers.
+10.In the Sellacious native format, select upload csv and upload the downloaded csv file.
+11. Select options which you want to import in Import configuration.
+12. Click refresh Cache from left sidebar.
+13. And your changes will be updated.
+
+
+
+
