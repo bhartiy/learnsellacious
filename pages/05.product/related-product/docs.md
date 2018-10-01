@@ -26,7 +26,7 @@ If a you want to create a new product, all you have to type the group name and p
 4. Click on save .
 5. And the product is saved in that group.
 
-Y**ou can create a Related Product group through importing method and the steps are:**
+**You can create a Related Product group through importing method and the steps are:**
 
 1. Go to the sellacious panel of your website.
 2. To import, first navigate to import utility on the left side of panel. Then click on importer option  
