@@ -1,5 +1,5 @@
 ---
-title: 'Related Product'
+title: '6Related Product'
 visible: true
 ---
 
@@ -35,12 +35,12 @@ Y**ou can create a Related Product group through importing method and the steps 
    downloaded file.
 4. You can create a new product there and assign it to a group or you can aasign an available product to a group. 
 5. Add Related product group by filling credentials in **RELATED_PRODUCTS_GROUPS** column.
-8. Download the file in .csv format.
-9. In the Import utility on the left pane, selects importers.
-10.In the Sellacious native format, select upload csv and upload the downloaded csv file.
-11. Select options which you want to import in Import configuration.
-12. Click refresh Cache from left sidebar.
-13. And your changes will be updated.
+6. Download the file in .csv format.
+7. In the Import utility on the left pane, selects importers.
+8. In the Sellacious native format, select upload csv and upload the downloaded csv file.
+9. Select options which you want to import in Import configuration.
+10. Click refresh Cache from left sidebar.
+11. And your changes will be updated.
 
 
 
