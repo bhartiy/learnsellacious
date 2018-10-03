@@ -16,10 +16,10 @@ visible: true
 
 5. Fill the information Of the new client.
 
-*  **a) Basic information:** You can set the basic information of the category by Type,Name,Category and status.   
-*  **b) Client attributes:** You can set the client attributes from the client attributes tab. Set the user  
+*  **Basic information:** You can set the basic information of the category by Type,Name,Category and status.   
+*  **Client attributes:** You can set the client attributes from the client attributes tab. Set the user  
                              permissions, price markup. 
-*  **c) Profile Fields:** You can set the profile fields.
+*  **Profile Fields:** You can set the profile fields.
  
  ![](37.png)
  
