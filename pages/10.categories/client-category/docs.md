@@ -1,14 +1,26 @@
 ---
 title: 'Client Category'
+media_order: '36.png,37.png'
 visible: true
 ---
 
-Client category is the section in which we can create the client from the backsite of the sellacious.
+**Client category** is the section in which we can create a new client from the backend of sellacious.
+
+**To create a new client, folow the steps:**
+
 1. Go to the sellacious panel of your website.
-2. For creating client, go to categories and select client category from the dropped down menu.
-3. To create a new client  categories  profile, click on new button.
-4. Fill the information about the category.
- a) Basic information: You can set the basic information of the category by Type,Name,Category and status.
- b) Client attributes: You can set the client attributes from the client attributes tab.Set the user permissions, price markup. 
- c) Profile Fields: You can set the profile fields.
-6. Click on save button to save the client categories details, the Client categories is successfully added.
+2. Go to categories and select client category from the dropped down menu.
+3. To create a new client, click on new button.
+
+![](36.png)
+
+5. Fill the information Of the new client.
+ **a) Basic information:** You can set the basic information of the category by Type,Name,Category and status.
+ **b) Client attributes:** You can set the client attributes from the client attributes tab. Set the user  
+                           permissions, price markup. 
+ **c) Profile Fields:** You can set the profile fields.
+ 
+ ![](37.png)
+ 
+6. Click on save button.
+7. New Client is created and information regarding the client will saved.
