@@ -1,6 +1,6 @@
 ---
 title: 'Seller Category'
-media_order: 43.png
+media_order: '43.png,44.png'
 visible: true
 ---
 
@@ -16,5 +16,8 @@ visible: true
 *   Basic information: You can set the basic information of the category by Type,Name,Category and status.Category       type will be seller because here we are creating a new category in seller.
 *   Client attributes: You can set the client attributes from the seller attributes tab.Set the user permissions,       price markup. 
 *   Profile Fields: You can set the profile fields.
+
+![](44.png)
+
 6. Click on save button.
 7. And the new seller categories detail is successfully added.
