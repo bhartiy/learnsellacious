@@ -1,5 +1,6 @@
 ---
 title: 'Product Categories'
+media_order: '41.png,42.png'
 visible: true
 ---
 
