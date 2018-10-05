@@ -8,7 +8,8 @@ visible: true
 
 ![](%5C115.png)
 
-**Export** :  * In sellacious we can export products.
+**Export** : 
+          * In sellacious we can export products.
           * when we export products, all products with their categories will import.
           * We can't export categories otherwise.
           * If we export products, the file will downloaded in the system.
