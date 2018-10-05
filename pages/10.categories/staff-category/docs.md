@@ -1,6 +1,6 @@
 ---
 title: 'Staff Category'
-media_order: 111.png
+media_order: '113.png,114.png'
 visible: true
 ---
 
@@ -13,11 +13,12 @@ visible: true
 2. Go to  categories and select staffs from the dropped down menu.
 3. To create a new staff categories, click on new button.
 
-![](111.png)
+![](113.png)
 
 4. Fill the information/credentials in the basic information.
+5. In the category type select staff.
 
-![](112.png)
+![](114.png)
 
-5. Click on save button.
-6. The new Staff categories is successfully added.
+6. Click on save button.
+7. The new Staff categories is successfully added.
