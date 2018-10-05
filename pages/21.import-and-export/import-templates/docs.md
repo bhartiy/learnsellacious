@@ -4,9 +4,9 @@ media_order: '117.png,118.png,119.png'
 visible: true
 ---
 
-**Import Template** is a template where you can fill information of the products, create products, update products and can import in sellacious. Creation or updation of products in the template can be imported in sellacious and all the changes made in the template will import in sellacious.
-* You can create a new template according your needs, you can select columns you need, change the column names.
-* Whenever you import a template you have to go through some settings and you have to change the settings everytime. * But when you create a new template you can make that changes there, and whenever you import that template you dont   have to change the settings.
+**Import Template** is a template where you can fix the columns you need to import.
+* Through creating new template you can modify the Default CSV.
+* Whenever you import a template you have to go through some settings.but If you are creating a new template you can   make that settings once and dont have to go thrugh it everytime.
 
 **To create a new Import Template, follow steps:**
 
@@ -17,12 +17,12 @@ visible: true
 ![](119.png)
 
 4. Fill the details in basic information.
-5. First you have to select the title and type.
+5. Type the title for the template and select the type whether the template is to import product, import category or    to import images and other attachments.
 6. On the right there will some settings, make that settings and you dont have to go through these settings again      when you import this template.
 
 ![](117.png)
 
-7. At the bottom there are Custom CSV headers For import.
+7. At the bottom there are Default Custom CSV headers available in CSV.
 
 ![](118.png)
 
