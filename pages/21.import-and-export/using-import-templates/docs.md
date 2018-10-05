@@ -5,9 +5,9 @@ visible: true
 ---
 
 **Uses Of Import Templates:**
-In sellacious We can create new import templates to import products, categories, images, product details etc.
-In created import template we can create product, categories and import them in sellacious.
-All changes made in the template can import in the sellacious through importer.
+* In sellacious We use import templates to create products, sellers, categories, variants etc.
+* we can also use these templates to update products.
+* Through these templates, we make the import settings once without going through them again and again..
 
 **To import the template in sellacious, follow steps:**
 
