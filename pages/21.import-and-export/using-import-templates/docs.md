@@ -17,24 +17,24 @@ All changes made in the template can import in the sellacious through importer.
 
 ![](120.png)
 
-5. select the import template from them.
-6. On selected import template click on Download Sample CSV.
+4. select the import template from them.
+5. On selected import template click on Download Sample CSV.
 
 ![](121.png)
 
-8. Open the downloaded file.
-9. Fill the columns in the open templates.
+6. Open the downloaded file.
+7. Fill the columns in the open templates.
 
 ![](122.png)
 
-11. Download the sample template in CSV format.
-12. To import the sample template in sellacious, first navigate to import utility on the left side of panel.
-13. Then click on importer option from  the dropped down menu.
-14. In the Sellacious native format, select upload csv and upload the downloaded csv file.
+8. Download the sample template in CSV format.
+9. To import the sample template in sellacious, first navigate to import utility on the left side of panel.
+10. Then click on importer option from  the dropped down menu.
+11. In the Sellacious native format, select upload csv and upload the downloaded csv file.
 
 ![](124.png)
 
-16. Select options which you want to import in Import configuration.
-17. Start the import.
-18. Click refresh Cache from left sidebar.
-19. And your changes will be updated.
+12. Select options which you want to import in Import configuration.
+13. Start the import.
+14. Click refresh Cache from left sidebar.
+14. And your changes will be updated.
