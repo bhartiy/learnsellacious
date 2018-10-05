@@ -15,9 +15,9 @@ visible: true
 
 ![](111.png)
 
-5. Fill the information/credentials in the basic information.
+4. Fill the information/credentials in the basic information.
 
 ![](112.png)
 
-7. Click on save button.
-8. The new Staff categories is successfully added.
+5. Click on save button.
+6. The new Staff categories is successfully added.
