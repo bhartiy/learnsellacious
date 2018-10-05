@@ -16,16 +16,17 @@ visible: true
 
 ![](119.png)
 
-5. Fill the details in basic information.
+4. Fill the details in basic information.
+5. First you have to select the title and type.
 6. On the right there will some settings, make that settings and you dont have to go through these settings again      when you import this template.
 
 ![](117.png)
 
-6. At the bottom there are Custom CSV headers For import.
+7. At the bottom there are Custom CSV headers For import.
 
 ![](118.png)
 
-7. write the column names in front of the present columns, you want to take in your template.
-8. If you dont want a column in your template then leave it blank.
-9. Click on save button.
-10. And your template is created.
+8. write the column names in front of the present columns, you want to take in your template.
+9. If you dont want a column in your template then leave it blank.
+10. Click on save button.
+11. And your template is created.
