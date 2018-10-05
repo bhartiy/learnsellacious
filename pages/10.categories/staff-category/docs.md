@@ -1,12 +1,23 @@
 ---
 title: 'Staff Category'
+media_order: 111.png
 visible: true
 ---
 
-Staff categories is the section in which you can create the staff profile.
+* **Staff** is a group of persons, as employees, charged with carrying out the work of an establishment or executing       some undertaking.
+* In **Staff Category** you can create different categories of staff.
+
+**To create Staff Category, follow steps:**
 
 1. Go to the sellacious panel of your website.
-2. For adding Staff categories to your inventory, go to  categories and select staff categories from the dropped down menu.
-3. To create a new staff categories  profile, click on new button.
-4. Fill the information about the staff category.
-5. Click on save button to save the Staff categories details, the Staff categories is successfully added.
+2. Go to  categories and select staffs from the dropped down menu.
+3. To create a new staff categories, click on new button.
+
+![](111.png)
+
+5. Fill the information/credentials in the basic information.
+
+![](112.png)
+
+7. Click on save button.
+8. The new Staff categories is successfully added.
