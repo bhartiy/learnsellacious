@@ -3,12 +3,8 @@ title: 'What are Variants'
 visible: true
 ---
 
-**Manage Variants**
-<br>It represents the same product with different features are to be specified.For example, the color of the product, Size of the product etc. You can set the variants from the product catalogue in sellacious panel. When you save the product details in the product catalogue then after reopening the products you can see variant fields are to be added in your product.You can edit the product variant from there.
+### **Variants**
+* <br>A specific item that is bundled in with related variants to form one distinguishable product is known as a product variant. Product variants have unique identifiers, such as price, and every variant is based on the same product definition.
+* <br>Variants represents the same product with different features For example, the color of the product, Size of the product etc. 
+* <br>You can set the variants from the product catalogue in sellacious panel. When you create a new product, save it. save the product details in the product catalogue then after reopening the products you can see variant fields will be added to product, from there You can set and create variants for that product.
 
-##### Manage the variants
-1. go to the sellacious panel of your website
-2. To manage the variants, first navigate to shop on the left side of the panel. Then,click on inventory manager option from the dropped down menu.
-3. You can change manage variants of any product of your inventory under inventory manager.
-4. Select any product from the inventory manager then click on the manage variants. You can edit the basic price, stock and over stock of the products.
-5. Then click on the save button for save the changes and click on save button to save the details.
