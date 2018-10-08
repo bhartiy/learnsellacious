@@ -3,8 +3,6 @@ title: 'What are Variants'
 visible: true
 ---
 
-### **Variants**
-
 * A specific item that is bundled in with related variants to form one distinguishable product is known as a product variant. Product variants have unique identifiers, such as price, and every variant is based on the same product definition.
 
 * Variants represents the same product with different features For example, the color of the product, Size of the product etc. 
