@@ -1,12 +1,28 @@
 ---
 title: Images
+media_order: '89.png,90.png,92.png'
 visible: true
 ---
 
-1. Go to the Sellacious panel of your website.
-2. For adding images for the variants to your inventory, go to Shop and select Product Catalogue from the dropped down menu.
-3. To create a new product , click on New button.
-4. Fill the information about the product in different sections available in the Product window.
-5. Once you save the product, The variant option will be available to add variants.
-6. Once you save the variant,You can upload the image for the varaints.
-7. Click on Save button to save the product details, the product variants is successfully added to your inventory.
+**TO UPLOAD IMAGES FOR THE VARIANTS, FOLLOW STEPS:**
+
+1. Go to sellacious admin panel.
+2. Go to shop, select product catalogue from the drop down menu.
+3. Create a new product and save it, because you can create variant after saving or creating the product.
+4. Reopen the product, select variant menu from the left.
+5. Click on add variant to create variant.
+
+![](89.png)
+
+6. Fill the credentials.
+7. You need to save the item first to upload images and files.
+
+![](90.png)
+
+8. Save the item.
+9. Upload the image.
+10.save it.
+
+![](92.png)
+
+11.And image of your variant will be saved.
