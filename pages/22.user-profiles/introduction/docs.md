@@ -6,7 +6,7 @@ visible: true
 
 * A **User Profile** is a collection of settings and information associated with a user.
 * User profile is a section where you can create a new user in sellacious. 
-* The users include  all users, manufacturers, sellers, clients and staffs.
+* In sellacious User Profile includes profile of  all users, manufacturers, sellers, clients and staffs.
 
 **TO A CREATE A NEW USER PROFILE, FOLLOW STEPS:**
 
