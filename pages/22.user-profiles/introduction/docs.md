@@ -1,13 +1,26 @@
 ---
 title: Introduction
+media_order: up.png
 visible: true
 ---
 
-User profile is the section in which we can create the user in sellacious. The users include  all users, manufacturers, sellers, clients and staffs. You can create the user profile for this users in sellacious.
-1. Create the user profile
-2. Go to the sellacious panel of your website.
-3. For  creating the user profile, go to User profile and select from the dropped down menu.
-4. Choose which user profile you want to make.
-5. The user profile listed as manufacturers, Sellers, clients and staffs.
-6. Then Click on save button to save the user profile details, the User profile is successfully added.
+* A **User Profile** is a collection of settings and information associated with a user.
+* User profile is a section where you can create a new user in sellacious. 
+* The users include  all users, manufacturers, sellers, clients and staffs.
+
+**TO A CREATE A NEW USER PROFILE, FOLLOW STEPS:**
+
+1. Go to sellacious admin panel.
+2. Go to User Profile menu from the left menu bar.
+3. Select the user profile from the drop down menu.
+4. click on new button to create a new profile.
+
+![](up.png)
+
+5. fill the credentials.
+6. save the settings.
+
+![](up1.png)
+
+7. New User Profile is created.
 
