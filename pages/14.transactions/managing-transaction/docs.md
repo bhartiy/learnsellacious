@@ -1,6 +1,6 @@
 ---
 title: 'Managing Transaction'
-media_order: 'addfund.png,withdrawfund.png,del.trans.png'
+media_order: 'addfund.png,withdrawfund.png,del.trans.png,filters.png'
 visible: true
 ---
 
@@ -31,6 +31,9 @@ b) To withdraw funds, select transactions menu from the left Menubar and click o
 2. Select transaction menu from the left Menubar.
 3. Click on the filters.
 4. Fill the Filters credentials according your need.
+
+![](filters.png)
+
 <br>**Select type**:  The filter can be added in type of the transaction. you can search or apply the filter according to the type as withdrawal, add fund, listing fee, currency exchange, Taxes, Discount, Commission and all other.
 <br>**Select status**:  The status of the transaction is to be filtered. The current status of the transaction you used while adding the fund or while withdrawing the fund from your account. It can be pending, approved, locked, Disapproved and cancelled.
 <br>**Select start date**:  The filter to check the transaction from a particular date. When you click on the calendar icon the calendar will be appeared with date.For example you want to check the transaction from 24 May 2018 then select the date according to the format year-month-day.
