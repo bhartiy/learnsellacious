@@ -4,7 +4,7 @@ media_order: 'client.png,client1.png,clients2.png,clients3.png'
 visible: true
 ---
 
-**To Create a new Client Profile, Follow Steps:**
+##### **To Create a new Client Profile, Follow Steps:**
 
 1. Go to sellacious admin panel.
 2. Go to User Profile, select Clients from the drop down menu.
@@ -20,7 +20,8 @@ visible: true
 
 7. New Client Profile is created.
 
-**To Manage a Client Profile, Follow Steps:**
+
+##### **To Manage a Client Profile, Follow Steps:**
 
 1. Go to sellacious admin panel.
 2. Go to User Profile, select clients from the drop down menu.
