@@ -21,10 +21,9 @@ Compose message feature helps in creating a new message.You can use this for int
 5. And the message is successfully sent.
 
 
-* **Recipients**: Enter the email id of the person you want to sent the message. It can be from the client categories,seller categories and manufacturer categories.
-* <br>**subject**: The subject defines the heading of the message and defines a short description of the message.
-* <br>**Message Body**: Message body contains the actual message content, sending to the recipient.There are many tools available for the user to modify the message body.
-* <br>**Toggle Editor**: The toggle editor is a section to edit your description layout by using coding. This editor will helps you to code in HTML and CSS language.
-* <br>**Send**: Send button will send the message to the recipient. 
-* <br>**Cancel**: Close button will close the message page.
-* 
+* **Recipients**: Enter the email id of the person you want to sent the message. It can be from the client categories,seller categories and manufacturer categories.<br>
+* **subject**: The subject defines the heading of the message and defines a short description of the message.<br>
+* **Message Body**: Message body contains the actual message content, sending to the recipient.There are many tools available for the user to modify the message body.<br>
+* **Toggle Editor**: The toggle editor is a section to edit your description layout by using coding. This editor will helps you to code in HTML and CSS language.<br>
+* **Send**: Send button will send the message to the recipient.<br>
+* **Cancel**: Close button will close the message page.
