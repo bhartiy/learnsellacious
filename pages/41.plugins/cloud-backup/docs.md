@@ -61,20 +61,20 @@ Then Fill all required fields as your requirement.
 
 ![](cloud8.png)
 
-1) Enter your profile name.
-2) Select backup interval from the list
-3) Select the type of backup, i.e. Database only, Files only or Both Files and Database.
-4) Enter the name of destination folder on Cloud storage (e.g. Cloud Backup Demo)
-5) Files and folders that should be excluded from the backup done with this profile.
-Each files and folders specified here should be separated with a new line.
+1) Enter your profile name.<br>
+2) Select backup interval from the list.<br>
+3) Select the type of backup, i.e. Database only, Files only or Both Files and Database.<br>
+4) Enter the name of destination folder on Cloud storage (e.g. Cloud Backup Demo).<br>
+5) Files and folders that should be excluded from the backup done with this profile.<br>
+Each files and folders specified here should be separated with a new line.<br>
 The file and folder names should be all relative to your Joomla site root (where the main index.php
-is located). For example:
-images
-cache
-6) Tables that should be excluded from the backup done with this profile.
-For example:
-session
-banners
+is located). For example:<br>
+images<br>
+cache<br>
+6) Tables that should be excluded from the backup done with this profile.<br>
+For example:<br>
+session<br>
+banners<br>
 7) Then click Save & close to save profile.
 
 Now it will take backup as you set interval on your Dropbox in given Folder.
