@@ -20,7 +20,7 @@ visible: true
    <br>c) select user: Enter the email id.
    <br>d) Transaction Amount: The amount to be transferred.
    <br>e) Notes
-4. Save the details by submit button. 
+4. Save the details by clicking on submit button. 
 
 ![](add%20fund1.png)
 
