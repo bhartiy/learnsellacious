@@ -1,6 +1,6 @@
 ---
 title: 'Withdrawal Request'
-media_order: 'trans withdraw.png'
+media_order: 'trans withdraw.png,trans withdraw1.png'
 visible: true
 ---
 
@@ -19,7 +19,8 @@ visible: true
    d) **Remaining after withdrawal**: It shows the amount of money remained, after the withdrawal.
    e) **Notes**: Notes is the short descriptive form.  
    
+5. Click on submit button to submit the withdrawal request.Reporting is providing information about serious wrongdoing that you have become aware of at your workplace/ place of study.
 
-   
-6. Click on submit button to submit the withdrawal request.
-7. That fund will successfully withdraw from your inventory.
+![](trans%20withdraw1.png)
+
+6. That fund will successfully withdraw from your inventory.
