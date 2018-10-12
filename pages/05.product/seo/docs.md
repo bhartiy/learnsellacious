@@ -4,7 +4,7 @@ media_order: 'seo1.png,seo2.png,seo3.png,seo4.png'
 visible: true
 ---
 
-****SEO** stands for **Search Engine Optimisation**.**
+##### **SEO** stands for **Search Engine Optimisation**.
 * Sellacious is SEO friendly.
 * You can set alias,meta keywords, description and search tags.This will help to search a product very easily.<br>
 * **Alias**: The Alias is a system generated name from the title.This is for internal tracking of records.You can leave this empty if you don’t understand its importance.It will be automatically generated.<br>
