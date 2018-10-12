@@ -4,13 +4,13 @@ media_order: 'review.png,review1.png'
 visible: true
 ---
 
-Review and Ratings empowers the customers to share their opinions and experiences, wherever they shop and enables you to reach more people and influence more purchases.<br>
-Review and Rating is the detailed list view which will submitted by the customers.<br>
-Customers can review and rate the Products from thr frontend.<br>
+* Review and Ratings empowers the customers to share their opinions and experiences, wherever they shop and enables you to reach more people and influence more purchases.<br>
+* Review and Rating is the detailed list view which will submitted by the customers.<br>
+* Customers can review and rate the Products from thr frontend.<br>
 
 ![](review.png)
 
-Users can manage, who can review and rate the products. These settings can manged by global settings in backend.<br>
+* Users can manage, who can review and rate the products. These settings can manged by global settings in backend.<br>
 
 ![](review1.png)
 
