@@ -20,9 +20,10 @@ visible: true
 ![](90.png)
 
 8. Save the item.
-9. Upload the image.
-10.save it.
+9. Open the saved product.
+10. Upload the image.<br>
+11. save it.
 
 ![](92.png)
 
-11.And image of your variant will be saved.
+12.And image of your variant will be saved.
