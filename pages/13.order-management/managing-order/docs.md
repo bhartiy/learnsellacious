@@ -67,13 +67,13 @@ a) To Changing order status:
 ![](orders1.png)
 
 3. Go to Actions Column Of Orders.
-4. From select Actions dropped down menu select,
-	a) Invoice : To take printout as Invoice click on invoice.
+4. From select Actions dropped down menu select,<br>
+	**a) Invoice : To take printout as Invoice click on invoice.**
     
     ![](orders8.png)
     ![](orders9.png)
     
-    b) Receipt : To take printout as receipts click on Receipt.
+    **b) Receipt : To take printout as receipts click on Receipt.**
     
     ![](orders10.png)
     ![](orders11.png)
