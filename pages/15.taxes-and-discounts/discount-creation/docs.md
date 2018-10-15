@@ -1,11 +1,27 @@
 ---
 title: 'Discount creation'
+media_order: 'tax creation.png,discount .png,Discount1.png'
 visible: true
 ---
 
-1. Go to the sellacious panel of your website.
-2. For adding Disounts to your products, go to Shop and select Tax from the dropped down menu.
-3. To create Discounts, click on new button.
-4. Fill the information about the Discounts of the products.
-5. Click on save button to save the details, the Discounts is successfully added to your product.
-6. You can create other Discounts by using above method.
+##### **To Create Discounts on , follow Steps:**
+
+1. Go to the sellacious admin panel.
+2. For adding Taxes to your products, Go to Shop.
+3. Select Taxes and Discount from the dropped down menu.
+4. Click on new button.
+
+![](tax%20creation.png)
+
+5. In the Rule Type Text field select Offers and Discounts from the drop down menu to create Taxes for the Products.
+
+![](discount%20.png)
+
+6. In Rules section- Rule Type, Rule Name, Status, Amount, Calculation Text fields are mandatory.
+7. Fill the credentials.
+8. Click on save button to save the created tax details.
+
+![](Discount1.png)
+ 
+9. You can create other taxes by using above method.
+
