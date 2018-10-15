@@ -1,11 +1,22 @@
 ---
 title: 'Creating Coupons'
+media_order: 'coupon.png,cou.png'
 visible: true
 ---
 
-1. Go to the sellacious panel of your website.
-2. For adding coupons to your product, go to Shop and select Coupons from the dropped down menu.
-3. To create a product coupon, click on new button.
-4. Fill the information about the coupon in different sections available in the coupon window. Title of the coupon, Coupon code, coupon status and Starting date are some mandatory fields to fill while creating the coupons.
-5. Click on save button to save the Coupon details, the coupon is successfully added.
-6. You can create other coupons by using above method.
+##### **To Create Coupons, Follow steps:**
+
+1. Go to the sellacious admin panel.
+2. Go to Shop and select Coupons from the dropped down menu.
+3. To create a new coupon, click on new button.
+
+![](coupon.png)
+
+4. Fill the credentials.
+6. In Coupon(edit) section Title, Coupon code, Status and Start Date Fields are mandatory.
+7. Click on save button to save the Coupon details.
+
+![](cou.png)
+
+9. And Coupon is created successfully.
+10. You can create other coupons by using above method.
