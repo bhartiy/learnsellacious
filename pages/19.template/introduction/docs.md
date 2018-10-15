@@ -13,6 +13,6 @@ To Manage Templates :
 ![](Template.png)
 
 3. You can manage the templates from here.
-a) You can edit your template by clicking on the template.
+a) You can edit your template by clicking on the template.<br>
 b) You can delete your template by clicking on the template.
 4. After changing the tenplate details click on the save button to save the details.
