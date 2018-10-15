@@ -4,9 +4,10 @@ media_order: Template.png
 visible: true
 ---
 
-Template is the backbone for creating the webpages for your shop.You can download or buy different types of  templates from https://www.sellacious.com/sellacious-templates. Templates are pre-formatted in some way.
+**Template** is the backbone for creating the webpages for your shop.You can download or buy different types of  templates from https://www.sellacious.com/sellacious-templates. Templates are pre-formatted in some way.
 
-To Manage Templates :
+##### **To Manage Templates :**
+
 1. Go to the joomla admin(http://www.domain.com/admin).
 2. Go to the extensions->Templates.
 
