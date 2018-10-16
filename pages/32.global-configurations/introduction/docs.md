@@ -1,9 +1,13 @@
 ---
 title: Introduction
+media_order: 'global settings.png'
 visible: true
 ---
 
 ##### **Global Configuration is the back bone of the sellacious.**
+
+![](global%20settings.png)
+
 * You can manage and control all the activities of sellacious from here.<br>
 * You can set the shop settings from here.<br>
 * General Tab will help you to set the general settings for eg: marketplace, multivariants, pricing model, product type etc.<br>
