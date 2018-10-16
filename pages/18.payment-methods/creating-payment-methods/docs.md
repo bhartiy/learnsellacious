@@ -4,7 +4,7 @@ media_order: 'pay.png,pay 2.png,pay 2.png'
 visible: true
 ---
 
-##### **To Create Payment Methods, Follow Steps:**
+##### **To Create new Payment Methods, Follow Steps:**
 
 1. Go to the sellacious admin panel.
 2. Go to Settings and select payment method from the dropped down menu.
