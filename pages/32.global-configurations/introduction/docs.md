@@ -4,7 +4,7 @@ media_order: 'global settings.png'
 visible: true
 ---
 
-##### **Global Configuration is the back bone of the sellacious.**
+##### **Global Configuration is the back bone of sellacious.**
 
 ![](global%20settings.png)
 
