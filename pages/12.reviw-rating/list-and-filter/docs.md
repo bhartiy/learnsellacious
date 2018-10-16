@@ -4,7 +4,7 @@ media_order: 'rating.png,review  .png,review and rating.png'
 visible: true
 ---
 
-Review and Rating is the detailed list view which is submitted by the customers. It will work when the customers give their reviews and rate the products from the front end.
+Review and Rating is the detailed list view which is submitted by the customers. It will work when the customers give their reviews and rate the products from the front end.<br>
 You can control the review and rating from the global configuration. 
 
 <br>**Rating**: Rating is the scale which is submitted by the customers based on their satisfaction. If the rating is 1, then the product rating is poor, when the rating is 5 product rating is excellent.
