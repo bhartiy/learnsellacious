@@ -4,7 +4,7 @@ media_order: 'ship4.png,ship5.png,ship6.png'
 visible: true
 ---
 
-To set the Individual and Cart rule, Follow Steps:
+##### **To set the Individual and Cart rule, Follow Steps:**
 
 1. Go to the sellacious admin panel.
 2. Go to the settings and select the global configuration from the dropped down menu.
