@@ -3,6 +3,13 @@ title: 'Using filters'
 visible: true
 ---
 
+##### **Filters used in making a Shipping Rule.**
+* **Client Cateories
+* Address to match
+* Country
+* State
+* District
+* ZIP Code**
 1. Go to the Sellacious panel of your website.
 2. For using shipping filters to your inventory, go to Shop and select Shipping rule from the dropped down menu.
 3. To create a new Shipping methos, click on New button.
