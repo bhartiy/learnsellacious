@@ -3,13 +3,27 @@ title: 'Adding Shipping Methods'
 visible: true
 ---
 
-1. Go to the Sellacious panel of your website.
-2. For adding shipping methods to your inventory.
-3. Download the shipping methods from https://www.sellacious.com/apps-and-integrations
-4. Enable the plugin from the frontend.
-5. Install the shipping methods on the joomla administrator by extensions-> Manage-> Install.
-6. Go to the sellacious admin panel.
-7. For adding shipping methods to your inventory, Go to teh shop and select Shipping rules from the dropped down menu.
-8. To create a new shipping method, Click on New button
-9. Fill the information and select the shippment method as payement method.
-10. Click on the save button to save the details.
+##### **To Add Shipping Methods, Follow steps:**
+
+1. For adding Shipping method, Download the shipping methods from https://www.sellacious.com/apps-and-integrations.
+2. Enable the plugin from the frontend.
+3. Install the downloaded shipping method on the joomla administrator by extensions-> Manage-> Install.
+
+
+
+4. Installed shipping method is added to your shop.
+6. Now to apply, publish the installed shipping method .
+7. To Publish:
+   **Go to extensions--Plugins--enable the installed plugin.**
+
+##### **To apply installed shipping method to the shipping rules:**
+
+1. Go to the sellacious admin panel.
+2. Go to the shop and select Shipping rules from the dropped down menu.
+3. Click on New button, to apply shipping method to new rules otherwise open the existing one.
+4. Fill the credentials.
+5. In Shipment Quotation Method/API select the installed shipping method.
+6. Click on the save button to save the details.
+7. And installed shipping method is assigned to the shipping rule.
+
+   
