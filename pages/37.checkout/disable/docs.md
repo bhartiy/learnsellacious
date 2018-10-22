@@ -1,9 +1,21 @@
 ---
 title: Disable
+media_order: 'check1.png,check4.png'
 visible: true
 ---
 
-1. Go to the Sellacious panel of your website.
-2. For disabling Checkout, go to Settings and select gloabl configuration from the dropped down menu.
-3. Go to the shop settings tab, then on the allow checkout mark is as "No".
-4. Now your checkout is disabled. User will not be able to allow or checkout the orders.
+##### **To Disable Checkout, Follow steps:**
+
+1. Go to the Sellacious admin panel.
+2. Go to Settings, select global configuration from the dropped down menu.
+
+![](check1.png)
+
+3. Go to shop settings.
+4. In the shop setting section, set Allow Checkout as "NO".
+5. Click on save button to save the changes made.
+
+![](check4.png)
+
+6. Checkout option is disabled.
+7. By disabling, Users will not be able to checkout the orders.
