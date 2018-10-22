@@ -34,7 +34,7 @@ visible: true
 
 7. and New Query Form is added.
 
-**Add the query form**
+##### **Add the query form**
 
 1. Go to the sellacious admin panel.
 2. Go to the shop then select the product catalogue from the drop down menu.
