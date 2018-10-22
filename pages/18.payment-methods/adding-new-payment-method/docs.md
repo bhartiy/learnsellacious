@@ -25,5 +25,5 @@ visible: true
 8. Enable the installed Payment gateway Plugin.
 9. And the downloaded Payment gateway Plugin is installed.
 
-##### **After Installing new Plugin you can create a new Payment Method using the installed Plugin.
-**
+##### **After Installing new Plugin you can create a new Payment Method using the installed Plugin.**
+
