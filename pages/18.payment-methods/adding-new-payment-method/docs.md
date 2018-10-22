@@ -1,5 +1,5 @@
 ---
-title: 'Adding new Payment method'
+title: 'Installing New Payment  Gateway Plugin'
 visible: true
 ---
 
