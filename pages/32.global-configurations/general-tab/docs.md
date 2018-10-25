@@ -1,10 +1,14 @@
 ---
 title: 'General Tab'
+media_order: 'General Tab.png'
 visible: true
 ---
 
-#### General
-<br>**Market place**: Choose whether to apply the listing of the products from multiple seller. If this is disabled special category pricing and listing fee will be ignored and product will be enabled on front-end directly without making any payment.**Disabled**: To disable the listing of the product from multiple seller. If it is disable the marketplace then your shop will not be considered as the multi seller.**Enabled**: To enable the listing of the product from the multi seller. If it is enabled the marketplace then your shop will be considered as the multi seller. Many sellers can collaborate with your shop to sell the products.**Enable. Show product for each seller separately**: Enable the listing of the products from multiple seller but the product of each seller will be shown separately in your website.
+#### **General tab Text Fields:**
+
+![](General%20Tab.png)
+
+**Market place**: Choose whether to apply the listing of the products from multiple seller. If this is disabled special category pricing and listing fee will be ignored and product will be enabled on front-end directly without making any payment.**Disabled**: To disable the listing of the product from multiple seller. If it is disable the marketplace then your shop will not be considered as the multi seller.**Enabled**: To enable the listing of the product from the multi seller. If it is enabled the marketplace then your shop will be considered as the multi seller. Many sellers can collaborate with your shop to sell the products.**Enable. Show product for each seller separately**: Enable the listing of the products from multiple seller but the product of each seller will be shown separately in your website.
 
 **Multi variants**: It represents the same product with different features are to be specified. For example, the color of the product,Size of the product etc. You can set the variants from the product catalogue in sellacious panel. When you save the product details in the product catalogue then after reopening the products you can see variant fields are to be added in your product.You can edit the product variant from there.
 **Disabled**:  To disable the multi variants feature with the disable option.
