@@ -12,13 +12,13 @@ visible: true
 
 ![](Pagebuilder.png)
 
-4. Give a Title to the page, Title Text field is mandatory.
+4. Give a Title to the page, **Title** Text field is mandatory.
 
 ![](title%20page%20builder.png)
 
 5. Edit the page.
 6. Top edit click on Add New Row Button.
-7. Click on save to save the page.
+7. Click on **save** to save the page.
 
 ![](edit%20page%20buider.png)
 
@@ -27,8 +27,8 @@ visible: true
 ![](addmenupage%20builder.png)
 
 9. Fill the credentials.
-10. Menu Title, Menu Item type, Select Page Fields are mandatory.
-11. In Menu Item Type select SP Page Builder-> Page.
+10. **Menu Title**, **Menu Item type**, **Select Page** Fields are mandatory.
+11. In Menu Item Type select **SP Page Builder**-> **Page.**
 
 ![](menutypepagebuilder.png)
 
