@@ -7,7 +7,7 @@ visible: true
 ##### **To create a New Page and to link it to a Menu by Using SP Page Builder, Follow Steps:**
 
 1. Go to the administrator panel of your Joomla website(i.e http://mydomain.com/administrator).
-2. Go to SP Page Builder, Select pages from the drop down menu.
+2. Go to **SP Page Builder**, Select pages from the drop down menu.
 3. Click on new to create a new page.
 
 ![](Pagebuilder.png)
