@@ -14,10 +14,12 @@ visible: true
 * **Enabled:** If marketplace is enabled then your shop will considered as multiseller. Therefore, Many sellers can                collaborate with your shop to sell the products.<br>
 * **Show product for each seller separately:** Enable the listing of the products from multiple seller but the product of each seller will be shown separately in your website.
 
-**Multi variants**: It represents the same product with different features are to be specified. For example, the color of the product,Size of the product etc. You can set the variants from the product catalogue in sellacious panel. When you save the product details in the product catalogue then after reopening the products you can see variant fields are to be added in your product.You can edit the product variant from there.
-**Disabled**:  To disable the multi variants feature with the disable option.
-**Enables.show variants as options as options to the main product**: The multi variant feature will be enabled for the main products in your shop. in this feature variants of the product will be option to the main product in frontend. you will see them when you’ll open the main product details page. you’ll be able to add to cart/buy that variant only after opening it in the main product.
-**Enabled.show each variant as a separate product**:  The multivariant feature will be enabled for the separate products in your shop. in this feature the variants of the main product will be visible to the customer as a separate product. You can access add to cart/ buy and other option provided in features of sellacious directly for the variant. 
+**Multi variants:** It represents the same product with different features are to be specified. For example, the color of the product,Size of the product etc.
+You can set the variants from the product catalogue in sellacious admin panel.
+
+**Disabled:**  To disable the multi variants feature in sellacious.
+**Enables.show variants as options as options to the main product:** You can use this feature to add multi-variants to main products in your shop. 
+**Enabled.show each variant as a separate product:**  You can use this feature to add multi-variants to seperate products in your shop. 
 
 **Pricing model**: pricing model represents to set the price.Pricing represents the price of the particular product.You can choose the way you want to display the pricing of a product from the frontend. We can control from  the global configuration if you want to show pricing or not in frontend. this setting is for particular pages like product list page, detail page, quick view and category page. 
 <br>**flat price**: This is flat price of product. No profit margin or any other price will override this pricing type.
