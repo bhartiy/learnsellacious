@@ -21,16 +21,21 @@ You can set the variants from the product catalogue in sellacious admin panel.
 **Enables.show variants as options as options to the main product:** You can use this feature to add multi-variants to main products in your shop. 
 **Enabled.show each variant as a separate product:**  You can use this feature to add multi-variants to seperate products in your shop. 
 
-**Pricing model**: pricing model represents to set the price.Pricing represents the price of the particular product.You can choose the way you want to display the pricing of a product from the frontend. We can control from  the global configuration if you want to show pricing or not in frontend. this setting is for particular pages like product list page, detail page, quick view and category page. 
-<br>**flat price**: This is flat price of product. No profit margin or any other price will override this pricing type.
-<br>**Basic pricing**: In this pricing type you can set cost price and also profit margin. Which will calculate and be final price for users. List price is also the part of basic pricing. List price is also known as crossed out price or marked up price. Crossed out price can more or less than calculated price. However you can select if you want this price in frontend or not from global configuration. 
-But if flat price is also set with these prices then flat price will override the calculated or list price. And will be visible in frontend for users. 
-<br>**Advance pricing**: this pricing type is USP of sellacious. With this pricing type you can set pricing for particular user group. and also for definite time. it can also be described as offer price which will be applied and visible to only few customers group which you can select. This pricing consist basic pricing type for each setting you want to set. You can set qty. limit in this pricing type and that price will only apply to that limit. 
+**Pricing model**: pricing model represents to set the price.Pricing represents the price of the particular product.
 
-**Allowed product type**: Allowed product type represents the which type of product you want to display on the front end. It can be physical product, Electronic product or both. Physical product represents the product which is physically present. For example: Laptops, Mobile phones etc. Electronic products are the products in which is electronically present. For example: E-books. Both represents both the physically and electronic product.
-<br>**Physical only**: Physical product represents the product which is physically present. For example: Laptops, Mobile phones etc. 
-<br>**Electronic only**:  Electronic products are the products in which is electronically present. For example: E-books. 
-Both It represents both the physical and electronic products should be displayed.
+* **flat price**: This option is to set flat Pricing to products.No profit margin or any other price will override       this pricing type.
+* **Basic pricing**: In this option you can set cost price and profit margin in products.<br>
+    But if flat price is set with these prices then flat price will override the calculated or listed price. 
+* **Advance pricing**: Advance option in pricing is USP of sellacious.<br>
+    With this pricing type you can set pricing for particular user group and also for definite time.<br>
+    It can also be described as offer price which will be applied and visible to only few customers group.<br>
+    You can set quantity limit in this pricing type and that price will only apply to that limit. 
+
+**Allowed product type**: In this feature you can select the type of products you want to display on the front end.   It can be physical product, Electronic product or both. 
+
+* **Physical only:** Physical product represents the products physical in nature. For example: Laptops,                 Mobile phones etc. 
+* **Electronic only:**  Electronic products are the products electronic in nature and non-tangible. For example: E-     books. 
+* **Both:** This option is for both physical and electronic products.
 
 **E-product file types**: Select The file types you can upload for the e-products. E-products is the electronic products i.e, E-Books. Tick the file types you want to upload it can be image, Document, Archive, audio and video. You can select the file type from here.
 
