@@ -8,9 +8,11 @@ visible: true
 
 ![](General%20Tab.png)
 
-**Market place**: Here You can Choose whether to apply the listing of the products from multiple seller or not.<br> * **Disabled**: If marketplace is disabled then your shop will not considered as multi seller.<br>
-* **Enabled**: If marketplace is enabled then your shop will considered as multiseller. Therefore, Many sellers can     collaborate with your shop to sell the products.<br>
-* **Enable. Show product for each seller separately**: Enable the listing of the products from multiple seller but the product of each seller will be shown separately in your website.
+**Market place**: Here You can Choose whether to apply the listing of the products from multiple seller or not.
+
+* **Disabled:** If marketplace is disabled then your shop will not considered as multi seller.<br>
+* **Enabled:** If marketplace is enabled then your shop will considered as multiseller. Therefore, Many sellers can                collaborate with your shop to sell the products.<br>
+* **Show product for each seller separately:** Enable the listing of the products from multiple seller but the product of each seller will be shown separately in your website.
 
 **Multi variants**: It represents the same product with different features are to be specified. For example, the color of the product,Size of the product etc. You can set the variants from the product catalogue in sellacious panel. When you save the product details in the product catalogue then after reopening the products you can see variant fields are to be added in your product.You can edit the product variant from there.
 **Disabled**:  To disable the multi variants feature with the disable option.
