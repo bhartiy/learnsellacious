@@ -17,9 +17,9 @@ visible: true
 **Multi variants:** It represents the same product with different features are to be specified. For example, the color of the product,Size of the product etc.
 You can set the variants from the product catalogue in sellacious admin panel.
 
-**Disabled:**  To disable the multi variants feature in sellacious.
-**Enables.show variants as options as options to the main product:** You can use this feature to add multi-variants to main products in your shop. 
-**Enabled.show each variant as a separate product:**  You can use this feature to add multi-variants to seperate products in your shop. 
+* **Disabled:**  To disable the multi variants feature in sellacious.
+* **Enabled.show variants as options to the main product:** You can use this feature to add multi-variants to main       products in your shop. 
+* **Enabled.show each variant as a separate product:**  You can use this feature to add multi-variants to seperate       products in your shop. 
 
 **Pricing model**: pricing model represents to set the price.Pricing represents the price of the particular product.
 
