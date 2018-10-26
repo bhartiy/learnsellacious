@@ -37,7 +37,8 @@ You can set the variants from the product catalogue in sellacious admin panel.
 * **Electronic only:**  Electronic products are the products electronic in nature and non-tangible. For example: E-     books. 
 * **Both:** This option is for both physical and electronic products.
 
-**E-product file types**: Select The file types you can upload for the e-products. E-products is the electronic products i.e, E-Books. Tick the file types you want to upload it can be image, Document, Archive, audio and video. You can select the file type from here.
+**E-product file types**: In this feature select the type of file for e-products. E-products are the electronic products i.e, E-Books.
+Check the type from the following options: Image, Document, archive, Audio, Video.
 
 **Allow product Packages**:  Choose whether the package type product will be allowed or not. A package product is a pre-configuration set of compatible individual products shipped as a whole. The package are the products in which the combination of physical to physical, Electronic to Electronic, Physical to Electronic products. If you want to allow the product packages then set ‘Yes’.If you don’t want to allow the product packages then set ‘No’.
 
@@ -68,7 +69,7 @@ You can set the variants from the product catalogue in sellacious admin panel.
 **Main menu**: Choose a menu to be used for the main navigation menu for sellacious. You can select from the drop down menu. Use system present and Sellacious backoffice menu. You can choose the menu which are already presented in the back office of the sellacious is the system present and the sellacious backoffice menu will create the menus from the menu manager.
 show stock column in catalogue: Choose whether to show the stock column in the particular catalogue or not.This is the setting for the sellacious backoffice. Whether you want to show the stock column in the product catalogue or not.The number of products which are currently on your stock. You can change the stock from the product catalogue.when you click on the product then on the seller specific you can change the current stock of the product.
 
-**show ratings column catalogue**: Choose whether to show the rating column in the product catalogue or not. This is the setting for the sellacious backoffice. Whether you want to show the ratings column in the product catalogue or not.Rating is the detailed list view which was submitted by the customers.If the rating is of 5 stars then the rating is excellent and 1 stars represented as the poor
+**show ratings column catalogue**: Choose whether to show the rating column in the product catalogue or not. This is the setting for the sellacious backoffice. Whether you want to show the ratings column in the product catalogue or not.Rating is the detailed list view which was submitted by the customers.
  5 Stars represented as Excellent.
  4 Stars represented as Above Average.
  3 Stars represented as Average.
