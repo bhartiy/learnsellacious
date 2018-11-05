@@ -1,6 +1,6 @@
 ---
 title: 'Installing Template'
-media_order: 'temp1.png,temp2.png,temp4.png,temp3.png,temp5.png,temp6.png'
+media_order: 'temp1.png,temp2.png,temp4.png,temp5.png,temp6.png'
 visible: true
 ---
 
@@ -27,8 +27,6 @@ visible: true
 10. There are two ways to change the template:
     * Select the template then click on the default button.
 
-    ![](temp3.png)
-    
     ![](temp6.png)
     
     * Click on the star icon to create the template as default.
