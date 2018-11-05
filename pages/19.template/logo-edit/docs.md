@@ -7,7 +7,7 @@ visible: true
 ##### **To edit the logo in Templates, follow Steps:**
 
 1. Go to the Joomla administration panel of your website.
-2. Go to Extensions, select Manage -> templates from the drop down menu.
+2. Go to Extensions, select templates from the drop down menu.
 
 ![](temp4.png)
 
