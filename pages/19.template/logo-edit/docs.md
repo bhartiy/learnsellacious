@@ -1,6 +1,6 @@
 ---
 title: 'Logo edit'
-media_order: temp4.png
+media_order: 'temp4.png,template 2.png,template 3.png'
 visible: true
 ---
 
@@ -12,6 +12,12 @@ visible: true
 ![](temp4.png)
 
 3. Select the template, whose logo you want to edit.
-5. Go to the Basic -> Logo -> upload the logo.
-6. You can upload the logo or edit from here.
-7. Click on the save button to save the changes.
+
+![](template%202.png)
+
+4. Go to the Basic -> Logo -> upload the logo.
+5. You can upload the logo or edit from here.
+
+![](template%203.png)
+
+6. Click on the save button to save the changes.
