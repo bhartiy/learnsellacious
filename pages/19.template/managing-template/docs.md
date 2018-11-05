@@ -1,27 +1,39 @@
 ---
 title: 'Managing Template'
+media_order: 'temp4.png,template.png,template 1.png'
 visible: true
 ---
 
-1. First of all, go to the Joomla administration panel of your website.
-2. Go to Extensions and click on Templates.
+##### **To Edit a template, follow steps:**
 
-<br>a)**Edit**: 
-<br>i) Go to the joomla admin.
-<br>ii) Go to the extensions->templates.
-<br>iii) Select the template and click on the edit button ** OR ** Click on the template you want to edit .
-<br>iv) Click on the save button to save the details.
+* Go to the joomla admin.
+* Go to the extensions->templates.
 
-<br>b)**Delete**: 
-<br>i) Go to the joomla admin.
-<br>ii) Go to extensions-> Templates.
-<br>iii) select the template and click on the delete button.
-<br>iv) Now the template is deleted.
+![](temp4.png)
+
+* Select the template and click on the edit button or Click on the template you want to edit .
+
+![](template.png)
+
+* Click on the save button to save the changes.
+
+##### **To Delete a template, follow steps:**
+
+* Go to the joomla admin.
+* Go to extensions-> Templates.
+
+![](temp4.png)
+
+* select the template and click on the delete button.
+
+![](template%201.png)
+
+* Selected template is deleted.
  
-<br>c)**Add**: 
-<br>i) Go to the joomla admin.
-<br>ii) Go to Extensions->manage->Install option from the drop down menu.
-<br>iii) After installing it, Go to the extensions->Templates .
-<br>iv) If you want to check the template, Then set the tempalte as default.
+##### **To Add a template, follow steps:**
+
+* To add a new template, install it.
+* Get more details from the below link:
+  https://sellacious.com/learn/template/installing-template
 
 
