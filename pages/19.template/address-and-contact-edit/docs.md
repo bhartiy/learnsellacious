@@ -1,14 +1,23 @@
 ---
 title: 'Address and contact edit'
+media_order: 'temp4.png,template 4.png'
 visible: true
 ---
 
-1. Go to the joomla administrator(http://www.domain.com/admin).
-2. Go to the extensions->Templates.
-3. The default tenmplates are shown as the star.
+##### **To edit the address and contact, Follow Steps:**
+
+1. Go to the joomla administrator panel of your website.
+2. Go to the extensions, select templates from the drop down menu.
+
+![](temp4.png)
+
+3. The default templates can be identified from the yellow star in the Default column.
 4. Click on the default template.
-5. On contact information section in Basic tab, Edit the information.
-6. Click on the save button to save the details.
+5. In Basic tab, Edit the information in the contact information.
+
+![](template%204.png)
+
+6. Click on the save button to save the changes.
 
 
 
