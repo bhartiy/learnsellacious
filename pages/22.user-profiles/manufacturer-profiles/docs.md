@@ -22,3 +22,5 @@ visible: true
 ![](manu.profile1.png)
 
 7. Created Manufacturer Profile is successfully added.
+8. By default client category is assigned to maufacturer.
+9. Created manufacturer profile will be visible in Manufacturer Profile, If any manufacturer category is assigned      to it.
