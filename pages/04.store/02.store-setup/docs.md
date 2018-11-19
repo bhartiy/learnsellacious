@@ -1,6 +1,9 @@
 ---
 title: 'Store Setup'
 media_order: 'about.jpg,activation_sellacious1.jpg,activation_sellacious2.jpg,activation_sellacious3.png,activation_sellacious4.png,activation_sellacious5.png,activation_Sellacious10.jpg,coupons.jpg,download2.jpg,license_key.jpg,premium.jpg,store.jpg,verification.jpg,shipping-rule.jpg,download2.jpg,activation_sellacious1.png,product_catalogue.jpg,pricing1.jpg,variants.jpg,inventory_manager.jpg,Taxes&Discounts.jpg,verification.jpg,license_key.jpg,Inventory_details.jpg,product.jpg,joomla.jpg,templates.jpg,templates.jpg,templates2.jpg,Template_style.png,logo.jpg,save_logo.jpg,Template_style.png,template.jpg'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -36,16 +39,16 @@ g). Now your free license is activated, you can check it in your Sellacious pane
 <br>c). Fill the information about the product in different sections available in the Product window.
 <br>   i) Select the product type.
  <br> ii) select product category.
-<br> iii) Enter the prodict name.
-<br>  iv) Upload the images and atatchements
+<br> iii) Enter the product name.
+<br>  iv) Upload the images and atatchements.
 ![](product.jpg)
  <br> iv) Fill the inventory details for your product.
 ![](Inventory_details.jpg)
-<br> vi) Enter the price for your shop.
+<br> vi) Enter the price of your product.
  ![](pricing1.jpg)
-<br> vii) Add variants for your shop.
+<br> vii) Click on Save button to save the product details, the product is successfully added to your inventory.
+<br> d). Add variants for this product.
 ![](variants.jpg)
-<br> d). Click on Save button to save the product details, the product is successfully added to your inventory.
 
 6. You can **manage inventory** by Shop-> Inventory manager
 ![](inventory_manager.jpg)
