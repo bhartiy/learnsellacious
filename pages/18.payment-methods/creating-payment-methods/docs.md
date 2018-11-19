@@ -1,6 +1,6 @@
 ---
 title: 'Creating Payment Methods'
-media_order: 'pay.png,pay 2.png,pay 2.png'
+media_order: 'pay.png,pay 2.png,screenshot-localhost-2018.11.19-12-05-07.png'
 visible: true
 ---
 
@@ -12,9 +12,13 @@ visible: true
 
 ![](pay.png)
 
-4. Fill the Credentials.
-5. In payment Method section- Method name, Plugin, Success status, Applicable in, Allow in Guest checkout, Status      Text fields are mandatory.
-6. click on save button to save the  payment method details.
+4. Select the plugin for which you want to create the Payment method.
+5. Once the plugin is selected, fill its credentials for sandbox or live mode.
+
+![](paypal.png)
+
+7. In payment Method section- Method name, Plugin, Success status, Applicable in, Allow in Guest checkout, Status      Text fields are mandatory.
+8. click on the save button to save the payment method details.
 
 ![](pay%202.png)
 
