@@ -12,5 +12,5 @@ Once Sellacious is installed and activated, You need to create a menu item so th
 3. Now, click on New button to create a new menu item.
 4. Enter the name of the menu e.g. Shop, then select menu item type Products under sellacious.
 5. You can select a particular category, items of which will be displayed after clicking on the Shop menu.
-6. Assign a menu to the menu item (Main Menu) and click on Save to save the menu item.
+6. Assign a menu to the menu item (eg. Main Menu) and click on Save to save the menu item.
 7. Visit your website and click on Shop menu item.
