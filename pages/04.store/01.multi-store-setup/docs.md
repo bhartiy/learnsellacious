@@ -1,6 +1,9 @@
 ---
 title: 'Multi store setup'
 media_order: 'screenshot-localhost-2018.07.jpg,multiseller.jpg'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
