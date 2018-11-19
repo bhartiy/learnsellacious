@@ -1,6 +1,6 @@
 ---
 title: 'Creating Payment Methods'
-media_order: 'pay.png,pay 2.png,screenshot-localhost-2018.11.19-12-05-07.png'
+media_order: 'pay.png,screenshot-localhost-2018.11.19-12-05-07.png,screenshot-localhost-2018.11.19-12-05-07 (1).png'
 visible: true
 ---
 
@@ -20,6 +20,6 @@ visible: true
 7. In payment Method section- Method name, Plugin, Success status, Applicable in, Allow in Guest checkout, Status      Text fields are mandatory.
 8. click on the save button to save the payment method details.
 
-![](pay%202.png)
+![](screenshot-localhost-2018.11.19-12-05-07%20%281%29.png)
 
 7. And new Payment method is added.
