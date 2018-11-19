@@ -1,6 +1,6 @@
 ---
 title: 'using import templates'
-media_order: '120.png,121.png,122.png,124.png'
+media_order: '120.png,121.png,122.png,124.png,product-unique.png,user-unique.png'
 visible: true
 ---
 
@@ -34,7 +34,11 @@ visible: true
 
 ![](124.png)
 
-12. Select options which you want to import in Import configuration.
-13. Start the import.
-14. Click refresh Cache from left sidebar.
-14. And your changes will be updated.
+12. Select options which you want to import in Import configuration. Like if you want to create products/varinats/categories/sellers select create options as Yes and if you want to update the already created products/varinats/categories/sellers select update options as Yes.
+13. After above settings, don't forget to select the unique keys. Unique key should be different for every product/seller/manufacturers/variants. Unique can be SKU, alias, name of the products.
+![](product-unique.png)
+14. As for seller and manufacturer it can be name, username, email etc.
+![](user-unique.png)
+15. Start the import.
+16. Once import is finished, Click refresh Cache from left sidebar.
+17. And your changes will be updated.
