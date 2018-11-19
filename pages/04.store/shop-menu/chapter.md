@@ -7,6 +7,8 @@ visible: true
 
 Once Sellacious is installed and activated, You need to create a menu item so that products can be displayed on the frontend. This is a fairly simple task. You can watch this video for more info:
 
+[plugin:youtube](https://youtu.be/f_fqAcMRXLU)
+
 1. Go to the Joomla Aministrator panel of your website. You can access Joomla administrator panel www.yourdomain.com/administrator
 2. Click on Menu and select All Menu Items from the dropped down menu.
 3. Now, click on New button to create a new menu item.
