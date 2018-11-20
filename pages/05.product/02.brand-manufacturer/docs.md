@@ -30,7 +30,7 @@ Now Manufacturer will be available for the selected product type.
 
 ![](product_catalogue.jpg)
 
-4. Select the manufacturer, If the manufacturer is not listed then create a manufacturer with the help of this [link](https://www.sellacious.com/learn/product/brand-manufacturer).
+4. Select the manufacturer, If the manufacturer is not listed then create a manufacturer with the help of this [link](https://www.sellacious.com/learn/user-profiles/manufacturer-profiles).
 
 ![](manufacturer.jpg)
 
