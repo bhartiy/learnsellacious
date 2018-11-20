@@ -1,6 +1,9 @@
 ---
 title: 'Add A Product'
 media_order: 'product_catalogue.jpg,product_save1.jpg'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -18,11 +21,13 @@ visible: true
 
 ![](basic-product.png)
 
-<br>  iv) Fill the inventory details for your product.
+<br>   v) Select the seller for which you want to create the product. You can always switch from current seller to other seller.
+**Note: This section will be visible only to admin. One Seller will not be able to add the products for another sellers if not permitted.**
+<br>  vi) Fill the inventory details for your product.
 
 ![](inventory.png)
 
-<br>  vi) Enter the price of your product.
-<br> vii) Click on Save button to save the product details, the product is successfully added to your inventory.
+<br>  vii) Enter the price of your product.
+<br> viii) Click on Save button to save the product details, the product is successfully added to your inventory.
 <br> d). Add variants for this product as varinats can be added only when product is saved.
 6. You can create other products and their variants by using above method.
