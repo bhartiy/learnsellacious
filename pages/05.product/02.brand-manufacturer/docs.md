@@ -1,6 +1,6 @@
 ---
 title: Brand/Manufacturer
-media_order: 'product_catalogue.jpg,manufacturer.jpg'
+media_order: 'product_catalogue.jpg,manufacturer.jpg,manufacturer.png'
 taxonomy:
     category:
         - docs
@@ -12,26 +12,27 @@ visible: true
 **By Default sellacious provide Manufacturer column, but the user have to enable it.**
 To enable Manufacturer column:
 1. Go to the Sellacious panel of your website.
-2. Go to settings menu at the left menu bar and select global configuration from the drop down           
-    Menu.
-3. In the extension’s setting, go to Frontend display options.
-4. At the bottom, there will be an option of Backend Display Option.
-5. Edit the fields, check manufacturer in all columns.
-6. Save the changes you made.
+2. Go to settings menu at the left menu bar and select global configuration from the drop down Menu.
+3. Go to Backend display options.
+4. Enable the option manufacturer for desired product type.
 
-And In Creation of  any product a manufacturer a Manufacturer option will available.
+![](manufacturer.png)
 
-**Now You can create manufacturer or brand by the following steps:**
+5. Save the changes you made.
+
+Now Manufacturer will be available for the selected product type.
+
+**You can add manufacturer or brand in product by the following steps:**
+
 1. Go to the Sellacious panel of your website.
-2. For creating brand/Manufacturer to your inventory, go to Shop and select Product Catalogue 
-    from the dropped down menu.
+2. To add brand/Manufacturer to your product, go to Shop than Product Catalogue from the dropped down menu.
 3. Click on the new button, Then on the basic information tab go to the manufacturer menu.
 
 ![](product_catalogue.jpg)
 
-4. Select the manufacturer, If the manufacturer is not listed then create a manufacturer from the 
-    category section.
-    
+4. Select the manufacturer, If the manufacturer is not listed then create a manufacturer with the help of this link.
+https://www.sellacious.com/learn/admin/pages/product/brand-manufacturer
+
 ![](manufacturer.jpg)
 
 5. Save the details by using the save button.
