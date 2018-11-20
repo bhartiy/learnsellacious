@@ -14,10 +14,10 @@ visible: true
 ![](product_catalogue.jpg)
 
 4. Fill the information about the product in different sections available in the Product window.
-<br>   i) Select the product type.
-<br>  ii) select product category.
+<br>   i) Select the product type. [What are product Types?](https://www.sellacious.com/learn/product/product-type)
+<br>  ii) Select product category. [How to select Product Category?](https://www.sellacious.com/learn/product/product-categories)
 <br> iii) Enter the product name.
-<br>  iv) Upload the images and atatchements.
+<br>  iv) Upload the images and atatchements. [How to Upload the images and attachments?](https://www.sellacious.com/learn/product/bulk-image-upload)
 
 ![](basic-product.png)
 
