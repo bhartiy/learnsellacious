@@ -1,6 +1,9 @@
 ---
 title: Advertisement
 media_order: 'special_categories.jpg,special_categories1.jpg,special.png,special1.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -22,16 +25,17 @@ H stands for Highlighted feature, B stands for the Bordered feature, F stands fo
 
 ![](special.png)
 
-4. Select the category(H,B,F), you want to assign the product.
-5. After selecting the special; categories(H,B,F), a new window opens.
+4. Select one special category which (H,B,F), you want to assign the product.
+5. After selecting the special categories (H,B,F), a new window opens.
 
 ![](special1.png)
 
-5. Click on save button to save the Special categories details.
-6. Now product is assigned to that Special Category.
+5. Select the number of days you want to assign the selected category to the products. You can assign one or more special category at once from here.
+6. Click on save button to save the Special categories details.
+7. Now the product is assigned to that Special Category.
 
-**You can create a new Special category.**
-If you want to assign a product to a new special category, you can create a new special category.
+**To create a new Special category.**
+You can also create a new special category with the settings you want.
 
 **Follow the following steps to create a new Special categories:**
 
@@ -41,14 +45,12 @@ If you want to assign a product to a new special category, you can create a new 
 
 ![](special_categories.jpg)
 
-4. fill the credentials to create a new special category.
+4. Submit the name of the special category and Fee Recurrence days. Fee Recurrence days are for how much time you want to assign the products in this category.
+5. Submit the subscription fee, which seller will pay when he assign his products to this category. If you want to create a free special category leave amount to 0.00.
+6. In badge options you can add the badge icon and style it for special category which will be visible on the right-top of the assigned products. You can also use badge text and style it the way you want.
+7. In style options you can style the products for that special category, like their background and border.
 
 ![](special_categories1.jpg)
 
-6. click on save.
-7. And your new special category is created.
-
-
-
-
-
+8. Click on save.
+9. And your new special category is created.
