@@ -1,6 +1,6 @@
 ---
 title: 'Ask a question'
-media_order: 'ask_a_question.jpg,product_questions.jpg,send.jpg,questions.png'
+media_order: 'ask_a_question.jpg,product_questions.jpg,send.jpg,questions.png,answer.png'
 taxonomy:
     category:
         - docs
@@ -35,3 +35,5 @@ visible: true
 
 **Note: 1. Only answered questions are visible on products.**
 <br>**2. One question can have only one answer.**
+
+![](answer.png)
