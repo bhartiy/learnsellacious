@@ -1,6 +1,6 @@
 ---
 title: 'Add A Product'
-media_order: 'product_catalogue.jpg,product_save1.jpg'
+media_order: 'product_catalogue.jpg,basic-product.png,inventory.png,seller.png'
 taxonomy:
     category:
         - docs
@@ -21,8 +21,11 @@ visible: true
 
 ![](basic-product.png)
 
-<br>   v) Select the seller for which you want to create the product. You can always switch from current seller to other seller.
+<br>   v) Select the seller for which you want to create the product. You can always switch from current seller to other seller. Admin can also manage the 
 **Note: This section will be visible only to admin. One Seller will not be able to add the products for another sellers if not permitted.**
+
+![](seller.png)
+
 <br>  vi) Fill the inventory details for your product.
 
 ![](inventory.png)
