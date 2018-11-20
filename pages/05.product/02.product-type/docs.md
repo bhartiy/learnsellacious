@@ -15,6 +15,7 @@ In Sellacious, products can be of three types:
 You can set the product type from here:
 1. Go to the sellaicous panel.
 2. To create a product of a type, go to Shop > Product Catelog.
-3. Click on the new button to create new product.
+3. Click on the new button to create new product
 4. Go to the Basic information tab, then click on the product type. You can select you product type from the drop-down menu.
-5. Click on the save button to save the details.
+5. Proceed to fill the further details to create a product. [How to create a Product?](https://www.sellacious.com/learn/product/add-a-product)
+6. Click on the save button to save the details.
