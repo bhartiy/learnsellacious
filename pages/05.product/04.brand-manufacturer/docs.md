@@ -1,6 +1,9 @@
 ---
 title: Brand/Manufacturer
 media_order: 'product_catalogue.jpg,manufacturer.jpg'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
