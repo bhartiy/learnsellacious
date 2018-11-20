@@ -1,5 +1,8 @@
 ---
 title: 'Product Categories'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
