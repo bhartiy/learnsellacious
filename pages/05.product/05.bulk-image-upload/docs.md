@@ -1,6 +1,9 @@
 ---
 title: 'Bulk Image upload'
 media_order: 'product_catalogue.jpg,bulk_images.jpg'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
