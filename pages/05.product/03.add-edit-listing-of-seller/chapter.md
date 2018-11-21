@@ -1,5 +1,6 @@
 ---
 title: 'Add/edit Listing of Seller'
+media_order: sellers.png
 taxonomy:
     category: docs
 ---
@@ -11,6 +12,8 @@ You can always add or edit the listing of seller in product. This tab will be vi
 **Listed Seller:** In this section you can view the seller for which the product is already created. This section is only visible when you save the new product or edit already created product. You can always click on _switch_ to edit the product for another seller. 
 
 **Add a Seller:** In this section you can view the seller for which product is not created. You can simply add a seller to the product by clicking _Add Listing_.
+
+![](sellers.png)
 
 **Listing Status:** This column show you the status (Active/Inactive) of product for the sellers.
 
