@@ -2,7 +2,8 @@
 title: 'Add/edit Listing of Seller'
 media_order: sellers.png
 taxonomy:
-    category: chapter
+    category:
+        - chapter
 ---
 
 You can always add or edit the listing of seller in product. This tab will be visible only for admin. Sellers can't view this tab unless they have the permission to view this tab.
