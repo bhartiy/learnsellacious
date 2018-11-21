@@ -21,8 +21,8 @@ visible: true
 
 ![](basic-product.png)
 
-<br>   v) Select the seller for which you want to create the product. You can always switch from current seller to other seller. Admin can also manage the 
-**Note: This section will be visible only to admin. One Seller will not be able to add the products for another sellers if not permitted.**
+<br>   v) Select the seller for which you want to create the product. You can always switch from current seller to other seller. [How to add/edit seller to the product?](https://www.sellacious.com/learn/product/add-edit-listing-of-seller) 
+**Note: This section will be visible only to admin. Seller will not be able to add the products for another sellers if not permitted.**
 
 ![](seller.png)
 
