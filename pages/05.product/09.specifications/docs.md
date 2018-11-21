@@ -1,5 +1,8 @@
 ---
 title: Specifications
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
