@@ -1,6 +1,9 @@
 ---
 title: Introduction
 media_order: '\115.png,116.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -8,12 +11,4 @@ visible: true
              features, price, stock, quantity. You can also create sellers, variants and categories of that                      product with the same CSV.
 
 ![](%5C115.png)
-
-**Export** : 
-          * In sellacious we can export products.
-          * when we export products, all its details get exported.
-          * To export products- Go to shop, select product catalogue from the drop down menu and select Export                   Product option from the top. 
-
-![](116.png)
-
  
