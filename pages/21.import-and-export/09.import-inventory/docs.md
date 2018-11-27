@@ -1,5 +1,8 @@
 ---
 title: 'Import inventory'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
