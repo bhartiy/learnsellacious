@@ -1,5 +1,5 @@
 ---
-title: 'Import templates'
+title: 'Importer Templates'
 media_order: '117.png,118.png,119.png'
 taxonomy:
     category:
@@ -7,21 +7,22 @@ taxonomy:
 visible: true
 ---
 
-**Import Template** is a template where you can fix the columns you need to import.
-* Through creating new template you can modify the Default CSV.
-* Whenever you import a template you have to go through some settings.but If you are creating a new template you can   make that settings once and dont have to go thrugh it everytime.
-
-**To create a new Import Template, follow steps:**
+**Importer Templates** are template where you can customise the columns you want to import. There can be more than one import template for more products, categories and images.
+* You can modify the template according to your CSV or you can create a template with your desired fields and configuration first and than download the sample CSV of the template.
+* 
+**To create a new Importer Template, follow steps:**
 
 1. Go to **Import Utility** from the left menubar.
-2. select import templates from the drop down menu.
+2. Select import templates from the drop down menu.
 3. To create a new template click on new button.
 
 ![](119.png)
 
 4. Fill the details in basic information.
-5. Type the title for the template and select the type whether the template is to import product, import category or    to import images and other attachments.
-6. On the right there will some settings, make that settings and you dont have to go through these settings again      when you import this template.
+5. Type the title for the template.
+6. You can always select user categories to which you want to assign this template.
+7. Select the type whether the template is to import product, import category or to import images and attachments of products. Once you select the type, on the right of the template you'll be able to the configuration of the selected importer type.
+8. If you want to use the same configuration settings for every import, you need to select "Allow Configuration" as Yes, If not Select NO.
 
 ![](117.png)
 
