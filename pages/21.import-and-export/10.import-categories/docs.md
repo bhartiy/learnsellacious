@@ -1,5 +1,8 @@
 ---
 title: 'Import Categories'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
