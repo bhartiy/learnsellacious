@@ -1,5 +1,8 @@
 ---
 title: 'Import Products'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
