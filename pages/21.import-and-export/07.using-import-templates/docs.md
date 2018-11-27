@@ -1,6 +1,9 @@
 ---
 title: 'using import templates'
 media_order: '120.png,121.png,122.png,124.png,product-unique.png,user-unique.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
