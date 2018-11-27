@@ -1,6 +1,6 @@
 ---
 title: 'Importer Templates'
-media_order: '117.png,118.png,119.png'
+media_order: '117.png,118.png,119.png,import-template1.png,import-template2.png'
 taxonomy:
     category:
         - docs
@@ -26,11 +26,18 @@ visible: true
 
 ![](117.png)
 
-7. At the bottom there are Default Custom CSV headers available in CSV.
+9. At the bottom there are Default Custom CSV headers available in CSV.
 
 ![](118.png)
 
-8. write the column names in front of the present columns, you want to take in your template.
-9. If you dont want a column in your template then leave it blank.
-10. Click on save button.
-11. And your template is created.
+10. You can customise these CSV header according to you. The template will have only those columns, that you will edit. If you want to use all column leave of all blank.
+11. Save the template.
+12. You can see the saved columns in the list view of Import templates. 
+
+![](import-template1.png)
+
+13. You can also download the sample of the saved import template. To download the sample go to the type of import template, like import products through Import Utilities > Import.
+
+![](import-template2.png)
+
+14. You can also auto import the CSV if this template. [How to auto-import in sellacious?](https://www.sellacious.com/learn/import-and-export/auto-import)
