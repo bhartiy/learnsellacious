@@ -20,7 +20,7 @@ visible: true
 
 4. Fill the details in basic information.
 5. Type the title for the template.
-6. You can always select user categories to which you want to assign this template.
+6. You can always select user category to which you want to assign this template.
 7. Select the type whether the template is to import product, import category or to import images and attachments of products. Once you select the type, on the right of the template you'll be able to the configuration of the selected importer type.
 8. If you want to use the same configuration settings for every import, you need to select "Allow Configuration" as Yes, If not Select NO.
 
