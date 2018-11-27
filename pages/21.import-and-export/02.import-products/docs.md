@@ -14,5 +14,6 @@ In this Documentation we will use sellacious default import CSV.
 
 To import products in your site follow below steps.
 
-1. 
-
+1. Download the sampple CSV you want to import from. You can download the Default sellacious importer template or any of your customised template.
+2. Fill the Basic details of the products. Product importer has 4 Unique keys for products, **PRODUCT_TITLE, PRODUCT_UNIQUE_ALIAS, PRODUCT_SKU, MFG_ASSIGNED_SKU** You can fill all these 4 unique keys or one. One of them is must to import the products.
+3. 
