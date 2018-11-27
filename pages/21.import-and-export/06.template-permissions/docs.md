@@ -1,5 +1,8 @@
 ---
 title: 'Template permissions'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
