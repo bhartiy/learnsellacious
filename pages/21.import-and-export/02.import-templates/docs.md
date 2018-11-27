@@ -1,6 +1,9 @@
 ---
 title: 'Import templates'
 media_order: '117.png,118.png,119.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
