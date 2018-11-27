@@ -1,5 +1,8 @@
 ---
 title: 'Template Alterration using Plugins'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
