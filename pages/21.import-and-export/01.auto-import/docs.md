@@ -1,5 +1,8 @@
 ---
 title: 'Auto import'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
