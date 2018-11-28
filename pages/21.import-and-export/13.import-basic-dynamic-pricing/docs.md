@@ -1,5 +1,5 @@
 ---
-title: 'Import Basic/Dynamic Pricing'
+title: 'Import Pricing Types'
 taxonomy:
     category:
         - docs
