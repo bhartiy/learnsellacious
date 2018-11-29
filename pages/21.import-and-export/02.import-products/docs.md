@@ -1,5 +1,6 @@
 ---
 title: 'Import Products'
+media_order: import-products-configuration.png
 taxonomy:
     category:
         - docs
@@ -10,7 +11,13 @@ visible: true
 
 To start the importer process you can download the sellacious default product importer sample CSV or you can create a importer template. [How to create a importer Template?](https://www.sellacious.com/learn/import-and-export/import-templates)
 
-While you're importing products through CSV there are some configuration
+While you're importing products through CSV there are some configuration you need to save to complete the importing process. If you want to create new products/sellers etc you need to select option 'yes'. If you only want to update the exisiting products/sellers/categories you need to select the options for the Update as 'yes'.
+
+After this it's mandatory to select the unique keys to validate the import. The section in which you didn't select the unique will not be imported.
+
+
+
+![](import-products-configuration.png)
 
 In this Documentation we will use sellacious default import CSV.
 
