@@ -1,6 +1,6 @@
 ---
 title: 'Import Products'
-media_order: import-products-configuration.png
+media_order: 'import-products-configuration.png,import-products.png'
 taxonomy:
     category:
         - docs
@@ -9,15 +9,9 @@ visible: true
 
 **Import products** is a easy process to import products, their variants, sellers, categories to sellacious.
 
+![](import-products.png)
+
 To start the importer process you can download the sellacious default product importer sample CSV or you can create a importer template. [How to create a importer Template?](https://www.sellacious.com/learn/import-and-export/import-templates)
-
-While you're importing products through CSV there are some configuration you need to save to complete the importing process. If you want to create new products/sellers etc you need to select option 'yes'. If you only want to update the exisiting products/sellers/categories you need to select the options for the Update as 'yes'.
-
-After this it's mandatory to select the unique keys to validate the import. The section in which you didn't select the unique will not be imported.
-
-
-
-![](import-products-configuration.png)
 
 In this Documentation we will use sellacious default import CSV.
 
@@ -32,4 +26,10 @@ _If seller is new, you need to fill all the columns related to sellers available
 5. To publish the product in frontend mandatory columns to import are PRODUCT_TYPE, PRODUCT_CURRENT_STOCK, PRODUCT_STATE, Seller related columns, PRODUCT_CATEGORIES.
 6. To import variants, with any of product unique key, fill the variants related columns in separate row. You can import multiple variants of same products but with different sellers too with sellacious importer.
 <br>There are 3 Unique keys to import varinats : **VARIANT_TITLE, VARIANT_SKU, VARIANT_UNIQUE_ALIAS.** One of these key is must to import variants. [How to import varinats from CSV?](https://www.sellacious.com/learn/import-and-export/import-variants)
-7. While you're importing products, you can import these products to new or existing categories. To Create categories, select option 
+7. While you're importing products, you can import these products to new or existing categories. To create the child categories 
+
+While you're importing products through CSV there are some configuration you need to save to complete the importing process. If you want to create new products/sellers etc you need to select option 'yes'. If you only want to update the exisiting products/sellers/categories you need to select the options for the Update as 'yes'.
+
+After this it's mandatory to select the unique keys to validate the import. The section in which you didn't select the unique will not be imported.
+
+![](import-products-configuration.png)
