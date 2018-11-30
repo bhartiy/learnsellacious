@@ -1,6 +1,6 @@
 ---
 title: 'Import Pricing Types'
-media_order: pricing.png
+media_order: 'pricing.png,dynamic-pricing.png'
 taxonomy:
     category:
         - docs
@@ -14,3 +14,4 @@ Sellacious has 3 types of Pricing. Flat, Basic and Dynamic. By default sellaciou
 To download the sample CSV with Dynamic Pricing, you need to enable this pricing from the Global Configuration of sellacious administrator.
 
 ![](dynamic-pricing.png)
+
