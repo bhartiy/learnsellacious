@@ -14,3 +14,5 @@ With the help of sellacious importer you can create or update the exiscting sell
 If the seller is new and you have not provided the Unique for sellers, then sellacious will create them itself. Like if you're importing a new seller with the name Test Seller. Than sellacious will create it's username and email itself in the below format.
 
 ![](seller-import.png)
+
+As you can see the username is _test-seller_ and email is _test-seller@nowhere.sellacious.com_
