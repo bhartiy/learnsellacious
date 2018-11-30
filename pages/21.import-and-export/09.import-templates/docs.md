@@ -40,4 +40,4 @@ visible: true
 
 ![](import-template2.png)
 
-14. You can also auto import the CSV if this template. [How to auto-import in sellacious?](https://www.sellacious.com/learn/import-and-export/auto-import)
+14. You can also auto import the CSV with the these import template. [How to auto-import in sellacious?](https://www.sellacious.com/learn/import-and-export/auto-import)
