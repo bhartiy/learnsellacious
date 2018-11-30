@@ -36,3 +36,5 @@ After this it's mandatory to select the unique keys to validate the import. The 
 ![](import-products-configuration.png)
 
 **This is the sample CSV to understand the importing process of sellacious importer.**
+
+https://goo.gl/XtAF7x
