@@ -1,6 +1,6 @@
 ---
 title: 'Import Pricing'
-media_order: 'pricing.png,dynamic-pricing.png,dynamic.png'
+media_order: 'dynamic-pricing.png,basic-pricing.png'
 taxonomy:
     category:
         - docs
@@ -9,7 +9,7 @@ visible: true
 
 Sellacious has 3 types of Pricing. Flat, Basic and Dynamic. By default sellacious configure Basic pricing. When you download the sample CSV, you'll get the columns for basic and flat price only.
 
-![](pricing.png)
+![](basic-pricing.png)
 
 To download the sample CSV with Dynamic Pricing, you need to enable this pricing from the Global Configuration of sellacious administrator.
 
