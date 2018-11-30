@@ -20,3 +20,5 @@ As you can see the username is _test-seller_ and email is _test-seller@nowhere.s
 You can also create seller only without creating products. In the CSV fill the information related to sellers and import it. Configuration should be like in the below image.
 
 ![](seller_config.png)
+
+You can also import manufacturer with the same method. For Manufacturer Unique keys are **MANUFACTURER_NAME, MANUFACTURER_USERNAME, MANUFACTURER_EMAIL, MANUFACTURER_CODE, MANUFACTURER_COMPANY**. Fill all the details related to manufacturer and import. 
