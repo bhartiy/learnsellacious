@@ -1,6 +1,6 @@
 ---
 title: 'Import Categories'
-media_order: 'import-categories.png,categories.png'
+media_order: 'import-categories.png,categories.png,child-category.png,two-category.png'
 taxonomy:
     category:
         - docs
@@ -14,4 +14,12 @@ Sellacious importer is a easiest way to import categories for your shop. Either 
 You can import physical, electronic or user categoeries like Seller/Client.
 
 ![](categories.png)
+
+You can always import categories in hierarchy. Format to import categories in hierarchy is :
+
+![](child-category.png)
+
+You can use the above format to import categories while importing products also. And if the product belongs to more than one category you can **;** or fill the both categories in the columns **PRODUCT_CATEGORIES, CATEGORY_1** etc.
+
+![](two-category.png)
 
