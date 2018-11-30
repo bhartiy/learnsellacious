@@ -1,5 +1,6 @@
 ---
 title: 'Import Seller'
+media_order: seller-import.png
 taxonomy:
     category:
         - docs
@@ -10,4 +11,6 @@ With the help of sellacious importer you can create or update the exiscting sell
 
 **SELLER_NAME, SELLER_USERNAME, SELLER_EMAIL, SELLER_CODE, SELLER_BUSINESS** are the Unique keys to import sellers. One of these key is must to import sellers. You need to fill the products details or any Product unique key.
 
-If the seller is new and you have not provided the Unique for sellers, then sellacious will create them itself. Like if the Seller name is Test Seller
+If the seller is new and you have not provided the Unique for sellers, then sellacious will create them itself. Like if you're importing a new seller with the name Test Seller. Than sellacious will create it's username and email itself in the below format.
+
+![](seller-import.png)
