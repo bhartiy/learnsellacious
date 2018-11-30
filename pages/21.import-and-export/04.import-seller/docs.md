@@ -15,4 +15,8 @@ If the seller is new and you have not provided the Unique for sellers, then sell
 
 ![](seller-import.png)
 
-As you can see the username is _test-seller_ and email is _test-seller@nowhere.sellacious.com_ 
+As you can see the username is _test-seller_ and email is _test-seller@nowhere.sellacious.com_
+
+You can also create seller only without creating products. In the CSV fill the information related to sellers and import it. Configuration should be like in the below image.
+
+![](seller_config.png)
