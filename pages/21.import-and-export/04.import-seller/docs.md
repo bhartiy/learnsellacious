@@ -15,4 +15,4 @@ If the seller is new and you have not provided the Unique for sellers, then sell
 
 ![](seller-import.png)
 
-As you can see the username is _test-seller_ and email is _test-seller@nowhere.sellacious.com_
+As you can see the username is _test-seller_ and email is _test-seller@nowhere.sellacious.com_ 
