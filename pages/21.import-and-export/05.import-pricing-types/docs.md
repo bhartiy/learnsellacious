@@ -15,3 +15,5 @@ To download the sample CSV with Dynamic Pricing, you need to enable this pricing
 
 ![](dynamic-pricing.png)
 
+
+
