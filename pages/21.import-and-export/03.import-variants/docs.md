@@ -1,6 +1,6 @@
 ---
 title: 'Import Variants'
-media_order: import_variants1.png
+media_order: 'import_variants1.png,import-products-configuration.png'
 taxonomy:
     category:
         - docs
@@ -14,3 +14,7 @@ To import the variants, you need to fill the details of variants in the differen
 ![](import_variants1.png)
 
 If you're creating the new variants in configuration select option Create New Variant as YES. If you're only updating the variants, than select the update variant option as YES.
+
+![](import-products-configuration.png)
+
+To publish the variant on your site Product & Seller Unique key, stock of variant.
