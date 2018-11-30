@@ -3,7 +3,7 @@ title: 'Import inventory'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
-Your page content goes here.
+Inventory of product is different for different sellers. Stock, What's in box price are parts of inventory. 
