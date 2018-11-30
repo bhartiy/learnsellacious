@@ -37,4 +37,4 @@ After this it's mandatory to select the unique keys to validate the import. The 
 
 **This is the sample CSV to understand the importing process of sellacious importer.**
 
-https://goo.gl/XtAF7x
+[https://goo.gl/XtAF7x]
