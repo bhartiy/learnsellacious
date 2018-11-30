@@ -1,5 +1,5 @@
 ---
-title: 'Import Pricing Types'
+title: 'Import Pricing'
 media_order: 'pricing.png,dynamic-pricing.png,dynamic.png'
 taxonomy:
     category:
