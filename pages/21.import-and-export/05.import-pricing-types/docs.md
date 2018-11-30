@@ -1,6 +1,6 @@
 ---
 title: 'Import Pricing'
-media_order: 'dynamic-pricing.png,basic-pricing.png'
+media_order: 'dynamic-pricing.png,basic-pricing.png,dynamic.png'
 taxonomy:
     category:
         - docs
