@@ -6,4 +6,4 @@ taxonomy:
 visible: true
 ---
 
-Your page content goes here.
+With the sellacious importer you can also import 
