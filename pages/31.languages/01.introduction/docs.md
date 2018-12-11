@@ -7,7 +7,7 @@ taxonomy:
 visible: true
 ---
 
-To change the language of the sellacious backend, first, install the language other than default language (English). Then on right top of the sellacious backend, you can switch the language of the backend.
+To change the language of the sellacious backend, first, install the language other than default language (English). You can install the language from Sellacious backend > Languages > Languages.  Then on right top of the sellacious backend, you can switch the language of the backend.
 
 ![](Screen%20Shot%202018-12-10%20at%204.09.31%20PM.png)
 
