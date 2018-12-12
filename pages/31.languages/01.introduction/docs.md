@@ -9,4 +9,4 @@ visible: true
 
 Sellacious Offers you 70+ languages to translate your site. You don't need to open any file or edit code to translate or install any third party extension. Just install your desired language and start traslating your site.
 
-In this section you'll know more about the Multilingual feature of sellacious.
+In this section, you'll know more about the Multilingual feature of sellacious.
