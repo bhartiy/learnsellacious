@@ -1,5 +1,8 @@
 ---
 title: 'Activating language'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
