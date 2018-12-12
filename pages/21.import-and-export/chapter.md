@@ -1,10 +1,12 @@
 ---
-title: 'Import and Export'
+title: Import
+taxonomy:
+    category: docs
 visible: true
 ---
 
 ### Chapter 20
 
-# Import and Export
+# Import
 
-Discover the **import and export** of sellacious 
+Discover the **import** of sellacious 
