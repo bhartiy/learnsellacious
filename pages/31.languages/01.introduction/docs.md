@@ -7,15 +7,6 @@ taxonomy:
 visible: true
 ---
 
-To change the language of the sellacious backend, first, install the language other than default language (English). You can install the language from Sellacious backend > Languages > Languages.  Then on right top of the sellacious backend, you can switch the language of the backend.
+Sellacious Offers you 70+ languages to translate your site. You don't need to open any file or edit code to translate or install any third party extension. Just install your desired language and start traslating your site.
 
-![](Screen%20Shot%202018-12-10%20at%204.09.31%20PM.png)
-
-As for the frontend, install the language you want while installing Joomla administrator..
-
-![](Screen%20Shot%202018-12-10%20at%204.12.19%20PM.png)
-
-Or you can also after you have installed the Joomla already. Install the language you want. Make sure they are published in "Content Languages", otherwise they will not appear on language selections. Publish Joomla's "Language Switcher" module. Enable the "System - Language Filter" plugin. To more know about it follow the below link.
-
-https://docs.joomla.org/J3.x:Setup_a_Multilingual_Site
-
+In this section you'll know more about the Multilingual feature of sellacious.
