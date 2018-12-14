@@ -1,5 +1,8 @@
 ---
 title: 'Shop settings'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -9,7 +12,9 @@ You can set the shop settings from the global configuration.
 
 **shop logo**: Upload image to be used as shop logo. You can upload the shop logo upto max 1GB. 
 
-**back-office logo**: Upload image to be used as back office logo. You can upload the back-office logo upto max 1GB. It is a premium feature. 
+**back-office logo**: Upload image to be used as Sellacious back office logo. You can upload the back-office logo upto max 1GB. It is a premium feature.
+
+**Back-office Favicon**: Upload image to be used as Sellacious back office logo. You can upload the back-office logo upto max 1GB. It is a premium feature.
 
 **shop address**: The address of your shop. You can add the 3-4 lines of the address here in the text box.
 
