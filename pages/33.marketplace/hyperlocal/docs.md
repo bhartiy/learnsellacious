@@ -30,3 +30,5 @@ After this you'll be able to publish the module in your site. To publish hyperlo
 ![](hyperlocal3.png)
 
 ![](hyperlocal4.png)
+
+In Sellacious hyperlocal you can select either By Radius or By Shippable Locations for sellers. Sellers can also configure these settings from their profile for their store only. Sellers need to provide their Store cordinates.
