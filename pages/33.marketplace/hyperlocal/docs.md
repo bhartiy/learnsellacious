@@ -1,6 +1,6 @@
 ---
 title: 'Hyperlocal Module and Plugin'
-media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png'
+media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png'
 taxonomy:
     category:
         - docs
