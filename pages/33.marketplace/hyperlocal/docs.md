@@ -1,6 +1,6 @@
 ---
 title: 'Hyperlocal Module and Plugin'
-media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png'
+media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png'
 taxonomy:
     category:
         - docs
@@ -31,4 +31,11 @@ After this you'll be able to publish the module in your site. To publish hyperlo
 
 ![](hyperlocal4.png)
 
-In Sellacious hyperlocal you can select either By Radius or By Shippable Locations for sellers. Sellers can also configure these settings from their profile for their store only. Sellers need to provide their Store cordinates.
+In Sellacious hyperlocal you can select either 'By Radius' or 'By Shippable Locations' for sellers. Sellers can also configure these settings from their profile for their store only. These settings can be handeled from frontend and backend.
+
+![](hyperlocal5.png)
+
+As you can see in the above screen shot, sellers can handle their store configurations from there profiles. 
+
+
+
