@@ -1,6 +1,6 @@
 ---
 title: 'Hyperlocal Module and plugin'
-media_order: hyperlocal1.png
+media_order: 'hyperlocal1.png,hyperlocal2.png'
 taxonomy:
     category:
         - docs
@@ -9,7 +9,7 @@ visible: true
 
 Hyperlocal is a major feature of sellacious. With the help of hyperlocal you can create your own store for local or international buyers. 
 
-This hyperlocal package consists of a module and plugin. Which both are already built in sellacious latest version 1.6.0. We are upgrading this feature of sellacious day by day. 
+This hyperlocal package consists of a module and plugin. Which both are already built in sellacious latest version 1.6.0. We are upgrading this feature of sellacious day by day and adding many more additions to this feature.
 
 _Hyperlocal is compatible to the sellacious version 1.6.x and above. If your site isn't updated yet to the latest sellacious, please update it to use hyperlocal and many more exciting feature of sellacious._
 
@@ -21,6 +21,10 @@ Here you need to save hyperloca settings to use the module. To publish the hyper
 
 https://developers.google.com/maps/documentation/geolocation/get-api-key
 
-To use hyperlocal of sellacious, enable the API for Geocoding, Places and Timezone. 
+To use hyperlocal of sellacious, enable the API for Geocoding, Places and Timezone. Once these APIs are enabled for the key you're using, copy that key and paste it in Sellacious Backend > Settings > Global configuration > Hyperlocal.
+
+![](hyperlocal2.png)
+
+
 
 
