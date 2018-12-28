@@ -1,6 +1,6 @@
 ---
-title: 'Hyperlocal Module and plugin'
-media_order: 'hyperlocal1.png,hyperlocal2.png'
+title: 'Hyperlocal Module and Plugin'
+media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png'
 taxonomy:
     category:
         - docs
@@ -25,6 +25,8 @@ To use hyperlocal of sellacious, enable the API for Geocoding, Places and Timezo
 
 ![](hyperlocal2.png)
 
+After this you'll be able to publish the module in your site. To publish hyperlocal module, go to Joomla administrator > Extensions > Modules. Click on New button select the Sellacious Hyperlocal. There you can configure the module.
 
+![](hyperlocal3.png)
 
-
+![](hyperlocal4.png)
