@@ -1,9 +1,11 @@
 ---
 title: Install/unInstall
+taxonomy:
+    category: docs
 ---
 
-### Chapter Number
+### Chapter 2
 
-# Chapter Title
+# Install/Uninstall
 
 This Chapter guides you how to Install, Uninstall and update sellacious
