@@ -1,6 +1,6 @@
 ---
 title: 'How to create a registration page for Client/Seller Category?'
-media_order: 'register1.png,register2.png,register3.png,register4.png,register5.png'
+media_order: 'register1.png,register2.png,register3.png,register4.png,register5.png,Screen Shot 2019-01-11 at 5.07.19 PM.png,register6.png,register7.png'
 taxonomy:
     category:
         - docs
@@ -35,3 +35,6 @@ Save the menu item, and you'll see the menu in frontend.
 
 Same process is with the Seller Registration except while selecting menu type you'll need to select "Seller Registration Form" and after that seller category in which you want seller's to register.
 
+![](register6.png)
+
+![](register7.png)
