@@ -1,6 +1,13 @@
 ---
 title: Plugins
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
-Your page content goes here.
+### Chapter 41
+
+# Plugins
+
+Discover the **Plugins** of sellacious or integrated with sellacious
