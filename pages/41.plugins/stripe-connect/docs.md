@@ -16,4 +16,6 @@ To install this plugin go to the Joomla administrator > Extensions. Now go to Ma
 
 Now, to configure this plugin go to Sellacious administrator > Settings > Payment Methods. Click on New.
 
-Select the 
+Select the Plugin Stripe Connect. Submit method name and after that fill the information related to you Stripe Account such as Client Key, Publishable Key, and Secret Key. https://stripe.com/docs/keys
+
+
