@@ -12,4 +12,4 @@ With the help of this plugin, the purchase amount directly goes to the seller's 
 
 To configure the Stripe connect plugin, you need to install and enable the plugin in your site. You can download the plugin from https://www.sellacious.com/p/sellacious-extensions/payment-plugins/stripe-connect.
 
-To install this plugin go to the Joomla administrator > Extensions.
+To install this plugin go to the Joomla administrator > Extensions. Now go to Manage and Install. 
