@@ -19,5 +19,4 @@ Now, to configure this plugin go to Sellacious administrator > Settings > Paymen
 Select the Plugin Stripe Connect. Submit method name and after that fill the information related to you Stripe Account such as [Client Key, Publishable Key, and Secret Key](https://stripe.com/docs/keys). 
 Save the settings. Now, Sellers can connect their Stripe Connect account from their profile.
 
-To connect a seller's account to your shop, open their profile (sellers can edit their profile), go to Seller's Info. At the bottom, you'll see the option to connect Stripe Account. Click on the button, and seller will be redirected to the page, where he can connect his already available account or connect his already available account. 
-
+To connect a seller's account to your shop, open their profile (sellers can edit their profile), go to Seller's Info. At the bottom, you'll see the option to connect Stripe Account. Click on the button, and seller will be redirected to the page, where he can connect his already available account or connect his already available account.
