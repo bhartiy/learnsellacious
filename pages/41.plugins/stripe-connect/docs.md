@@ -1,6 +1,6 @@
 ---
 title: 'Stripe Connect'
-media_order: connect1.png
+media_order: 'connect1.png,connect2.png,connect3.png,connect4.png,connect5.png'
 taxonomy:
     category:
         - docs
@@ -25,8 +25,11 @@ Now, to configure this plugin go to Sellacious administrator > Settings > Paymen
 
 ![](connect3.png)
 
-Select the Plugin Stripe Connect. Submit method name and after that fill the information related to you Stripe Account such as Client Key, Publishable Key, and Secret Key. [https://stripe.com/docs/keys](https://stripe.com/docs/keys)
-Save the settings. Go to your Stripe Account and configure the Redirect URL. To redirect Sellers to back to their profile page URL should be
+Select the Plugin Stripe Connect. Submit method name and after that fill the information related to you Stripe Account such as Client Key, Publishable Key, and Secret Key. [https://stripe.com/docs/keys](https://stripe.com/docs/keys). Save the settings.
+
+![](connect4.png)
+
+Go to your Stripe Account and configure the Redirect URL. To redirect Sellers to back to their profile page URL should be
 
 [http://yoursite.com/sellacious/index.php?option=com_sellacious&view=user&layout=edit&redirected_by=stripeconnectseparate](http://yoursite.com/sellacious/index.php?option=com_sellacious&view=user&layout=edit&redirected_by=stripeconnectseparate)
 
@@ -36,4 +39,10 @@ and
 
 First URL is to redirect when an admin connects seller's account and the second URL is to redirect when a Seller connects from his own profile.
 
-To connect a seller's account to your shop, open their profile (sellers can edit their profile), go to Seller's Info. At the bottom, you'll see the option to connect Stripe Account. Click on the button 'Click to Connect with - Stripe Account' and page will open Connect a Stripe Account. Once the account is connected, it'll redirect you to the one of the above URL (based on your profile).
+![](connect5.png)
+
+To connect a seller's account to your shop, open their profile (sellers can also edit their profile), go to Seller's Info.
+
+
+
+At the bottom, you'll see the option to connect Stripe Account. Click on the button 'Click to Connect with - Stripe Account' and page will open Connect a Stripe Account. Once the account is connected, it'll redirect you to the one of the above URL (based on your profile).
