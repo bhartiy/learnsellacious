@@ -49,6 +49,4 @@ At the bottom, you'll see the option to connect Stripe Account. Click on the but
 
 ![](connect7.png)
 
-![](connect8.png)
-
 Once the account is connected, it'll redirect you to the one of the above URL (based on your profile).
