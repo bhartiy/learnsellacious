@@ -23,6 +23,8 @@ You can enable the plugin from Joomla Administrator > Extensions > Plugins. Sear
 
 Now, to configure this plugin go to Sellacious administrator > Settings > Payment Methods. Click on New.
 
+![](connect3.png)
+
 Select the Plugin Stripe Connect. Submit method name and after that fill the information related to you Stripe Account such as Client Key, Publishable Key, and Secret Key. [https://stripe.com/docs/keys](https://stripe.com/docs/keys)
 Save the settings. Go to your Stripe Account and configure the Redirect URL. To redirect Sellers to back to their profile page URL should be
 
