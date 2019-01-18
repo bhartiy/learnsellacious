@@ -1,6 +1,6 @@
 ---
 title: 'Stripe Connect'
-media_order: 'connect1.png,connect2.png,connect3.png,connect4.png,connect5.png'
+media_order: 'connect1.png,connect2.png,connect3.png,connect4.png,connect5.png,connect6.png,connect7.png'
 taxonomy:
     category:
         - docs
@@ -43,6 +43,10 @@ First URL is to redirect when an admin connects seller's account and the second 
 
 To connect a seller's account to your shop, open their profile (sellers can also edit their profile), go to Seller's Info.
 
+![](connect6.png)
 
+At the bottom, you'll see the option to connect Stripe Account. Click on the button 'Click to Connect with - Stripe Account' and page will open Connect a Stripe Account.
 
-At the bottom, you'll see the option to connect Stripe Account. Click on the button 'Click to Connect with - Stripe Account' and page will open Connect a Stripe Account. Once the account is connected, it'll redirect you to the one of the above URL (based on your profile).
+![](connect7.png)
+
+Once the account is connected, it'll redirect you to the one of the above URL (based on your profile).
