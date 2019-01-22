@@ -1,9 +1,8 @@
 ---
-title: 'Activate a License'
+title: Introduction
 taxonomy:
     category:
         - docs
 visible: true
 ---
 
-Your page content goes here.
