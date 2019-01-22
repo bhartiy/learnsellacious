@@ -1,10 +1,9 @@
 ---
 title: Premium/Licenses
+published: false
 taxonomy:
     category: docs
 ---
-
-
 
 # Premium/Licenses
 
