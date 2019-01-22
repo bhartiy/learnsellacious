@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-### Chapter Number
+
 
 # Premium/Licenses
 
