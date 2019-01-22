@@ -1,6 +1,9 @@
 ---
 title: Ewallet
 media_order: 'trans withdraw.png,trans withdraw1.png,add fund.png,add fund1.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
