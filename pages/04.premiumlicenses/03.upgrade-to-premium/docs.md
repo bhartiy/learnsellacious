@@ -12,4 +12,4 @@ There are two ways to upgrade a free license to premium license.
 
 Click on 'Change or Upgrade' and licenses available on sellacious will open.
 
-Select the license you want to activate and click on it and purchase the license. 
+Select the license you want to activate, click on it and purchase the license. 
