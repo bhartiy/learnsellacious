@@ -14,6 +14,6 @@ When you're new to sellacious and installing it the first time, you need to regi
 
 3. This step is to activate the license. As in sellacious license are of two types, Free and Premium.
 
-**Free License:** To activate this license click on for beginner and fill the form. 
+Free License: To activate this license click on For Beginners and fill the form. Once submitted you'll get an email to validate your subscription.
 
-For the new Free License, once you register with your email id, and activate the activation, you get the license key through email.
+Once the license is validated, you'll get the license key through email.
