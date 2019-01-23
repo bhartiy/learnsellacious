@@ -12,4 +12,4 @@ In free license you can acess, free features of sellacious like 10000 products, 
 
 However, in premium version of sellacious you can have inventory acess, in which you can manage products pricing/stocks in bulk. B2B, importer and many more premium settings.
 
-With sellacious premium subscription you get the premium support. In this support our team helps 
+With sellacious premium subscription you get the premium support. In this support our team helps you to install sellacious, trouble with sellacious fuctionality and many more.
