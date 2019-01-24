@@ -22,4 +22,4 @@ Now go to the sellacious backend of your site. Click on the license information,
 
 The license is upgraded from free to premium.
 
-Note: Site Key is unique for every Site.
+_**Note: Site Key is unique for every Site.**_
