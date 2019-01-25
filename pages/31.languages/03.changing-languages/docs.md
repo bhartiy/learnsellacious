@@ -1,5 +1,5 @@
 ---
-title: 'Changing Languages'
+title: 'Changing Languages/ Language Filters'
 taxonomy:
     category:
         - docs
