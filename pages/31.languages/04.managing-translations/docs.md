@@ -1,6 +1,6 @@
 ---
 title: 'Managing Translations'
-media_order: 'translation7.png,translation8.png,translation9.png'
+media_order: 'translation7.png,translation8.png,translation9.png,translation10.png,translation11.png,translation12.png,translation13.png'
 taxonomy:
     category:
         - docs
@@ -27,9 +27,17 @@ After language installation, you can translate your site easily from the sellaci
 
 ![](translation9.png)
 
-4. Select the column you want from the columns to show. We suggest selecting all steps.
-5. Select the Language key you want to translate and click on Translate Using Google. We'll check the Key for Add to Cart.
+4. Select the column you want from the columns to show. We suggest selecting all columns.
+
+![](translation10.png)
+
+5. Select the Language key you want to translate and click on Translate Using Google. We'll check the Key for _Add to Cart_.
+
+![](translation11.png)
+
 6. You can check your translation in frontend/backend now.
+
+![](translation12.png)
 
 ---
 
@@ -41,7 +49,12 @@ After language installation, you can translate your site easily from the sellaci
 ---
 
 **Importing translations from Excel:**
-Importing translation from excel is the quickest way to translate your site. 1. To translate a specific extension/module/plugin/component easier, you can filter them from the filters and export it. We'll check the module latest product module.
+Importing translation from excel is the quickest way to translate your site.
+
+1. To translate a specific extension/module/plugin/component easier, you can filter them from the filters and export it. We'll check the module latest product module.
+
+![](translation13.png)
+
 2. You get .xlxs file, and you can put your translation in the third column or in the column which has the name of your language.
 3. Import the exported .xlxs file.
 4. You can check your translation in frontend/backend now.
