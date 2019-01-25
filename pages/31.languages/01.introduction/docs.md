@@ -7,6 +7,6 @@ taxonomy:
 visible: true
 ---
 
-Sellacious Offers you 70+ languages to translate your site. You don't need to open any file or edit code to translate or install any third party extension. Just install your desired language and start traslating your site.
+Sellacious is multilingual e-commerce software which allows you to translate your site in 70+ languages. You can also translate backend of sellacious in your language.
 
-In this section, you'll know more about the Multilingual feature of sellacious.
+So, you don't need to edit/change any file/code or install any third party extension. Sellacious has inbuilt translater which help you to translate your site easily and quickly.  You can do that from the Sellacious Backend > Languages. 
