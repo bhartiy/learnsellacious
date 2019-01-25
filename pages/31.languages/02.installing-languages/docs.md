@@ -1,5 +1,6 @@
 ---
 title: 'Installing Languages'
+media_order: 'translation2.png,translation3.png'
 taxonomy:
     category:
         - docs
@@ -11,8 +12,13 @@ In sellacious, you can install the languages in one click. You can install langu
 **Installing languages from sellacious:**
 1. To install languages in sellacious go to Sellacious Backend > Languages.
 2. Search your language and click on install beside the language name. We'll proceed with the French language in this documentation.
+
+![](translation2.png)
+
 3. Now this language is installed on your site to translate.
 4. Click on the languages in the drop-down. You'll see the list of languages available in sellacious.
+
+![](translation3.png)
 
 **Installing languages from Joomla:**
 1. To install language from Joomla Go to Joomla administrator > Extensions > Languages.
