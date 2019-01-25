@@ -28,5 +28,10 @@ After language installation, you can translate your site easily from the sellaci
 2. In the third column submit the translation of the key and press enter or change the row.
 3. You can check your translation in frontend/backend now.
 
+---
 
-
+**Importing translations from Excel:**
+Importing translation from excel is the quickest way to translate your site. 1. To translate a specific extension/module/plugin/component easier, you can filter them from the filters and export it. We'll check the module latest product module.
+2. You get .xlxs file, and you can put your translation in the third column or in the column which has the name of your language.
+3. Import the exported .xlxs file.
+4. You can check your translation in frontend/backend now.
