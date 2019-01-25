@@ -1,5 +1,6 @@
 ---
 title: 'Managing Translations'
+media_order: 'translation7.png,translation8.png,translation9.png'
 taxonomy:
     category:
         - docs
@@ -15,8 +16,17 @@ After language installation, you can translate your site easily from the sellaci
 
 **Translating using Google:**
 1. To translate using Google go to Sellacious backend > Languages > Translations.
+
+![](translation7.png)
+
 2. Select the language in which you translate your site.
-3. Select the extension or file from filter you want to translate. We'll check the module latest product module.
+
+![](translation8.png)
+
+3. Select the extension or file from filter you want to translate. We'll translate the module latest product module.
+
+![](translation9.png)
+
 4. Select the column you want from the columns to show. We suggest selecting all steps.
 5. Select the Language key you want to translate and click on Translate Using Google. We'll check the Key for Add to Cart.
 6. You can check your translation in frontend/backend now.
