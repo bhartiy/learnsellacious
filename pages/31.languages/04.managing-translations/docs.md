@@ -1,6 +1,6 @@
 ---
 title: 'Managing Translations'
-media_order: 'translation7.png,translation8.png,translation9.png,translation10.png,translation11.png,translation12.png,translation13.png'
+media_order: 'translation7.png,translation8.png,translation9.png,translation10.png,translation11.png,translation12.png,translation13.png,translation14.png,translation15.png'
 taxonomy:
     category:
         - docs
@@ -55,6 +55,14 @@ Importing translation from excel is the quickest way to translate your site.
 
 ![](translation13.png)
 
-2. You get .xlxs file, and you can put your translation in the third column or in the column which has the name of your language.
+2. You get .xlxs file, and you can put your translation in the third column or in the column which has the name of your language. We'll translate the _Buy Now_ button in this.
+
+![](translation14.png)
+
 3. Import the exported .xlxs file.
+
+![](translation15.png)
+
 4. You can check your translation in frontend/backend now.
+
+![](translation16.png)
