@@ -1,6 +1,6 @@
 ---
 title: 'Backend / Frontend Language Switcher'
-media_order: 'translation3.png,front1.png,front2.png,front3.png,front5.png,front6.png,front7.png,front8.png,front9.png,front10.png,front11.png,front12.png,front13.png,front14.png,front15.png,front16.png,front17.png'
+media_order: 'translation3.png,front1.png,front2.png,front3.png,front5.png,front6.png,front7.png,front8.png,front9.png,front10.png,front11.png,front12.png,front13.png,front14.png,front15.png,front16.png,front17.png,front18.png'
 taxonomy:
     category:
         - docs
@@ -141,6 +141,9 @@ Title: French Menu.<br>
 Language: Select French (FR).<br>
 Position: Select position-7 (or any position you want to assign).<br>
 Click Save & Close.<br>
+
+![](front18.png)
+
 4. Repeat the above process to create a module for the English menu.<br>
 To configure the module for English menu:<br>
 Title: English Menu.<br>
