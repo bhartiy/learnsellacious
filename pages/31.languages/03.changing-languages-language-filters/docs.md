@@ -38,8 +38,8 @@ The fields will appear when the plugin is enabled and saved.
 
 You need to create menus for languages available (English and French). We'll need separate menus pointing towards to English and French. To create menus for diff languages follow below steps:
 1. Go to Joomla administrator > Menus > Manage > Add new menu.
-2. First, create a menu for the French language:
-Title: enter **French Menu**.
+2. First, create a menu for the French language:<br>
+Title: enter **French Menu**.<br>
 Menu Type: enter **frenchmen**.
 Description: enter a description, ie **Menu for French content**.
 Click Save & Close.
