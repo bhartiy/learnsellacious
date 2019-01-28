@@ -53,15 +53,15 @@ Click Save & Close.
 
 **Language Menu Item**
 
-Now, we need to create the menus items in both menus. In this documentation, we'll create menu items for the Sellacious products.
+Now, we need to create the menus items in both menus. In this documentation, we'll create menu items for the Sellacious products.<br>
 First, we'll create a menu item for the French menu:
-a. Go to Joomla administrator > Menus > French Menu > Add New Menu Item.
-b. Select the menu item type, Sellacious > Products.
-c. Enter Title Des produits (Products in French). You can give it anything you want. This title will be visible for the users.
-d. Make sure Menu should be selected French Menu and language should be French as we're creating the menu item for French Menu and save the menu.
-To Create Menu items in the English language, repeat the above steps to step (b).
-c. Enter the title Products.
-d. Make sure Menu should be selected English Menu and language should be English as we're creating the menu item for English Menu and save the menu.
+1. Go to Joomla administrator > Menus > French Menu > Add New Menu Item.
+2. Select the menu item type, Sellacious > Products.
+3. Enter Title Des produits (Products in French). You can give it anything you want. This title will be visible for the users.
+4. Make sure Menu should be selected French Menu and language should be French as we're creating the menu item for French Menu and save the menu.<br>
+To Create Menu items in the English language, repeat the above steps to step (2).
+3. Enter the title Products.
+4. Make sure Menu should be selected English Menu and language should be English as we're creating the menu item for English Menu and save the menu.
 You can repeat the above process to create more menus in the French and English language.
 
 ---
