@@ -1,6 +1,6 @@
 ---
 title: 'Backend / Frontend Language Switcher'
-media_order: 'translation3.png,front1.png,front2.png,front3.png,front5.png,front6.png,front7.png,front8.png'
+media_order: 'translation3.png,front1.png,front2.png,front3.png,front5.png,front6.png,front7.png,front8.png,front9.png'
 taxonomy:
     category:
         - docs
@@ -75,6 +75,9 @@ Click Save & Close.
 Now, we need to create the menus items in both menus. In this documentation, we'll create menu items for the Sellacious products.<br>
 First, we'll create a menu item for the French menu:
 1. Go to Joomla administrator > Menus > French Menu > Add New Menu Item.
+
+![](front9.png)
+
 2. Select the menu item type, Sellacious > Products.
 3. Enter Title Des produits (Products in French). You can give it anything you want. This title will be visible for the users.
 4. Make sure Menu should be selected French Menu and language should be French as we're creating the menu item for French Menu and save the menu.<br>
