@@ -1,6 +1,6 @@
 ---
 title: 'Backend / Frontend Language Switcher'
-media_order: 'translation3.png,front1.png,front2.png,front3.png,front5.png,front6.png,front7.png,front8.png,front9.png,front10.png,front11.png,front12.png,front13.png,front14.png,front15.png'
+media_order: 'translation3.png,front1.png,front2.png,front3.png,front5.png,front6.png,front7.png,front8.png,front9.png,front10.png,front11.png,front12.png,front13.png,front14.png,front15.png,front16.png'
 taxonomy:
     category:
         - docs
@@ -119,6 +119,10 @@ Now, you have menus in different languages (English and French) which needs to b
 2. Click on the tab Associations and select the appropriate French menu item:Des produits and save the menu.<br>
 
 ![](front15.png)
+
+You can view the available association in Menu item List view.
+
+![](front16.png)
 
 You need to repeat the above process for other menus of their association if available.
 
