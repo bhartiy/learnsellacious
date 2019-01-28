@@ -89,12 +89,13 @@ You need to repeat the above process for other menus of their association are av
 Now, both menus and their menu items are created. To visualize these menus on the frontend, we need to assign the menu modules to these menus.
 1. Go to Joomla administrator > Menus > Manage.
 2. Click on the Add a module for this menu. It will open a new menu module. 
-3. To configure the module:<br>
+3. To configure the module for French Menu:<br>
 Title: French Menu.<br>
 Language: Select French (FR).<br>
 Position: Select position-7 (or any position you want to assign).<br>
 Click Save & Close.<br>
-Repeat the above process to create a module for the English menu. To configure the module for English menu:<br>
+Repeat the above process to create a module for the English menu.<br>
+4.To configure the module for English menu:<br>
 Title: English Menu.<br>
 Language: Select English (en-GB).<br>
 Position: Select position-7 (or any position you want to assign).<br>
