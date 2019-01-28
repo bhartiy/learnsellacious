@@ -1,5 +1,6 @@
 ---
 title: 'Sellacious Backend Translation'
+media_order: 'translation3.png,translation8.png,translation10.png'
 taxonomy:
     category:
         - docs
@@ -10,9 +11,14 @@ From backend of sellacious, you can also translate sellacious backend. In this d
 
 After language installation, you can switch to your language from switcher on the top right.
 
+![](translation3.png)
+
 Now to translate go to Languages > Translations. Select the language and columns as described before here.
 
-In filters, search for smartmenu, select the file.
+![](translation8.png)
+![](translation10.png)
+
+In filters, search for menu, select the file.
 
 You can now translate the backend left menu.
  
