@@ -1,6 +1,6 @@
 ---
 title: 'Backend / Frontend Language Switcher'
-media_order: translation3.png
+media_order: 'translation3.png,front1.png,front2.png,front3.png'
 taxonomy:
     category:
         - docs
