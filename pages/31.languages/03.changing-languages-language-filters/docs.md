@@ -179,3 +179,5 @@ We have now two sets of Menus: one French and another English. Of course, only o
 ![](front21.png)
 
 After saving this module, you can see the language switcher module on the right column of the site.
+
+![](front22.png)
