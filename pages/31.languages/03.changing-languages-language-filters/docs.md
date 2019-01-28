@@ -1,6 +1,6 @@
 ---
 title: 'Backend / Frontend Language Switcher'
-media_order: 'translation3.png,front1.png,front2.png,front3.png,front5.png,front6.png,front7.png,front8.png,front9.png,front10.png,front11.png'
+media_order: 'translation3.png,front1.png,front2.png,front3.png,front5.png,front6.png,front7.png,front8.png,front9.png,front10.png,front11.png,front12.png'
 taxonomy:
     category:
         - docs
@@ -89,10 +89,11 @@ To Create Menu items in the English language:
 
 ![](front11.png)
 
+2. Select the menu item type, Sellacious > Products.
 3. Enter the title Products.
 4. Make sure Menu should be selected English Menu and language should be English as we're creating the menu item for English Menu and save the menu.<br>
 
-
+![](front12.png)
 
 You can repeat the above process to create more menus in the French and English language.
 
