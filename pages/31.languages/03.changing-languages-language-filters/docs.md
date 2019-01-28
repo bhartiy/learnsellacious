@@ -40,9 +40,9 @@ You need to create menus for languages available (English and French). We'll nee
 1. Go to Joomla administrator > Menus > Manage > Add new menu.
 2. First, create a menu for the French language:<br>
 Title: enter **French Menu**.<br>
-Menu Type: enter **frenchmen**.
-Description: enter a description, ie **Menu for French content**.
-Click Save & Close.
+Menu Type: enter **frenchmenu**.<br>
+Description: enter a description, ie **Menu for French content**.<br>
+Click Save & Close.<br>
 3. Now create another menu for the English language:
 Title: enter **English Menu**.
 Menu Type: enter **englishmenu**.
