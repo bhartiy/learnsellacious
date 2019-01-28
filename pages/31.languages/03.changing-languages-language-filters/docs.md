@@ -94,8 +94,8 @@ Title: French Menu.<br>
 Language: Select French (FR).<br>
 Position: Select position-7 (or any position you want to assign).<br>
 Click Save & Close.<br>
-Repeat the above process to create a module for the English menu.<br>
-4.To configure the module for English menu:<br>
+4. Repeat the above process to create a module for the English menu.<br>
+To configure the module for English menu:<br>
 Title: English Menu.<br>
 Language: Select English (en-GB).<br>
 Position: Select position-7 (or any position you want to assign).<br>
