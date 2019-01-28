@@ -69,8 +69,9 @@ You can repeat the above process to create more menus in the French and English 
 
 **Default Home Page**
 
-To publish these menus on the frontend, let's assign default home pages in both languages.
-You can do that by clicking on the star in the Home column next to the menu item. The star will change into the flag of the British for English language and of the French flag for French Langauge. We have assigned the Products menu item in English menu and Des produits menu item in French menu as default home page.
+To publish these menus on the frontend, let's assign default home pages in both languages.<br>
+You can do that by clicking on the star in the Home column next to the menu item. The star will change into the flag of the British for English language and of the French flag for French Langauge.<br>
+We have assigned the Products menu item in English menu and Des produits menu item in French menu as default home page.
 
 ---
 
