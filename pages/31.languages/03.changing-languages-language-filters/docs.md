@@ -1,6 +1,6 @@
 ---
 title: 'Backend / Frontend Language Switcher'
-media_order: 'translation3.png,front1.png,front2.png,front3.png,front5.png,front6.png,front7.png,front8.png,front9.png,front10.png,front11.png,front12.png,front13.png,front14.png,front15.png,front16.png,front17.png,front18.png,front19.png,front20.png'
+media_order: 'translation3.png,front1.png,front5.png,front6.png,front7.png,front8.png,front9.png,front10.png,front11.png,front12.png,front13.png,front14.png,front15.png,front16.png,front17.png,front18.png,front19.png,front20.png,front21.png'
 taxonomy:
     category:
         - docs
@@ -175,4 +175,7 @@ We have now two sets of Menus: one French and another English. Of course, only o
 2. Enter a Title: for example, Choose your language.
 3. Position: Select position-7 ( Or any position you want).
 4. Language: Select All, as this module will be displayed regardless of the selected language.<br>
+
+![](front21.png)
+
 After saving this module, you can see the language switcher module on the right column of the site.
