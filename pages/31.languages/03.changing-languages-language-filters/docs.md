@@ -1,6 +1,6 @@
 ---
 title: 'Backend / Frontend Language Switcher'
-media_order: 'translation3.png,front1.png,front2.png,front3.png,front5.png'
+media_order: 'translation3.png,front1.png,front2.png,front3.png,front5.png,front6.png,front7.png,front8.png'
 taxonomy:
     category:
         - docs
@@ -49,16 +49,24 @@ The fields will appear when the plugin is enabled and saved.
 
 You need to create menus for languages available (English and French). We'll need separate menus pointing towards to English and French. To create menus for diff languages follow below steps:
 1. Go to Joomla administrator > Menus > Manage > Add new menu.
+
+![](front7.png)
+
 2. First, create a menu for the French language:<br>
 Title: enter **French Menu**.<br>
 Menu Type: enter **frenchmenu**.<br>
 Description: enter a description, ie **Menu for French content**.<br>
 Click Save & Close.<br>
+
+![](front6.png)
+
 3. Now create another menu for the English language:<br>
 Title: enter **English Menu**.<br>
 Menu Type: enter **englishmenu**.<br>
 Description: enter a description, ie **Menu for English content**.<br>
 Click Save & Close.
+
+![](front8.png)
 
 ---
 
