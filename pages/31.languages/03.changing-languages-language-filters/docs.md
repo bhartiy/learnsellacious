@@ -24,7 +24,7 @@ To enable the language switcher on the frontend, you need to complete below step
 
 **Install languages:**
 
-To enable the language switcher in the frontend, you need more than one language. You can know about the language installation from here. We're installing French languages here.
+To enable the language switcher in the frontend, you need more than one language. You can know about the language installation from here. We're installing French languages here. [How to install languages in sellacious?](https://www.sellacious.com/documentation-v2#/learn/languages/installing-languages)
 
 **Enable and configure the plugins:**
 
