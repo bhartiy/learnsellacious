@@ -1,6 +1,6 @@
 ---
 title: 'Backend / Frontend Language Switcher'
-media_order: 'translation3.png,front1.png,front2.png,front3.png,front5.png,front6.png,front7.png,front8.png,front9.png,front10.png,front11.png,front12.png,front13.png,front14.png,front15.png,front16.png'
+media_order: 'translation3.png,front1.png,front2.png,front3.png,front5.png,front6.png,front7.png,front8.png,front9.png,front10.png,front11.png,front12.png,front13.png,front14.png,front15.png,front16.png,front17.png'
 taxonomy:
     category:
         - docs
@@ -132,7 +132,10 @@ You need to repeat the above process for other menus of their association if ava
 
 Now, both menus and their menu items are created. To visualize these menus on the frontend, we need to assign the menu modules to these menus.
 1. Go to Joomla administrator > Menus > Manage.
-2. Click on the Add a module for this menu. It will open a new menu module. 
+2. Click on the Add a module for this menu. It will open a new menu module.
+
+![](front17.png)
+
 3. To configure the module for French Menu:<br>
 Title: French Menu.<br>
 Language: Select French (FR).<br>
