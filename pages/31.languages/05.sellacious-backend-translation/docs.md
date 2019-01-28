@@ -1,6 +1,6 @@
 ---
 title: 'Sellacious Backend Translation'
-media_order: 'translation3.png,translation8.png,translation10.png'
+media_order: 'translation3.png,translation8.png,translation10.png,translations16.png,translation17.png'
 taxonomy:
     category:
         - docs
@@ -18,7 +18,13 @@ Now to translate go to Languages > Translations. Select the language and columns
 ![](translation8.png)
 ![](translation10.png)
 
-In filters, search for menu, select the file.
+In filters, search for menu, select the file for **_smartymenu_**.
 
-You can now translate the backend left menu.
+![](translations16.png)
+
+You can now translate the backend left menu. In documentation, I tarnslated the menu "Dashboard".
+
+![](translation17.png)
+
+You can translate sellacious backend, in mmore than one ways. Take a look here. [How to manage translations in sellacious?](https://www.sellacious.com/documentation-v2#/learn/languages/managing-translations)
  
