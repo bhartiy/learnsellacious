@@ -1,6 +1,6 @@
 ---
 title: 'Backend / Frontend Language Switcher'
-media_order: 'translation3.png,front1.png,front2.png,front3.png,front5.png,front6.png,front7.png,front8.png,front9.png,front10.png,front11.png,front12.png'
+media_order: 'translation3.png,front1.png,front2.png,front3.png,front5.png,front6.png,front7.png,front8.png,front9.png,front10.png,front11.png,front12.png,front13.png,front14.png'
 taxonomy:
     category:
         - docs
@@ -103,7 +103,12 @@ You can repeat the above process to create more menus in the French and English 
 
 To publish these menus on the frontend, let's assign default home pages in both languages.<br>
 You can do that by clicking on the star in the Home column next to the menu item. The star will change into the flag of the British for English language and of the French flag for French Langauge.<br>
+
+![](front13.png)
+
 We have assigned the Products menu item in English menu and Des produits menu item in French menu as default home page.
+
+![](front14.png)
 
 ---
 
