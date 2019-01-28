@@ -113,7 +113,7 @@ As we don't need to publish Main Menu on the frontend, we need to unpublish the 
 
 ---
 
-**Frontend Language Switcher Module**
+**Configure the module in frontend**
 
 We have now two sets of Menus: one French and another English. Of course, only one menu will be visible on the frontend, either French or English Menu, which will depend on the browser settings of the visitor. As we want the user to be able to switch from a language to another, we need to add the built-in _Language Switcher Module_.
 
