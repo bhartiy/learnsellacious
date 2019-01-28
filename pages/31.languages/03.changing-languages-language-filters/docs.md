@@ -1,5 +1,5 @@
 ---
-title: 'Changing Languages / Language Filters'
+title: 'Backend / Frontend Language Switcher'
 media_order: translation3.png
 taxonomy:
     category:
