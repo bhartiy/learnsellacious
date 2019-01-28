@@ -77,9 +77,9 @@ We have assigned the Products menu item in English menu and Des produits menu it
 
 **Associate different language Menus**
 
-Now, you have menus in different languages (English and French) which needs to be associated with each other so the site can know which menu is the translation of which menu. To associate the English menu with their translation in French:
+Now, you have menus in different languages (English and French) which needs to be associated with each other so the site can know which menu is the translation of which menu. To associate the English menu with their translation in French:<br>
 1. Go to Joomla administrator > Menus > English Menu > Products.
-2. Click on the tab Associations and select the appropriate French menu item: Des produits and save the menu.
+2. Click on the tab Associations and select the appropriate French menu item: Des produits and save the menu.<br>
 You need to repeat the above process for other menus of their association are available.
 
 ---
@@ -109,5 +109,3 @@ As we don't need to publish Main Menu on the frontend, we need to unpublish the 
 
 1. Go to Extensions > Modules. 
 2. Search the Main Menu module and unpublish it.
-
-
