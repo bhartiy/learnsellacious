@@ -1,5 +1,8 @@
 ---
 title: Export/Import
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
