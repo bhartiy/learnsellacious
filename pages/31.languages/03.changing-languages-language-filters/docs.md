@@ -62,7 +62,7 @@ First, we'll create a menu item for the French menu:
 
 To Create Menu items in the English language, repeat the above steps to step (2).
 3. Enter the title Products.
-4. Make sure Menu should be selected English Menu and language should be English as we're creating the menu item for English Menu and save the menu.
+4. Make sure Menu should be selected English Menu and language should be English as we're creating the menu item for English Menu and save the menu.<br>
 You can repeat the above process to create more menus in the French and English language.
 
 ---
