@@ -1,6 +1,6 @@
 ---
 title: 'Backend / Frontend Language Switcher'
-media_order: 'translation3.png,front1.png,front2.png,front3.png,front5.png,front6.png,front7.png,front8.png,front9.png'
+media_order: 'translation3.png,front1.png,front2.png,front3.png,front5.png,front6.png,front7.png,front8.png,front9.png,front10.png,front11.png'
 taxonomy:
     category:
         - docs
@@ -82,9 +82,18 @@ First, we'll create a menu item for the French menu:
 3. Enter Title Des produits (Products in French). You can give it anything you want. This title will be visible for the users.
 4. Make sure Menu should be selected French Menu and language should be French as we're creating the menu item for French Menu and save the menu.<br>
 
-To Create Menu items in the English language, repeat the above steps to step (2).
+![](front10.png)
+
+To Create Menu items in the English language:
+1. Go to Joomla administrator > Menus > English Menu > Add New Menu Item.
+
+![](front11.png)
+
 3. Enter the title Products.
 4. Make sure Menu should be selected English Menu and language should be English as we're creating the menu item for English Menu and save the menu.<br>
+
+
+
 You can repeat the above process to create more menus in the French and English language.
 
 ---
