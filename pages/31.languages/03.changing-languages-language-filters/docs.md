@@ -59,6 +59,7 @@ First, we'll create a menu item for the French menu:
 2. Select the menu item type, Sellacious > Products.
 3. Enter Title Des produits (Products in French). You can give it anything you want. This title will be visible for the users.
 4. Make sure Menu should be selected French Menu and language should be French as we're creating the menu item for French Menu and save the menu.<br>
+
 To Create Menu items in the English language, repeat the above steps to step (2).
 3. Enter the title Products.
 4. Make sure Menu should be selected English Menu and language should be English as we're creating the menu item for English Menu and save the menu.
