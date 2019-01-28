@@ -1,6 +1,6 @@
 ---
 title: 'Backend / Frontend Language Switcher'
-media_order: 'translation3.png,front1.png,front2.png,front3.png,front5.png,front6.png,front7.png,front8.png,front9.png,front10.png,front11.png,front12.png,front13.png,front14.png'
+media_order: 'translation3.png,front1.png,front2.png,front3.png,front5.png,front6.png,front7.png,front8.png,front9.png,front10.png,front11.png,front12.png,front13.png,front14.png,front15.png'
 taxonomy:
     category:
         - docs
@@ -116,7 +116,10 @@ We have assigned the Products menu item in English menu and Des produits menu it
 
 Now, you have menus in different languages (English and French) which needs to be associated with each other so the site can know which menu is the translation of which menu. To associate the English menu with their translation in French:<br>
 1. Go to Joomla administrator > Menus > English Menu > Products.
-2. Click on the tab Associations and select the appropriate French menu item: Des produits and save the menu.<br>
+2. Click on the tab Associations and select the appropriate French menu item:Des produits and save the menu.<br>
+
+![](front15.png)
+
 You need to repeat the above process for other menus of their association if available.
 
 ---
