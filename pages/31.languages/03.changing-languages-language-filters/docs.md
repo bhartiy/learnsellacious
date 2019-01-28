@@ -22,11 +22,11 @@ To enable the language switcher on the frontend, you need to complete below step
 3. Navigate language Menus
 4. Configure the module in frontend
 
->**Install languages:**
+>>**Install languages:**
 
 To enable the language switcher in the frontend, you need more than one language. You can know about the language installation from here. We're installing French languages here. [How to install languages in sellacious?](https://www.sellacious.com/documentation-v2#/learn/languages/installing-languages)
 
->**Enable and configure the plugins:**
+>>**Enable and configure the plugins:**
 
 To use language switcher in the frontend, you need to enable the plugins listed below:
 1. System - Language Code: This plugin provides the ability to change the language code in the generated HTML document to improve SEO.
@@ -34,7 +34,7 @@ The fields will appear when the plugin is enabled and saved.
 
 2. System - Language Filter: This plugin filters the displayed content depending on the language. This plugin is to enable the Language Switcher module. By default, this plugin will try to detect the language settings of the visitor browser and display the site in this language (if available). You can also configure this plugin according to your needs.
 
->**Navigate language Menus:**
+>>**Navigate language Menus:**
 
 You need to create menus for languages available (English and French). We'll need separate menus pointing towards to English and French. To create menus for diff languages follow below steps:
 1. Go to Joomla administrator > Menus > Manage > Add new menu.
@@ -113,7 +113,7 @@ As we don't need to publish Main Menu on the frontend, we need to unpublish the 
 
 ---
 
->**Configure the module in frontend**
+>>**Configure the module in frontend**
 
 We have now two sets of Menus: one French and another English. Of course, only one menu will be visible on the frontend, either French or English Menu, which will depend on the browser settings of the visitor. As we want the user to be able to switch from a language to another, we need to add the built-in _Language Switcher Module_.
 
