@@ -1,6 +1,6 @@
 ---
 title: 'Backend / Frontend Language Switcher'
-media_order: 'translation3.png,front1.png,front2.png,front3.png'
+media_order: 'translation3.png,front1.png,front2.png,front3.png,front5.png'
 taxonomy:
     category:
         - docs
@@ -22,17 +22,28 @@ To enable the language switcher on the frontend, you need to complete below step
 3. Navigate language Menus
 4. Configure the module in frontend
 
+---
+
 **1. Install languages:**
 
 To enable the language switcher in the frontend, you need more than one language. You can know about the language installation from here. We're installing French languages here. [How to install languages in sellacious?](https://www.sellacious.com/documentation-v2#/learn/languages/installing-languages)
 
+---
+
 **2. Enable and configure the plugins:**
 
 To use language switcher in the frontend, you need to enable the plugins listed below:
+
+![](front1.png)
+
 1. System - Language Code: This plugin provides the ability to change the language code in the generated HTML document to improve SEO.
 The fields will appear when the plugin is enabled and saved.
 
 2. System - Language Filter: This plugin filters the displayed content depending on the language. This plugin is to enable the Language Switcher module. By default, this plugin will try to detect the language settings of the visitor browser and display the site in this language (if available). You can also configure this plugin according to your needs.
+
+![](front5.png)
+
+---
 
 **3. Navigate language Menus:**
 
