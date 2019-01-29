@@ -25,8 +25,8 @@ To submit the specifications of a product:
 5. Submit the product details and specifications.
 6. Save the product.
 
-![](spec3.png)
+![](specification3.png)
 
 7. In frontend, you can check the specification of the product.
 
-![](spec4.png)
+![](specification4.png)
