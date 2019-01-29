@@ -1,6 +1,6 @@
 ---
 title: Specifications
-media_order: 'spec1.png,spec2.png,spec3.png,spec4.png'
+media_order: 'spec1.png,spec2.png'
 taxonomy:
     category:
         - docs
