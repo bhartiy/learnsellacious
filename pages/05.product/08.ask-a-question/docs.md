@@ -1,6 +1,6 @@
 ---
 title: 'Ask a question'
-media_order: 'ask_a_question.jpg,product_questions.jpg,send.jpg,questions.png,answer.png'
+media_order: 'ask_a_question.jpg,product_questions.jpg,send.jpg,questions.png,answer.png,question`.png'
 taxonomy:
     category:
         - docs
@@ -8,6 +8,8 @@ visible: true
 ---
 
 **Ask a question** feature is present on the sellacious panel in which User can ask any question on related to the product. User can ask any questions from the frontend.
+
+---
 
 **Steps to "Ask a Question" related to a Product:**
 
@@ -18,6 +20,8 @@ visible: true
 5. And your asked question will sent to the admin/seller of that product.
 
 ![](ask_a_question.jpg)
+
+---
 
 **To answer the asked question as admin/seller, following steps are:**
 
@@ -37,3 +41,13 @@ visible: true
 <br>**2. One question can have only one answer.**
 
 ![](answer.png)
+
+---
+
+**Configure Ask A Question:**
+
+You can always configure Ask A questions settings.
+
+You can do that from Sellacious backend > Settings > Global Configuration > General.
+
+![](question%60.png)
