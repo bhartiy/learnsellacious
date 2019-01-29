@@ -6,16 +6,5 @@ taxonomy:
 visible: true
 ---
 
-_**Specifications**_ are added to a product to describe it precisely, a detailed description of the design and material used in its making. 
+**_Specifications_** are added to a product to describe it precisely, a detailed description of the design and material used in its making. In the specifications tab are the product attributes and this tab is only available in a product when the category is selected. You can know more about the products attributes here. [What are products attributes?](https://www.sellacious.com/documentation-v2#/learn/additional-attributes/product-attributes)
 
-**You can add specifications to a product from the following ways:**
-
-1.  Go to the sellacious admin panel.
-2.  Go to the shop menu and select the product catalogue from the drop down bar.
-3.  Create a product.
-4.  Once you create the project, save it.
-5.  Open the product in the product catalogue.
-6.  After opening you will see a specifications tab on the left side,open it.
-7.  Fill the specification columns.
-8.  Save it.
-9.  Specifications of that product will be save.
