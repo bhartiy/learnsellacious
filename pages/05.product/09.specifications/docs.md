@@ -11,7 +11,7 @@ visible: true
 
 ---
 
-To submit the specifications of a product:
+**To submit the specifications of a product:**
 1. Go to Sellacious backend > Shop > Product Catalog.
 2. Click on New to create a new product.
 
