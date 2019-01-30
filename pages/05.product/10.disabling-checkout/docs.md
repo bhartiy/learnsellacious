@@ -6,9 +6,9 @@ taxonomy:
 visible: true
 ---
 
-1. Go to the Sellacious panel of your website.
-2. For disabling Checkout, go to Settings and select global configuration from the dropped down menu.
+This option is for when you don't want to sell products on your site. By disabling checkout, checkout options like buy now and add to cart buttons, won't be available on the frontend.
 
-3. Go to the shop settings tab, then on the allow checkout mark is as "No".
-4. Now your checkout is disabled. Now, The User will not be able to allow or checkout the orders.
-
+To disable Checkout feature from your site:
+1. Go to Sellacious backend > Settings > Global Configuration > Shop Settings.
+2. Select No for the Allow checkout option.
+3. Checkout is disabled from your whole site.
