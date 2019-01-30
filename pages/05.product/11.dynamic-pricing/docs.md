@@ -1,6 +1,9 @@
 ---
 title: 'Dynamic pricing'
 media_order: 'checkout1.jpg,dynamic.jpg'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
