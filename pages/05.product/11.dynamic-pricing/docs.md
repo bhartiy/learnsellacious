@@ -1,5 +1,5 @@
 ---
-title: 'Dynamic pricing'
+title: 'Advance pricing'
 media_order: 'checkout1.jpg,dynamic.jpg'
 taxonomy:
     category:
