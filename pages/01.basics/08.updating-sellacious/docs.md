@@ -1,14 +1,41 @@
 ---
 title: 'Updating Sellacious'
-media_order: 'update.jpg,joomla.png'
+media_order: 'update.jpg,joomla.png,update-manual.png,update-manual-1.png,update-manual-2.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
 **Very Important:** 
 Kindly Take backup of your sellacious before updating it. 
-It's preferred not to upgrade live site and upgrade it over stagging first, test it and then move it to live.
+It's preferred not to upgrade live site and upgrade it over staging first, test it and then move it to live.
 
-**To Update a new Version Of Sellacious, follow the steps:**
+There are two ways to update Sellacious on your site.
+1. Manual Update
+2. From Joomla
+
+**1. To update sellacious manually, follow below steps:**
+
+1. Go to https://www.sellacious.com/p/sellacious-extensions/free-extensions/sellacious and download core and extended package of latest version of sellacious or you can also find both of these packages in the UNZIP_FIRST in the _Install In Joomla_ folder.
+
+![](update-manual.png)
+
+2. Go to Yoursite.com/administrator. 
+3. Proceed to Extensions and click on Manage > Install.
+4. Select tab 'upload from package' and click on browse for file.
+
+![](update-manual-1.png)
+
+5. Select the file with the name like `pkg_sellacious_v1.7.0.zip` (_version can varied_). This is the core package of sellacious.<br>_**Note: It's mamdatory that you install the core package of sellacious first.**_
+6. Once the core package of sellacious first, you'll get the msg to Downlaod and Install. You can either click on that button to complete the update of sellacious or  manully install the extended package of sellacious `pkg_sellacious_extended_v1.7.0.zip` (_version can varied_).<br>**Note: Installation of this package after Core is very important to fetch all the important updates of sellacious. If you don't install this package of sellacious, you'll face the issue with your sellacious.**
+
+![](update-manual-2.png)
+
+---
+---
+
+**2. To Update a new Version Of Sellacious, follow the steps:**
 
 1. Go to the Joomla administration panel of your website.
 2. Go to Extensions and click on Manage.
