@@ -1,6 +1,9 @@
 ---
 title: Introduction
 media_order: up.png
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
