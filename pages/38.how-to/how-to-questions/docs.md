@@ -1,6 +1,10 @@
 ---
 title: 'How to questions'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
-Your page content goes here.
+Below are list of How To Question:
+
