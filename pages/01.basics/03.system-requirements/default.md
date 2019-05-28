@@ -8,8 +8,8 @@ Before we begin, please ensure that you have met the Minimum Requirements in ord
 **Minimum Requirements**<br>
 In order for Sellacious to operate correctly, please ensure that the following system requirements are met:<br>
 
-`Joomla 3.6` and above is installed.<br>
-PHP `v5.6+` and above.<br>
+`Joomla 3.9` and above is installed.<br>
+PHP `v7.1+` and above.<br>
 PHP Extensions: `ZIP Library`. It is requires by Sellacious for much faster extraction process.<br>
 PHP Extensions: `CURL Library`. It is requires by Sellacious to perform outgoing connections.<br>
 PHP Extensions: `MB String Library`. It is used by Sellacious in manipulating of database strings.<br>
