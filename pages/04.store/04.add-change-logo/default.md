@@ -1,6 +1,6 @@
 ---
 title: 'Add/Change Site Logo'
-media_order: 'logo-change-1.png,logo-change-2.png,logo-change-3.png'
+media_order: 'logo-change-1.png,logo-change-3.png,logo-change-2.png'
 ---
 
 In sellacious, you can change the logo of your site easily. To do this, go to Joomla administrator your site. You can Joomla administrator yoursite.com/administrator.
