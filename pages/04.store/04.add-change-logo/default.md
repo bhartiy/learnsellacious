@@ -11,7 +11,7 @@ Now, go to **Manage > Templates.**
 
 Select the style or layout, in which you want to change the logo.
 
-
+![](logo-change.png)
 
 _Note: If you have more than one layout applied to your site you'll need to change the logo in all those layouts.
 For example: In sellacious Squick, there are two layouts, default and left sidebar, while in js-kart there are four layouts. _
