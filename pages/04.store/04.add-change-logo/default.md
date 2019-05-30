@@ -14,7 +14,7 @@ Select the style or layout, in which you want to change the logo.
 ![](logo-change-2.png)
 
 _Note: If you have more than one layout applied to your site you'll need to change the logo in all those layouts.
-For example: In sellacious Squick, there are two layouts, default and left sidebar, while in js-kart there are three layouts. _
+For example: In sellacious Squick, there are two layouts, default and left sidebar, while in js-kart there are four layouts. _
 
 Now, in the **Basic tab**, you can change the logo for your site.
 
