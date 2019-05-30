@@ -22,4 +22,4 @@ Now, in the **Basic tab**, you can change the logo for your site.
 
 You can change or add the favicon and many from this section.
 
-P.S. This document is for helix framework only.
+_Note: This document is for helix framework only._
