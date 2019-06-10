@@ -1,5 +1,8 @@
 ---
 title: 'Before You Install'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -43,7 +46,7 @@ Installing Instructions
 1) Demo Clone (Quickstart):
 
 Video tutorial: 
-https://www.sellacious.com/documentation/installation/quickstart-installation
+[https://www.sellacious.com/documentation/installation/quickstart-installation](https://www.sellacious.com/documentation/installation/quickstart-installation)
 
 This File is time saver, it includes Joomla, Sample Data, Sellacious and SP Pagebuilder. And it is very easy to install.
 	a) Extract the QuickStart file in your localhost/server and follow the instructions.
