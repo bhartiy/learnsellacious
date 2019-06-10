@@ -57,9 +57,10 @@ This File is time saver, it includes Joomla, Sample Data, Sellacious and SP Page
 2) Install in Joomla
 
 Video tutorial: 
-https://www.sellacious.com/documentation/installation/install-via-jed
-You can install it like any other extension Open your administrator panel goto Extensions->install->Upload Package File and then Upload pkg_sellacious_v--.zip file first then pkg_sellacious_extended_v--.zip.
-Remember first pkg_sellacious_v--.zip file then pkg_sellacious_extended_v--.zip.
+[https://www.sellacious.com/documentation/installation/install-via-jed](https://www.sellacious.com/documentation/installation/install-via-jed)
+You can install it like any other extension Open your administrator panel goto **Extensions->install->Upload Package File** and then Upload **pkg_sellacious_v--.zip** file first then p**kg_sellacious_extended_v--.zip**.
+
+**_Note: Remember first pkg_sellacious_v--.zip file then pkg_sellacious_extended_v--.zip._**
 
 And you can also install Sellacious in Joomla from Install from Web option as well, by searching Sellacious.
 	a) Search Sellacious in search field then install,
@@ -69,7 +70,7 @@ And you can also install Sellacious in Joomla from Install from Web option as we
 
 3) Template Only:
 
-https://www.sellacious.com/documentation/installation/template-installation
+[https://www.sellacious.com/documentation/installation/template-installation](https://www.sellacious.com/documentation/installation/template-installation)
 Users who already has a Joomla site must be aware of how to install templates, if not follow below instructions:
 	a) Login to your administrator panel and goto Extensions->Install-> Upload Package File.
 	b) Upload template package file after installation goto Extensions->templates and make this template default.
