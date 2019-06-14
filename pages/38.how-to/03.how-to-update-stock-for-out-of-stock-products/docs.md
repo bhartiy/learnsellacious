@@ -1,6 +1,6 @@
 ---
 title: 'How to update stock for out of stock products?'
-media_order: update-stock-product.png
+media_order: 'update-stock-product.png,update-stock-inventory.png'
 taxonomy:
     category:
         - docs
@@ -17,3 +17,5 @@ In sellacious, there are 2 ways to update the stock of products.
 ![](update-stock-product.png)
 
 **2. From Inventory Manager** - Inventory manager is a premium feature of sellacious. To update the stock of out of stock product, search the product of which you want to update the stock and update the stock. 
+
+![](update-stock-inventory.png)
