@@ -6,5 +6,5 @@ taxonomy:
 visible: true
 ---
 
-Below are list of How To Question:
+Below is list of How To Question:
 
