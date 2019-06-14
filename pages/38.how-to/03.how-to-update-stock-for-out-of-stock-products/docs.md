@@ -1,5 +1,6 @@
 ---
 title: 'How to update stock for out of stock products?'
+media_order: update-stock-product.png
 taxonomy:
     category:
         - docs
@@ -12,5 +13,7 @@ In sellacious, there are 2 ways to update the stock of products.
 > From Inventory Manager (Premium Feature).
 
 **1. From Product** - You can update the stock from the product. To update stock go to Sellacious Backend > Shop > Product Catalog. Open the product and update the stock from inventory tab.
+
+![](update-stock-product.png)
 
 **2. From Inventory Manager** - Inventory manager is a premium feature of sellacious. To update the stock of out of stock product, search the product of which you want to update the stock and update the stock. 
