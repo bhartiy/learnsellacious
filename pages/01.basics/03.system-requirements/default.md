@@ -22,7 +22,7 @@ PHP: `[post_max_size = 20MB]`.<br>
 PHP: `[magic_quotes_gpc = Off]`.<br>
 PHP: `[max_execution_time = 60]`.<br>
 PHP: `[memory_limit = 64MB]`;<br>
-MySQL `v5.0.0` and above.<br>
+MySQL `v5.1` and above.<br>
 
 
 **Recommended Requirements**<br>
