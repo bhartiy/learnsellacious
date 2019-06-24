@@ -10,6 +10,7 @@ In order for Sellacious to operate correctly, please ensure that the following s
 
 `Joomla 3.9` and above is installed.<br>
 PHP `v7.1+` and above.<br>
+PHP Extensions: Off the safe mode of PHP.<br>
 PHP Extensions: `ZIP Library`. It is requires by Sellacious for much faster extraction process.<br>
 PHP Extensions: `CURL Library`. It is requires by Sellacious to perform outgoing connections.<br>
 PHP Extensions: `MB String Library`. It is used by Sellacious in manipulating of database strings.<br>
