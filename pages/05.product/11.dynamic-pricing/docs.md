@@ -1,6 +1,6 @@
 ---
 title: 'Advance pricing'
-media_order: 'Capture.PNG,Capture.PNG'
+media_order: 'Capture.PNG,Capture1.PNG'
 taxonomy:
     category:
         - docs
@@ -14,7 +14,7 @@ Dynamic pricing is a pricing type is USP of sellacious. With this pricing type y
 2. For creating the dynamic pricing, Go to the settings then select the global configuration from the drop down menu.
 3. Go to the general tab then select the pricing model as dynamic.
 
-![](Capture.PNG)
+![](Capture1.PNG)
 
 
 5. Click on the save button to save the details of the dynamic pricing on the shop.
