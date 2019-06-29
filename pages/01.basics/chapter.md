@@ -11,4 +11,3 @@ child_type: docs
 # Basics
 
 Discover the **basic** of sellacious 
-![](http://https://www.sellacious.com/images/revslider/uploads/hero-with-graph-menu.svg)
