@@ -7,6 +7,9 @@ taxonomy:
 visible: true
 ---
 
+![](dashboard1.jpg)
+
+
 **Dashboard:** The dashboard is an information management tool to track multiple data sources because it provides a central location for business to monitor and analyze performance.From here you can analyze the growth of your site.
 
 **Shop:** The shop is the place where you can get the details of all the created products. Here you can create the products in your shop by using the product catalogue. Sellacious is having vast inventory manager to manage the stock. You can add the Taxes and discount for the products created and you can create new taxes and discount rules. Shipping rules can be added to the product while shipping the product. You can apply the coupon code for each product with the coupon menu in the shop. Then orders menu will help you to find the placed orders from your website. Review and rating menu will help you to list the review and ratings of the products.
