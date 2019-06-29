@@ -5,7 +5,7 @@ taxonomy:
 visible: true
 ---
 
-##Creating Menu For Shop
+###Creating Menu For Shop
 
 Once Sellacious is installed and activated, You need to create a menu item so that products can be displayed on the frontend. This is a fairly simple task. You can watch this video for more info:
 
