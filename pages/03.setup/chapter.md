@@ -1,9 +1,11 @@
 ---
 title: Setup
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 2
+### Chapter 3
 
 # Setup
 
