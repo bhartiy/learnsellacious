@@ -1,5 +1,6 @@
 ---
 title: 'Product Categories'
+media_order: Capture.PNG
 taxonomy:
     category:
         - docs
@@ -12,6 +13,7 @@ visible: true
 3. To create a new category, click on New button.
 4. Fill the information about the category in different sections available in the category window. You can also view this link. [How to create a Product Category?](https://www.sellacious.com/learn/categories/product-categories)
 5. Click on Save button to save the category details, the product category added successfully.
+![](Capture.PNG)
 
 **You can apply the category for the partciular product by:**
 
