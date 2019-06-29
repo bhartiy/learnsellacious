@@ -30,4 +30,3 @@ visible: true
 
 
 <br>
-![](dashboard1.jpg)
