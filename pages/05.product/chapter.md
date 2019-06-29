@@ -1,9 +1,11 @@
 ---
 title: Product
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 4
+### Chapter 5
 
 # Product
 
