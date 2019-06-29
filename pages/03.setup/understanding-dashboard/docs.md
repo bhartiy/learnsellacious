@@ -1,6 +1,9 @@
 ---
 title: 'Understanding Dashboard'
 media_order: dashboard.jpg
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -15,9 +18,9 @@ From here you can analyze the growth of your site. Sellacious gives you many opt
 
 **Site orders**: The total number of orders placed and processed on your website. This value consists the orders of following order statuses: Order Placed, Payment Pending Approval, The Payment Approved, Packaged, Waiting for pickup, Shipped, Delivered, Returned, Exchanged, Payment failed, Order placed and cancelled.
 
-**Orders value**: This value represents only the orders of the present day. This value consists the orders of the following statuses: Order Placed, Payment Pending Approval, The Payment Approved, Packaged, Waiting for pickup, Shipped, Delivered, Returned, Exchanged, Payment failed, Order placed and Cancelled. 
+**Orders value**: This value represents only the orders of the present day. This value consists the orders of the following stOtuses: Order Placed, Payment Pending Approval, The Payment Approved, Packaged, Waiting for pickup, Shipped, Delivered, Returned, Exchanged, Payment failed, Order placed and Cancelled. 
 
-**orders today**: The number of orders which are placed on a particular day. The value will be shown according to the orders placed for a particular day. The orders today is calculated only when the number of the products are to be bought from the front end.
+**Orders today**: The number of orders which are placed on a particular day. The value will be shown according to the orders placed for a particular day. The orders today is calculated only when the number of the products are to be bought from the front end.
 
 **Revenue Today**: The revenue will be calculated according to the daily basis. The value will be shown in the revenue today section in the dashboard of the sellacious. The Revenue today section will represent the amount of money we got by selling the product.
 
