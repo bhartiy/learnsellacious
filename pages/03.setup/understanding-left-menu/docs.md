@@ -1,6 +1,9 @@
 ---
-title: 'Understanding Left Menu'
+title: 'Understanding Menu'
 media_order: dashboard1.jpg
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
