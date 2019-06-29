@@ -27,7 +27,7 @@ g). Now your free license is activated, you can check it in your Sellacious pane
 3. While configuring sellacious first time, There are three steps to configure the sellacious by About Store, Shop settings and Premium Trial.
 <br>**About Store**: You can Personalise your sellacious store.You can enter the name of your store,store email,store phone, shop address.Store name and store email are the mandatory fields of about store section. 
 ![](about.jpg)
-<br>**shop settings**: Shop settings will configure your shop with few basic settings.It includes enable marketplace,store country,store currency. You can choose the options For enabling the marketplace by single seller and multiple seller. 
+<br>**Shop settings**: Shop settings will configure your shop with few basic settings.It includes enable marketplace,store country,store currency. You can choose the options For enabling the marketplace by single seller and multiple seller. 
 ![](store.jpg)
 <br>**Premium Trial**: You can activate the premium trial from here.The premium Trial will be activated for 14 days.
 ![](premium.jpg)
@@ -50,15 +50,15 @@ g). Now your free license is activated, you can check it in your Sellacious pane
 <br> d). Add variants for this product.
 ![](variants.jpg)
 
-6. You can **manage inventory** by Shop-> Inventory manager
+6. You can **Manage inventory** by Shop-> Inventory manager
 ![](inventory_manager.jpg)
-7. create **taxes and disocunts** for your shop. Shop-> Tax and Discounts
+7. create **Taxes and disocunts** for your shop. Shop-> Tax and Discounts
 ![](Taxes&Discounts.jpg)
-8. Create **shippping rules** for your shop. Shop-> Shipping rule.
+8. Create **Shippping rules** for your shop. Shop-> Shipping rule.
 ![](shipping-rule.jpg)
-9. Create **coupons** for your shop. Shop-> Coupons
+9. Create **Coupons** for your shop. Shop-> Coupons
 ![](coupons.jpg)
-10. For **upload the logo** for your shop.
+10. For **Upload the logo** for your shop.
 First of all, go to the Joomla administration panel of your website.
 ![](joomla.jpg)
 <br>a) Go to Extensions and click on Templates -> Styles option from the dropped down menu.
@@ -70,5 +70,5 @@ First of all, go to the Joomla administration panel of your website.
 <br>d) You can upload the logo from here.
 <br>e) Click on the save button to save the logo.
 ![](save_logo.jpg)
-11. For **creating plugin**, Go to the appstore https://www.sellacious.com/apps-and-integrations to add plugins and modules for your shop.
+11. For **Creating plugin**, Go to the appstore https://www.sellacious.com/apps-and-integrations to add plugins and modules for your shop.
 
