@@ -58,17 +58,5 @@ g). Now your free license is activated, you can check it in your Sellacious pane
 ![](shipping-rule.jpg)
 9. Create **Coupons** for your shop. Shop-> Coupons
 ![](coupons.jpg)
-10. For **Upload the logo** for your shop.
-First of all, go to the Joomla administration panel of your website.
-![](joomla.jpg)
-<br>a) Go to Extensions and click on Templates -> Styles option from the dropped down menu.
-![](templates2.jpg)
-<br>b) Click on the template you want to edit the logo.
-![](Template_style.png)
-<br>c) Go to the Basic -> Logo -> upload the logo
-![](logo.jpg)
-<br>d) You can upload the logo from here.
-<br>e) Click on the save button to save the logo.
-![](save_logo.jpg)
-11. For **Creating plugin**, Go to the appstore https://www.sellacious.com/apps-and-integrations to add plugins and modules for your shop.
+10. For **Creating plugin**, Go to the appstore https://www.sellacious.com/apps-and-integrations to add plugins and modules for your shop.
 
