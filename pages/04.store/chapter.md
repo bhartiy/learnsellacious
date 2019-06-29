@@ -1,9 +1,11 @@
 ---
 title: Store
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 3
+### Chapter 4
 
 # Store
 
