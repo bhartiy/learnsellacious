@@ -1,8 +1,8 @@
 ---
 title: Basics
+media_order: Capture.PNG
 taxonomy:
-    category:
-        - docs
+    category: docs
 child_type: docs
 ---
 
@@ -11,3 +11,4 @@ child_type: docs
 # Basics
 
 Discover the **basic** of sellacious 
+![](http://https://www.sellacious.com/images/revslider/uploads/hero-with-graph-menu.svg)
