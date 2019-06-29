@@ -1,4 +1,5 @@
 ---
+title: 'Creating Menu For Shop'
 taxonomy:
     category: docs
 visible: true
