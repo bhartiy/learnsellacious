@@ -7,7 +7,7 @@ taxonomy:
 visible: true
 ---
 
-1. Download the sellacious software from https://www.sellacious.com/download
+1. Download the sellacious software from [](https://www.sellacious.com/download)
 ![](download2.jpg)
 2. Once installed, Sellacious must be activated so that Sellacious can use many of its API. As soon as Sellacious is installed and launched, It asks for an active subscription. Subscription is a simple Email submit process.
 a). After installing Sellacious, go to your Sellacious administration panel.
