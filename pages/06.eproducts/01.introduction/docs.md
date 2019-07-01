@@ -1,6 +1,9 @@
 ---
 title: Introduction
 media_order: 9.png
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
