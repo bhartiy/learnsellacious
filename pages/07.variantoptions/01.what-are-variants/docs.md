@@ -1,5 +1,5 @@
 ---
-title: '01.What are Variants'
+title: 'What are Variants'
 taxonomy:
     category:
         - docs
