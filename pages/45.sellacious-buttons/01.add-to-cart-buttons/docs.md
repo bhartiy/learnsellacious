@@ -9,7 +9,9 @@ visible: true
 
 There are two types of Add to Cart buttons in sellacious.  
 
-1. **New Add to Cart Buttons:** For these type of buttons you don't need to create any product in sellacious. You can directly create these buttons from Sellacious Backend.
+## 1. **New Add to Cart Buttons:**  
+
+For these type of buttons you don't need to create any product in sellacious. You can directly create these buttons from Sellacious Backend.
 
 To create add to cart buttons, go to **sellacious Backend > Shop > Buy Now Buttons**.  
 
@@ -36,7 +38,9 @@ Below is the image of this **Add to cart** button in custom HTML module.
 
 ---
 
-2. **Buttons For already created Products:** In sellacious you can use buttons of already created products too. In Product List there's a column for Button Codes. You can copy Add to Cart button code from there and use it. 
+## 2. **Buttons For already created Products:**  
+
+In sellacious you can use buttons of already created products too. In Product List there's a column for Button Codes. You can copy Add to Cart button code from there and use it. 
 
 ![](copy-code.png)
 
@@ -44,5 +48,5 @@ The code copied for add to cart button of the product will be like this `[sellac
 
 ![](button.png)
 
->>> In module make sure to select 'Prepare Content' to show the button.
->>> ![](module.png)
+> In module make sure to select 'Prepare Content' to show the button.
+> ![](module.png)
