@@ -1,5 +1,5 @@
 ---
-title: 'Add to Cart & Buy Now buttons'
+title: 'Sellacious Buttons'
 taxonomy:
     category: docs
     tag: ''
