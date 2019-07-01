@@ -40,11 +40,11 @@ Below is the image of this **Buy Now** button in custom HTML module and Article.
 
 ## 2. **Buttons For already created Products:**  
 
-In sellacious you can use buttons of already created products too. In Product List there's a column for Button Codes. You can copy Add to Cart button code from there and use it. 
+In sellacious you can use buttons of already created products too. In Product List there's a column for Button Codes. You can copy Buy Now button code from there and use it. 
 
 ![](copy-code.png)
 
-The code copied for add to cart button of the product will be like this `[sellacious.cart.add=P1V0S323;btn btn-success;Add to Cart]`. Paste this code in Article or Module. And it would look like this.
+The code copied for buy now button of the product will be like this `[sellacious.cart.buy=P1V0S323;btn btn-success;Buy Now]`. Paste this code in Article or Module. And it would look like this.
 
 ![](button.png)
 
