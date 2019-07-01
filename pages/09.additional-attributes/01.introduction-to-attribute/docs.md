@@ -1,6 +1,9 @@
 ---
-title: 'Introduction to Attribute'
+title: '01.Introduction to Attribute'
 media_order: pa.png
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
