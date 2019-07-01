@@ -1,5 +1,8 @@
 ---
 title: 'Minimum and Maximum Quantity'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -15,10 +18,9 @@ By Default sellacious provide Minimum & Maximum Quantity column, but the user ha
 1. Go to the Sellacious panel of your website.
 2. Go to settings menu at the left menu bar and select global configuration from the drop down           
     Menu.
-3. In the extension’s setting, go to Frontend display options.
-4. At the bottom, there will be an option of Backend Display Option.
-5. Edit the fields, check Minimum & Maximum Quantity  in all columns.
-6. Save the changes you made.
+3. At the bottom, there will be an option of Backend Display Option.
+4. Edit the fields, check Minimum & Maximum Quantity  in all columns.
+5. Save the changes you made.
 And In Creation of  any product a Minimum & Maximum Quantity option will be  available.
 
 **You can add Minimum & Maximum details through import method and the steps are:**
