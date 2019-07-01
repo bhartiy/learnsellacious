@@ -1,6 +1,9 @@
 ---
 title: 'Variant Specification'
-media_order: 'variant spec..png,variant spec1..png'
+media_order: 'variant spec..png,variant spec1..png,Atributes.PNG'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -9,8 +12,12 @@ It is a detailed description of the design and materials used to making the vari
 
 To add variant specifications, follow steps:
 1. Go to the Sellacious admin panel.
-2. Go to categories, select categories type from the drop down menu( For eg. Physical Product).
-3. select a category to add variant specifications in that category.
+2. Create Atributes of specifications you want to add with your variants from Additional Attributes>>Product attributes
+
+![](Atributes.PNG)
+
+4. Go to categories, select categories type from the drop down menu( For eg. Physical Product).
+5. Select a category to add variant specifications in that category.
 
 ![](variant%20spec..png)
 
