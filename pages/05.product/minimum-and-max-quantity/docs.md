@@ -1,6 +1,6 @@
 ---
 title: 'Minimum and Maximum Quantity'
-media_order: 'maxx Min.PNG,Max Min.PNG'
+media_order: 'maxx Min.PNG,njhjhh.PNG'
 taxonomy:
     category:
         - docs
@@ -22,7 +22,8 @@ By Default sellacious provide Minimum & Maximum Quantity column, but the user ha
 3. At the bottom, there will be an option of Backend Display Option.
 4. Edit the fields, check Minimum & Maximum Quantity  in all columns.
 5. Save the changes you made.
-![](Max%20Min.PNG)
+
+![](njhjhh.PNG)
 
 **Now at the time of product a Minimum & Maximum Quantity option will be  available.**
 
