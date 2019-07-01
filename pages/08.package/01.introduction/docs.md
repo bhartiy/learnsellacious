@@ -1,5 +1,5 @@
 ---
-title: 01.Introduction
+title: Introduction
 taxonomy:
     category:
         - docs
