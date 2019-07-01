@@ -1,5 +1,8 @@
 ---
-title: 'What are Variants'
+title: '1. What are Variants'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
