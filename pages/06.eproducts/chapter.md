@@ -1,9 +1,11 @@
 ---
 title: E-Products
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 5
+### Chapter 6
 
 # E-Products
 
