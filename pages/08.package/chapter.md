@@ -1,9 +1,11 @@
 ---
 title: Package
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 7
+### Chapter 8
 
 # Package
 
