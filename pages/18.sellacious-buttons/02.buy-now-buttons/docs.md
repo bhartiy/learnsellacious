@@ -1,6 +1,6 @@
 ---
 title: 'Buy Now Buttons'
-media_order: 'buttons.jpg,buynow-button.png,buy-code.png,buy-button.png,buy-btn.png'
+media_order: 'buttons.jpg,buynow-button.png,buy-code.png,buy-button.png,buy-btn.png,module.png,copy-code.png'
 taxonomy:
     category:
         - docs
