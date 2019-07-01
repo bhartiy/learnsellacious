@@ -1,5 +1,9 @@
 ---
 title: 'Related Product'
+media_order: 'Related Product.PNG'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -15,8 +19,10 @@ If a you want to create a new product, all you have to type the group name and p
 4. Type information related to the new product.
 5. From the left menu, select Related Product tab.
 6. In the Related Product Group, type a name (to create a new group).
-7. click on save button to save the product details.
+7. Click on save button to save the product details.
 8. And the group is created and the product is saved in that group.
+
+![](Related%20Product.PNG)
 
 **You can also assign new products to a group:**
 
