@@ -1,5 +1,9 @@
 ---
 title: Variants/Options
+media_order: Variants.PNG
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -18,6 +22,8 @@ visible: true
 6. Select the variant field.
 7. Click on the add variant button to add the variants for your product.
 8. Click on the save button, Variants of new product will be created.
+
+![](Variants.PNG)
 
 **Add variants to the available product:**
 1. Go to the sellacious admin panel.
