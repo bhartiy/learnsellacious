@@ -1,6 +1,6 @@
 ---
 title: 'Add to Cart Buttons'
-media_order: 'buttons.jpg,cart-code.png,button-list.png,cart-button.png,copy-code.png'
+media_order: 'buttons.jpg,cart-code.png,button-list.png,cart-button.png,copy-code.png,button.png,module.png'
 taxonomy:
     category:
         - docs
@@ -45,4 +45,4 @@ The code copied for add to cart button of the product will be like this `[sellac
 ![](button.png)
 
 >>> In module make sure to select 'Prepare Content' to show the button.
->>> 
+>>> ![](module.png)
