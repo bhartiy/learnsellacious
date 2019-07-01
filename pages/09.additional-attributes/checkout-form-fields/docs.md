@@ -1,5 +1,9 @@
 ---
 title: 'Checkout form fields'
+media_order: Checkouts.PNG
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -13,3 +17,5 @@ Checkout form fields are the fields in which the checkout fields are to be creat
 5. You can add information of batch process the selected fields.
 6. click on save button to save the checkout form fields details, the customer form fields are successfully added
 
+
+![](Checkouts.PNG)
