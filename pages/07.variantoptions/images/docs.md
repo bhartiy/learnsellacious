@@ -1,6 +1,9 @@
 ---
-title: Images
+title: 'Adding Variant'
 media_order: '89.png,90.png,92.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
