@@ -32,9 +32,9 @@ The view will open to create sellacious buttons. Fill all the fields.
 
 Now, to publiush this button on your site/frontend, you can either paste this code in an [Article](https://docs.joomla.org/Adding_a_new_article) or create a [Custom HTML module](https://docs.joomla.org/Help39:Extensions_Module_Manager_Custom_HTML).
 
-Below is the image of this **Buy Now** button in custom HTML module.
+Below is the image of this **Buy Now** button in custom HTML module and Article.
 
-![](cart-button.png)
+![](buynow-button.png)
 
 ---
 
