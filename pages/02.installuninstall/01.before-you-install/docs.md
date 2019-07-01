@@ -64,7 +64,7 @@ You can install it like any other extension Open your administrator panel goto *
 
 And you can also install Sellacious in Joomla from Install from Web option as well, by searching Sellacious.
 	a) Search Sellacious in search field then install,
-	b) After installation it will display message to install its extended file, click on download button to install.
+	b) After installation it will display message to install its extended file, click on download button to install.Only after installing Extended Package you will be able to see sellacious backend.
 
 ---------------------------------------
 
