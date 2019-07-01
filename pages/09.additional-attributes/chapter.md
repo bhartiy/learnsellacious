@@ -1,5 +1,7 @@
 ---
 title: 'Additional Attributes'
+taxonomy:
+    category: docs
 visible: true
 ---
 
