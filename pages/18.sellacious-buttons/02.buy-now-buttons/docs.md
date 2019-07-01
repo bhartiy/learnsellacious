@@ -24,7 +24,7 @@ The view will open to create sellacious buttons. Fill all the fields.
 * Select **Buy Now** in button section to create Buy Now Buttons.
 * After submitting all the details, you get a code below the settings. This is the code for the button. 
 
-![](cart-code.png)
+![](buy-code.png)
 
 * Save these settings. Button is created and you can see it in the List.  
 
