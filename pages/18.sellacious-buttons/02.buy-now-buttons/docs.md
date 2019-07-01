@@ -1,6 +1,6 @@
 ---
 title: 'Buy Now Buttons'
-media_order: buttons.jpg
+media_order: 'buttons.jpg,buynow-button.png,buy-code.png,buy-button.png,buy-btn.png'
 taxonomy:
     category:
         - docs
@@ -46,7 +46,7 @@ In sellacious you can use buttons of already created products too. In Product Li
 
 The code copied for buy now button of the product will be like this `[sellacious.cart.buy=P1V0S323;btn btn-success;Buy Now]`. Paste this code in Article or Module. And it would look like this.
 
-![](button.png)
+![](buy-btn.png)
 
 > In module make sure to select 'Prepare Content' to show the button.
 > ![](module.png)
