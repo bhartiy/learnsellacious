@@ -1,6 +1,6 @@
 ---
 title: 'Add to Cart Buttons'
-media_order: 'buttons.jpg,cart-code.png'
+media_order: 'buttons.jpg,cart-code.png,button-list.png'
 taxonomy:
     category:
         - docs
@@ -25,3 +25,10 @@ The view will open to create sellacious buttons. Fill all the fields.
 ![](cart-code.png)
 
 * Save these settings. Button is created and you can see it in the List.  
+
+![](button-list.png)
+
+---
+
+Now, to publiush this button on your site/frontend, you can either put this button in a [Article](https://docs.joomla.org/Adding_a_new_article) or create a [Custom HTML module](https://docs.joomla.org/Help39:Extensions_Module_Manager_Custom_HTML).
+
