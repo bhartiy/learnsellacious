@@ -1,9 +1,11 @@
 ---
 title: Variant/Options
+taxonomy:
+    category: docs
 visible: true
 ---
 
- ### Chapter 6
+ ### Chapter 7
 
 # Variant/Optons
 
