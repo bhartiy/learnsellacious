@@ -1,5 +1,5 @@
 ---
-title: 'Before You Install'
+title: 'How to Install'
 taxonomy:
     category:
         - docs
