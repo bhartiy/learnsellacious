@@ -43,3 +43,6 @@ Below is the image of this **Add to cart** button in custom HTML module.
 The code copied for add to cart button of the product will be like this `[sellacious.cart.add=P1V0S323;btn btn-success;Add to Cart]`. Paste this code in Article or Module. And it would look like this.
 
 ![](button.png)
+
+>>> In module make sure to select 'Prepare Content' to show the button.
+>>> 
