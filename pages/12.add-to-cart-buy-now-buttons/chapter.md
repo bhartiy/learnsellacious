@@ -1,8 +1,8 @@
 ---
 title: 'Add to Cart & Buy Now buttons'
 taxonomy:
-    category:
-        - docs
+    category: docs
+    tag: ''
 visible: true
 ---
 
