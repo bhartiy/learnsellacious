@@ -1,6 +1,6 @@
 ---
 title: 'Creating a Page and linking it to menu'
-media_order: 'Pagebuilder.png,edit page buider.png,menutypepagebuilder.png,sppagebuilder1.png,savepage buider.png,save.PNG,createpagestep4.jpeg'
+media_order: 'Pagebuilder.png,edit page buider.png,menutypepagebuilder.png,sppagebuilder1.png,savepage buider.png,save.PNG,createpagestep4.jpeg,cate.PNG'
 taxonomy:
     category: docs
 visible: true
@@ -43,4 +43,18 @@ visible: true
 
 ![](savepage%20buider.png)
 
-14. Now Visit the page you created on your website.
+14. You can assign your page layout to your products By to ways-
+
+a) for all the products in your shop:
+   go to **global configration>> Templates**
+   Start redirecting **YES**
+   Select Category and Product
+   Save.
+   
+b) For Products in a particular category
+   go to **category>> Templates**
+   Start redirecting **YES**
+   Select Category and Product  (* you have to make category page in SP Page Builder efore you assign )
+   Save.
+   
+   ![](cate.PNG)
