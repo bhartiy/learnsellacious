@@ -30,7 +30,6 @@ visible: true
 
 ![](createpagestep4.jpeg)
 ![](addmenupage%20builder.png)
-
 9. Fill the credentials.
 10. **Menu Title**, **Menu Item type**, **Select Page** Fields are mandatory.
 11. In Menu Item Type select **SP Page Builder**-> **Page.**
