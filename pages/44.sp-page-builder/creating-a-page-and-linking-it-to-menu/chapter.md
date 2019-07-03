@@ -50,6 +50,7 @@ a) for all the products in your shop:
    Start redirecting **YES**
    Select Category and Product
    Save.
+   
 b) For Products in a particular category
    go to **category>> Templates**
    Start redirecting **YES**
