@@ -48,21 +48,14 @@ visible: true
 a) for all the products in your shop:
    
    go to **global configration>> Templates**
-   
    Start redirecting **YES**
-   
    Select Category and Product
-   
    Save.
    
 b) For Products in a particular category
-   
    go to **category>> Templates**
-   
    Start redirecting **YES**
-   
    Select Category and Product  (* you have to make category page in SP Page Builder efore you assign )
-   
    Save.
    
    ![](cate.PNG)
