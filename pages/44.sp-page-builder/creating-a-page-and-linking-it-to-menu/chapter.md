@@ -1,6 +1,6 @@
 ---
 title: 'Creating a Page and linking it to menu'
-media_order: 'Pagebuilder.png,edit page buider.png,menutypepagebuilder.png,sppagebuilder1.png,savepage buider.png,save.PNG'
+media_order: 'Pagebuilder.png,edit page buider.png,menutypepagebuilder.png,sppagebuilder1.png,savepage buider.png,save.PNG,createpagestep4.jpeg'
 taxonomy:
     category: docs
 visible: true
@@ -28,6 +28,7 @@ visible: true
 
 8. Go to Menus and create a new menu item under main-menu (or any other desired menu group).
 
+![](createpagestep4.jpeg)
 ![](addmenupage%20builder.png)
 
 9. Fill the credentials.
