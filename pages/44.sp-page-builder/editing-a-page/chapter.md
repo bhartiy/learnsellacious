@@ -1,6 +1,8 @@
 ---
 title: 'Editing a Page'
-media_order: 'edit page.png,edit page 1.png,edit page3.png'
+media_order: 'edit page.png,edit page 1.png,edit page3.png,Edit product sp page builder.PNG'
+taxonomy:
+    category: docs
 visible: true
 ---
 
@@ -17,7 +19,10 @@ visible: true
 ![](edit%20page%201.png)
 
 5. You can change the contents of the existing rows & columns.
-6. You can also add or delete row & columns and can add, delete & edit the add-ons as well.
+
+![](Edit%20product%20sp%20page%20builder.PNG)
+
+7. You can also add or delete row & columns and can add, delete & edit the add-ons as well.
 
 ![](edit%20page3.png)
 
