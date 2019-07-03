@@ -59,3 +59,8 @@ b) For Products in a particular category
    Save.
    
    ![](cate.PNG)
+   
+Now you can see newly created view of your page
+
+
+![](view.PNG)
