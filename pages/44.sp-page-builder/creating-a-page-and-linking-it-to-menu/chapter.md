@@ -46,12 +46,10 @@ visible: true
 14. You can assign your page layout to your products By to ways-
 
 a) for all the products in your shop:
-   
    go to **global configration>> Templates**
    Start redirecting **YES**
    Select Category and Product
    Save.
-   
 b) For Products in a particular category
    go to **category>> Templates**
    Start redirecting **YES**
