@@ -54,7 +54,7 @@ a) for all the products in your shop:
 b) For Products in a particular category
    go to **category>> Templates**
    Start redirecting **YES**
-   Select Category and Product  (* you have to make category page in SP Page Builder efore you assign )
+   Select Category and Product  (* you have to make category page in SP Page Builder before you assign )
    Save.
    
    ![](cate.PNG)
