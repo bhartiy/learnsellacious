@@ -1,6 +1,8 @@
 ---
 title: 'Creating a Page and linking it to menu'
-media_order: 'Pagebuilder.png,title page builder.png,edit page buider.png,addmenupage builder.png,menutypepagebuilder.png,sppagebuilder1.png,savepage buider.png'
+media_order: 'Pagebuilder.png,edit page buider.png,menutypepagebuilder.png,sppagebuilder1.png,savepage buider.png,save.PNG'
+taxonomy:
+    category: docs
 visible: true
 ---
 
@@ -16,11 +18,13 @@ visible: true
 
 ![](title%20page%20builder.png)
 
+![](edit%20page%20buider.png)
+
 5. Edit the page.
-6. Top edit click on Add New Row Button.
+6. To edit click on Add New Row Button.
 7. Click on **save** to save the page.
 
-![](edit%20page%20buider.png)
+![](save.PNG)
 
 8. Go to Menus and create a new menu item under main-menu (or any other desired menu group).
 
