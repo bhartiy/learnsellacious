@@ -1,7 +1,8 @@
 ---
 title: 'Setting up SP Sellacious Add-ons'
 taxonomy:
-    category: docs
+    category:
+        - docs
 visible: true
 ---
 
