@@ -24,7 +24,7 @@ To import products in your site follow below steps.
 3. Products inventory fields like Stock, listing dates, Max & min qty., Price of products varies according to the seller, hence, fill them according to the sellers.
 
 4. To import the sellers, fill the details of seller. If the seller is already existed in your site, you can just fill the name, email, username, code or business name. To import sellers unique keys are **SELLER_NAME, SELLER_USERNAME, SELLER_EMAIL, SELLER_CODE, SELLER_BUSINESS** One of these is must to import the sellers.
-_If seller is new, you need to fill all the columns related to sellers available in CSV._ [How to import sellers form CSV?](https://www.sellacious.com/learn/import-and-export/import-seller)
+_If seller is new, you need to fill all the columns related to sellers available in CSV._ [How to import sellers form CSV?](https://www.sellacious.com/learn/import/import-seller)
 <br>You can also import products with multiple sellers. If there are multiple sellers to the one product, one row will be for the one seller. And in the 2nd row you can fill the details of another seller. In that second  row fill the details of that products too. You can change the stock, listing dates, Price etc. according to the seller.
 
 5. To publish the product in frontend mandatory columns to import are PRODUCT_TYPE, PRODUCT_CURRENT_STOCK, PRODUCT_STATE, Seller related columns, PRODUCT_CATEGORIES.
