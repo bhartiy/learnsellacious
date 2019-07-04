@@ -1,5 +1,6 @@
 ---
 title: 'Setting up SP Sellacious Add-ons'
+media_order: sppb-new.png
 taxonomy:
     category:
         - docs
@@ -15,9 +16,21 @@ To use sellacious addons, you need to install SP Page builder. After installing 
 To Design your own Sellacious Category/Product detail page you need to:
 
 1.  Click on New button to create a new page.
+
+![](sppb-new.png)
+
 2.  While selecting Add-ons, you'll see sellacious Add-ons. Select one with Product in title if you want to create product details page. Select one with the Category in title, if you want to create page for Category details page.
+
+![](sppb-sellacious-addons.png)
+
 3. After desiging the pages as you want, save the page.
+
+![](save-sppb.png)
+
 4. Go to menus, create a menu item in Hidden Menu.
+
+
+
 5. In menu item type select SP Page Builder and select the page you just created.
 
 ---
