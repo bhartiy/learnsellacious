@@ -43,7 +43,7 @@ You can assign SP Page builder design to sellacious products and categories in t
 
 * Go to Sellacious Backend > Categories > Physical/Electronic Categories.
 
-![](sppb-image.png)
+![](sppb-category.png)
 
 * Click on the category to which you want to assign the layout. In this documentation we will select category _T-shirts_.
 * Go to template tab.
