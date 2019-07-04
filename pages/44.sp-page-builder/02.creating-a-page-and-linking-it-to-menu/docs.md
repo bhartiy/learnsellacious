@@ -16,11 +16,11 @@ You can easily create pages in SP Page builder and design them. Here's how:
 ![](Pagebuilder.png)
 
 4. Give Page a Title and start creating you page.  
-5. Click on **Add New Row** to add addons to your page. You can follow [this](https://www.joomshaper.com/documentation/sp-page-builder/sp-page-builder-3) link to know more about SP Page builder Apages and Addons. 
+5. Click on **Add New Row** to add addons to your page. You can follow [this](https://www.joomshaper.com/documentation/sp-page-builder/sp-page-builder-3) link to know more about SP Page builder pages and Addons. 
 
 ![](edit%20page%20buider.png)
 
-6. Once your pages is created click in save button and save your page.  
+6. After designing the page, save the page. 
 
 7. Go to Menus and create a new menu item under main-menu (or any other desired menu group).
 
