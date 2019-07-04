@@ -7,6 +7,8 @@ taxonomy:
 visible: true
 ---
 
+You can easily create pages in SP Page builder and design them. Here's how: 
+
 1. Go to the administrator panel of your Joomla website(i.e http://mydomain.com/administrator).
 2. Go to **SP Page Builder**, Select **Pages** from the drop down menu.
 3. Click on new to create a new page.
@@ -27,29 +29,3 @@ visible: true
 8. Select **SP Page Builder** in Menu Item Type. Select the page you create and save the Menu.
 
 ![](savepage-buider.png)
-
-12. In Select page field select the page you created .
-13. Click on save to save the changes.
-
-![](savepage%20buider.png)
-
-14. You can assign your page layout to your products By to ways-
-
- a) for all the products in your shop:
-   go to **global configration>> Templates**
-   Start redirecting **YES**
-   Select Category and Product, 
-   Save.
-   
-b) For Products in a particular category
-   go to **category>> Templates**
-   Start redirecting **YES**
-   Select Category and Product  (* you have to make category page in SP Page Builder before you assign ), 
-   Save.
-   
-   ![](cate.PNG)
-   
-Now you can see newly created view of your page
-
-
-![](view.PNG)
