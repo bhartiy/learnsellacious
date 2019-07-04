@@ -30,11 +30,11 @@ _If seller is new, you need to fill all the columns related to sellers available
 5. To publish the product in frontend mandatory columns to import are PRODUCT_TYPE, PRODUCT_CURRENT_STOCK, PRODUCT_STATE, Seller related columns, PRODUCT_CATEGORIES.
 
 6. To import variants, with any of product unique key, fill the variants related columns in separate row. You can import multiple variants of same products but with different sellers too with sellacious importer.
-<br>There are 3 Unique keys to import varinats : **VARIANT_TITLE, VARIANT_SKU, VARIANT_UNIQUE_ALIAS.** One of these key is must to import variants. [How to import varinats from CSV?](https://www.sellacious.com/learn/import-and-export/import-variants)
+<br>There are 3 Unique keys to import varinats : **VARIANT_TITLE, VARIANT_SKU, VARIANT_UNIQUE_ALIAS.** One of these key is must to import variants. [How to import varinats from CSV?](https://www.sellacious.com/learn/import/import-variants)
 
 7. While you're importing products, you can import these products to new or existing categories. To create the child categories format should be : **Prent Category/Child Category.** If there are more than one type category assigned to the product, than first category should be in the **PRODUCT_CATEGORIES** and other one in the columns **CATEGORY_1**.
 
-8. In sellacious prices are of 3 types. Flat, basic and Dynamic (Advanced). [How to import the pricing?](https://www.sellacious.com/learn/import-and-export/import-pricing-types)
+8. In sellacious prices are of 3 types. Flat, basic and Dynamic (Advanced). [How to import the pricing?](https://www.sellacious.com/learn/import/import-pricing-types)
 
 While you're importing products through CSV there are some configuration you need to save to complete the importing process. If you want to create new products/sellers etc you need to select respective 'create' options 'yes'. If you only want to update the exisiting products/sellers/categories you need to select the options for the Update as 'yes'.
 
