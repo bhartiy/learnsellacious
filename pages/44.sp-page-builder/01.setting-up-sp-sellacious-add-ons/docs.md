@@ -1,6 +1,6 @@
 ---
 title: 'Setting up SP Sellacious Add-ons'
-media_order: sppb-new.png
+media_order: 'sppb-new.png,sppb-sellacious-addons.png,save-sppb.png'
 taxonomy:
     category:
         - docs
@@ -29,4 +29,4 @@ To Design your own Sellacious Category/Product detail page you need to:
 
 ---
 
-To assign the design you created to products/categories in sellacious [Configure the Sellacious Category Template plugin](https://www.sellacious.com/documentation-v2#/learn/plugins/sellacious-category-template).
+>> To assign the design you created to products/categories in sellacious [Configure the Sellacious Category Template plugin](https://www.sellacious.com/documentation-v2#/learn/plugins/sellacious-category-template).
