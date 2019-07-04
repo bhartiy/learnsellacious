@@ -1,6 +1,6 @@
 ---
 title: 'Sellacious Category Template'
-media_order: 'sppb-temp.jpg,redirection.png,sppb-pages.png,sppb-sp.png,sppb-product.png,sppb-image.png'
+media_order: 'sppb-temp.jpg,redirection.png,sppb-pages.png,sppb-sp.png,sppb-product.png,sppb-image.png,sppb-category.png,sppb-template.png'
 taxonomy:
     category:
         - docs
@@ -39,7 +39,30 @@ You can assign SP Page builder design to sellacious products and categories in t
 
 ---
 
-2. From Categories
+**2. From Categories:** If you don't want to assign the layout to all product in your site but only of one or more category, you can do that from categories. 
+
+* Go to Sellacious Backend > Categories > Physical/Electronic Categories.
+
+![](sppb-image.png)
+
+* Click on the category to which you want to assign the layout. In this documentation we will select category _T-shirts_.
+* Go to template tab.
+
+![](sppb-template.png)
+
+* Allow redirection to use sellacious SP Pages.
+
+![](sppb-redirect.png)
+
+* Select the pages you created and save these settings.
+
+
+
+* You can see your assigned layout on your site.
+
+
+
+
 
 
 
