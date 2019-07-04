@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-# SP Page Builder
+SP Page Builder
 
 In sellacious most of the templates, SP Page builder is used to design the site. You can use SP page builder even when you don't anything about HTML/CSS.  
 
