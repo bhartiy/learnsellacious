@@ -56,17 +56,10 @@ You can assign SP Page builder design to sellacious products and categories in t
 
 * Select the pages you created and save these settings.
 
-
+![](sppb-select.png)
 
 * You can see your assigned layout on your site.
 
+![](sppb-product.png)
 
-
-
-
-
-
-
-
-
-
+![](sppb-image.png)
