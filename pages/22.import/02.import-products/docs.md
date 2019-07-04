@@ -11,7 +11,7 @@ visible: true
 
 ![](import-products.png)
 
-To start the importer process you can download the sellacious default product importer sample CSV or you can create a importer template. [How to create a importer Template?](https://www.sellacious.com/learn/import-and-export/import-templates)
+To start the importer process you can download the sellacious default product importer sample CSV or you can create a importer template.[How to create Importer Templates](https://www.sellacious.com/learn/import/import-templates)
 
 In this Documentation we will use sellacious default import CSV.
 
