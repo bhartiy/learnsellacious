@@ -27,12 +27,6 @@ To Design your own Sellacious Category/Product detail page you need to:
 
 ![](save-sppb.png)
 
-4. Go to menus, create a menu item in Hidden Menu.
-
-
-
-5. In menu item type select SP Page Builder and select the page you just created.
-
 ---
 
 To assign the design you created to products/categories in sellacious [Configure the Sellacious Category Template plugin](https://www.sellacious.com/documentation-v2#/learn/plugins/sellacious-category-template).
