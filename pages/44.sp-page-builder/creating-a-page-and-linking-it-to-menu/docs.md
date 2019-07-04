@@ -2,7 +2,8 @@
 title: 'Creating a Page and linking it to menu'
 media_order: 'Pagebuilder.png,edit page buider.png,menutypepagebuilder.png,sppagebuilder1.png,savepage buider.png,save.PNG,createpagestep4.jpeg,cate.PNG'
 taxonomy:
-    category: docs
+    category:
+        - docs
 visible: true
 ---
 
