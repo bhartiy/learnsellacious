@@ -2,7 +2,8 @@
 title: 'Editing a Page'
 media_order: 'edit page.png,edit page 1.png,edit page3.png,Edit product sp page builder.PNG'
 taxonomy:
-    category: docs
+    category:
+        - docs
 visible: true
 ---
 
