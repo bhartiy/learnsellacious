@@ -10,5 +10,5 @@ Sellacious GST plugin is for mainly Indian users. With the help of this plugin y
 
 You can download this plugin from here https://www.sellacious.com/p/buy-sellacious/gst.  
 
-After installing this plugin, enable this plugin from Joomla administrator > Extensions > Plugins. once the plugin is enabled go to 
+After installing this plugin, enable this plugin from Joomla administrator > Extensions > Plugins. After enabling the plugin, go to sellacious backend.
 
