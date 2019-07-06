@@ -51,4 +51,6 @@ Users can view this number on your site (Product details page).
 
 ## GST details in invoices/emails:
 
-Sellacious comes with inbuilt email and invoice template manager, which allows you to edit the email/invoices templates as you desired. 
+Sellacious comes with inbuilt email and invoice template manager, which allows you to edit the email/invoices templates as you desired. You can place the short-codes available for GST details in the ionvoices or email template you want.
+
+![](gst2%20%281%29.png)
