@@ -13,7 +13,7 @@ You can download this plugin from here https://www.sellacious.com/p/buy-sellacio
 
 After installing this plugin, enable this plugin from Joomla administrator > Extensions > Plugins. After enabling the plugin, go to sellacious backend.
 
-You can submit your Shop GST, PAN#. To do this:  
+## Shop GST details:
 
 * Go to Sellacious Backend > Settings > Global Configuration > Shop Settings.  
 
@@ -23,6 +23,14 @@ You can submit your Shop GST, PAN#. To do this:
 
 ![](gst1.png)
 
+## Buyer GST details:
+
 You can also ask your buyer to submit the GST details. If the option **Ask Buyser's GST on checkout** is enabled, buyer can submit their GST details while purchasing product. 
 
 ![](buyer-GST.png)
+
+## Seller GST details:
+
+In sellacious, your seller's can also submit their GST details. To submit the seller's details go to Sellacious backend > User Profile > Sellers. Open any profile and you can view the GST details. Seller's can submit these GST details from their profile.
+
+![](gst3.png)
