@@ -49,6 +49,6 @@ Users can view this number on your site (Product details page).
 
 ![](hsn-sac-2.png)
 
-## GST Orders and Invoices:
+## GST details in invoices/emails:
 
-Sellacious comes with inbuilt template manager, which allows you to 
+Sellacious comes with inbuilt email and invoice template manager, which allows you to edit the email/invoices templates as you desired. 
