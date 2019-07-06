@@ -1,6 +1,6 @@
 ---
 title: 'Sellacious GST'
-media_order: 'gst2.png,gst1.png'
+media_order: 'gst2.png,gst1.png,buyer-GST.png'
 taxonomy:
     category:
         - docs
@@ -22,3 +22,7 @@ You can submit your Shop GST, PAN#. To do this:
 * Scroll to last and you'll see the section for GST details.  
 
 ![](gst1.png)
+
+You can also ask your buyer to submit the GST details. If the option **Ask Buyser's GST on checkout** is enabled, buyer can submit their GST details while purchasing product. 
+
+![](buyer-GST.png)
