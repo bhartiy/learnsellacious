@@ -1,6 +1,6 @@
 ---
 title: 'Sellacious GST'
-media_order: 'gst2.png,gst1.png,buyer-GST.png'
+media_order: 'gst2.png,gst1.png,buyer-GST.png,hsn.png,gst3.png,hsn-sac.png,hsn-sac-2.png'
 taxonomy:
     category:
         - docs
@@ -40,6 +40,14 @@ In sellacious, your seller's can also submit their GST details. To submit the se
 To enable this option for your products, go to Sellacious Backend > Settings > Global Configuration > Backend Display Options. Check the HSN/SAC # to enable it in product edit layout.
 
 ![](hsn.png)
+
+You can submit this code while creating a product. https://www.sellacious.com/documentation-v2#/learn/product/add-a-product
+
+![](hsn-sac.png)
+
+Users can view this number on your site (Product details page).
+
+![](hsn-sac-2.png)
 
 ## GST Orders and Invoices:
 
