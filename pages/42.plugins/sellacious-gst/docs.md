@@ -39,7 +39,7 @@ In sellacious, your seller's can also submit their GST details. To submit the se
 
 To enable this option for your products, go to Sellacious Backend > Settings > Global Configuration > Backend Display Options. Check the HSN/SAC # to enable it in product edit layout.
 
-
+![](hsn.png)
 
 ## GST Orders and Invoices:
 
