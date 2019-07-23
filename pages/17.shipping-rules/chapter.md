@@ -1,9 +1,11 @@
 ---
 title: 'Shipping Rules'
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 15
+### Chapter 17
 
 # Shipping Rules
 
