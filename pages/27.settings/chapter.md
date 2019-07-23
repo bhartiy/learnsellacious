@@ -1,9 +1,11 @@
 ---
 title: Settings
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 24
+### Chapter 27
 
 # Settings
 
