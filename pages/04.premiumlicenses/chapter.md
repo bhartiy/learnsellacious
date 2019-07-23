@@ -7,6 +7,6 @@ taxonomy:
 
 ###Chapter 4
 
-# Premium/Licenses
+**Premium/Licenses**
 
 This chapter consists of explation about sellacious premium license and their activation.
