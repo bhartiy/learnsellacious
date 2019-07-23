@@ -1,9 +1,11 @@
 ---
 title: 'Measurement Units'
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 27
+### Chapter 30
 
 # Measurement Units
 
