@@ -5,7 +5,7 @@ taxonomy:
 visible: true
 ---
 
-### Chapter 40
+###Chapter 40
 
 
 Your page content goes here.
