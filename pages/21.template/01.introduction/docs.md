@@ -1,6 +1,9 @@
 ---
 title: Introduction
 media_order: Template.png
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -15,5 +18,5 @@ visible: true
 
 3. You can manage the templates from here.
 a) You can edit your template by clicking on the template.<br>
-b) You can delete your template by clicking on the template.
+b) You can delete your template in joomla admin by going manage>>extentions>>manage select the template and click uninstall button.
 4. After changing the tenplate details click on the save button to save the details.
