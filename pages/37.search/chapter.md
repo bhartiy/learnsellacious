@@ -1,9 +1,11 @@
 ---
 title: Search
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 34
+### Chapter 37
 
 # Search
 
