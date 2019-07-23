@@ -1,9 +1,11 @@
 ---
 title: Status
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 26
+### Chapter 29
 
 # Status
 
