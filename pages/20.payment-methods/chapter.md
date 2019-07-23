@@ -1,9 +1,11 @@
 ---
 title: 'Payment Methods'
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 17
+### Chapter 20
 
 # Payment Methods
 
