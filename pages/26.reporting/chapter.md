@@ -1,9 +1,11 @@
 ---
 title: Reporting
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 23
+### Chapter 26
 
 # Reporting
 
