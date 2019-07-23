@@ -1,9 +1,11 @@
 ---
 title: Messaging
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 22
+### Chapter 25
 
 # Messaging
 
