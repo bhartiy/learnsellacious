@@ -5,7 +5,7 @@ taxonomy:
 visible: true
 ---
 
-### Chapter 6
+### Chapter 7
 
 # E-Products
 
