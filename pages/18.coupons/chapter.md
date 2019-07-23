@@ -1,9 +1,11 @@
 ---
 title: Coupons
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 16
+### Chapter 18
 
 # Coupons
 
