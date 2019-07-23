@@ -1,9 +1,11 @@
 ---
 title: 'Global Configurations '
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 31
+### Chapter 34
 
 # Global Configuration
 
