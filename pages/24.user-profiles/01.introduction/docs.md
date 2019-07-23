@@ -26,5 +26,5 @@ visible: true
 ![](up1.png)
 
 7. New User Profile is created.
-**NOTE:** Selecting category of respective User Profile is Very importanat othervise it will be saved in default client category. Also unbock button should be enabled.
+**NOTE :** Selecting category of respective User Profile is Very importanat othervise it will be saved in default client category. Also unbock button should be enabled.
 
