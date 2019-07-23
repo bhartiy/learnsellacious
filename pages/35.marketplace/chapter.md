@@ -1,9 +1,11 @@
 ---
 title: Marketplace
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 32
+### Chapter 35
 
 # Marketplace
 
