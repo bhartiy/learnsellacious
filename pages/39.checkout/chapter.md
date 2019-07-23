@@ -1,9 +1,11 @@
 ---
 title: CheckOut
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 36
+### Chapter 39
 
 # Checkout
 
