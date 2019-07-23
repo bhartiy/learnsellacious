@@ -1,9 +1,11 @@
 ---
 title: Advertisements
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 10
+### Chapter 12
 
 # Advertisements
 
