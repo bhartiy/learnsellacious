@@ -5,7 +5,7 @@ taxonomy:
 visible: true
 ---
 
-### Chapter 34
+### Chapter 37
 
 # SEO
 
