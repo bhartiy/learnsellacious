@@ -5,7 +5,7 @@ taxonomy:
 visible: true
 ---
 
-### Chapter 5
+### Chapter 6
 
 # Product
 
