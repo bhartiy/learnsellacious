@@ -1,9 +1,11 @@
 ---
 title: 'Pages and Blogs'
+taxonomy:
+    category: docs
 ---
 
-### Chapter Number
+### Chapter 44
 
-# Chapter Title
+# Pages and Blogs
 
-Chapter description.
+Discover the **Pages and Blogs** of sellacious 
