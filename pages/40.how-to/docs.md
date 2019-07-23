@@ -5,4 +5,4 @@ taxonomy:
 visible: true
 ---
 
-Discover the **checkout** of sellacious 
+Discover the **How to** of sellacious 
