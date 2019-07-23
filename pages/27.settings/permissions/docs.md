@@ -29,7 +29,7 @@ This section specify the user category you want to give the permission.
 <br>**allow category editing**: To allow  the user permissions to edit the category.
 <br>**allow category state change**: To allow the user permissions to change the stage of the category.
 <br>**allow category deletion**: To allow the user permissions to delete the category.
-#### communication log
+#### Communication Log
 **view list of all communications**: To allow the user permissions to list all the communications.
 Coupons
 <br>**View all coupons**: To allow the user permissions to view all the coupons created for all products.
