@@ -1,6 +1,9 @@
 ---
 title: 'Address and contact edit'
 media_order: 'temp4.png,template 4.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -12,7 +15,7 @@ visible: true
 ![](temp4.png)
 
 3. The default templates can be identified from the yellow star in the Default column.
-4. Click on the default template.
+4. Select the default template and click edit button.
 5. In Basic tab, Edit the information in the contact information.
 
 ![](template%204.png)
