@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-#### Measurement Units
+
 <br>**New**: New button is used to create a new measurement units. The new measurement units details are to be added here. If you click on the new button then you can create new measurement units in your own way. 
 <br>**Edit**: Edit button is used to edit a particular measurement units. If you want to edit a particular measurement units you have to use the edit button for making any change or correction.
 <br>**Publish**: This measurement units status is for publishing the measurement units in frontend. This is another condition which can control the visibility of measurement units in frontend.  
@@ -24,7 +24,7 @@ Search tool will help you to search a particular measurement units according to 
 <br>**Clear**: Clear button is used to clear the search filters. The search filter will used to search easily according to the license. The main importance is to remove the search filters applied on the license.
 <br>**Title Ascending**: List all the products according to the ascending & descending order as ID, Title and status.You can change the listing according to your choice.
 
-#### Measurement Units
+
 <br>**Unit Name**: Enter the name of the unit as it appear in the official records. The name of the measurement unit you want to create.
 <br>**Alias**: This is for internal tracking of records.You can leave this empty if you don’t understand its importance.It will be automatically generated. The alias will be produced automatically.
 <br>**Unit Group**: choose a unit group from the list.To create a new group and you can add new group.
