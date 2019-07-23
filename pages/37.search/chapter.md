@@ -1,5 +1,5 @@
 ---
-title: 'Search Module'
+title: 'Search '
 taxonomy:
     category: docs
 visible: true
@@ -7,6 +7,6 @@ visible: true
 
 ###Chapter 37
 
-#Search module
+#Search 
 
-Discover the **search module** of sellacious 
+Discover the **search** of sellacious 
