@@ -34,7 +34,8 @@ Search tool will help you to search a particular measurement units according to 
 <br>**Conversion rates**: Specify the conversion rates from this unit to other units. Conversion is allowed to the units in same group.
 
 ##### Creat Measurement Units
-<br>1. Go to the sellacious panel of your website.
+
+1. Go to the sellacious panel of your website.
 2. For adding measurement units, go to Settings and select measurement units from the dropped down menu.
 3. To create a new measurement units, click on new button.
 4. Fill the information about the measurement units in different sections available in the measurement units window.
