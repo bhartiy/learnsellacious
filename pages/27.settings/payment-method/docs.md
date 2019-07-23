@@ -14,10 +14,10 @@ New button is used to create a new payment method. The new payment method detail
 <br>**Unpublish**: This payment method status is for unpublishing the payment method in frontend. This is another condition which can control the visibility of payment method in frontend. 
 <br>**Trash**: The payment method which are trashed yet not deleted. The trashed payment method are temporarily deleted for sometime.
 
-##### Discover: 
+<br>**Search Bar**: Search bar allows you to search for what you want to find. Search the payment method according to the name of the payment method.
 
-<br>**Search bar**: Search bar allows you to search for what you want to find. Search the payment method according to the name of the payment method.
-<br>**Filters**:
+##### Filters
+
 <br>**Select Status**:The filter will used for searching the payment method according to the status.The status are considered as Trashed, Published, Unpublished and All.
 <br>a)**Trashed**:  The payment method which are trashed yet not deleted. It is a stage in which the trashed payment method are temporarily deleted for sometime. 
 <br>b)**Unpublished**: This status will filter unpublished payment method from catalogue. you’ll be able to view only unpublished payment method. 
@@ -27,7 +27,6 @@ published: This status will filter unpublished payment method from catalogue. yo
 <br>**Ordering Ascending**: List all the products according to the ascending & descending order as ID, Title and status.You can change the listing according to your choice.
 
 ##### Creating payment plugin
-
 <br>**Method Name**:  The name of the payment method.
 <br>**Description**: It represents the short description of the particular payment method.
 <br>**plugin**:The plugin you want to use in this payment method. The payment method can be listed by the drop down menu. You can select the plugin from the listed provided.
@@ -48,8 +47,7 @@ You can use this credit system only for the premium users.
 <br>**allow All Customers**:choose whether you want to allow the customers without having any already defined credit limit to use this payment method.
 <br>**Default Credit Limit**:Enter the credit to assume for the customers with no defined limit in their profile.
 
-##### Filters:
-
+##### Filters
 <br>**Address to Match**: You can the address of your region according to the billing address and shipping address.
 <br>**Country**:select the country you belongs. You can select the country by entering 2 or more characters, all the countries are to be listed here.
 <br>**State**: select the state you belongs.You can select the state by entering 2 or more characters, all the states are to be listed here.
