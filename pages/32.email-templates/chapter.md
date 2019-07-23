@@ -1,9 +1,11 @@
 ---
 title: 'Email templates'
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 29
+### Chapter 32
 
 # Email Templates
 
