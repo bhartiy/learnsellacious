@@ -1,5 +1,8 @@
 ---
 title: 'Communication Log'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -18,7 +21,7 @@ visible: true
 <br>**Ignored**: The filter used to list all the ignored emails.The ignored emails are the emails which are retrying to sent the mail but it’s not possible to sent the mail again.
 <br>**Deleted** The deleted emails are to be listed. The deleted emails are the emails which are permanently deleted mails.
 
-**select context**
+**Select context**
 The context represents the main subject of the email templates.When you click on the select context then drop down menu will be listed as active and inactive. The active list consists of  payment successful, add authorised user, order initiated, Declined fund, approved fund withdrawal, seller registration etc. The inactive list consists of password reset and question related to admin, reply, self, seller. You can set the context while creating the email templates. 
 
 **Clear**:  Clear button will help you to clear all the filters applied on the search tools. The search tool is a search Filters which is used to search easily. 
@@ -29,11 +32,11 @@ The context represents the main subject of the email templates.When you click on
 
 **Recipients**:  The email id of the recipients are to be listed here. It must be in a proper form then only you can send the email.
 
-**status**: It shows the status of the particular email. The status can be queued, Sent, Ignored and Deleted. This will be listed on every messages on the communication log.
+**Status**: It shows the status of the particular email. The status can be queued, Sent, Ignored and Deleted. This will be listed on every messages on the communication log.
 
 **Created date**: The date on which the emails are to be created. The format is shown as month day, year & time.
 
-**sent date**:  The date on which the message is to be sented to the recipient. 
+**Sent date**:  The date on which the message is to be sented to the recipient. 
 
 **Retries**: Retries represented as the number of times tried to sent the mail. The retires of the mail for sending. 
 
