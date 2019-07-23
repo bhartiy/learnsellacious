@@ -1,9 +1,11 @@
 ---
 title: Modules
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 39
+### Chapter 42
 
 # Modules
 
