@@ -16,14 +16,15 @@ visible: true
 1. Go to sellacious admin panel.
 2. Go to User Profile menu from the left menu bar.
 3. Select the user profile from the drop down menu.
-4. click on new button to create a new profile.
+4. Click on new button to create a new profile.
 
 ![](up.png)
 
-5. fill the credentials.
-6. save the settings.
+5. Fill the credentials.
+6. Save the settings.
 
 ![](up1.png)
 
 7. New User Profile is created.
+**NOTE:** Selecting category of respective User Profile is Very importanat othervise it will be saved in default client category. Also unbock button should be enabled.
 
