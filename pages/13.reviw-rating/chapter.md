@@ -1,9 +1,11 @@
 ---
 title: 'Review Rating'
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 11
+### Chapter 13
 
 # Review Rating
 
