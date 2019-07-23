@@ -1,9 +1,11 @@
 ---
 title: 'User profiles'
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 21
+### Chapter 24
 
 # User Profiles
 
