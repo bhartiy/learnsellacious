@@ -1,9 +1,11 @@
 ---
 title: 'Frontend product Filter'
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 35
+### Chapter 38
 
 # Frontend Product Filter
 
