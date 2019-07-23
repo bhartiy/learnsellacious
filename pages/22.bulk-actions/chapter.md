@@ -1,9 +1,11 @@
 ---
 title: 'Bulk Actions'
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 19
+### Chapter 22
 
 # Bulk Actions
 
