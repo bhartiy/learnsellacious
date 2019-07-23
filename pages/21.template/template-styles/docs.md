@@ -1,6 +1,9 @@
 ---
 title: 'Template Styles'
 media_order: 'template 5.png,template 6.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -15,7 +18,7 @@ visible: true
 ![](template%205.png)
 
 3. You can edit the style of the template from here.
-4. The default templates can be identified fro the yellow star.
+4. The default templates can be identified from the yellow star.
 5. Edit the template.
 6. Here you can change the Basic details, Layouts, Menu etc.
 
