@@ -1,9 +1,11 @@
 ---
 title: Geolocation
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 28
+### Chapter 31
 
 # Geolocation
 
