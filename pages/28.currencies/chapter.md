@@ -1,9 +1,11 @@
 ---
 title: Currencies
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 25
+### Chapter 28
 
 # Currencies
 
