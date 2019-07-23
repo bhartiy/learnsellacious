@@ -1,9 +1,11 @@
 ---
 title: SEO
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 33
+### Chapter 34
 
 # SEO
 
