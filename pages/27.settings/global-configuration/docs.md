@@ -13,3 +13,5 @@ Premium settings are the settings in which premium features are availble to the 
 Media Tab can be  manage images and attachments directly from a folder on your website where you can directly upload the files via FTP or cPanel etc. Seller Tab will help you to set the control for the seller activties. Shipment Tab will control the shipment. Review an rating tab will be set the review and rating of your shop.
 
 For Global Confuguration settings go to [](https://www.sellacious.com/documentation-v2#/learn/global-configurations)
+
+[https://www.sellacious.com/documentation-v2#/learn/global-configurations]()
