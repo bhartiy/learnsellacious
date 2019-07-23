@@ -1,9 +1,11 @@
 ---
 title: 'Categories '
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 9
+### Chapter 11
 
 # Categories
 
