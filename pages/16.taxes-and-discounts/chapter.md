@@ -1,9 +1,11 @@
 ---
 title: 'Taxes and Discounts'
+taxonomy:
+    category: docs
 visible: true
 ---
 
-### Chapter 14
+### Chapter 16
 
 # Taxes and Discounts
 
