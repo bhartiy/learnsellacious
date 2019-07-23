@@ -5,7 +5,7 @@ taxonomy:
 visible: true
 ---
 
-****### Chapter 23
+**Chapter 23**
 
 # Import
 
