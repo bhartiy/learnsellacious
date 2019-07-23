@@ -1,5 +1,8 @@
 ---
-title: 'Email templates'
+title: 'Email Templates'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -7,4 +10,4 @@ visible: true
 2. For adding Email templates, go to Settings and select Email Templates from the dropped down menu.
 3. To create a new Email templates, click on new button.
 4. Fill the information about the Email templates in different sections available in the email template window.
-5. click on save button to save the email template details.
+5. Click on save button to save the email template details.
