@@ -80,7 +80,7 @@ This is additional security measure supported by some payment gateways that can 
 
 Example: _plg_sellaciouspayment_example_
 
-`
+```
 |-- forms/
    |-- fields/
    |-- rules/
@@ -96,7 +96,7 @@ Example: _plg_sellaciouspayment_example_
    |-- default.php
 |-- example.php
 |-- example.xml
-`
+```
 
 Forms folder is for the xml form which will be loaded for the customer to enter the Payment Information. The filename of the xml should match the supported handler name. One xml each should be placed for each supported handler.
 The optional “fields” and “rules” folder can be used to put any custom field type and validation rules. See JFormRule, JFormField for more details.
