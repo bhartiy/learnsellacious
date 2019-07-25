@@ -28,29 +28,29 @@ In a very basic way a payment process can be represented as below:
 
 9. If the payment was Authorised by the gateway, the plugin will then execute the Payment Capture.
 
-Glossary
+### Glossary
 
-Payment Plugin: 
+**Payment Plugin:** 
 The Joomla extension of type “plugin” and group “sellaciouspayment” that is installed on the sellacious website.
 
 
-Payment Handler:
+**Payment Handler:**
 A unique identifier to identify the payment gateway/process so that sellacious can call the appropriate plugin when a user initiates a payment. A single plugin may implement more than one handlers and implement different payment process for each of them independently. This is useful when your payment gateway supports multiple payment systems. Usually one plugin will implement only one “handler” under normal scenario.
 
 
-Payment Method: 
+**Payment Method:**
 The Payment Options provided to the Customer / Payer to choose from in order to make a payment on your sellacious website. Each payment method is bound to a payment handler, and can have its own configuration settings. This allows your plugin to be independently used with multiple payment gateway credentials as well, depending on which method the user selects.
 
 
-Payment Configuration:
+**Payment Configuration:**
  This is the configuration settings entered by the Shop owner (or whoever creates a payment method) for each payment method. These settings usually are the Gateway API Access Key, API Token, API Passwords etc.
 
 
-Payment Information: 
+**Payment Information:**
 These are the values submitted by the end customer in order to make the payment after selecting a payment method. These can be their Credit Card information, Bank Information, or whatever information the plugin may want to ask from the customer before making a payment.
 
 
-Payment Authorisation:
+**Payment Authorisation:**
 This is the process where the Plugin redirects the User to Payment Gateway / Banks website to obtain their consent for making payments. The gateway / bank may then require the user to login to their website or enter a secure password, or an OTP (a secret one time password) or whatever they need to verify the user. This entire process after the redirection is not relevant to the plugin. Therefore you need not worry about that part at all.
 
 After the gateway / bank has verified the user and obtained their approval for the payment, it will redirect them back to the website with appropriate Status Code, Authorisation Key, Transaction number etc. In case of failure or cancelled by user, the response would usually contain suitable error code and error message that needs to be handled by the plugin.
