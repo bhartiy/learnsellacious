@@ -56,21 +56,22 @@ This is the process where the Plugin redirects the User to Payment Gateway / Ban
 After the gateway / bank has verified the user and obtained their approval for the payment, it will redirect them back to the website with appropriate Status Code, Authorisation Key, Transaction number etc. In case of failure or cancelled by user, the response would usually contain suitable error code and error message that needs to be handled by the plugin.
 
 
-Payment Capturing:
+**Payment Capturing:**
 Once the payment has been authorised, the plugin may need to explicitly charge the customers Card / Bank Account. You need to consult the documentation of the relevant gateway documentation to know whether you need explicit Capturing.
 
 
-Payment Gateway Callback:
+**Payment Gateway Callback:**
 The redirection by the payment gateway with the Authorisation response data, with appropriate status, message and Transaction Id etc. Which can be further processed by the plugin.
 
 There are two types of callbacks:
 
-Callback – Stateful callback. 
+**Callback** – Stateful callback. 
 This is performed within the same session in which the payment was initiated and processed. This is the most common type of callback used.
-Feedback – Stateless callback.
+
+**Feedback** – Stateless callback.
 This type of callback is implemented in a few payment gateways to notify your website about the payment status using a separate HTTP request other than the redirection. This request does not contain any session information such as logged in user, browser, etc. Make sure you include any important parameter (such as payment_id, handler name) in the callback URL so that you can identify the transaction for which the feedback is received.
 
-Payment Validation:
+**Payment Validation:**
 This is additional security measure supported by some payment gateways that can be used to validate the response obtained by the gateway after the Authorisation process.
 
 
