@@ -200,7 +200,7 @@ You manifest file would look like:
 </extension>
 ```
 
-If your plugin requires redirection and callback mechanism, then your initPayment() method would look similar to this:
+If your plugin requires redirection and callback mechanism, then your `initPayment()` method would look similar to this:
     ```
 /**
 * Initiate the payment process
@@ -227,8 +227,9 @@ protected function initPayment($invoice)
 }
 
 And you will execute the payment after the callback return
-
-If your plugin does NOT requires redirection and callback mechanism, then your initPayment() method would look similar to this:
+
+If your plugin does NOT requires redirection and callback mechanism, then your `initPayment()` method would look similar to this:
+    ```
 /**
 * Initiate the payment process
 *
