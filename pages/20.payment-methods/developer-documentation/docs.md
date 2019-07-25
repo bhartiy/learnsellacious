@@ -104,14 +104,14 @@ Example: _plg_sellaciouspayment_example_
 * The “language” folder is the common language folder as supported by Joomla. It should contain at least one folder “en-GB” and two file in it with the specified name. Additional languages may be added using same file naming convention. Please do not include `<language>` tag in the plugin installer manifest.
 * The optional “libraries” folder holds the external library files / classes (e.g. - SDK) that your plugin may need. The directory structure inside this folder depends on your specific needs and the source where the SDK is obtained from. Sellacious does not control or load the contents of this folder. Your plugin is responsible to load the library as and when needed.
 * The “tmpl” folder holds the layout files that will be used to render HTML output. You will use ``$this->renderLayout('default', $data);`` syntax to load a layout named “default.php” from this folder. The template developers will be able to override this in their template. The `$this` variable will be available in this layout file and it will point to the plugin object itself. Therefore you can use $this to use any of the plugin methods and variables directly within the layout file. The passed `$data` will be available inside the layout as `$displayData`.
-The files “example.php” and “example.xml” are the plugin class file and plugin installer manifest respectively.
-Please do not forget to add the entries of these files and folders in the plugin installer manifest.
-Please do not include <language> tag in the plugin installer manifest.
+* The files “example.php” and “example.xml” are the plugin class file and plugin installer manifest respectively.
+* Please do not forget to add the entries of these files and folders in the plugin installer manifest.
+* Please do not include <language> tag in the plugin installer manifest.
 
 
 Afterwards you can create ZIP archive with these files and your plugin is ready to install.
 
-Important Notes
+### Important Notes
 The plugin manifest includes the <config> section which will be used to display the Payment Configuration form to the admin / shop owner when creating the Payment Method using one of your plugins’ handlers. You can add the fields in this section to obtain the API credentials and any other information specific to each payment method.
 Some Payment Gateway does not require a separate Capture mechanism. They will Authorise and Capture simultaneously.
 Some Payment Gateway supports Payment Verification / Validation after the Callback. If this is the case make sure you make use of this feature so that the response cannot be tampered in between.
