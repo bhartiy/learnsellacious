@@ -98,8 +98,8 @@ Example: _plg_sellaciouspayment_example_
 |-- example.xml
 ```
 
-Forms folder is for the xml form which will be loaded for the customer to enter the Payment Information. The filename of the xml should match the supported handler name. One xml each should be placed for each supported handler.
-The optional “fields” and “rules” folder can be used to put any custom field type and validation rules. See JFormRule, JFormField for more details.
+* Forms folder is for the xml form which will be loaded for the customer to enter the **Payment Information**. The filename of the xml should match the supported handler name. One xml each should be placed for each supported handler.
+* The optional “fields” and “rules” folder can be used to put any custom field type and validation rules. See `JFormRule`, `JFormField` for more details.
 The “images” folder holds at least one image for the payment handler that may be used by sellacious to represent the payment handlers. Filename must match the handler name with extension “.jpg”. Any additional images required by the plugin should also be put in this folder only.
  The “language” folder is the common language folder as supported by Joomla. It should contain at least one folder “en-GB” and two file in it with the specified name. Additional languages may be added using same file naming convention. Please do not include <language> tag in the plugin installer manifest.
 The optional “libraries” folder holds the external library files / classes (e.g. - SDK) that your plugin may need. The directory structure inside this folder depends on your specific needs and the source where the SDK is obtained from. Sellacious does not control or load the contents of this folder. Your plugin is responsible to load the library as and when needed.
