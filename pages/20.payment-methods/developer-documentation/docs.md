@@ -201,7 +201,7 @@ You manifest file would look like:
 ```
 
 If your plugin requires redirection and callback mechanism, then your `initPayment()` method would look similar to this:
-    ```
+```
 /**
 * Initiate the payment process
 *
@@ -225,11 +225,11 @@ protected function initPayment($invoice)
   // Assuming $api->gateway_url is the gateway URL
   $this->app->redirect($api->gateway_url);
 }
-
+```
 And you will execute the payment after the callback return
 
 If your plugin does NOT requires redirection and callback mechanism, then your `initPayment()` method would look similar to this:
-    ```
+```
 /**
 * Initiate the payment process
 *
