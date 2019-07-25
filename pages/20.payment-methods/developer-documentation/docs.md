@@ -72,14 +72,15 @@ This is performed within the same session in which the payment was initiated and
 This type of callback is implemented in a few payment gateways to notify your website about the payment status using a separate HTTP request other than the redirection. This request does not contain any session information such as logged in user, browser, etc. Make sure you include any important parameter (such as payment_id, handler name) in the callback URL so that you can identify the transaction for which the feedback is received.
 
 **Payment Validation:**
-This is additional security measure supported by some payment gateways that can be used to validate the response obtained by the gateway after the Authorisation process.
+This is additional security measure supported by some payment gateways that can be used to validate the response obtained by the gateway after the **Authorisation** process.
 
 
 
-Plugin Directory Structure
+### Plugin Directory Structure
 
-Example: plg_sellaciouspayment_example
+Example: _plg_sellaciouspayment_example_
 
+`
 |-- forms/
    |-- fields/
    |-- rules/
@@ -95,7 +96,7 @@ Example: plg_sellaciouspayment_example
    |-- default.php
 |-- example.php
 |-- example.xml
-
+`
 
 Forms folder is for the xml form which will be loaded for the customer to enter the Payment Information. The filename of the xml should match the supported handler name. One xml each should be placed for each supported handler.
 The optional “fields” and “rules” folder can be used to put any custom field type and validation rules. See JFormRule, JFormField for more details.
