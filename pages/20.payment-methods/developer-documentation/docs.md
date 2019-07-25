@@ -130,8 +130,6 @@ Afterwards you can create ZIP archive with these files and your plugin is ready 
 * If you need additional parameters in the callback URL such as “status=success” then call this method as below:
 		```
 		$callbackUrl = $this->getCallbackUrl(array('status' => 'success'));
-    	```
-    	```
 		$feedbackUrl = $this->getCallbackUrl(array('status' => 'success'), true);
     	```
 For a detailed documentation for each plugin function / method, please refer to the attached sample plugin and read the doc-blocks and comments in each method.
