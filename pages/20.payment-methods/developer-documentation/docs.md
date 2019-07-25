@@ -117,12 +117,10 @@ Afterwards you can create ZIP archive with these files and your plugin is ready 
 * Some Payment Gateway supports Payment Verification / Validation after the Callback. If this is the case make sure you make use of this feature so that the response cannot be tampered in between.
 * Some Payment Gateway does not require a redirection at all. They would simply need you to collect the Payment Information from the User (such as Credit Card Details) and pass to the Gateway using CURL etc internally. If this is the case with your plugin, then you don’t need to implement Callback system.
 * If your plugin requires a redirect and callback mechanism as explained above, you can supply the Callback URL to the gateways as below:
-
 		```
 		$callbackUrl = $this->getCallbackUrl();
 		$feedbackUrl = $this->getCallbackUrl(array(), true);
-		```
-    
+		```   
 	This will return something like (not exactly, **please DO NOT hardcode this URL ever in your plugins**):
 		http://yourdomain.com/index.php?option=com_sellacious&task=payment.callback
 * If you need additional parameters in the callback URL such as “status=success” then call this method as below:
