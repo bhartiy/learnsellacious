@@ -133,7 +133,8 @@ Afterwards you can create ZIP archive with these files and your plugin is ready 
 
 Contents of Payment information form XML viz. `/forms/xample_handler.xml` is:
 ```
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>  
+    
 <form>
   <fieldset name="payment">
      <fields name="example_handler">
@@ -144,6 +145,7 @@ Contents of Payment information form XML viz. `/forms/xample_handler.xml` is:
 ```
 
 You manifest file would look like:
+    ```
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="3.0" type="plugin" group="sellaciouspayment" method="upgrade">
   <name>plg_sellaciouspayment_example</name>
@@ -196,10 +198,10 @@ You manifest file would look like:
      </fields>
   </config>
 </extension>
+```
 
-
-
 If your plugin requires redirection and callback mechanism, then your initPayment() method would look similar to this:
+    ```
 /**
 * Initiate the payment process
 *
@@ -253,9 +255,9 @@ protected function initPayment($invoice)
 
   return $result;
 }
+```
 
-
-The Plugin Class file
+### The Plugin Class file
 For your reference a full documented plugin file content is given below. Please note that this is an example plugin file, and contains few empty blocks that needs to be implemented depending on the payment gateway you are working for. This example plugin will NOT run as is. Use this as a guide only to create your own sellacious payment plugin. 
 
 The example.php : (The PHP file will be provided separately as attachment as well)
