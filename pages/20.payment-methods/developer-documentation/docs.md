@@ -112,18 +112,28 @@ Example: _plg_sellaciouspayment_example_
 Afterwards you can create ZIP archive with these files and your plugin is ready to install.
 
 ### Important Notes
-The plugin manifest includes the <config> section which will be used to display the Payment Configuration form to the admin / shop owner when creating the Payment Method using one of your plugins’ handlers. You can add the fields in this section to obtain the API credentials and any other information specific to each payment method.
-Some Payment Gateway does not require a separate Capture mechanism. They will Authorise and Capture simultaneously.
-Some Payment Gateway supports Payment Verification / Validation after the Callback. If this is the case make sure you make use of this feature so that the response cannot be tampered in between.
-Some Payment Gateway does not require a redirection at all. They would simply need you to collect the Payment Information from the User (such as Credit Card Details) and pass to the Gateway using CURL etc internally. If this is the case with your plugin, then you don’t need to implement Callback system.
-If your plugin requires a redirect and callback mechanism as explained above, you can supply the Callback URL to the gateways as below:
-$callbackUrl = $this->getCallbackUrl();
-$feedbackUrl = $this->getCallbackUrl(array(), true);
-	This will return something like (not exactly, please DO NOT hardcode this URL ever in your plugins):
-	http://yourdomain.com/index.php?option=com_sellacious&task=payment.callback
-If you need additional parameters in the callback URL such as “status=success” then call this method as below:
-$callbackUrl = $this->getCallbackUrl(array('status' => 'success'));
-$feedbackUrl = $this->getCallbackUrl(array('status' => 'success'), true);
+* The plugin manifest includes the `<config>` section which will be used to display the Payment Configuration form to the admin / shop owner when creating the Payment Method using one of your plugins’ handlers. You can add the fields in this section to obtain the API credentials and any other information specific to each payment method.
+* Some Payment Gateway does not require a separate Capture mechanism. They will Authorise and Capture simultaneously.
+* Some Payment Gateway supports Payment Verification / Validation after the Callback. If this is the case make sure you make use of this feature so that the response cannot be tampered in between.
+* Some Payment Gateway does not require a redirection at all. They would simply need you to collect the Payment Information from the User (such as Credit Card Details) and pass to the Gateway using CURL etc internally. If this is the case with your plugin, then you don’t need to implement Callback system.
+* If your plugin requires a redirect and callback mechanism as explained above, you can supply the Callback URL to the gateways as below:
+
+		```
+		$callbackUrl = $this->getCallbackUrl();
+		```
+		```
+		$feedbackUrl = $this->getCallbackUrl(array(), true);
+		```
+    
+	This will return something like (not exactly, **please DO NOT hardcode this URL ever in your plugins**):
+		http://yourdomain.com/index.php?option=com_sellacious&task=payment.callback
+* If you need additional parameters in the callback URL such as “status=success” then call this method as below:
+		```
+		$callbackUrl = $this->getCallbackUrl(array('status' => 'success'));
+    	```
+    	```
+		$feedbackUrl = $this->getCallbackUrl(array('status' => 'success'), true);
+    	```
 For a detailed documentation for each plugin function / method, please refer to the attached sample plugin and read the doc-blocks and comments in each method.
 
 
