@@ -128,10 +128,11 @@ Afterwards you can create ZIP archive with these files and your plugin is ready 
 		$callbackUrl = $this->getCallbackUrl(array('status' => 'success'));
 		$feedbackUrl = $this->getCallbackUrl(array('status' => 'success'), true);
     	```
-For a detailed documentation for each plugin function / method, please refer to the attached sample plugin and read the doc-blocks and comments in each method.
+* For a detailed documentation for each plugin function / method, please refer to the attached sample plugin and read the doc-blocks and comments in each method.
 
 
-Contents of Payment information form XML viz. /forms/xample_handler.xml is:
+Contents of Payment information form XML viz. `/forms/xample_handler.xml` is:
+```
 <?xml version="1.0" encoding="utf-8"?>
 <form>
   <fieldset name="payment">
@@ -140,8 +141,8 @@ Contents of Payment information form XML viz. /forms/xample_handler.xml is:
      </fields>
   </fieldset>
 </form>
+```
 
-
 You manifest file would look like:
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="3.0" type="plugin" group="sellaciouspayment" method="upgrade">
