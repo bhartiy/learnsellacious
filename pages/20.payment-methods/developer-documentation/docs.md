@@ -261,7 +261,8 @@ protected function initPayment($invoice)
 ### The Plugin Class file
 For your reference a full documented plugin file content is given below. Please note that this is an example plugin file, and contains few empty blocks that needs to be implemented depending on the payment gateway you are working for. This example plugin will NOT run as is. Use this as a guide only to create your own sellacious payment plugin. 
 
-The example.php : (The PHP file will be provided separately as attachment as well)
+The `example.php` : (The PHP file will be provided separately as attachment as well)
+```
 <?php
 /**
 * @version     1.0.0
@@ -571,3 +572,4 @@ class plgSellaciousPaymentExample extends SellaciousPluginPayment
      return $state == static::STATUS_APPROVED || $state == static::STATUS_APPROVAL_HOLD;
   }
 }
+```
