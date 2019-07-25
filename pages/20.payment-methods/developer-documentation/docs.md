@@ -8,6 +8,9 @@ visible: true
 
 ## Sellacious Payment Plugin Developer Documentation
 
+>> You can download the PDF version of this document from [here](https://drive.google.com/a/codeacious.tech/uc?authuser=0&id=15om4i4nkngk7AwrIX8_zBoI1VtfeQyb6&export=download).
+>> You can also [hire us](https://www.sellacious.com/p/sellacious-extensions/payment-plugins/new-payment-plugin-integration-development) to develope any payment plugin for you or [contact us](https://www.sellacious.com/contact) for more info.
+
 In a very basic way a payment process can be represented as below:
 
 1. Your payment plugin supports one or more “**Handler**” each having their own way of processing payment **Authorisation** and **Capturing**.
