@@ -120,8 +120,6 @@ Afterwards you can create ZIP archive with these files and your plugin is ready 
 
 		```
 		$callbackUrl = $this->getCallbackUrl();
-		```
-		```
 		$feedbackUrl = $this->getCallbackUrl(array(), true);
 		```
     
