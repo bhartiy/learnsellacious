@@ -39,7 +39,7 @@ A unique identifier to identify the payment gateway/process so that sellacious c
 
 
 **Payment Method:**
-The Payment Options provided to the Customer / Payer to choose from in order to make a payment on your sellacious website. Each payment method is bound to a payment handler, and can have its own configuration settings. This allows your plugin to be independently used with multiple payment gateway credentials as well, depending on which method the user selects.
+The Payment Options provided to the Customer / Payer to choose from in order to make a payment on your sellacious website. Each **payment method** is bound to a payment **handler**, and can have its own configuration settings. This allows your plugin to be independently used with multiple payment gateway credentials as well, depending on which method the user selects.
 
 
 **Payment Configuration:**
@@ -65,10 +65,10 @@ The redirection by the payment gateway with the Authorisation response data, wit
 
 There are two types of callbacks:
 
-**Callback** – Stateful callback. 
+* **Callback** – Stateful callback. 
 This is performed within the same session in which the payment was initiated and processed. This is the most common type of callback used.
 
-**Feedback** – Stateless callback.
+* **Feedback** – Stateless callback.
 This type of callback is implemented in a few payment gateways to notify your website about the payment status using a separate HTTP request other than the redirection. This request does not contain any session information such as logged in user, browser, etc. Make sure you include any important parameter (such as payment_id, handler name) in the callback URL so that you can identify the transaction for which the feedback is received.
 
 **Payment Validation:**
