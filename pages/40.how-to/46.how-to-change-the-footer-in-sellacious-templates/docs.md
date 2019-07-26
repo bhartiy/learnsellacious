@@ -23,4 +23,6 @@ To change the image/color in sellacious templates:
 
 ![](footer3.png)
 
-4. Change the Background Image/Color and save.
+4. Change the Background Image/Color, scroll to the last and save.
+
+![](footer4.png)
