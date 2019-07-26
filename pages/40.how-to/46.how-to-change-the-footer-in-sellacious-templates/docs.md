@@ -6,3 +6,4 @@ taxonomy:
 visible: true
 ---
 
+To change the image/color in sellacious templates, go to Joomla Administrator > Extensions > Templates. 
