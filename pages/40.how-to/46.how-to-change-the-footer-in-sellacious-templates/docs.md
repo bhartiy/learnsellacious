@@ -26,3 +26,5 @@ To change the image/color in sellacious templates:
 4. Change the Background Image/Color, scroll to the last and save.
 
 ![](footer4.png)
+
+>> This settings is only applicable on helix framework.
