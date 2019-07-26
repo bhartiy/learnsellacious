@@ -1,6 +1,6 @@
 ---
 title: 'How to change the Footer in Sellacious templates?'
-media_order: 'footer-1.png,footer2.png,footer3.png'
+media_order: 'footer-1.png,footer2.png,footer3.png,footer4.png,footer6.png,footer5.png'
 taxonomy:
     category:
         - docs
@@ -8,6 +8,10 @@ visible: true
 ---
 
 To change the image/color in sellacious templates: 
+
+In Js-Kart by default Footer is like this.
+
+![](footer5.png)
 
 1. Go to Joomla Administrator > Extensions > Templates. 
 
@@ -28,3 +32,7 @@ To change the image/color in sellacious templates:
 ![](footer4.png)
 
 >> This settings is only applicable on helix framework.
+
+5. You can view these changes in frontend now. (We removed the image from the background and change the background color to Red.)
+
+![](footer6.png)
