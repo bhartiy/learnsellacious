@@ -1,6 +1,6 @@
 ---
 title: 'How to change the Footer in Sellacious templates?'
-media_order: 'footer-1.png,footer2.png'
+media_order: 'footer-1.png,footer2.png,footer3.png'
 taxonomy:
     category:
         - docs
@@ -20,3 +20,7 @@ To change the image/color in sellacious templates:
 > There can be more than one layouts/styles which are using in your templates. Like in the above screen shot, Js-kart have 4 layouts. Default, Left Side Bar, Minimal and full width. Make sure to update the footer in all the layouts you're using, not just default layout.
 
 3. Go to Layout section and click on Settings to edit the Bottom 'Row'. 
+
+![](footer3.png)
+
+4. Change the Background Image/Color and save.
