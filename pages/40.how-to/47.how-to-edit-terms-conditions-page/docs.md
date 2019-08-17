@@ -1,6 +1,6 @@
 ---
 title: 'How to Edit Terms & Conditions Page'
-media_order: 't&c.png,t&c2.png,t&c3.png,t&c4.png,t&c5.png'
+media_order: 't&c.png,t&c2.png,t&c3.png,t&c4.png,t&c5.png,front1.png'
 taxonomy:
     category:
         - docs
@@ -36,3 +36,12 @@ Editing the Terms & Conditions in your template is easy. To edit them go to Joom
 
 You can edit these conditions with frontend editor. To use frontend editor, make sure you're logged in as **Admin**.  
 
+When you're logged in as a Admin, you will see the "Edit Page" button on SP Page builder pages.  
+
+Click on **Edit Page** to edit that page. In this doc we are editing the page terms & conditions. You can edit Shipping Policy, Refund Policy, Contact Us page and many more in the same way.  
+
+![](front1.png)
+
+Now you can edit the contect directly. To know more about frontend editing, procees to the following link: https://www.joomshaper.com/documentation/sp-page-builder/sp-page-builder-3#documentation-heading-1_2  
+
+![](front2.jpeg)
