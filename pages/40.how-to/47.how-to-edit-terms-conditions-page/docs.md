@@ -46,4 +46,8 @@ Now you can edit the contect directly. To know more about frontend editing, proc
 
 ![](front2.jpeg)
 
-<iframe src="https://drive.google.com/file/d/1v2B9fb0TBgsZOiO_DAbYPDOrejj9JLqz/preview" width="640" height="480"></iframe>
+You can also view the video for frontend editing here.
+
+https://drive.google.com/file/d/1v2B9fb0TBgsZOiO_DAbYPDOrejj9JLqz/view
+
+https://drive.google.com/file/d/1v2B9fb0TBgsZOiO_DAbYPDOrejj9JLqz/view
