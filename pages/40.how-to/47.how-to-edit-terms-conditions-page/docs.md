@@ -48,6 +48,4 @@ Now you can edit the contect directly. To know more about frontend editing, proc
 
 You can also view the video for frontend editing here.
 
-https://drive.google.com/file/d/1v2B9fb0TBgsZOiO_DAbYPDOrejj9JLqz/view
-
-https://drive.google.com/file/d/1v2B9fb0TBgsZOiO_DAbYPDOrejj9JLqz/view
+[plugin:youtube](https://youtu.be/wFuNzL5Csog)
