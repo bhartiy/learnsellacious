@@ -45,3 +45,5 @@ Click on **Edit Page** to edit that page. In this doc we are editing the page te
 Now you can edit the contect directly. To know more about frontend editing, procees to the following link: https://www.joomshaper.com/documentation/sp-page-builder/sp-page-builder-3#documentation-heading-1_2  
 
 ![](front2.jpeg)
+
+<iframe src="https://drive.google.com/file/d/1v2B9fb0TBgsZOiO_DAbYPDOrejj9JLqz/preview" width="640" height="480"></iframe>
