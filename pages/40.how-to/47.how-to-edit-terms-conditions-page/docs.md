@@ -32,7 +32,7 @@ Editing the Terms & Conditions in your template is easy. To edit them go to Joom
 6. You can see your changes in frontend.  
 7. You can change the other pages similarly.  
 
-[plugin:youtube](https://youtu.be/wFuNzL5Csog)
+[plugin:youtube](https://youtu.be/NQe8WVAuZ84)
 
 ---
 
