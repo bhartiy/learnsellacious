@@ -39,3 +39,6 @@ To use this feature:
 
 ![](sync7.png)
 
+7. Now, go to Sellacious Backend > Categories > Physical Categories and click on Sync Category Menu.
+> If you want to sync electronic categories, go to Sellacious Backend > Categories > Electronic Categories.
+
