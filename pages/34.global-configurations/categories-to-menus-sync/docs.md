@@ -1,6 +1,6 @@
 ---
 title: 'Categories to Menus Sync'
-media_order: 'sync1.png,sync2.png,sync3.jpeg,sync4.jpeg,sync5.jpeg,sync6.png'
+media_order: 'sync1.png,sync2.png,sync3.jpeg,sync4.jpeg,sync5.jpeg,sync6.png,sync7.png,sync8.png'
 taxonomy:
     category:
         - docs
@@ -42,3 +42,4 @@ To use this feature:
 7. Now, go to Sellacious Backend > Categories > Physical Categories and click on Sync Category Menu.
 > If you want to sync electronic categories, go to Sellacious Backend > Categories > Electronic Categories.
 
+![](sync8.png)
