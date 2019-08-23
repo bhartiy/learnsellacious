@@ -1,6 +1,6 @@
 ---
 title: 'Categories to Menus Sync'
-media_order: 'sync1.png,sync2.png,sync3.jpeg'
+media_order: 'sync1.png,sync2.png,sync3.jpeg,sync4.jpeg,sync5.jpeg'
 taxonomy:
     category:
         - docs
@@ -23,7 +23,10 @@ To use this feature:
 
 ![](sync3.jpeg)
 
-4. Select the Menu Item First Parent. This is to select under which menu you want your categories. You can also select to create top level categories as New menu item. I have create a new menu **Products** in main menu.
+4. Select the Menu Item First Parent. This is to select under which menu you want your categories. You can also select to create top level categories as New menu item. I have created a new menu **Products** in main menu.
 
+![](sync4.jpeg)
 
+5. Configure the Product Category Menu. _Enable Sync_ and _Show Title_ should be yes, to show categories on frontend.
 
+![](sync5.jpeg)
