@@ -23,5 +23,7 @@ To use this feature:
 
 ![](sync3.jpeg)
 
-4. Select the Menu Item First Parent. This is to select under which menu you want your categories. You can also select to create top level categories as New menu item.
+4. Select the Menu Item First Parent. This is to select under which menu you want your categories. You can also select to create top level categories as New menu item. I have create a new menu **Products** in main menu.
+
+
 
