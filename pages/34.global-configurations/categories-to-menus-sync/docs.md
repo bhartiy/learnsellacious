@@ -1,5 +1,6 @@
 ---
 title: 'Categories to Menus Sync'
+media_order: 'sync1.png,sync2.png'
 taxonomy:
     category:
         - docs
@@ -11,4 +12,10 @@ This feature of sellacious allows you to Sync your sellacious categories to Joom
 To use this feature:
 
 1. Go to Sellacious Backend > Settings > Global Configuration > Frontend Display options.
-2. In this tab there's an option to sync 
+
+![](sync1.png)
+
+2. In this tab, there's an option Categories Menu Sync.
+
+![](sync2.png)
+
