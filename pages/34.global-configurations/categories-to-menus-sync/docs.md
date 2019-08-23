@@ -1,6 +1,6 @@
 ---
 title: 'Categories to Menus Sync'
-media_order: 'sync1.png,sync2.png,sync3.jpeg,sync4.jpeg,sync5.jpeg,sync6.png,sync7.png,sync8.png'
+media_order: 'sync1.png,sync2.png,sync3.jpeg,sync4.jpeg,sync5.jpeg,sync6.png,sync7.png,sync8.png,sync9.jpeg'
 taxonomy:
     category:
         - docs
@@ -45,3 +45,4 @@ To use this feature:
 
 8. You can check your Cateogries in the frontend now.
 
+![](sync9.jpeg)
