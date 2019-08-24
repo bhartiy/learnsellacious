@@ -1,6 +1,9 @@
 ---
 title: Introduction
 media_order: 'ship.png,ship1.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
