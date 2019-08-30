@@ -11,7 +11,9 @@ admin:
 
 There are two ways to upgrade a free license to premium license.
 
-**1. From sellacious backend:** To upgrade your site from free to premium, you need to purchase the premium license.  
+## **1. From sellacious backend:**
+
+To upgrade your site from free to premium, you need to purchase the premium license.  
 
 To do this go to the sellacious backend of your site and click on the license information. A window will open which will show the license information.  
 
@@ -27,7 +29,9 @@ Select the license you want to activate, click on it and purchase the license.
 
 The premium license is activated now on previous license key.
 
-**2. From sellacious.com (Site Key):** This method is for when you have already purchased a premium license with same/different email id.  
+## **2. From sellacious.com (Site Key):**
+
+This method is for when you have already purchased a premium license with same/different email id.  
 
 After purchasing the premium license, go to Dashboard > Subscription. In premium subscription, you'll see the license you purchased.  
 
