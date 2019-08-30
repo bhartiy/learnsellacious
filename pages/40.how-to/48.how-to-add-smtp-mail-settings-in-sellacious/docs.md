@@ -19,6 +19,8 @@ Here you can fill the fields according to your email provider.
 
 ![](smtp%20sttings.png)
 
+You can test by sending a test mail.
 
+After filling all the fields save configuration.
 
 
