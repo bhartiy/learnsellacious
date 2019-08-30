@@ -48,3 +48,5 @@ There at the bottom is the Site Key. Copy that site key. Paste it into your sell
 The license is upgraded from free to premium.
 
 _**Note: Site Key is unique for every Site.**_
+
+>> If you're getting a msg **Your license has expired. You can renew again for FREE!**, please click on this msg and register for free license (if you have purchased the premium license already) or Premium license if you want to use sellacious with premium feature and awesome support.
