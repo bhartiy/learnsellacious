@@ -1,6 +1,6 @@
 ---
 title: 'Upgrade to Premium'
-media_order: 'site-key1.png,site-key2.png'
+media_order: 'site-key1.png,site-key2.png,site-key3.png'
 taxonomy:
     category:
         - docs
@@ -23,7 +23,7 @@ Click on 'Change or Upgrade' and licenses available on sellacious will open.
 
 Select the license you want to activate, click on it and purchase the license.  
 
-
+![](site-key3.png)
 
 The premium license is activated now on previous license key.
 
