@@ -1,5 +1,6 @@
 ---
 title: 'How to add SMTP Mail Settings in sellacious ?'
+media_order: 'smtp sttings.png'
 taxonomy:
     category:
         - docs
@@ -14,6 +15,10 @@ Locate **mail settings **
 
 Here you can fill the fields according to your email provider.
 
-**For gmail**
+## **For gmail**
+
+![](smtp%20sttings.png)
+
+
 
 
