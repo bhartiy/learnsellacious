@@ -1,6 +1,6 @@
 ---
 title: 'Upgrade to Premium'
-media_order: 'site-key1.png,site-key2.png,site-key3.png'
+media_order: 'site-key1.png,site-key2.png,site-key3.png,site-key4.png,site-key5.png'
 taxonomy:
     category:
         - docs
@@ -27,9 +27,19 @@ Select the license you want to activate, click on it and purchase the license.
 
 The premium license is activated now on previous license key.
 
-**2. From sellacious.com (Site Key):** This method is for when you have already purchased a premium license with same/different email id. After purchasing the premium license, go to Dashboard > Subscription. In premium subscription, you'll see the license you purchased.
+**2. From sellacious.com (Site Key):** This method is for when you have already purchased a premium license with same/different email id.  
 
-Now go to the sellacious backend of your site. Click on the license information, which will redirect you to the license information page. There at the bottom is the Site Key. Copy that site key and paste it into your sellacious.com account > premium subscription.
+After purchasing the premium license, go to Dashboard > Subscription. In premium subscription, you'll see the license you purchased.  
+
+![](site-key4.png)
+
+Now go to the sellacious backend of your site. Click on the license information, which will redirect you to the license information page.  
+
+![](site-key1.png)
+
+There at the bottom is the Site Key. Copy that site key. Paste it into your sellacious.com account > premium subscription.  
+
+![](site-key5.png)
 
 The license is upgraded from free to premium.
 
