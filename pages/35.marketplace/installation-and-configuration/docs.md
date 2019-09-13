@@ -1,5 +1,5 @@
 ---
-title: 'Installation and Configuration'
+title: 'Hyperlocal Installation and Configuration'
 media_order: 'hyperlocal1.png,google api (1).png,hyperlocal3.png,hyperlocal4.png'
 taxonomy:
     category:
