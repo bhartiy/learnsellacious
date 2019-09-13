@@ -1,6 +1,6 @@
 ---
 title: 'Sellacious Hyperlocal'
-media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocal2.png'
+media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png'
 taxonomy:
     category:
         - docs
@@ -34,7 +34,7 @@ Seller will choose the radius within which he wants to avail delivery of his pro
 For example there are two sellers owning store1 and store2,they will be able to deliver products within thir radius.
 Seller1 can avail products in circle A and seller2 can vavil products in circle B. Accordingly user can see products from the circle in which they reside and if users(like user3) fall in the intersection of both the circle they can see the products from both the sellers.
 
-![](hyperlocal2.png)
+![](hyperlocalsdasd2.png)
 
 
 Enterpise version of sellacious supports warehouses functionality too which means a seller can have multiple warehouses with delivery capability in area where the warehouse is located. So now Seller can avail delivery in area where wwarehouse is located as well as the store radius.
