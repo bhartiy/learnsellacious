@@ -1,6 +1,9 @@
 ---
 title: 'Enable Marketplace'
 media_order: 'marketplace 1.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
