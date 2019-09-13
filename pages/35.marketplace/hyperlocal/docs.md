@@ -15,9 +15,9 @@ _Hyperlocal is compatible to the sellacious version 1.6.x and above. If your sit
 
 ### Use cases for Sellacius Hyperlocal
 Before we move to installation and configuration part lets understand use cases for Sellacious Hyperlocal. Basically there are three use cases of hyperlocal
-1. Region based
-2. Radius based
-3. Product based
+1. [Region based](https://www.sellacious.com/learn/marketplace/hyperlocal#region-based)
+2. [Radius based](https://www.sellacious.com/learn/marketplace/hyperlocal#radius-based)
+3. [Product based](https://www.sellacious.com/learn/marketplace/hyperlocal#product-based)
 
 ### Region Based: 
 In region based, hyperlocal displays a search form to find products by Location in Sellacious. It is done by **Address matching by Region**. If Address Matching is selected as region, then Sellacious will search products by the selected region. For example, if it is City/District/State/Country then the results will be displayed from that particular City/District/State/Country.
