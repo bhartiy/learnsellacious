@@ -77,6 +77,8 @@ For radius based fitering select by distance in address matching tab
 
 ![](By%20distance.png)
 
+### Configuration for delivery slots
+
 ![](hyperlocal5.png)
 
 As you can see in the above screen shot, sellers can handle their store configurations from their profiles. Store opening, closing, delivery and pick timings can be viewd on frontend. These configuration can be hidden frontend, from global configuration and seller's profile. 
