@@ -1,6 +1,6 @@
 ---
-title: 'Hyperlocal Module and Plugin'
-media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png'
+title: 'Sellacious Hyperlocal'
+media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyper.png'
 taxonomy:
     category:
         - docs
@@ -9,9 +9,29 @@ visible: true
 
 Hyperlocal is a major feature of sellacious. With the help of hyperlocal you can create your own store for local or international buyers. 
 
-This hyperlocal package consists of a module and plugin. Which both are already built in sellacious latest version 1.6.0. We are upgrading this feature of sellacious day by day and adding many more additions to this feature.
+This hyperlocal package consists of a module and plugin. Which both are already built in sellacious latest version. We are upgrading this feature of sellacious day by day and adding many more additions to this feature.
 
 _Hyperlocal is compatible to the sellacious version 1.6.x and above. If your site isn't updated yet to the latest sellacious, please update it to use hyperlocal and many more exciting feature of sellacious._
+
+### Use cases for Sellacius Hyperlocal
+Before we move to installation and configuration part lets understand use cases for Sellacious Hyperlocal. Basically there are two use case of hyperlocal
+1.Text based
+2.Radious based
+
+### Text based: 
+In text based, hyperlocal displays a search form to find products by Location in Sellacious. it is done by **Address matching by Region**. If Address Matching is selected as region, then Sellacious will search products by the selected region. For example, if it is City/District/State/Country then the results will be displayed from that particular City/District/State/Country.
+In other words it show Stores which can deliver and products which can be delivered to user location.
+
+![](rento%20mozo.png)
+
+### Radius Based:
+
+In radius based, it will search products based on distance from user's current location and specified distance around it. This may sometimes span across geo-political regional boundary, viz another state or city if they fall within given distance.
+Seller will choose the radius within which he wants to avail delivery of his products and hyperlocal will create a circle based on geolocation data and if user falls within that circle he will see products from that seller.
+For example there are two sellers owning store1 and store2 they will be able to deliver products according to following diagram and user will also able to see products accordingly.
+
+![](hyper.png)
+
 
 After installing the sellacious version 1.6.x and above, to use hyperlocal go to the Sellacious backend > Settings. In Global configuration, you'll see the tab for hyperlocal settings.
 
