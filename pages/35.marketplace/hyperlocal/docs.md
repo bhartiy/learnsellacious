@@ -78,12 +78,4 @@ For radius based filtering select by distance in address matching tab
 
 ![](By%20distance.png)
 
-### Configuration for delivery slots
 
-![](hyperlocal5.png)
-
-As you can see in the above screen shot, sellers can handle their store configurations from their profiles. Store opening, closing, delivery and pick timings can be viewed on frontend. These configuration can be hidden frontend, from global configuration and seller's profile. 
-
-![](hyperlocal7.png)
-
-Once all the settings are done and module is published in frontend, you can use hyperlocal to locate nearby stores, shops, products.
