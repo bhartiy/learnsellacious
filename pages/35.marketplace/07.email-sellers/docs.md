@@ -1,5 +1,8 @@
 ---
 title: 'Email sellers'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
