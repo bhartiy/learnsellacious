@@ -1,6 +1,6 @@
 ---
 title: 'Delivery Slots'
-media_order: 'make sure time and date checked.png,select timing.png'
+media_order: 'make sure time and date checked.png,select timing.png,store page.png'
 taxonomy:
     category:
         - docs
@@ -24,5 +24,7 @@ Here you can select delivery slots for your store
 
 
 These delivery slots will be visible on store page of the seller
+
+![](store%20page.png)
 
 
