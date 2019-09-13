@@ -1,5 +1,8 @@
 ---
 title: 'Guest Product create'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
