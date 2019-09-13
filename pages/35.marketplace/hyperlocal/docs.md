@@ -28,9 +28,7 @@ In other words it show Stores which can deliver and products which can be delive
 ### Radius Based:
 
 In radius based, it will search products based on distance from user's current location and specified distance around it. This may sometimes span across geo-political regional boundary, viz another state or city if they fall within given distance.
-
 Seller will choose the radius within which he wants to avail delivery of his products and hyperlocal will create a circle based on geolocation data and if user falls within that circle he will see products from that seller.
-
 For example there are two sellers owning store1 and store2,they will be able to deliver products within thir radius.
 Seller1 can avail products in circle A and seller2 can vavil products in circle B. Accordingly user can see products from the circle in which they reside and if users(like user3) fall in the intersection of both the circle they can see the products from both the sellers.
 
