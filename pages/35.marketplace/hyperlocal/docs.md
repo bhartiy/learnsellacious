@@ -33,6 +33,9 @@ For example there are two sellers owning store1 and store2 they will be able to 
 ![](hyper.png)
 
 
+
+### Installation and Configuration
+
 After installing the sellacious version 1.6.x and above, to use hyperlocal go to the Sellacious backend > Settings. In Global configuration, you'll see the tab for hyperlocal settings.
 
 
