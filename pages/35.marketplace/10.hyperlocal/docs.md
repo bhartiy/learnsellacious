@@ -14,10 +14,10 @@ This hyperlocal package consists of a module and plugin. Which both are already 
 _Hyperlocal is compatible to the sellacious version 1.6.x and above. If your site isn't updated yet to the latest sellacious, please update it to use hyperlocal and many more exciting feature of sellacious._
 
 ### Use cases for Sellacius Hyperlocal
-Before we move to installation and configuration part lets understand use cases for Sellacious Hyperlocal. Basically there are three use cases of hyperlocal
+Before we move to installation and configuration part lets understand use cases for Sellacious Hyperlocal. Basically there are two use cases of hyperlocal
 1. [Region based](https://www.sellacious.com/learn/marketplace/hyperlocal#region-based)
 2. [Radius based](https://www.sellacious.com/learn/marketplace/hyperlocal#radius-based)
-3. [Product based](https://www.sellacious.com/learn/marketplace/hyperlocal#product-based)
+
 
 ### 1. Region Based 
 In region based, hyperlocal displays a search form to find products by Location in Sellacious. It is done by **Address matching by Region**. If Address Matching is selected as region, then Sellacious will search products by the selected region. For example, if it is City/District/State/Country then the results will be displayed from that particular City/District/State/Country.
@@ -59,15 +59,7 @@ and in Global Configuration of Sellacious backend
 
 ![](gc%20by%20radius.png)
 
-### 3. Product Based
 
-Each product has Its Location and Product Coordinates saved with it so Sellacious Hyperlocal can filter it with this information. In case product location is not defined, hyperlocal will inherit the location of store/warehouse and product will be shown to the user if the user falls under the region or radius of concerned seller.
-
-### Configuration for Product based
-
-![](p%20location.png)
-
-![](product%20config.png)
 
 
 
