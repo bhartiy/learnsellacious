@@ -1,6 +1,6 @@
 ---
 title: 'Sellacious Hyperlocal'
-media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png'
+media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png,Region based .png'
 taxonomy:
     category:
         - docs
@@ -66,6 +66,14 @@ After this you'll be able to publish the module in your site. To publish hyperlo
 ![](hyperlocal4.png)
 
 In Sellacious hyperlocal you can select either 'By Radius' or 'By Shippable Locations' for sellers. Sellers can also configure these settings from their profile for their store only. These settings can be handeled from frontend and backend.
+
+## Configuration for Region based:
+For region based fitering select by region in address matching tab
+
+![](Region%20based%20.png)
+
+## Configuration for Redius based
+For radius based fitering select by distance in address matching tab
 
 ![](hyperlocal5.png)
 
