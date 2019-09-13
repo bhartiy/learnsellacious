@@ -36,6 +36,7 @@ Seller1 can avail products in circle A and seller2 can vavil products in circle 
 
 
 **Enterpise** version of sellacious supports **warehouse** functionality too which means a seller can have multiple warehouses with delivery capability in area where the warehouse is located. So now Seller can avail delivery in area where warehouse is located as well as the store radius.
+Configuration for Redius based [click here](https://www.sellacious.com/learn/marketplace/hyperlocal#configuration-for-redius-based)
 
 
 
