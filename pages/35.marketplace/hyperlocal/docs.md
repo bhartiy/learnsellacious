@@ -26,7 +26,14 @@ In other words it show Stores which can deliver and products which can be delive
 
 
 ![](rento%20mozo.png)
-Configuration for Region based [Click here](https://www.sellacious.com/learn/marketplace/hyperlocal#configuration-for-region-based)
+### Configuration for Region based:
+For region based filtering select by region in address matching tab in joomla administrator
+
+![](Region%20based%20.png)
+
+and in Global Configuration of Sellacious backend
+
+![](gc%20by%20region.png)
 
 ### Radius Based:
 
@@ -41,7 +48,16 @@ Seller1 can avail products in circle A and seller2 can vavil products in circle 
 **Enterprise** version of sellacious supports **warehouse** functionality too which means a seller can have multiple warehouses with delivery capability in area where the warehouse is located. So now Seller can avail delivery in area where warehouse is located as well as the store radius.
 
 ![](hyperlocal.png)
-Configuration for Radius based [click here](https://www.sellacious.com/learn/marketplace/hyperlocal#configuration-for-redius-based)
+
+
+### Configuration for Radius based
+For radius based filtering select by distance in address matching tab in joomla administrator
+
+![](By%20distance.png)
+
+and in Global Configuration of Sellacious backend
+
+![](gc%20by%20radius.png)
 
 ### Product Based:
 
@@ -53,21 +69,7 @@ Each product has Its Location and Product Coordinates saved with it so Sellaciou
 
 In Sellacious hyperlocal you can select either 'By Radius' or 'By Shippable Locations' for sellers. Sellers can also configure these settings from their profile for their store only. These settings can be handeled from frontend and backend.
 
-### Configuration for Region based:
-For region based filtering select by region in address matching tab in joomla administrator
 
-![](Region%20based%20.png)
 
-and in Global Configuration of Sellacious backend
 
-![](gc%20by%20region.png)
-
-### Configuration for Radius based
-For radius based filtering select by distance in address matching tab in joomla administrator
-
-![](By%20distance.png)
-
-and in Global Configuration of Sellacious backend
-
-![](gc%20by%20radius.png)
 
