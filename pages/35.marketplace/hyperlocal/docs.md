@@ -1,6 +1,6 @@
 ---
 title: 'Sellacious Hyperlocal'
-media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png,Region based .png,By distance.png,google api.png,gc by radius.png,gc by region.png'
+media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png,Region based .png,By distance.png,google api.png,gc by radius.png,gc by region.png,p location.png'
 taxonomy:
     category:
         - docs
@@ -14,9 +14,10 @@ This hyperlocal package consists of a module and plugin. Which both are already 
 _Hyperlocal is compatible to the sellacious version 1.6.x and above. If your site isn't updated yet to the latest sellacious, please update it to use hyperlocal and many more exciting feature of sellacious._
 
 ### Use cases for Sellacius Hyperlocal
-Before we move to installation and configuration part lets understand use cases for Sellacious Hyperlocal. Basically there are two use cases of hyperlocal
+Before we move to installation and configuration part lets understand use cases for Sellacious Hyperlocal. Basically there are three use cases of hyperlocal
 1. Region based
 2. Radius based
+3. Product based
 
 ### Region Based: 
 In region based, hyperlocal displays a search form to find products by Location in Sellacious. It is done by **Address matching by Region**. If Address Matching is selected as region, then Sellacious will search products by the selected region. For example, if it is City/District/State/Country then the results will be displayed from that particular City/District/State/Country.
@@ -41,6 +42,13 @@ Seller1 can avail products in circle A and seller2 can vavil products in circle 
 
 ![](hyperlocal.png)
 Configuration for Radius based [click here](https://www.sellacious.com/learn/marketplace/hyperlocal#configuration-for-redius-based)
+
+### Product Based:
+
+Each product has Its Location and Product Coordinates saved with it so Sellacious can filter it with this information irrespective of seller and warehouse.
+
+![](p%20location.png)
+
 
 
 ### Installation and Configuration
