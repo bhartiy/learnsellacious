@@ -1,5 +1,8 @@
 ---
 title: 'Frontend Product Create'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
