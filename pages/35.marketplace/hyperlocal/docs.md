@@ -15,27 +15,29 @@ _Hyperlocal is compatible to the sellacious version 1.6.x and above. If your sit
 
 ### Use cases for Sellacius Hyperlocal
 Before we move to installation and configuration part lets understand use cases for Sellacious Hyperlocal. Basically there are two use case of hyperlocal
-1.Region based
-2.Radius based
+1. Region based
+2. Radius based
 
 ### Region Based: 
 In region based, hyperlocal displays a search form to find products by Location in Sellacious. It is done by **Address matching by Region**. If Address Matching is selected as region, then Sellacious will search products by the selected region. For example, if it is City/District/State/Country then the results will be displayed from that particular City/District/State/Country.
 In other words it show Stores which can deliver and products which can be delivered to user location.
-**Note:** Seller can can opt for multiple regions(City/District/State/Country) for delivery of his products.
+**Note:** Sellers can can opt for multiple regions(City/District/State/Country) for delivery of thier products.
 
 ![](rento%20mozo.png)
 
 ### Radius Based:
 
 In radius based, it will search products based on distance from user's current location and specified distance around it. This may sometimes span across geo-political regional boundary, viz another state or city if they fall within given distance.
+
 Seller will choose the radius within which he wants to avail delivery of his products and hyperlocal will create a circle based on geolocation data and if user falls within that circle he will see products from that seller.
-For example there are two sellers owning store1 and store2 they will be able to deliver products within thir radius.
+
+For example there are two sellers owning store1 and store2,they will be able to deliver products within thir radius.
 Seller1 can avail products in circle A and seller2 can vavil products in circle B. Accordingly user can see products from the circle in which they reside and if users(like user3) fall in the intersection of both the circle they can see the products from both the sellers.
 
 ![](hyperlocal.png)
 
 
-Enterpise version of sellacious supports warehouses too which means a seller can have multiple warehouses with delivery capability in area where the warehouse is located. So now Seller can avail delivery in area where wwarehouse is located as well as the store radius.
+Enterpise version of sellacious supports warehouses functionality too which means a seller can have multiple warehouses with delivery capability in area where the warehouse is located. So now Seller can avail delivery in area where wwarehouse is located as well as the store radius.
 
 
 
