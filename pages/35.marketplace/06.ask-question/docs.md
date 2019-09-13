@@ -1,5 +1,8 @@
 ---
 title: 'Ask question'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
