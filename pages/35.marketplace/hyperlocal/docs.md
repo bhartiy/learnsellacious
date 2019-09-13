@@ -14,14 +14,14 @@ This hyperlocal package consists of a module and plugin. Which both are already 
 _Hyperlocal is compatible to the sellacious version 1.6.x and above. If your site isn't updated yet to the latest sellacious, please update it to use hyperlocal and many more exciting feature of sellacious._
 
 ### Use cases for Sellacius Hyperlocal
-Before we move to installation and configuration part lets understand use cases for Sellacious Hyperlocal. Basically there are two use case of hyperlocal
+Before we move to installation and configuration part lets understand use cases for Sellacious Hyperlocal. Basically there are two use cases of hyperlocal
 1. Region based
 2. Radius based
 
 ### Region Based: 
 In region based, hyperlocal displays a search form to find products by Location in Sellacious. It is done by **Address matching by Region**. If Address Matching is selected as region, then Sellacious will search products by the selected region. For example, if it is City/District/State/Country then the results will be displayed from that particular City/District/State/Country.
 In other words it show Stores which can deliver and products which can be delivered to user location.
-**Note:** Sellers can can opt for multiple regions(City/District/State/Country) for delivery of thier products.
+**Note:** Sellers can can opt for multiple regions(City/District/State/Country) for delivery of their products.
 
 
 ![](rento%20mozo.png)
@@ -29,18 +29,18 @@ Configuration for Region based [Click here](https://www.sellacious.com/learn/mar
 
 ### Radius Based:
 
-In radius based, it will search products based on distance from user's current location and specified distance around it. This may sometimes span across geo-political regional boundary, viz another state or city if they fall within given distance.
+In radius based, it will search products based on distance from users current location and specified distance around it. This may sometimes span across geo-political regional boundary, viz another state or city if they fall within given distance.
 Seller will choose the radius within which he wants to avail delivery of his products and hyperlocal will create a circle based on geolocation data and if user falls within that circle he will see products from that seller.
-For example there are two sellers owning store1 and store2,they will be able to deliver products within thir radius.
+For example there are two sellers owning store1 and store2,they will be able to deliver products within their radius.
 Seller1 can avail products in circle A and seller2 can vavil products in circle B. Accordingly user can see products from the circle in which they reside and if users(like user3) fall in the intersection of both the circle they can see the products from both the sellers.
 
 ![](hyperlocalsdasd2.png)
 
 
-**Enterpise** version of sellacious supports **warehouse** functionality too which means a seller can have multiple warehouses with delivery capability in area where the warehouse is located. So now Seller can avail delivery in area where warehouse is located as well as the store radius.
+**Enterprise** version of sellacious supports **warehouse** functionality too which means a seller can have multiple warehouses with delivery capability in area where the warehouse is located. So now Seller can avail delivery in area where warehouse is located as well as the store radius.
 
 ![](hyperlocal.png)
-Configuration for Redius based [click here](https://www.sellacious.com/learn/marketplace/hyperlocal#configuration-for-redius-based)
+Configuration for Radius based [click here](https://www.sellacious.com/learn/marketplace/hyperlocal#configuration-for-redius-based)
 
 
 ### Installation and Configuration
@@ -69,12 +69,12 @@ After this you'll be able to publish the module in your site. To publish hyperlo
 In Sellacious hyperlocal you can select either 'By Radius' or 'By Shippable Locations' for sellers. Sellers can also configure these settings from their profile for their store only. These settings can be handeled from frontend and backend.
 
 ### Configuration for Region based:
-For region based fitering select by region in address matching tab
+For region based filtering select by region in address matching tab
 
 ![](Region%20based%20.png)
 
-### Configuration for Redius based
-For radius based fitering select by distance in address matching tab
+### Configuration for Radius based
+For radius based filtering select by distance in address matching tab
 
 ![](By%20distance.png)
 
@@ -82,7 +82,7 @@ For radius based fitering select by distance in address matching tab
 
 ![](hyperlocal5.png)
 
-As you can see in the above screen shot, sellers can handle their store configurations from their profiles. Store opening, closing, delivery and pick timings can be viewd on frontend. These configuration can be hidden frontend, from global configuration and seller's profile. 
+As you can see in the above screen shot, sellers can handle their store configurations from their profiles. Store opening, closing, delivery and pick timings can be viewed on frontend. These configuration can be hidden frontend, from global configuration and seller's profile. 
 
 ![](hyperlocal7.png)
 
