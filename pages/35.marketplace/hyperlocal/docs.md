@@ -45,7 +45,7 @@ Configuration for Radius based [click here](https://www.sellacious.com/learn/mar
 
 ### Product Based:
 
-Each product has Its Location and Product Coordinates saved with it so Sellacious Hyperlocal can filter it with this information irrespective of seller and warehouse.
+Each product has Its Location and Product Coordinates saved with it so Sellacious Hyperlocal can filter it with this information.
 
 ![](p%20location.png)
 
