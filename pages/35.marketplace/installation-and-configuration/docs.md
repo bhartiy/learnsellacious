@@ -28,5 +28,5 @@ After this you'll be able to publish the module in your site. To publish hyperlo
 
 ![](hyperlocal4.png)
 
-
+To know more about Sellacious  Hyperlocal go to [Sellacious Hyperlocal](https://sellacious.com/learn/admin/pages/marketplace/hyperlocal)
 
