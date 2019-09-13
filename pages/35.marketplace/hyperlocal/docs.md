@@ -19,14 +19,14 @@ Before we move to installation and configuration part lets understand use cases 
 2. [Radius based](https://www.sellacious.com/learn/marketplace/hyperlocal#radius-based)
 3. [Product based](https://www.sellacious.com/learn/marketplace/hyperlocal#product-based)
 
-### 1. Region Based: 
+### 1. Region Based 
 In region based, hyperlocal displays a search form to find products by Location in Sellacious. It is done by **Address matching by Region**. If Address Matching is selected as region, then Sellacious will search products by the selected region. For example, if it is City/District/State/Country then the results will be displayed from that particular City/District/State/Country.
 In other words it show Stores which can deliver and products which can be delivered to user location.
 **Note:** Sellers can can opt for multiple regions(City/District/State/Country) for delivery of their products.
 
 
 ![](rento%20mozo.png)
-### Configuration for Region based:
+### Configuration for Region based
 For region based filtering select by region in address matching tab in joomla administrator
 
 ![](Region%20based%20.png)
@@ -35,7 +35,7 @@ and in Global Configuration of Sellacious backend
 
 ![](gc%20by%20region.png)
 
-### 2. Radius Based:
+### 2. Radius Based
 
 In radius based, it will search products based on distance from users current location and specified distance around it. This may sometimes span across geo-political regional boundary, viz another state or city if they fall within given distance.
 Seller will choose the radius within which he wants to avail delivery of his products and hyperlocal will create a circle based on geolocation data and if user falls within that circle he will see products from that seller.
@@ -59,7 +59,7 @@ and in Global Configuration of Sellacious backend
 
 ![](gc%20by%20radius.png)
 
-### 3. Product Based:
+### 3. Product Based
 
 Each product has Its Location and Product Coordinates saved with it so Sellacious Hyperlocal can filter it with this information.
 
