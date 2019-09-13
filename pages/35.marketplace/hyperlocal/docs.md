@@ -1,6 +1,6 @@
 ---
 title: 'Sellacious Hyperlocal'
-media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png,Region based .png,By distance.png'
+media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png,Region based .png,By distance.png,google api.png'
 taxonomy:
     category:
         - docs
@@ -58,7 +58,7 @@ https://developers.google.com/maps/documentation/geolocation/get-api-key
 
 To use hyperlocal of sellacious, enable the API for Geocoding, Places and Timezone. Once these APIs are enabled for the key you're using, copy that key and paste it in Sellacious Backend > Settings > Global configuration > Hyperlocal.
 
-![](hyperlocal2.png)
+![](google%20api.png)
 
 After this you'll be able to publish the module in your site. To publish hyperlocal module, go to Joomla administrator > Extensions > Modules. Click on New button select the Sellacious Hyperlocal. There you can configure the module.
 
