@@ -61,13 +61,12 @@ and in Global Configuration of Sellacious backend
 
 ### 3. Product Based
 
-Each product has Its Location and Product Coordinates saved with it so Sellacious Hyperlocal can filter it with this information.
+Each product has Its Location and Product Coordinates saved with it so Sellacious Hyperlocal can filter it with this information. In case product location is not defined, hyperlocal will inherit the location of store/warehouse and product will be shown to the user if the user falls under the region or radius of concerned seller.
 
 ![](p%20location.png)
 
 
 
-In Sellacious hyperlocal you can select either 'By Radius' or 'By Shippable Locations' for sellers. Sellers can also configure these settings from their profile for their store only. These settings can be handeled from frontend and backend.
 
 
 
