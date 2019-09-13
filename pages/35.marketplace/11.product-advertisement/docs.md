@@ -1,5 +1,8 @@
 ---
 title: 'Product advertisement'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
