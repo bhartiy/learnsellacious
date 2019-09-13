@@ -1,6 +1,6 @@
 ---
 title: 'Sellacious Hyperlocal'
-media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png,Region based .png'
+media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png,Region based .png,By distance.png'
 taxonomy:
     category:
         - docs
@@ -74,6 +74,8 @@ For region based fitering select by region in address matching tab
 
 ## Configuration for Redius based
 For radius based fitering select by distance in address matching tab
+
+![](By%20distance.png)
 
 ![](hyperlocal5.png)
 
