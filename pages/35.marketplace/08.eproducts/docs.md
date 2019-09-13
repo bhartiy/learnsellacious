@@ -1,5 +1,8 @@
 ---
 title: Eproducts
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
