@@ -1,6 +1,6 @@
 ---
 title: 'Sellacious Hyperlocal'
-media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png,Region based .png,By distance.png,google api.png,gc by radius.png,gc by region.png,p location.png'
+media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png,Region based .png,By distance.png,google api.png,gc by radius.png,gc by region.png,p location.png,product config.png'
 taxonomy:
     category:
         - docs
@@ -63,7 +63,11 @@ and in Global Configuration of Sellacious backend
 
 Each product has Its Location and Product Coordinates saved with it so Sellacious Hyperlocal can filter it with this information. In case product location is not defined, hyperlocal will inherit the location of store/warehouse and product will be shown to the user if the user falls under the region or radius of concerned seller.
 
+### Configuration for Product based
+
 ![](p%20location.png)
+
+![](product%20config.png)
 
 
 
