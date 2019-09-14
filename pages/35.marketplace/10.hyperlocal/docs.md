@@ -20,9 +20,10 @@ Before we move to installation and configuration part lets understand use cases 
 
 
 ### 1. Region Based 
-In region based, hyperlocal displays a search form to find products by Location in Sellacious. It is done by **Address matching by Region**. If Address Matching is selected as region, then Sellacious will search products by the selected region. For example, if it is City/District/State/Country then the results will be displayed from that particular City/District/State/Country.
-In other words it show Stores which can deliver and products which can be delivered to user location.
-**Note:** Sellers can can opt for multiple regions(City/District/State/Country) for delivery of their products.
+**For seller:** In region based, Sellacious Hyperlocal shows products to user based on Location. It is done by **Address matching by Region**. If seller has configured Address Matching as region and Shipping Availability to a particular region then Sellacious will show products to users in that particular region. Here region represents Locality, Zip, City, District, State, or Country.
+**For User:** Based on the geolocation data of the user which can be entered manually or detected by browser, user will see Stores which can deliver and products which can be delivered to user location.
+For example, if region selected by user is **Delhi** then the products which are available for delivery in Delhi will be shown to user in list view.
+**Note:** User can can opt for multiple regions(City/District/State/Country).
 
 
 ![](rento%20mozo.png)
