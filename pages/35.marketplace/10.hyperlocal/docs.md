@@ -27,6 +27,9 @@ Store location and Product location is saved at the time of it's ceation with th
 ![](seller%20location.png)
 ![](product%20location.png)
 
+**Enterprise** version of sellacious supports **warehouse** functionality too which means a seller can have multiple warehouses with delivery capability in an area where the warehouse is located. So now Seller can avail delivery in area where the warehouse is located as well as the store location.
+
+
 **For Website Visiter:**  Based on the geolocation data of the user which is entered/selected manually or detected by browser, user will see Stores which can deliver and products which can be delivered to user location.
 For example, if region selected by user is Delhi then the products which are available for delivery in Delhi will be shown to user in list view.
 **Note:** User can canselect multiple regions(City/District/State/Country).
@@ -52,7 +55,7 @@ Seller1 can avail products in circle A and seller2 can vavil products in circle 
 ![](hyperlocalsdasd2.png)
 
 
-**Enterprise** version of sellacious supports **warehouse** functionality too which means a seller can have multiple warehouses with delivery capability in an area where the warehouse is located. So now Seller can avail delivery in area where the warehouse is located as well as the store radius.
+ In case of multiple **warehouse** a seller will be having both the store radious ond warehouse radius and can avail delivery in both the areas.
 
 ![](hyperlocal.png)
 
