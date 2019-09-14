@@ -50,7 +50,7 @@ Seller1 can avail products in circle A and seller2 can vavil products in circle 
 
 ![](hyperlocal.png)
 
-**For User:** Users will be provided the option to choose the radius from which they want to see the products and Stores which can deliver and products which can be delivered within that radius will be shown to user.
+**For User:** Users will be provided the option to choose the radius within which they want to see the products and Stores which can deliver and products which can be delivered within that radius will be shown to user.
 
 ![](radius.png)
 
