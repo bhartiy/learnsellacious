@@ -7,14 +7,14 @@ taxonomy:
 visible: true
 ---
 
-Hyperlocal is a major feature of sellacious. With the help of hyperlocal you can create your own store for local or international buyers. 
+With the help of Sellacious Hyperlocal you can create your own store sensitive to user and product location. 
 
 This hyperlocal package consists of a **Hyperlocal Module and Plugin**. Which both are already built in sellacious latest version. We are upgrading this feature of sellacious day by day and adding many more additions to this feature.
 
 _Hyperlocal is compatible to the sellacious version 1.6.x and above. If your site isn't updated yet to the latest sellacious, please update it to use hyperlocal and many more exciting feature of sellacious._
 
 ### Use cases for Sellacius Hyperlocal
-Before we move to installation and configuration part lets understand use cases for Sellacious Hyperlocal. Basically there are two use cases of hyperlocal
+Sellacious Hyperlocal provides location sensitivity based on following use cases
 1. [Region based](https://www.sellacious.com/learn/marketplace/hyperlocal#1-region-based)
 2. [Radius based](https://www.sellacious.com/learn/marketplace/hyperlocal#2-radius-based)
 
