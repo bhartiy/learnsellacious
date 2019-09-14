@@ -55,7 +55,7 @@ Seller1 can avail products in circle A and seller2 can vavil products in circle 
 ![](hyperlocalsdasd2.png)
 
 
- In case of multiple **warehouse** a seller will be having both the store radious ond warehouse radius and can avail delivery in both the areas.
+ In case of multiple **warehouse** a seller will be having both the store radius ond warehouse radius and can avail delivery in both the areas.
 
 ![](hyperlocal.png)
 
