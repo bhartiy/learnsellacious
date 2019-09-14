@@ -24,7 +24,7 @@ Sellacious Hyperlocal functions differently for sellers and website visiter,  so
 
 **For seller:**  In region based, Sellacious Hyperlocal shows products to user based on Location. It is done by Address matching by Region. If seller has configured Address Matching as region and Shipping Availability to a particular region then Sellacious will show products to users in that particular region. Here region represents Locality, Zip, City, District, State, or Country.
 
-Store location and Product location is saved at the time of it's ceation with the help of Sellacious Hyperlocal which later used for address matching bsaed on the location of the user.
+Store location and Product location is saved at the time of its creation with the help of Sellacious Hyperlocal which later used for address matching based on the location of the user.
 
 ![](seller%20location.png)
 ![](product%20location.png)
