@@ -1,6 +1,6 @@
 ---
 title: 'Sellacious Hyperlocal'
-media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png,Region based .png,By distance.png,google api.png,gc by radius.png,gc by region.png,p location.png,product config.png'
+media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png,Region based .png,By distance.png,google api.png,gc by radius.png,gc by region.png,p location.png,product config.png,radius.png'
 taxonomy:
     category:
         - docs
@@ -20,9 +20,9 @@ Before we move to installation and configuration part lets understand use cases 
 
 
 ### 1. Region Based 
-**For seller:** In region based, Sellacious Hyperlocal shows products to user based on Location. It is done by **Address matching by Region**. If seller has configured Address Matching as region and Shipping Availability to a particular region then Sellacious will show products to users in that particular region. Here region represents Locality, Zip, City, District, State, or Country.
+**For seller:** In region based, Sellacious Hyperlocal shows products to user based on Location. It is done by Address matching by Region. If seller has configured Address Matching as region and Shipping Availability to a particular region then Sellacious will show products to users in that particular region. Here region represents Locality, Zip, City, District, State, or Country.
 **For User:** Based on the geolocation data of the user which can be entered manually or detected by browser, user will see Stores which can deliver and products which can be delivered to user location.
-For example, if region selected by user is **Delhi** then the products which are available for delivery in Delhi will be shown to user in list view.
+For example, if region selected by user is Delhi then the products which are available for delivery in Delhi will be shown to user in list view.
 **Note:** User can can opt for multiple regions(City/District/State/Country).
 
 
@@ -38,17 +38,21 @@ and in Global Configuration of Sellacious backend
 
 ### 2. Radius Based
 
-In radius based, it will search products based on distance from users current location and specified distance around it. This may sometimes span across geo-political regional boundary, viz another state or city if they fall within given distance.
-Seller will choose the radius within which he wants to avail delivery of his products and hyperlocal will create a circle based on geolocation data and if user falls within that circle he will see products from that seller.
+In radius based, Sellacious Hyperlocal will work based on distance from sellers/users current location and specified distance around it. This may sometimes span across geo-political regional boundary, viz another state or city if they fall within given distance.
+**For Seller:** Sellers will choose the radius within which he wants to avail delivery of their products and hyperlocal will create a circle based on geolocation data and if users falls within that circle they will see products from that seller.
 For example there are two sellers owning store1 and store2,they will be able to deliver products within their radius.
 Seller1 can avail products in circle A and seller2 can vavil products in circle B. Accordingly user can see products from the circle in which they reside and if users(like user3) fall in the intersection of both the circle they can see the products from both the sellers.
 
 ![](hyperlocalsdasd2.png)
 
 
-**Enterprise** version of sellacious supports **warehouse** functionality too which means a seller can have multiple warehouses with delivery capability in area where the warehouse is located. So now Seller can avail delivery in area where warehouse is located as well as the store radius.
+**Enterprise** version of sellacious supports **warehouse** functionality too which means a seller can have multiple warehouses with delivery capability in an area where the warehouse is located. So now Seller can avail delivery in area where the warehouse is located as well as the store radius.
 
 ![](hyperlocal.png)
+
+**For User:** Users will be provided the option to choose the radius from which they want to see the products and Stores which can deliver and products which can be delivered within that radius will be shown to user.
+
+![](radius.png)
 
 
 ### Configuration for Radius based
