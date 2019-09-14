@@ -1,6 +1,6 @@
 ---
 title: 'Sellacious Hyperlocal'
-media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png,Region based .png,By distance.png,google api.png,gc by radius.png,gc by region.png,p location.png,product config.png,radius.png'
+media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png,Region based .png,By distance.png,google api.png,gc by radius.png,gc by region.png,p location.png,product config.png,radius.png,seller location.png,product location.png'
 taxonomy:
     category:
         - docs
@@ -20,11 +20,16 @@ Sellacious Hyperlocal provides location sensitivity based on following use cases
 
 
 ### 1. Region Based 
-Sellacious Hyperlocal functions differently for sellers and users so we are going to understand it from both the ends. 
+Sellacious Hyperlocal functions differently for sellers and users so we are going to understand it from both the perspective. 
 **For seller:**  In region based, Sellacious Hyperlocal shows products to user based on Location. It is done by Address matching by Region. If seller has configured Address Matching as region and Shipping Availability to a particular region then Sellacious will show products to users in that particular region. Here region represents Locality, Zip, City, District, State, or Country.
-**For User:**  Based on the geolocation data of the user which can be entered manually or detected by browser, user will see Stores which can deliver and products which can be delivered to user location.
+Seller location and Product location is saved at the time of their ceation with the help of Sellacious Hyperlocal which is used for address matching bsaed on the location of the user.
+
+![](seller%20location.png)
+![](product%20location.png)
+
+**For Website Visiter:**  Based on the geolocation data of the user which is entered/selected manually or detected by browser, user will see Stores which can deliver and products which can be delivered to user location.
 For example, if region selected by user is Delhi then the products which are available for delivery in Delhi will be shown to user in list view.
-**Note:** User can can opt for multiple regions(City/District/State/Country).
+**Note:** User can canselect multiple regions(City/District/State/Country).
 
 
 ![](rento%20mozo.png)
