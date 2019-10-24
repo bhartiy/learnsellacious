@@ -1,6 +1,6 @@
 ---
 title: 'How to do Easy Social Sellacious app integration '
-media_order: 'image 0.png,Image 2.png,image 3.png,image 4.png,image 5.png,Image 7.png,image 8.png,image 9.png,image 10.png,image 6.png'
+media_order: 'image 0.png,Image 2.png,image 3.png,image 4.png,image 5.png,Image 7.png,image 8.png,image 9.png,image 10.png,image 6.png,image 11.png'
 taxonomy:
     category:
         - docs
@@ -63,6 +63,10 @@ Here user can configure what to show on the profile.
 
 
 ![](image%209.png)
+
+Once done User can see the profile on frontend 
+
+![](image%2011.png)
 
  
 ## 3. Easy Social Sellacious Page app: 
