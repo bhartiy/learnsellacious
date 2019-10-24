@@ -25,7 +25,7 @@ To know your current configuration go to Joomla Administrator of your site and t
 
  
  
-## 1.Easy social- Sellacious User Sync:
+## 1. Easy social- Sellacious User Sync:
 This is a Plugin for synchronizing Easy social Profile Types with Sellacious User Categories. 
 Installation: Since it is a plugin so installation is like a normal plugin installation in joomla. Download Easy social- Sellacious User Sync plugin and Go to Joomla administrator>>Manage>> Extensions>>install.
 
