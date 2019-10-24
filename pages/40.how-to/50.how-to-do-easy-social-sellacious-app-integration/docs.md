@@ -7,7 +7,7 @@ taxonomy:
 visible: true
 ---
 
-How to do Easy Social Sellacious app integration 
+
 
 With EasySocial we can start a social network in our marketplace. We can Instantly engage and interact with our clients/sellers on this Social network. Currently we are providing following apps for EasySocial.
 **1. Easy social- Sellacious User Sync** https://www.sellacious.com/p/sellacious-extensions/free-extensions/easy-social-sellacious-user-sync
