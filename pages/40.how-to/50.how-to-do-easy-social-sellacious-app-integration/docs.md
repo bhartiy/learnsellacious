@@ -1,6 +1,6 @@
 ---
 title: 'How to do Easy Social Sellacious app integration '
-media_order: 'image 0.png,Image 2.png,image 3.png,image 4.png,image 5.png,image 6.png,Image 7.png,image 8.png,image 9.png,image 10.png,image 10.png'
+media_order: 'image 0.png,Image 2.png,image 3.png,image 4.png,image 5.png,Image 7.png,image 8.png,image 9.png,image 10.png,image 6.png'
 taxonomy:
     category:
         - docs
@@ -35,7 +35,7 @@ Upload the downloaded plugin and then enable it from Manage>>Plugins
 
 ![](image%203.png)
 
-Configuration: Once the plugin is enabled you can configure it from Global Configuration of Sellacious backend. After setting CRON job user will be synched automatically.
+**Configuration:** Once the plugin is enabled you can configure it from Global Configuration of Sellacious backend. After setting CRON job user will be synched automatically.
 
 ![](image%204.png)
 
@@ -48,13 +48,15 @@ Synched profile type will show up and can be managed from User>>Profile types In
 ![](image%206.png)
 
  
-2. Easy Social Profile app: This EasySocial app will show Sellacious Products for the Seller User. It will be Visible for only those sellers, who have active products in their store. If the user is a seller but he doesn't have any active product, there won't be the store link for that user. Edit the store button on profile visible only to store owner. 
+## 2. Easy Social Profile app: 
+This EasySocial app will show Sellacious Products for the Seller User. It will be Visible for only those sellers, who have active products in their store. If the user is a seller but he doesn't have any active product, there won't be the store link for that user. Edit the store button on profile visible only to store owner. 
 Installation: This app will be installed in EasySocial. To install go to Joomla backend>>Components>>Easy Social>>Application.
 
 ![](Image%207.png)
 
-There select the downloaded  package file and install.
-Configuration: once the application is installed. You can configure what to show on the profile. To configure go to Joomla backend>>Components>>Easy Social>>Application and select Sellacious Seller Products.
+There select the downloaded package file and install.
+
+**Configuration:** once the application is installed. You can configure what to show on the profile. To configure go to Joomla backend>>Components>>Easy Social>>Application and select Sellacious Seller Products.
 Here user can configure what to show on the profile.
 
 ![](image%208.png)
@@ -63,10 +65,12 @@ Here user can configure what to show on the profile.
 ![](image%209.png)
 
  
-3.Easy Social Sellacious Page app: This EasySocial app will show Sellacious Products for the Seller User page.
-Installation: This app will also be installed in EasySocial. To install go to Joomla backend>>Components>>Easy Social>>Application.
+## 3.Easy Social Sellacious Page app: 
+This EasySocial app will show Sellacious Products for the Seller User page.
+
+**Installation:** This app will also be installed in EasySocial. To install go to Joomla backend>>Components>>Easy Social>>Application.
 There select the downloaded  package file and install.
-Configuration: Once the application is installed. You can configure what to show on the profile. To configure go to Joomla backend>>Components>>Easy Social>>Application and select Sellacious Seller Page Products.
+**Configuration:** Once the application is installed. You can configure what to show on the profile. To configure go to Joomla backend>>Components>>Easy Social>>Application and select Sellacious Seller Page Products.
 Here user can configure what to show on the  page.
 
 ![](image%2010.png)
