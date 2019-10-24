@@ -1,31 +1,34 @@
 ---
 title: 'How to do Easy Social Sellacious app integration '
+media_order: 'image 0.png'
 taxonomy:
     category:
         - docs
 visible: true
 ---
 
-~~~~Your page conHow to do Easy Social Sellacious app integration 
+How to do Easy Social Sellacious app integration 
 
 With EasySocial we can start a social network in our marketplace. We can Instantly engage and interact with our clients/sellers on this Social network. Currently we are providing following apps for EasySocial.
-1.Easy social- Sellacious User Sync https://www.sellacious.com/p/sellacious-extensions/free-extensions/easy-social-sellacious-user-sync
-2.Easy Social Profile app https://www.sellacious.com/p/sellacious-extensions/free-extensions/easy-social-profile-app
-3.Easy Social Sellacious Page app https://www.sellacious.com/p/sellacious-extensions/free-extensions/easy-social-sellacious-page-app
+**1. Easy social- Sellacious User Sync** https://www.sellacious.com/p/sellacious-extensions/free-extensions/easy-social-sellacious-user-sync
+**2. Easy Social Profile app** https://www.sellacious.com/p/sellacious-extensions/free-extensions/easy-social-profile-app
+**3. Easy Social Sellacious Page app** https://www.sellacious.com/p/sellacious-extensions/free-extensions/easy-social-sellacious-page-app
 
 In order for this extension to work normally on your site you need EasySocial installed in your site. For more information about EasySocial go to https://extensions.joomla.org/extension/easysocial
 
-Requirements: We recommend you to use PHP, Joomla and MySQL versions as follows-
+**Requirements:** We recommend you to use PHP, Joomla and MySQL versions as follows-
 PHP version 5.6 or higher
 MySQL: version 5.5.3 or newer
 Apache: version 2.4 and newer
 Easy Social supports the latest version of Joomla 3
 To know your current configuration go to Joomla Administrator of your site and then System>>System Information Menu
-Image 1
+
+![](image%200.png)
 
  
  
-1. Easy social- Sellacious User Sync: This is a Plugin for synchronizing Easy social Profile Types with Sellacious User Categories. 
+## Easy social- Sellacious User Sync:
+This is a Plugin for synchronizing Easy social Profile Types with Sellacious User Categories. 
 Installation: Since it is a plugin so installation is like a normal plugin installation in joomla. Download Easy social- Sellacious User Sync plugin and Go to Joomla administrator>>Manage>> Extensions>>install.
 Image 2
 
