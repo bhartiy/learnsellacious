@@ -19,8 +19,8 @@ PHP Extension: `MYSQLi`. It is used by Sellacious for managing database.<br>
 
 Below are the minimum requirements. If you want to upload files more than the below size, increase below settings accordingly. 
 
-PHP: `[upload_max_filesize = 20MB]`.<br>
-PHP: `[post_max_size = 20MB]`.<br>
+PHP: `[upload_max_filesize = 50MB]`.<br>
+PHP: `[post_max_size = 50MB]`.<br>
 PHP: `[magic_quotes_gpc = Off]`.<br>
 PHP: `[max_execution_time = 60]`.<br>
 PHP: `[memory_limit = 64MB]`;<br>
