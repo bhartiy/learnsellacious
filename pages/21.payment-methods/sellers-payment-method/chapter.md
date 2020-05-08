@@ -11,7 +11,7 @@ taxonomy:
 
 Sellers can have their own payment methods in sellacious now. To enable sellers to create their own payment method follow these steps-
 
-First you have to grant permission to sellers to create/edit payment methods. Go to Settings>>permissions and select Seller category and component Sellacious.
+1. First you have to grant permission to sellers to create/edit payment methods. Go to Settings>>permissions and select Seller category and component Sellacious.
 
 ![](Screenshot%202020-05-08%20at%202.53.23%20PM.png)
 
