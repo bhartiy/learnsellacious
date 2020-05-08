@@ -1,6 +1,6 @@
 ---
 title: 'Sellers payment method'
-media_order: 'Screenshot 2020-05-08 at 3.41.09 PM.png,Screenshot 2020-05-08 at 3.08.21 PM.png,Screenshot 2020-05-08 at 3.03.27 PM.png,Screenshot 2020-05-08 at 3.01.47 PM.png,Screenshot 2020-05-08 at 2.59.03 PM.png,Screenshot 2020-05-08 at 2.55.16 PM.png,Screenshot 2020-05-08 at 2.53.23 PM.png'
+media_order: 'Screenshot 2020-05-08 at 3.08.21 PM.png,Screenshot 2020-05-08 at 3.03.27 PM.png,Screenshot 2020-05-08 at 3.01.47 PM.png,Screenshot 2020-05-08 at 2.59.03 PM.png,Screenshot 2020-05-08 at 2.55.16 PM.png,Screenshot 2020-05-08 at 2.53.23 PM.png,Screenshot 2020-05-08 at 2.48.32 PM.png,Screenshot 2020-05-08 at 4.35.53 PM.png'
 taxonomy:
     category:
         - docs
@@ -20,7 +20,7 @@ In payment method section give relevant permission to seller like this
 
 2. Now select the payment method plugins which you want to avail to the seller. For this go to Settings>>global configuration>>Sellers>>Limit Seller Payment Methods
 
-![](Screenshot%202020-05-08%20at%202.59.03%20PM.png)
+![](Screenshot%202020-05-08%20at%204.35.53%20PM.png)
 
 3. Now on seller logins payment method menu will be accessible to seller
 
