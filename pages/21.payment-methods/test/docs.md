@@ -1,5 +1,6 @@
 ---
 title: 'Sellers payment method'
+media_order: 'Screenshot 2020-05-08 at 3.41.09 PM.png,Screenshot 2020-05-08 at 3.08.21 PM.png,Screenshot 2020-05-08 at 3.03.27 PM.png,Screenshot 2020-05-08 at 3.01.47 PM.png,Screenshot 2020-05-08 at 2.59.03 PM.png,Screenshot 2020-05-08 at 2.55.16 PM.png,Screenshot 2020-05-08 at 2.53.23 PM.png'
 taxonomy:
     category:
         - docs
@@ -31,7 +32,7 @@ In payment method section give relevant permission to seller like this
 
 Seller can create own payment method here, by choosing available plugins 
 
- ![](Screenshot%202020-05-08%20at%203.03.27%20PM.png)
+![](Screenshot%202020-05-08%20at%203.03.27%20PM.png)
 
 4. Now when a buyer places an order of that sellers product, sellers payment method will show up in payment options,
 
