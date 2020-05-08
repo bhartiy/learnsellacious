@@ -2,7 +2,8 @@
 title: 'Sellers payment method'
 media_order: 'Screenshot 2020-05-08 at 3.08.21 PM.png,Screenshot 2020-05-08 at 3.03.27 PM.png,Screenshot 2020-05-08 at 3.01.47 PM.png,Screenshot 2020-05-08 at 2.59.03 PM.png,Screenshot 2020-05-08 at 2.55.16 PM.png,Screenshot 2020-05-08 at 2.53.23 PM.png'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 ### Chapter Number
