@@ -44,10 +44,10 @@ Buyer can choose that method and place an order.
 Here is some additional information about working of seller payment methods.
 
 1. Each Seller can have its own payment method.
-2. A seller's payment method can only be used when the cart contains only that particular seller's item(s). A seller's payment method can only be used with the shopping cart.
-When a seller's payment method is used and not the global one, the commission for the shop/site owner will not be applied.
-3. A withdrawal transaction will be created for the seller whose payment method is used except for the E-wallet handler payment method.
-4. When a seller's payment method is used and the shop owner owes any amount from the seller for that particular order, then that amount will be credited to the shop owner and debited from the seller as the seller receives the entire order amount such as for shipping charge when shipping is done by the shop owner.
-5. Sellers payment method limit can be added from the Global Configuration.
-6. Payment Method fee will also be recorded as a transaction.
-7. If a seller payment method is used and a coupon is also used which belongs to the shop owner, then the shop owner will pay the coupon amount to the seller as the seller has not issued the coupon therefore the seller should get the exact amount for the order.
+2. A seller's payment method can only be used when the cart contains only that particular seller's item(s).
+3. A seller's payment method can only be used with the shopping cart.
+4. When a seller's payment method is used and not the global one, the commission for the shop/site owner will not be applied.
+5. A withdrawal transaction will be created for the seller whose payment method is used except for the E-wallet handler payment method.
+6. When a seller's payment method is used and the shop owner owes any amount from the seller for that particular order, then that amount will be credited to the shop owner and debited from the seller as the seller receives the entire order amount such as for shipping charge when shipping is done by the shop owner.
+7. Sellers payment method limit can be added from the Global Configuration.
+8. If a seller payment method is used and a coupon is also used which belongs to the shop owner, then the shop owner will pay the coupon amount to the seller as the seller has not issued the coupon therefore the seller should get the exact amount for the order.
