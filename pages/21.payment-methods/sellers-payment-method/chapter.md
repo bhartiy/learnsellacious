@@ -7,7 +7,7 @@ taxonomy:
 
 ### Chapter Number
 
-# Seller payment method
+# Sellers payment method
 
 Sellers can have their own payment methods in sellacious now. To enable sellers to create their own payment method follow these steps-
 
