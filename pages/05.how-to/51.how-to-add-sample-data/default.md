@@ -15,4 +15,4 @@ In Sellacious, there are 2 ways to add sample data.
 
 ![](Screen%20Shot%202020-05-09%20at%201.09.11%20PM.png)
 
-For more details in import https://www.sellacious.com/documentation-v2#/learn/import
+For more details in import go through to this documentation: https://www.sellacious.com/documentation-v2#/learn/import
