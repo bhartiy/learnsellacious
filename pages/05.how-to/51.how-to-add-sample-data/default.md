@@ -11,7 +11,7 @@ In Sellacious, there are 2 ways to add sample data.
 **1. At installation time -** You will get option to add <strong>Sellacious Basic Sample Data</strong> while installing the sellacious, in second databse step.
 ![](install2.png)
 
-**2. By Import -** You can add your own sample data with the help of import. You can import products, category,  by uploading CSV file also you can import image and attachments by uploading ZIP.
+**2. By Import -** You can add your own sample data with the help of import. You can import products, category,  by uploading CSV file also you can import image and attachments by uploading ZIP file.
 
 ![](Screen%20Shot%202020-05-09%20at%201.09.11%20PM.png)
 
