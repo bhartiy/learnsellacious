@@ -15,7 +15,7 @@ Quickstart is very easy to install same as the Joomla installation. The quicksta
 1. Download the quickstart package from https://www.sellacious.com/download.
 ![](quickstart1.png)
 2. Unzip "SQuickv2-Quickstart_v2.x.x.zip" archive to the downloads folder. When installing on Localhost use http/www/htdocs folder and place the unziped folder inside htdocs, when installing on web use website root folder, mostly its named as `public html` or `www`.
-3. In XAMPP, the database user is root with no password by default. You can use PHPMyAdmin for creating a database in localhost by http://localhost/phpmyadmin/ ![](Screen%20Shot%202020-05-09%20at%205.29.38%20PM.png)
+3. In XAMPP, the database user is root with no password by default.
 4. For online server, 
 *  Go to Cpanel > databases > MySQL databases
 ![](Screen%20Shot%202020-05-09%20at%205.54.51%20PM.png)
