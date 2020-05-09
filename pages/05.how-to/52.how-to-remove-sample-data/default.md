@@ -31,5 +31,5 @@ Select the modules you want to delete and click on trash button. After trashing 
 **5.Remove Menu -** To remove menu from the joomla admin, go to the menus >> all menu items and select menu you want to remove and trash. Repeat the same steps that we have done in modules.
 ![](menu.png)
 
-Like wise you can remove any pre-existing data transaction, order, shop rules, coupons etc.
+Like wise you can remove any pre-existing data i.e. transaction, order, shop rules, coupons etc.
 
