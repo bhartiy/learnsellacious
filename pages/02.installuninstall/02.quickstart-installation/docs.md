@@ -24,7 +24,7 @@ Quickstart is very easy to install same as the Joomla installation. The quicksta
 ![](install1.png)
 8. Second is database, enter the database name with root user (for local server). If you are install it on live, enter that database username and database password that you created in cPanel.
 ![](install2.png)
-9. In third license step, choose your subscription plan and activate that plan and click on next.
+9. In third license step, choose your subscription plan and activate that plan (use licence key if already baught plan)and click on next.
 ![](install3.png)
 10. Fourth is overview step, In which store setting and databse configurations are showing.
 ![](install4.png)
