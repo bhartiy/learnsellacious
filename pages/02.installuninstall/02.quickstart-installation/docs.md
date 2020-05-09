@@ -29,7 +29,7 @@ Quickstart is very easy to install same as the Joomla installation. The quicksta
 ![](install2.png)
 9. In third license step, choose your subscription plan and activate that plan (use licence key if already baught plan)and click on next.
 ![](install3.png)
-10. Fourth is overview step, In which store setting and databse configurations are showing.
+10. Fourth is overview step, In which store setting and database configurations are showing.
 ![](install4.png)
 11. Final last one is installing step. After successfull installation, please remove the installation folder by clicking the option. ![](install5.png) ![](install11.png)
 12. You can login to the Joomla administrator panel by www.domain.com/administrator.
