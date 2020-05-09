@@ -12,7 +12,7 @@ When you download Sellacious, you will find zip SQuickv2-Quickstart_v2.x.x.zip. 
 
 Quickstart is very easy to install same as the Joomla installation. The quickstart package is free and consists of sample data quickstart packages comes free with all our Free or Paid templates. The default free template "SQuick" also contain this magical file. It normally takes just 10 minutes to create a multivendor website using our quickstart.
 
-1. Download the quickstart package from https://www.sellacious.com/download following steps mentioned in "Getting started" tutorial.
+1. Download the quickstart package from https://www.sellacious.com/download.
 ![](quickstart1.png)
 2. Unzip "SQuickv2-Quickstart_v2.x.x.zip" archive to correct folder. When installing on Localhost use http/www/htdocs folder, when installing on web use website root folder, mostly its named as `public html` or `www`.
 3. While you are extracting Files in the correct root folder, create a database in MySQL and assign it to correct user. In XAMPP, the database user is root with no password by default. You can use PHPMyAdmin for creating a database in localhost. 
