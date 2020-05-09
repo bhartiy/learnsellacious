@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart Install'
-media_order: 'quickstart1.jpg,joomla1.jpg,Sample-data.jpg,remove.jpg,webmaster.jpg,quickstart.png,install1.png,install2.png,install3.png,install4.png,install5.png,quickstart1.png'
+media_order: 'quickstart1.jpg,joomla1.jpg,Sample-data.jpg,remove.jpg,webmaster.jpg,quickstart.png,install1.png,install2.png,install3.png,install4.png,install5.png,quickstart1.png,install11.png,install12.png'
 published: true
 taxonomy:
     category:
@@ -12,7 +12,7 @@ When you download Sellacious, you will find zip SQuickv2-Quickstart_v2.x.x.zip. 
 
 Quickstart is very easy to install same as the Joomla installation. The quickstart package is free and consists of sample data quickstart packages comes free with all our Free or Paid templates. The default free template "SQuick" also contain this magical file. It normally takes just 10 minutes to create a multivendor website using our quickstart.
 
-1. Download the quickstart package following steps mentioned in "Getting started" tutorial.
+1. Download the quickstart package from https://www.sellacious.com/download following steps mentioned in "Getting started" tutorial.
 ![](quickstart1.png)
 2. Unzip "SQuickv2-Quickstart_v2.x.x.zip" archive to correct folder. When installing on Localhost use http/www/htdocs folder, when installing on web use website root folder, mostly its named as `public html` or `www`.
 3. While you are extracting Files in the correct root folder, create a database in MySQL and assign it to correct user. In XAMPP, the database user is root with no password by default. You can use PHPMyAdmin for creating a database in localhost. 
@@ -27,9 +27,12 @@ Quickstart is very easy to install same as the Joomla installation. The quicksta
 ![](install3.png)
 10. Fourth is overview step, In which store setting and databse configurations are showing.
 ![](install4.png)
-11. Final last one is installing step. After successfull installation, please remove the installation folder by clicking the option. ![](install5.png)
+11. Final last one is installing step. After successfull installation, please remove the installation folder by clicking the option. ![](install5.png) ![](install11.png)
 12. You can login to the Joomla administrator panel by www.domain.com/administrator.
+![](install12.png)
 13. You can login to the Sellacious administrator panel by www.domain.com/sellacious
+![](install13.png)
+
 
 
 
