@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart Install'
-media_order: 'quickstart1.jpg,joomla1.jpg,Sample-data.jpg,remove.jpg,webmaster.jpg,quickstart.png,install1.png,install2.png,install3.png,install4.png,install5.png,quickstart1.png,install11.png,install12.png'
+media_order: 'quickstart1.jpg,joomla1.jpg,Sample-data.jpg,remove.jpg,webmaster.jpg,quickstart.png,install1.png,install2.png,install3.png,install4.png,install5.png,quickstart1.png,install11.png,install12.png,install13.png,Screen Shot 2020-05-09 at 5.29.38 PM.png,Screen Shot 2020-05-09 at 5.50.42 PM.png,Screen Shot 2020-05-09 at 9.35.50 AM.png,Screen Shot 2020-05-09 at 5.50.25 PM.png,Screen Shot 2020-05-09 at 5.54.51 PM.png'
 published: true
 taxonomy:
     category:
@@ -14,23 +14,28 @@ Quickstart is very easy to install same as the Joomla installation. The quicksta
 
 1. Download the quickstart package from https://www.sellacious.com/download.
 ![](quickstart1.png)
-2. Unzip "SQuickv2-Quickstart_v2.x.x.zip" archive to correct folder. When installing on Localhost use http/www/htdocs folder, when installing on web use website root folder, mostly its named as `public html` or `www`.
-3. While you are extracting Files in the correct root folder, create a database in MySQL and assign it to correct user. In XAMPP, the database user is root with no password by default. You can use PHPMyAdmin for creating a database in localhost. 
-4. Once database is created assign it to correct user with full previleges. In localhost XAMPP step 4 is not required as all databases bydefault are under user `root` with no password.
-5. Open your browser. For local server, navigate to the folder containing the Quickstart package files(i.e. localhost/folder). For online server, navigate to your main domain or appropriate subdomain (i.e http://mydomain.com/), depending on where you have uploaded the Quickstart installation package.
-6. You will be redirected to the installation page of Quickstart.
-7. Fill the required fields mentioned on the Installer screen. First is store setting, enter store email and password.
+2. Unzip "SQuickv2-Quickstart_v2.x.x.zip" archive to the downloads folder. When installing on Localhost use http/www/htdocs folder and place the unziped folder inside htdocs, when installing on web use website root folder, mostly its named as `public html` or `www`.
+3. In XAMPP, the database user is root with no password by default. You can use PHPMyAdmin for creating a database in localhost by http://localhost/phpmyadmin/ ![](Screen%20Shot%202020-05-09%20at%205.29.38%20PM.png)
+4. For online server, 
+*  Go to Cpanel > databases > MySQL databases
+![](Screen%20Shot%202020-05-09%20at%205.54.51%20PM.png)
+*  Create database and new user. After that, add user to the databse.
+![](Screen%20Shot%202020-05-09%20at%205.50.25%20PM.png)![](Screen%20Shot%202020-05-09%20at%205.50.42%20PM.png)
+5. In localhost XAMPP step 4 is not required as all databases bydefault are under user `root` with no password.
+6. For local server,open your browser navigate to the folder containing the Quickstart package files(i.e. localhost/folder). For online server, navigate to your main domain or appropriate subdomain (i.e http://mydomain.com/), depending on where you have uploaded the Quickstart installation package.
+7. You will be redirected to the installation page of Quickstart.
+8. Fill the required fields mentioned on the Installer screen. First is store setting, enter store email and password.
 ![](install1.png)
-8. Second is database, enter the database name with root user (for local server). If you are install it on live, enter that database username and database password that you created in cPanel.
+9. Second is database, enter the database name with root user (for local server). If you install it on live, enter that database name, username and password that you created in step4(cPanel).
 ![](install2.png)
-9. In third license step, choose your subscription plan and activate that plan (use licence key if already baught plan)and click on next.
+10. In third license step, choose your subscription plan and activate that plan (use licence key if already baught plan)and click on next.
 ![](install3.png)
-10. Fourth is overview step, In which store setting and databse configurations are showing.
+11. Fourth is overview step, In which store setting and databse configurations are showing.
 ![](install4.png)
-11. Final last one is installing step. After successfull installation, please remove the installation folder by clicking the option. ![](install5.png) ![](install11.png)
-12. You can login to the Joomla administrator panel by www.domain.com/administrator.
+12. Final last one is installing step. After successfull installation, please remove the installation folder by clicking the option. ![](install5.png) ![](install11.png)
+13. You can login to the Joomla administrator panel by www.domain.com/administrator.
 ![](install12.png)
-13. You can login to the Sellacious administrator panel by www.domain.com/sellacious
+14. You can login to the Sellacious administrator panel by www.domain.com/sellacious
 ![](install13.png)
 
 
