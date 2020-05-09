@@ -20,7 +20,7 @@ Again select all products and click on delete button. You will get message for s
 **3.Remove Users -** To remove users, go to user profile and select all users you want to remove and click on delete button.
 ![](sdc.png)
 
-Note: Do not remove the super user while removing all users.
+**Note:** Do not remove the super user while removing all users.
 
 **4.Remove Modules -** To remove modules go to the joomla admin. Open the modules from the menu, go to the Manage >> Modules 
 ![](modules1.png)
