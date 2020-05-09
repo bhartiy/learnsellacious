@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart Install'
-media_order: 'quickstart1.jpg,joomla1.jpg,Sample-data.jpg,remove.jpg,webmaster.jpg,quickstart.png,install1.png,install2.png,install3.png,install4.png,install5.png,quickstart1.png,install11.png,install12.png,install13.png,Screen Shot 2020-05-09 at 5.29.38 PM.png,Screen Shot 2020-05-09 at 5.50.42 PM.png,Screen Shot 2020-05-09 at 9.35.50 AM.png,Screen Shot 2020-05-09 at 5.50.25 PM.png,Screen Shot 2020-05-09 at 5.54.51 PM.png'
+media_order: 'quickstart1.jpg,joomla1.jpg,Sample-data.jpg,remove.jpg,webmaster.jpg,quickstart.png,install1.png,install2.png,install3.png,install4.png,install5.png,quickstart1.png,install11.png,install12.png,install13.png,Screen Shot 2020-05-09 at 5.29.38 PM.png,Screen Shot 2020-05-09 at 5.50.42 PM.png,Screen Shot 2020-05-09 at 9.35.50 AM.png,Screen Shot 2020-05-09 at 5.50.25 PM.png,Screen Shot 2020-05-09 at 5.54.51 PM.png,Screen Shot 2020-05-09 at 6.png,Screen Shot 2020-05-09 at 6.35.39 PM.png'
 published: true
 taxonomy:
     category:
@@ -19,8 +19,10 @@ Quickstart is very easy to install same as the Joomla installation. The quicksta
 4. For online server, 
 *  Go to cPanel > Databases > MySQL databases
 ![](Screen%20Shot%202020-05-09%20at%205.54.51%20PM.png)
-*  Create new database and new user. After that, add user to the databse.
-![](Screen%20Shot%202020-05-09%20at%205.50.25%20PM.png)![](Screen%20Shot%202020-05-09%20at%205.50.42%20PM.png)
+*  Create new database and add new user.
+![](Screen%20Shot%202020-05-09%20at%205.50.25%20PM.png)![](Screen%20Shot%202020-05-09%20at%206.35.39%20PM.png)
+*  After that add new user to the new craeted database
+![](Screen%20Shot%202020-05-09%20at%206.png)
 5. For local server,open your browser navigate to the folder containing the Quickstart package files(i.e. localhost/folder). For online server, navigate to your main domain or appropriate subdomain (i.e http://mydomain.com/), depending on where you have uploaded the Quickstart installation package.
 6. You will be redirected to the installation page of Quickstart.
 7. Fill the required fields mentioned on the Installer screen. First is store setting, enter store email and password.
