@@ -1,6 +1,6 @@
 ---
 title: 'How to change the Footer in Sellacious templates?'
-media_order: 'footer-1.png,footer2.png,footer3.png,footer4.png,footer6.png,footer5.png'
+media_order: 'footer-1.png,footer2.png,footer3.png,footer4.png,footer6.png,footer5.png,background.png,bottom.png'
 taxonomy:
     category:
         - docs
@@ -25,11 +25,11 @@ In Js-Kart by default Footer is like this.
 
 3. Go to Layout section and click on Settings to edit the Bottom 'Row'. 
 
-![](footer3.png)
+![](bottom.png)
 
 4. Change the Background Image/Color, scroll to the last and save.
 
-![](footer4.png)
+![](background.png)
 
 >> This settings is only applicable on helix framework.
 
