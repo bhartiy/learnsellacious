@@ -38,11 +38,6 @@ _**Note: Site Key is unique for every Site.**_
 
 ## **2. Activate during installation:**
 
-To upgrade your site from free to premium, you need to purchase the premium license from here https://www.sellacious.com/pricing
-
-![](pricing.png)
-
-
 **Step 1:** When you installing it for first time, enter the store setting in first step.
 
 ![](install1.png)
