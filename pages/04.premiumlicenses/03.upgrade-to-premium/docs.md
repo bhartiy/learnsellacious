@@ -60,6 +60,8 @@ If you activate free license, you will get email verification link on your mail-
 
 ![](Screenshot%202020-05-12%20at%207.20.48%20PM.png)
 
+You can also buy a licence at this step (if not already) select the license you want to activate and it'll redirect you to the sellaicous.com with the selected license in your cart. Complete the payment process and purchase the license. Now, it'll redirect you back to your site with the activated license.
+
 **Step 4:** In fourth step, you will get overview of store setting and databse configuration. Click on install button and install it.
 
 ![](install4.png)
