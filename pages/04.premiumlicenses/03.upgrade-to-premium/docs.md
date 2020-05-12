@@ -37,8 +37,7 @@ To upgrade your site from free to premium, you need to purchase the premium lice
 
 ![](pricing.png)
 
-To do this go to the sellacious backend of 
-your site and click on the license information. A window will open which will show the license information.  
+To do this go to the sellacious backend of your site and click on the license information. A window will open which will show the license information.  
 
 ![](site-key1.png)
 
@@ -46,12 +45,11 @@ Click on 'Change or Upgrade' and licenses available on sellacious will open.
 
 ![](site-key2.png)
 
-Select the license you want to activate, click on it and purchase the license.  
+Select the license you want to activate, click on it and purchase the license. Or, If you purchase any other other license from sellacious.com/pricing , enter your license key on the above screen and activate it.
 
 ![](site-key3.png)
 
 The premium license is activated now on previous license key.
-
 
 
 _**Note: Site Key is unique for every Site.**_
