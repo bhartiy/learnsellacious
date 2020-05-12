@@ -30,7 +30,7 @@ This method is for when you have already installed free version and now purchase
 **Step 4:** Paste your site-id in to the site-id field and save.
 ![](Screen%20Shot%202020-05-12%20at%209.49.38%20AM.png)
 
-**Step 5:** The license is upgraded from free to premium. Go to your sellacious backednd and reload your page and click on the license information, it will your upgraded license details.
+**Step 5:** The license is upgraded from free to premium. Go to your sellacious backednd and reload your page and click on the license information, it will show your upgraded license details.
 
 ## **2. From sellacious backend:**
 
