@@ -17,7 +17,7 @@ There are two ways to upgrade a free license to premium license.
 
 This method is for when you have already installed free version and now purchased a premium license with same/different email id.  
 
- **Step1:** Now go to the sellacious backend of your site. At the bottom of the dashboard page, click on the free license green text, which will redirect you to the license information page.  
+**Step1:** Now go to the sellacious backend of your site. At the bottom of the dashboard page, click on the free license green text, which will redirect you to the license information page.  
 
 ![](site-key1.png)
 
