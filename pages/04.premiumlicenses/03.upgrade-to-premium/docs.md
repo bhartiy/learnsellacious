@@ -36,7 +36,7 @@ This method is for when you have already installed free version and now purchase
 
 _**Note: Site Key is unique for every Site.**_
 
-## **2. From sellacious backend:**
+## **2. Activate during installation:**
 
 To upgrade your site from free to premium, you need to purchase the premium license from here https://www.sellacious.com/pricing
 
