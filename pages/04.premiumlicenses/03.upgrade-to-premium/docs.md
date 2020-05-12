@@ -1,6 +1,6 @@
 ---
 title: 'Upgrade to Premium'
-media_order: 'site-key1.png,site-key2.png,site-key3.png,site-key4.png,site-key5.png,pricing.png'
+media_order: 'site-key1.png,site-key2.png,site-key3.png,site-key4.png,site-key5.png,pricing.png,site-id.png'
 taxonomy:
     category:
         - docs
@@ -28,7 +28,7 @@ Step2 : At the bottom of the page is your Site Key. Copy that site-id.
 Step 3: Go to your sellecious.com account > dashboard > subscription. In premium subscription, you'll see the license you have purchased.  
 
 Step 4: Paste your site-id in to the site-id field and save.
-![](site-key4.png)
+![](site-id.png)
 
 The license is upgraded from free to premium.
 
