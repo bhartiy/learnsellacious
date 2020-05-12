@@ -1,6 +1,6 @@
 ---
 title: 'Upgrade to Premium'
-media_order: 'site-key1.png,site-key2.png,site-key3.png,site-key4.png,site-key5.png,pricing.png,site-id.png'
+media_order: 'site-key1.png,site-key2.png,site-key3.png,site-key4.png,site-key5.png,pricing.png,site-id.png,Screen Shot 2020-05-12 at 9.49.38 AM.png'
 taxonomy:
     category:
         - docs
@@ -23,14 +23,14 @@ This method is for when you have already installed free version and now purchase
 
 ![](site-key5.png)
 
-Step2 : At the bottom of the page is your Site Key. Copy that site-id.
+**Step2 :** At the bottom of the page is your Site Key. Copy that site-id.
 
-Step 3: Go to your sellecious.com account > dashboard > subscription. In premium subscription, you'll see the license you have purchased.  
+**Step 3:** Go to your sellecious.com account > dashboard > subscription. In premium subscription, you'll see the license you have purchased.  
 
-Step 4: Paste your site-id in to the site-id field and save.
-![](site-id.png)
+**Step 4:** Paste your site-id in to the site-id field and save.
+![](Screen%20Shot%202020-05-12%20at%209.49.38%20AM.png)
 
-The license is upgraded from free to premium.
+**Step 5:** The license is upgraded from free to premium. Go to your sellacious backednd and reload your page and click on the license information, it will your upgraded license details.
 
 ## **2. From sellacious backend:**
 
