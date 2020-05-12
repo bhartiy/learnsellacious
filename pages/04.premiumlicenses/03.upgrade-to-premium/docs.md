@@ -43,35 +43,22 @@ To upgrade your site from free to premium, you need to purchase the premium lice
 ![](pricing.png)
 
 
-When you installing it for first time, enter the store setting in first step.
+**Step 1:** When you installing it for first time, enter the store setting in first step.
 
 ![](install1.png)
+You can also refer to this for installation: https://www.sellacious.com/documentation-v2#/learn/installuninstall/quickstart-installation
 
-In second step, enter the database name accordingly with username and password.
+**Step 2:** In second step, enter the database name accordingly with username and password.
 
 ![](install2.png)
 
-In third step, enter your license key and activate it.
+**Step 3:** In third step, enter your license key and activate it. Licence key is sent to your email at the time of purchase of plan. if you did not have licence key choose free and complete installation. After that follow first method to activate premium.
 
 ![](install3.png)
 
-In fourth step, you get overview of store setting and databse configuration. Click on install button and install it.
+**Step 4:** In fourth step, you get overview of store setting and databse configuration. Click on install button and install it.
 
 ![](install4.png)
-
-The premium license is activated now on previous license key.
-
-**Step 1:** Now go to the sellacious backend of your site and click on the license information at the bottom of the page. A window will open which will show the license information.  
-
-![](site-key1.png)
-
-**Step 2:** Click on 'Change or Upgrade' and licenses available on sellacious will open.
-
-![](site-key2.png)
-
-**Step 3:** Select the license you want to activate, click on it and purchase the license. Or, If you purchase any other other license from sellacious.com/pricing , enter your license key on the below screen and activate it.
-
-![](site-key3.png)
 
 The premium license is activated now on previous license key.
 
