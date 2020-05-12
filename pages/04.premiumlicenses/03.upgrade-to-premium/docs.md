@@ -23,7 +23,7 @@ This method is for when you have already installed free version and now purchase
 
 ![](site-key5.png)
 
-**Step 2:** At the bottom of the page is your Site Key. Copy that site-id.
+**Step 2:** At the bottom of the page is your Site Id. Copy that site-id by clicking on it.
 
 **Step 3:** Go to your sellecious.com account > dashboard > subscription. In premium subscription, you'll see the license you have purchased.  
 
@@ -31,6 +31,8 @@ This method is for when you have already installed free version and now purchase
 ![](Screen%20Shot%202020-05-12%20at%209.49.38%20AM.png)
 
 **Step 5:** The license is upgraded from free to premium. Go to your sellacious backednd and reload your page and click on the license information, it will show your upgraded license details.
+
+![](site-key2.png)
 
 ## **2. From sellacious backend:**
 
