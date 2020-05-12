@@ -48,15 +48,15 @@ To upgrade your site from free to premium, you need to purchase the premium lice
 ![](install1.png)
 You can also refer to this for installation: https://www.sellacious.com/documentation-v2#/learn/installuninstall/quickstart-installation
 
-**Step 2:** In second step, enter the database name accordingly with username and password.
+**Step 2:** Enter the database name accordingly with username and password.
 
 ![](install2.png)
 
-**Step 3:** In third step, enter your license key and activate it. Licence key is sent to your email at the time of purchase of plan. if you did not have licence key choose free and complete installation. After that follow first method to activate premium.
+**Step 3:** Enter your license key and activate it. Licence key is sent to your email at the time of purchase of plan. If you do not have licence key choose free and complete installation. After that follow first method to activate premium.
 
 ![](install3.png)
 
-**Step 4:** In fourth step, you get overview of store setting and databse configuration. Click on install button and install it.
+**Step 4:** In fourth step, you will get overview of store setting and databse configuration. Click on install button and install it.
 
 ![](install4.png)
 
