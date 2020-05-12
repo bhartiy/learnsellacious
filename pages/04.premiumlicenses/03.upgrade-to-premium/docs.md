@@ -34,6 +34,8 @@ This method is for when you have already installed free version and now purchase
 
 ![](site-key2.png)
 
+_**Note: Site Key is unique for every Site.**_
+
 ## **2. From sellacious backend:**
 
 To upgrade your site from free to premium, you need to purchase the premium license from here https://www.sellacious.com/pricing
@@ -54,7 +56,5 @@ To upgrade your site from free to premium, you need to purchase the premium lice
 
 The premium license is activated now on previous license key.
 
-
-_**Note: Site Key is unique for every Site.**_
 
 >> If you're getting a msg **Your license has expired. You can renew again for FREE!**, please click on this msg and register for free license (if you have purchased the premium license already) or Premium license if you want to use sellacious with premium feature and awesome support.
