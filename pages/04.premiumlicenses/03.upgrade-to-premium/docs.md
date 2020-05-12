@@ -10,7 +10,7 @@ admin:
 ---
 
 There are two ways to upgrade a free license to premium license.
-1. When you have already purchased a premium license: go to method 1.
+1. When you have already installed free license: go to method 1.
 2. When you have not purchased a premium license: go to method 2.
 
 ## **1. From sellacious.com (Site Key):**
