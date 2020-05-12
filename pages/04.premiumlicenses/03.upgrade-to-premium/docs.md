@@ -17,13 +17,13 @@ There are two ways to upgrade a free license to premium license.
 
 This method is for when you have already installed free version and now purchased a premium license with same/different email id.  
 
-**Step1:** Now go to the sellacious backend of your site. At the bottom of the dashboard page, click on the free license green text, which will redirect you to the license information page.  
+**Step 1:** Now go to the sellacious backend of your site. At the bottom of the dashboard page, click on the free license green text, which will redirect you to the license information page.  
 
 ![](site-key1.png)
 
 ![](site-key5.png)
 
-**Step2 :** At the bottom of the page is your Site Key. Copy that site-id.
+**Step 2:** At the bottom of the page is your Site Key. Copy that site-id.
 
 **Step 3:** Go to your sellecious.com account > dashboard > subscription. In premium subscription, you'll see the license you have purchased.  
 
@@ -38,15 +38,15 @@ To upgrade your site from free to premium, you need to purchase the premium lice
 
 ![](pricing.png)
 
-To do this go to the sellacious backend of your site and click on the license information. A window will open which will show the license information.  
+**Step 1:** Now go to the sellacious backend of your site and click on the license information at the bottom of the page. A window will open which will show the license information.  
 
 ![](site-key1.png)
 
-Click on 'Change or Upgrade' and licenses available on sellacious will open.
+**Step 2:** Click on 'Change or Upgrade' and licenses available on sellacious will open.
 
 ![](site-key2.png)
 
-Select the license you want to activate, click on it and purchase the license. Or, If you purchase any other other license from sellacious.com/pricing , enter your license key on the above screen and activate it.
+**Step 3:** Select the license you want to activate, click on it and purchase the license. Or, If you purchase any other other license from sellacious.com/pricing , enter your license key on the below screen and activate it.
 
 ![](site-key3.png)
 
