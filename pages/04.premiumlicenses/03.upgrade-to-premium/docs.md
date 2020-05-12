@@ -1,6 +1,6 @@
 ---
 title: 'Upgrade to Premium'
-media_order: 'site-key1.png,site-key2.png,site-key3.png,site-key4.png,site-key5.png,pricing.png,site-id.png,Screen Shot 2020-05-12 at 9.49.38 AM.png'
+media_order: 'site-key1.png,site-key2.png,site-key3.png,site-key4.png,site-key5.png,pricing.png,site-id.png,Screen Shot 2020-05-12 at 9.49.38 AM.png,install1.png,install2.png,install3.png'
 taxonomy:
     category:
         - docs
@@ -11,7 +11,7 @@ admin:
 
 There are two ways to upgrade a free license to premium license.
 1. When you have already installed free license: go to method 1.
-2. When you have not purchased a premium license: go to method 2.
+2. When you installing it for first time: go to method 2.
 
 ## **1. From sellacious.com (Using Site Id):**
 
@@ -42,6 +42,25 @@ To upgrade your site from free to premium, you need to purchase the premium lice
 
 ![](pricing.png)
 
+
+When you installing it first time, enter the store setting in first step.
+
+![](install1.png)
+
+In second step, enter the database name accordingly with username and password.
+
+![](install2.png)
+
+In third step, enter your license key and activate it.
+
+![](install3.png)
+
+In fourth step, you get overview of store setting and databse configuration. Click on install button and install it.
+
+![](install4.png)
+
+The premium license is activated now on previous license key.
+
 **Step 1:** Now go to the sellacious backend of your site and click on the license information at the bottom of the page. A window will open which will show the license information.  
 
 ![](site-key1.png)
@@ -55,6 +74,5 @@ To upgrade your site from free to premium, you need to purchase the premium lice
 ![](site-key3.png)
 
 The premium license is activated now on previous license key.
-
 
 >> If you're getting a msg **Your license has expired. You can renew again for FREE!**, please click on this msg and register for free license (if you have purchased the premium license already) or Premium license if you want to use sellacious with premium feature and awesome support.
