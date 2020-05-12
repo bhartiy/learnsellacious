@@ -13,7 +13,7 @@ There are two ways to upgrade a free license to premium license.
 1. When you have already installed free license: go to method 1.
 2. When you have not purchased a premium license: go to method 2.
 
-## **1. From sellacious.com (Site Id):**
+## **1. From sellacious.com (Using Site Id):**
 
 This method is for when you have already installed free version and now purchased a premium license with same/different email id.  
 
