@@ -56,6 +56,10 @@ You can also refer to this for installation: https://www.sellacious.com/document
 
 ![](install3.png)
 
+If you activate free license, you will get email verification link on your mail-id.
+
+![](Screenshot%202020-05-12%20at%207.20.48%20PM.png)
+
 **Step 4:** In fourth step, you will get overview of store setting and databse configuration. Click on install button and install it.
 
 ![](install4.png)
