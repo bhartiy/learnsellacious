@@ -16,5 +16,5 @@ You can set the multi seller with the following steps:
 3. To create a store as mulitseller, Go to the General tab.
 4. You have to enable the marketplace by setting the marketplace as enabled.
 5. Click on Save button to save the details.
-![](multiseller.jpg)
+ ![](marketplace.png)
 6. Now you shop is setted as mutli store.
