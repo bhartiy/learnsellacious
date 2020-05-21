@@ -37,7 +37,7 @@ Slots will reflect on the order details page, order email, and invoices.
 
 ![](Screenshot%202020-05-16%20at%203.46.11%20PM.png)
 
-**DATE & TIME SLOTS:**  This option provides an option for the seller to divide the delivery time into slots. Slot duration, Slot padding(time between two delivery slots), and Preparation time can be set from the seller profile.
+**DATE & TIME SLOTS:**  This option provides an option for the seller to divide the delivery time into slots. **Slot duration, Slot padding**(time between two delivery slots), and **Preparation time** can be set from the seller profile.
 
 ![](Screenshot%202020-05-16%20at%207.03.27%20PM.png)
 
