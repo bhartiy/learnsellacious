@@ -34,7 +34,7 @@ From frontend edit profile
 
 ![](Screenshot%202020-05-14%20at%202.52.43%20PM.png)
 
-5. Now during order the buyer can select the pickup shipping rule, pickup slot, leave a note for the seller and place the order. Pickup slots is reflected in order details and invoice.
+5. During order, the buyer can select the pickup shipping rule, pickup slot, leave a note for the seller and place the order. Pickup slot is reflected in order details and invoice.
 
 ![](Screenshot%202020-05-14%20at%202.59.22%20PM.png)
 ![](Screenshot%202020-05-21%20at%2011.28.33%20AM.png)
