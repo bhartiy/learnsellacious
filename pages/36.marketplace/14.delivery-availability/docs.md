@@ -11,7 +11,7 @@ visible: true
 (Available in version 2.0-beta1)
 
 Delivery Availability enables sellers to show delivery timing on their store page and process the order in time slots. Delivery functionality is divided in two scopes.
-A. Product Scope
+A. [Product Scope](https://www.sellacious.com/learn/marketplace/product-and-shipping-scope#product-scope)
 B. Shipping Scope
 
 We will learn about these two in detail later in this chapter. First We will cover the initial configuration of the delivery plugin.
