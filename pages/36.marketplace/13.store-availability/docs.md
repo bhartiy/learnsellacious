@@ -8,7 +8,7 @@ visible: true
 ---
 
 Whole store timing functionality is divided in three parts-
-### #### ## 1. Store availability[](https://www.sellacious.com/documentation-v2#/learn/marketplace/store-availability)
+1. Store availability[](https://www.sellacious.com/learn/marketplace/store-availability#store-availability)
 2. Delivery availability
 3. Pickup Availability
 
