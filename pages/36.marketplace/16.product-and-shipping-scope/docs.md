@@ -68,7 +68,7 @@ Orders done by any of the above methods will show in the backend delivery orders
 
 
 
-**### Shipping Scope:**
+### Shipping Scope:
 (Available in version 2.0-beta1)
 
 In shipping scope, a seller has the option to define shipping rules for the delivery slots. 
