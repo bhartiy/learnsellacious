@@ -39,6 +39,6 @@ From frontend edit profile
 ![](Screenshot%202020-05-21%20at%201.11.13%20PM.png)
 ![](Screenshot%202020-05-21%20at%201.11.33%20PM.png)
 
-6. Sellers can see pickup orders in Backend Pickup Orders View and process further.
+6. Sellers can see pickup orders in Backend **Pickup Orders View** and process further.
 
 ![](Screenshot%202020-05-14%20at%203.02.49%20PM.png)
