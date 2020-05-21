@@ -8,11 +8,12 @@ visible: true
 ---
 
 Whole store timing functionality is divided in three parts-
-1. Store availability
+## 1. Store availability[](https://www.sellacious.com/documentation-v2#/learn/marketplace/store-availability)
 2. Delivery availability
 3. Pickup Availability
 
 **Store availability:**
+(available in version 2.0-beta1)
 
 This enables the sellers to show stores status(open/close) on their store page. Store’s time zone and today's timing also shown prominently. To use store availability feature-
 
