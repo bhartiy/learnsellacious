@@ -26,7 +26,7 @@ From frontend edit profile
 
 ![](Screenshot%202020-05-14%20at%203.07.07%20PM.png)
 
-3. Pickup availability and timing will show on seller's store page  
+3. Pickup availability and timing will show on seller's store page.
 
 ![](Screenshot%202020-05-14%20at%202.48.40%20PM.png)
 
