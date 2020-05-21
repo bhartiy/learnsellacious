@@ -80,6 +80,7 @@ After choosing shipping scope sellers can set **Slot duration**, **Slot padding*
 ![](Screenshot%202020-05-16%20at%207.03.27%20PM%20%281%29.png)
 
 Creating shipping rules for slots is the most important step in this case. Delivery shipping rules can be created only when you choose the shipping scope.
+**Add to slots** here means this rates will be added into slot rate of that day/hour. For example your **flat rate** is $10 and **same day rate** is $20, if you enable add to slot rate your shipping for same day slot will be $30.If not enabled, rate for same day will be $20 and in calendar todays date will be disabled.
 
 ![](Screenshot%202020-05-16%20at%207.54.41%20PM.png)
 
