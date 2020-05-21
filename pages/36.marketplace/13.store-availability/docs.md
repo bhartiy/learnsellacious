@@ -25,7 +25,7 @@ This enables the sellers to show stores status(open/close) on their store page. 
 
 ![](Screenshot%202020-05-21%20at%2010.38.24%20AM.png)
 
-From frontend edit profile
+   From frontend edit profile
 
 ![](Screenshot%202020-05-21%20at%2010.39.00%20AM.png)
 
