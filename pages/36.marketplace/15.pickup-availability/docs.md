@@ -30,7 +30,7 @@ From frontend edit profile
 
 ![](Screenshot%202020-05-14%20at%202.48.40%20PM.png)
 
-4. Sellers have to make a **Pickup shipping rule(free rule)** in order to let the buyer use pickup functionality. When making shipping rules choose Pickup in Shipping Quotation Method/API.
+4. Sellers have to make a **Pickup shipping rule(free rule)** in order to let the buyer use pickup functionality. When making shipping rules choose **Pickup** in Shipping Quotation Method/API.
 
 ![](Screenshot%202020-05-14%20at%202.52.43%20PM.png)
 
