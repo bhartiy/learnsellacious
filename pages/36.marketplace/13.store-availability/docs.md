@@ -21,7 +21,7 @@ This enables the sellers to show stores status(open/close) on their store page. 
 
 ![](Screenshot%202020-05-21%20at%2010.50.53%20AM.png)
 
-2. Configure Store timing in Sellers profile in backend or sellers edit profile in frontend. Show store availability(open/closed) is to show store status on the store page and Show store timing is to show store timing on the store page.
+2. Configure Store timing in Sellers profile in backend or sellers edit profile in frontend. **Show store availability**(open/closed) is to show store status on the store page and S**how store timing** is to show store timing on the store page.
 
 ![](Screenshot%202020-05-21%20at%2010.38.24%20AM.png)
 
