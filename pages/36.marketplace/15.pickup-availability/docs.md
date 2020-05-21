@@ -1,6 +1,6 @@
 ---
 title: 'Pickup availability'
-media_order: 'Screenshot 2020-05-14 at 3.12.36 PM.png,Screenshot 2020-05-14 at 2.46.24 PM.png,Screenshot 2020-05-14 at 3.07.07 PM.png,Screenshot 2020-05-14 at 2.48.40 PM.png,Screenshot 2020-05-14 at 2.52.43 PM.png,Screenshot 2020-05-14 at 2.59.22 PM.png,Screenshot 2020-05-21 at 11.28.33 AM.png,Screenshot 2020-05-14 at 3.02.49 PM.png'
+media_order: 'Screenshot 2020-05-14 at 3.12.36 PM.png,Screenshot 2020-05-14 at 2.46.24 PM.png,Screenshot 2020-05-14 at 3.07.07 PM.png,Screenshot 2020-05-14 at 2.48.40 PM.png,Screenshot 2020-05-14 at 2.52.43 PM.png,Screenshot 2020-05-14 at 2.59.22 PM.png,Screenshot 2020-05-21 at 11.28.33 AM.png,Screenshot 2020-05-14 at 3.02.49 PM.png,Screenshot 2020-05-21 at 1.11.13 PM.png,Screenshot 2020-05-21 at 1.11.33 PM.png'
 taxonomy:
     category:
         - docs
@@ -36,8 +36,8 @@ From frontend edit profile
 
 5. During order, the buyer can select the pickup shipping rule, pickup slot, leave a note for the seller and place the order. Pickup slot is reflected in order details and invoice.
 
-![](Screenshot%202020-05-14%20at%202.59.22%20PM.png)
-![](Screenshot%202020-05-21%20at%2011.28.33%20AM.png)
+![](Screenshot%202020-05-21%20at%201.11.13%20PM.png)
+![](Screenshot%202020-05-21%20at%201.11.33%20PM.png)
 
 6. Sellers can see pickup orders in Backend Pickup Orders View and process further.
 
