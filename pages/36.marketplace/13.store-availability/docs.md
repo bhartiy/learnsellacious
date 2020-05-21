@@ -29,7 +29,7 @@ This enables the sellers to show stores status(open/close) on their store page. 
 
 ![](Screenshot%202020-05-21%20at%2010.39.00%20AM.png)
 
-3. Now store availability (open or closed) and store timings will be shown on sellers' store page accordingly. Store’s time zone is also shown and today's timing is shown highlighted.
+3. Now store availability (open or closed) and store timings will be shown on seller's store page accordingly. Store’s time zone is also shown and today's timing is shown highlighted.
 
 ![](Screenshot%202020-05-21%20at%2010.39.51%20AM.png)
 
