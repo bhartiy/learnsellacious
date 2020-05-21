@@ -41,7 +41,7 @@ Slots will reflect on the order details page, order email, and invoices.
 
 ![](Screenshot%202020-05-16%20at%207.03.27%20PM.png)
 
-Now when a buyer adds a product in the cart there is an option to select delivery date and also slot which will be reflected in cart, summery, order details, and order email/invoice.
+Now when a buyer adds a product in the cart there is an option to **select delivery date and slot** which will be reflected in cart, summery, order details, and order email/invoice.
 
 ![](Screenshot%202020-05-16%20at%207.05.54%20PM.png)
 
