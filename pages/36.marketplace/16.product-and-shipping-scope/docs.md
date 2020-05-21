@@ -1,5 +1,6 @@
 ---
 title: 'Product and Shipping Scope'
+media_order: 'Screenshot 2020-05-16 at 3.11.15 PM.png,Screenshot 2020-05-16 at 3.25.35 PM.png,Screenshot 2020-05-16 at 3.37.02 PM.png,unnamed.png'
 taxonomy:
     category:
         - docs
@@ -14,17 +15,17 @@ B. Day
 C. Day & Time Slots
 D. Date & Time (Without Slots) 
 
+![](Screenshot%202020-05-16%20at%203.11.15%20PM.png)
 
+**NONE:** No delivery slot will be used during placing orders. Buyer can palce order as usual.
 
-NONE: No delivery slot will be used during placing orders.
+**DAY:** This option sets the whole day delivery time as one slot. Sellers can choose **Limit per slot** and **Available till today** which means the time till when the buyer can place an order in case the same day is being selected for delivery.
 
-DAY: This option sets the whole day delivery time as one slot. Sellers can choose Limit per slot and Available till today which means the time till when the buyer can place an order in case the same day is selected for delivery.
-
-
+![](Screenshot%202020-05-16%20at%203.25.35%20PM.png)
 
 Now when a buyer adds a product in the cart there is an option to select a delivery date. 
 
-
+![](Screenshot%202020-05-16%20at%203.37.02%20PM.png)
 
 Selected slots will be showing and can be edited in cart and summary steps.
 
@@ -32,10 +33,9 @@ Selected slots will be showing and can be edited in cart and summary steps.
 
 Slots will reflect on the order details page, order email, and invoices.
 
+![](unnamed.png)
 
-
-DATE & TIME SLOTS:
-This option provides an option for the seller to divide the delivery time into slots. Slot duration, Slot padding(time between two delivery slots), and Preparation time can be set from the seller profile.
+**DATE & TIME SLOTS:** This option provides an option for the seller to divide the delivery time into slots. Slot duration, Slot padding(time between two delivery slots), and Preparation time can be set from the seller profile.
 
 
 
