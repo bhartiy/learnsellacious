@@ -16,7 +16,7 @@ B. [Shipping Scope](https://www.sellacious.com/learn/marketplace/product-and-shi
 
 We will learn about these two in detail later in this chapter. First We will cover the initial configuration of the delivery plugin.
 
-1. Enable delivery availability from Settings>>Global Configuration>>Store timing Settings.Here Enable Delivery availability is to enable this functionality for sellers, Show Delivery availability is to show store status on the store page. Likewise Enable Delivery timing enables store timing functionality and Show Delivery timing is to show it on the store page. This configuration can be overridden from the seller profile.
+1. Enable delivery availability from Settings->Global Configuration->Store timing Settings.Here Enable Delivery availability is to enable this functionality for sellers, Show Delivery availability is to show store status on the store page. Likewise Enable Delivery timing enables store timing functionality and Show Delivery timing is to show it on the store page. This configuration can be overridden from the seller profile.
 
 ![](Screenshot%202020-05-16%20at%202.27.39%20PM.png)
 
