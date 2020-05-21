@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-Product Scope:
+### Product Scope:
 
 In product scope, the seller has the option to divide store delivery time into slots.  These slots then used to deliver products accordingly. Product scope consists of four kinds of Delivery Time Selection.
 A. None
