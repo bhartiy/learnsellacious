@@ -15,9 +15,9 @@ Whole store timing functionality is divided in three parts-
 ### Store availability:
 (available in version 2.0-beta1)
 
-This enables the sellers to show stores status(open/close) on their store page. Store’s time zone and today's timing also shown prominently. To use store availability feature-
+This enables the sellers to show stores status(open/close) on their store page. Store’s time zone and today's timing also shown prominently. To use store -vailability feature-
 
-1. Enable Store availability from **Settings>>Global Configuration>>Store timing Settings**. Here Enable store availability is to enable this functionality for sellers, **Show store availability** is to show store status on the store page. Likewise **Enable store timing** enables store timing functionality and Show store timing is to show it on the store page. This configuration can be overridden from the seller profile.
+1. Enable Store availability from **Settings->Global Configuration->Store timing Settings**. Here Enable store availability is to enable this functionality for sellers, **Show store availability** is to show store status on the store page. Likewise **Enable store timing** enables store timing functionality and Show store timing is to show it on the store page. This configuration can be overridden from the seller profile.
 
 ![](Screenshot%202020-05-21%20at%2010.50.53%20AM.png)
 
