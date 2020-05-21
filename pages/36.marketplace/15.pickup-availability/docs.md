@@ -12,7 +12,7 @@ visible: true
 
 This enables the sellers to show stores pickup timing on their store page. To use pickup availability feature-
 
-1. Enable pickup availability from **Settings>>Global Configuration>>Store timing Settings**. Here **Enable Pickup availability** is to enable this functionality for sellers, **Show Pickup availability** is to show pickup status on the store page. Likewise **Enable Pickup timing** enables pickup timing functionality and **Show Pickup timing** is to show it on the store page. This configuration can be overridden from the seller profile.
+1. Enable pickup availability from **Settings->Global Configuration->Store timing Settings**. Here **Enable Pickup availability** is to enable this functionality for sellers, **Show Pickup availability** is to show pickup status on the store page. Likewise **Enable Pickup timing** enables pickup timing functionality and **Show Pickup timing** is to show it on the store page. This configuration can be overridden from the seller profile.
 
 ![](Screenshot%202020-05-14%20at%203.12.36%20PM.png)
 
