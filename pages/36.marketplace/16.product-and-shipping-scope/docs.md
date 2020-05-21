@@ -46,7 +46,7 @@ Now when a buyer adds a product in the cart there is an option to **select deliv
 ![](Screenshot%202020-05-16%20at%207.05.54%20PM.png)
 
 
-**DATE & TIME (WITHOUT SLOT):**  This option provides an option to the seller to choose **Day and Point of time** for the delivery. In this case, sellers can set **Available till today** and **Preparation time**.
+**DATE & TIME (WITHOUT SLOT):**  This option provides an option to the buyer to choose **Day and Point of time** for the delivery. In this case, sellers can set **Available till today** and **Preparation time**.
 
 ![](Screenshot%202020-05-16%20at%207.13.12%20PM.png)
 
