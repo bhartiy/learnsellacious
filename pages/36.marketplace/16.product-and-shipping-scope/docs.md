@@ -8,6 +8,7 @@ visible: true
 ---
 
 ### Product Scope:
+(Available in version 2.0-beta1)
 
 In product scope, the seller has the option to divide store delivery time into slots.  These slots then used to deliver products accordingly. Product scope consists of four kinds of Delivery Time Selection.
 A. None
@@ -67,7 +68,8 @@ Orders done by any of the above methods will show in the backend delivery orders
 
 
 
-### Shipping Scope:
+**### Shipping Scope:**
+(Available in version 2.0-beta1)
 
 In shipping scope, a seller has the option to define shipping rules for the delivery slots. 
 
