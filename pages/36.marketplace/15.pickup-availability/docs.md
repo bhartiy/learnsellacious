@@ -16,7 +16,7 @@ This enables the sellers to show stores pickup timing on their store page. To us
 
 ![](Screenshot%202020-05-14%20at%203.12.36%20PM.png)
 
-**NOTE:** Pickup functionality only works when **Scope is Shipping**  and Time Selection is **Date and Time Slot**.
+**NOTE:** Pickup functionality only works whenScope is  **Shipping**  and Time Selection is **Date and Time Slot**.
 
 2. Now configure pickup timing and pickup slot in backed sellers profile or frontend profile edit. **Show pickup availability** is to show the store's pickup status on the store page and **Show pickup timing** is to show the store's pickup timing on the store page.
 
