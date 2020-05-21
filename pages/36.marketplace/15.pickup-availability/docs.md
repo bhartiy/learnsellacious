@@ -12,13 +12,13 @@ visible: true
 
 This enables the sellers to show stores pickup timing on their store page. To use pickup availability feature-
 
-1. Enable pickup availability from Settings>>Global Configuration>>Store timing Settings. Here Enable Pickup availability is to enable this functionality for sellers, Show Pickup availability is to show pickup status on the store page. Likewise Enable Pickup timing enables pickup timing functionality and Show Pickup timing is to show it on the store page. This configuration can be overridden from the seller profile.
+1. Enable pickup availability from **Settings>>Global Configuration>>Store timing Settings**. Here **Enable Pickup availability** is to enable this functionality for sellers, **Show Pickup availability** is to show pickup status on the store page. Likewise **Enable Pickup timing** enables pickup timing functionality and **Show Pickup timing** is to show it on the store page. This configuration can be overridden from the seller profile.
 
 ![](Screenshot%202020-05-14%20at%203.12.36%20PM.png)
 
 NOTE: Pickup functionality only works when Scope is Shipping  and Time Selection is Date and Time Slot.
 
-2. Now configure pickup timing and pickup slot in backed sellers profile or frontend profile edit. Show pickup availability is to show the store's pickup status on the store page and Show pickup timing is to show the store's pickup timing on the store page.
+2. Now configure pickup timing and pickup slot in backed sellers profile or frontend profile edit. **Show pickup availability** is to show the store's pickup status on the store page and **Show pickup timing** is to show the store's pickup timing on the store page.
 
 ![](Screenshot%202020-05-14%20at%202.46.24%20PM.png)
 
@@ -30,7 +30,7 @@ From frontend edit profile
 
 ![](Screenshot%202020-05-14%20at%202.48.40%20PM.png)
 
-4. Sellers have to make a pickup shipping rule(free rule) in order to let the buyer use pickup functionality. When making shipping rules choose Pickup in Shipping Quotation Method/API.
+4. Sellers have to make a **Pickup shipping rule(free rule)** in order to let the buyer use pickup functionality. When making shipping rules choose Pickup in Shipping Quotation Method/API.
 
 ![](Screenshot%202020-05-14%20at%202.52.43%20PM.png)
 
