@@ -1,6 +1,6 @@
 ---
 title: 'Updating Sellacious'
-media_order: 'update.jpg,joomla.png,update-manual-1.png,update-manual-2.png'
+media_order: 'update.jpg,joomla.png,update-manual-1.png,update-manual-2.png,Screenshot 2020-05-22 at 12.48.06 PM.png,Screenshot 2020-05-22 at 1.24.14 PM.png'
 taxonomy:
     category:
         - docs
@@ -49,7 +49,7 @@ There are two ways to update Sellacious on your site.
 7. Select the file you want to update.
 8. And Click on the update button, present at the top to update the files
 
-![](joomla.png)
+![](Screenshot%202020-05-22%20at%201.24.14%20PM.png)
 
 Note: Before updating ensure that the update is compatible with your Joomla! installation.
 5. Now your sellacious website is updated with new version.
