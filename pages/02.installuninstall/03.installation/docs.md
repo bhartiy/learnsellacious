@@ -14,7 +14,7 @@ visible: true
 3. Now click on Install From Web tab in Extensions: Install section.
 4. Search for Sellacious in the search box. After search results appear, click on the first one i.e. Sellacious.
 ![](install_from_web1.jpg)
-5. After that, click on Install button to start the installation process. Once core package is installed it will install additional libraries.
+5. After that, click on Install button to start the installation process. Once core package is installed it will install additional libraries. Let it install it may take few minutes.
 ![](Screenshot%202020-05-22%20at%206.50.28%20PM.png)
 7. Click on Download & Install Now button to install the Sellacious additional libraries.
 ![](download_n_install.jpg)
