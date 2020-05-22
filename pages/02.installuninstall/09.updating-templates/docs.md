@@ -1,6 +1,9 @@
 ---
 title: 'Updating Templates'
 media_order: 'update.jpg,update2.jpg'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
