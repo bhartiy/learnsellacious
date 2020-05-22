@@ -22,7 +22,7 @@ There are two ways to update Sellacious on your site.
 ![](update-manual.png)
 
 2. Go to Yoursite.com/administrator. 
-3. Proceed to Extensions and click on Manage > Install.
+3. Proceed to Extensions -> Manage -> Install.
 4. Select tab 'upload from package' and click on browse for file.
 
 ![](update-manual-1.png)
