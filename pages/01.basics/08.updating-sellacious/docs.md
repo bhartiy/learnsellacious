@@ -35,7 +35,7 @@ There are two ways to update Sellacious on your site.
 ---
 ---
 
-**2. To Update a new Version Of Sellacious, follow the steps:**
+**2. To Update from  Joomla, follow the steps:**
 
 1. Go to the Joomla administration panel of your website.
 2. Go to Extensions and click on Manage.
