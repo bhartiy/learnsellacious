@@ -35,7 +35,9 @@ There are two ways to update Sellacious on your site.
 While updating manually it is reccomended that you click on stop button and install extended package similarly.
 **Note: Installation of this package after Core is very important to fetch all the important updates of sellacious. If you don't install this package of sellacious, you'll face the issue with your sellacious.**
 
-![](update-manual-2.png)
+8. After updating extended package you will be redirected to this page which means sellacious is updated successfully. 
+
+![](Screenshot%202020-05-22%20at%206.16.50%20PM.png)
 
 ---
 
