@@ -1,6 +1,6 @@
 ---
 title: 'Install from Joomla Administrator'
-media_order: 'Install.jpg,install_from_web1.jpg,download_n_install.jpg,sellacious_installation.jpg,component1.jpg,Upload1.jpg,sellacious.jpg'
+media_order: 'Install.jpg,download_n_install.jpg,sellacious_installation.jpg,component1.jpg,Upload1.jpg,sellacious.jpg,Screenshot 2020-05-22 at 6.50.28 PM.png,install_from_web1.jpg'
 taxonomy:
     category:
         - docs
@@ -14,8 +14,9 @@ visible: true
 3. Now click on Install From Web tab in Extensions: Install section.
 4. Search for Sellacious in the search box. After search results appear, click on the first one i.e. Sellacious.
 ![](install_from_web1.jpg)
-5. After that, click on Install button to start the installation process.
-6. Click on Download & Install Now button to install the Sellacious additional libraries.
+5. After that, click on Install button to start the installation process. Once core package is installed it will install additional libraries.
+![](Screenshot%202020-05-22%20at%206.50.28%20PM.png)
+7. Click on Download & Install Now button to install the Sellacious additional libraries.
 ![](download_n_install.jpg)
 7. Once the processing ends, go to Components and click on Sellacious from the dropped down menu.
 ![](component1.jpg)
