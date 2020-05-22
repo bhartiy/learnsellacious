@@ -7,8 +7,6 @@ taxonomy:
 visible: true
 ---
 
-Sellacious can be installed on Joomla by using ['Install by upoading'](https://www.sellacious.com/documentation-v2#/learn/installuninstall/updating-sellacious) or using 'Install via web' option.
-
 'Install via Web' is most probably the easiest way of installing Sellacious.
 1. First of all, go to the Joomla administration panel of your website.
 2. Go to Extensions and click on Manage -> Install option from the dropped down menu.
