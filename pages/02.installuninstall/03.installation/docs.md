@@ -30,7 +30,7 @@ visible: true
 2. Go to Extensions and click on Manage -> Install option from the dropped down menu.
 ![](Install.jpg)
 3. Now click on Upload Package File tab in Extensions.
-4. Click on Browse File and select the downloaded package.
+4. Click on Browse File and select the downloaded (core+extended) package.
 ![](Upload1.jpg)
 6.Click on Download & Install Now button to install the Sellacious additional libraries.
 ![](download_n_install.jpg)
