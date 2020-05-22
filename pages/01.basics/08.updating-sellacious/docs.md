@@ -1,6 +1,6 @@
 ---
 title: 'Updating Sellacious'
-media_order: 'update.jpg,joomla.png,update-manual.png,update-manual-1.png,update-manual-2.png'
+media_order: 'update.jpg,joomla.png,update-manual-1.png,update-manual-2.png'
 taxonomy:
     category:
         - docs
@@ -19,7 +19,7 @@ There are two ways to update Sellacious on your site.
 
 1. Go to https://www.sellacious.com/p/core/sellacious and download core and extended package of latest version of sellacious or you can also find both of these packages in the UNZIP_FIRST in the _Install In Joomla_ folder.
 
-![](update-manual.png)
+![](Screenshot%202020-05-22%20at%2012.48.06%20PM.png)
 
 2. Go to Yoursite.com/administrator. 
 3. Proceed to Extensions -> Manage -> Install.
