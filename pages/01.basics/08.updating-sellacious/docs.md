@@ -31,7 +31,6 @@ There are two ways to update Sellacious on your site.
 ![](update-manual-2.png)
 
 ---
----
 
 **2. To Update from  Joomla, follow the steps:**
 
