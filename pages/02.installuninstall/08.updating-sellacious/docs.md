@@ -28,7 +28,11 @@ There are two ways to update Sellacious on your site.
 5. Select the file with the name like `pkg_sellacious_v2.0.0-beta1.zip` (_version can varied_). This is the core package of sellacious.
 **Note: It's mamdatory that you install the core package of sellacious first(not extended).**
 
-7. Once the core package of sellacious first, you'll get the msg to Downlaod and Install automatically. You can either click on that button to complete the update of sellacious or  click on stop button and manully install the extended package of sellacious `pkg_sellacious_extended_v2.0.0-beta1.zip` (_version can varied_).
+7. Once the core package of sellacious first, you'll get the msg to Downlaod and Install automatically. You can either click on that button to complete the update of sellacious or  click on **stop button** and manully install the extended package of sellacious `pkg_sellacious_extended_v2.0.0-beta1.zip` (_version can varied_).
+
+![](Screenshot%202020-05-22%20at%205.32.03%20PM.png)
+
+While updating manually it is reccomended that you click on stop button and install extended package similarly.
 **Note: Installation of this package after Core is very important to fetch all the important updates of sellacious. If you don't install this package of sellacious, you'll face the issue with your sellacious.**
 
 ![](update-manual-2.png)
