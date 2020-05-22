@@ -17,7 +17,7 @@ There are two ways to update Sellacious on your site.
 
 **1. To update sellacious manually, follow below steps:**
 
-1. Go to https://www.sellacious.com/p/sellacious-extensions/free-extensions/sellacious and download core and extended package of latest version of sellacious or you can also find both of these packages in the UNZIP_FIRST in the _Install In Joomla_ folder.
+1. Go to https://www.sellacious.com/p/core/sellacious and download core and extended package of latest version of sellacious or you can also find both of these packages in the UNZIP_FIRST in the _Install In Joomla_ folder.
 
 ![](update-manual.png)
 
