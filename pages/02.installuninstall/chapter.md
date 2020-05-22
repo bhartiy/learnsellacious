@@ -1,5 +1,5 @@
 ---
-title: Install/unInstall
+title: Install/unInstall/update
 taxonomy:
     category: docs
 ---
