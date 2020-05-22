@@ -52,4 +52,4 @@ There are two ways to update Sellacious on your site.
 ![](Screenshot%202020-05-22%20at%201.24.14%20PM.png)
 
 Note: Before updating ensure that the update is compatible with your Joomla! installation.
-5. Now your sellacious website is updated with new version.
+9. Now your sellacious website is updated with new version.
