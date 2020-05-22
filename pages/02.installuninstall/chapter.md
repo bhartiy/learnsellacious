@@ -6,6 +6,6 @@ taxonomy:
 
 ### Chapter 2
 
-# Install/Uninstall/Update
+## Install/Uninstall/Update
 
 This Chapter guides you how to Install, Uninstall and update sellacious
