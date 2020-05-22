@@ -8,7 +8,7 @@ visible: true
 ---
 
 **Very Important:** 
-Kindly Take backup of your sellacious before updating it. 
+Kindly Take backup of your website and databse before updating it. 
 It's preferred not to upgrade live site and upgrade it over staging first, test it and then move it to live.
 
 There are two ways to update Sellacious on your site.
