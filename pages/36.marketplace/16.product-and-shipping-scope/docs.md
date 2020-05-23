@@ -93,7 +93,7 @@ In delivery shipping, rates can be defined for **Next Hours, Next Days**, and fo
 ![](unnamed%20%283%29.png)
 ![](Screenshot%202020-05-16%20at%208.03.16%20PM.png)
 
-**NOTE:**  Delivery type shipping rules can only be created for sellers(not site-wide) and only one rule per seller. This only can be used when **Shipped by Seller** and Shipping selection is **Sellerwise or Product wise**.
+**NOTE:**  Delivery type shipping rules can only be created for sellers(not site-wide) and only **one rule per seller**. This only can be used when **Shipped by Seller** and Shipping selection is **Sellerwise or Product wise**.
 
 Once the delivery shipping is enabled, the buyer will get the option to select shipping for the slot in the shipping step.
 
