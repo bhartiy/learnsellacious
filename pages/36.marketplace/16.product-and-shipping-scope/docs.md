@@ -70,7 +70,7 @@ Orders done by any of the above methods will show in the backend **Delivery Orde
 
 
 
-
+---
 
 ### Shipping Scope:
 (Available in version 2.0-beta1)
@@ -102,3 +102,7 @@ Once the delivery shipping is enabled, the buyer will get the option to select s
 Selected slot and shipping rate will reflect in summary and can be edited from here.
 
 ![](Screenshot%202020-05-16%20at%208.16.37%20PM.png)
+
+After placing order slots and shipping will reftect in orders details.
+
+![](Screenshot%202020-05-16%20at%203.46.11%20PM.png)
