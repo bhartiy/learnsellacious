@@ -1,5 +1,5 @@
 ---
-title: 'Sellers payment method'
+title: 'Seller''s payment method'
 media_order: 'Screenshot 2020-05-08 at 3.08.21 PM.png,Screenshot 2020-05-08 at 3.03.27 PM.png,Screenshot 2020-05-08 at 3.01.47 PM.png,Screenshot 2020-05-08 at 2.59.03 PM.png,Screenshot 2020-05-08 at 2.55.16 PM.png,Screenshot 2020-05-08 at 2.53.23 PM.png,Screenshot 2020-05-08 at 2.48.32 PM.png,Screenshot 2020-05-08 at 4.35.53 PM.png'
 taxonomy:
     category:
