@@ -8,7 +8,7 @@ visible: true
 ---
 
 **Written by:** Indresh Maurya
-**Date:** 20-05-2020
+**Date:** 23-05-2020
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
 This feature enables sellers to change status of all the items in an order at once rather than changing it one by one. 
