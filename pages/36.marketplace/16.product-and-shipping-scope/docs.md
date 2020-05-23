@@ -7,8 +7,12 @@ taxonomy:
 visible: true
 ---
 
+WRITTEN BY: Indresh Maurya
+Date: 20-05-2020
+Compatibility: Sellacious v2.0.0-Beta1
+
 ### Product Scope:
-(Available in version 2.0-beta1)
+
 
 In product scope, the seller has the option to divide store delivery time into slots.  These slots then used to deliver products accordingly. Product scope consists of four kinds of Delivery Time Selection.
 A. None
