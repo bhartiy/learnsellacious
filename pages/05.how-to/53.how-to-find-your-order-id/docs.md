@@ -7,6 +7,9 @@ taxonomy:
 visible: true
 ---
 
+**Written by:** Indresh Maurya
+**Date:** 22-05-2020
+
 Follow these steps to find order id of your purchased licence on sellacious.com-
 **Step1:** Login to your sellacious.com account.
 **Step2:** Go to Dashboard->My Purchases
