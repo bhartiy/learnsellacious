@@ -24,7 +24,7 @@ D. Date & Time (Without Slots)
 
 **NONE:**  No delivery slot will be used during placing orders. Buyer can palce order as usual.
 
-**DAY:**  This option sets the whole day delivery time as one slot. Sellers can choose **Limit per slot** and **Available till today** which means the time till when the buyer can place an order in case the same day is being selected for delivery.
+**DAY:**  This option sets the whole day delivery time as one slot. Sellers can choose **Limit per slot** which means how many orders can be served in one slot and **Available till today** which means the time till when the buyer can place an order in case the same day is being selected for delivery.
 
 ![](Screenshot%202020-05-16%20at%203.25.35%20PM.png)
 
