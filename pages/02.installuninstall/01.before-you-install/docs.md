@@ -10,8 +10,8 @@ Download Instructions
 ===================================================================
 Before Install you need to Download Sellacious Package of your choice and this chapter deals with various ways of installation.
 * To install Quickstart package download **Sellacious Quickstart Package** frome here  https://www.sellacious.com/download.
-* If you want to install on joomla download Sellacious Core+Extended package from here https://www.sellacious.com/p/core/sellacious. 
-* If you want to install any specific template or its quickstart it can be downloaded from here https://www.sellacious.com/sellacious-templates
+* If you want to install on joomla download Sellacious **Core+Extended** package from here https://www.sellacious.com/p/core/sellacious. 
+* If you want to install any specific **Template** or its quickstart it can be downloaded from here https://www.sellacious.com/sellacious-templates
 
 
 Install Instructions
