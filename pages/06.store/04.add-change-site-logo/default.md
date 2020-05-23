@@ -20,6 +20,6 @@ Now, in the **Basic tab**, you can change the logo for your site.
 
 ![](Screenshot%202020-05-23%20at%204.46.13%20PM.png)
 
-You can change or add the favicon and many from this section.
+You can change or add the logo,logo for mobile, favicon and many from this section.
 
 _Note: This document is for helix framework only._
