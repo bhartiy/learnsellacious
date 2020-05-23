@@ -6,6 +6,10 @@ taxonomy:
 visible: true
 ---
 
+**Written by:** Indresh Maurya
+**Date:** 23-05-2020
+**Compatibility:** Sellacious v2.0.0-Beta1+
+
 Download Instructions
 ===================================================================
 Before Install you need to Download Sellacious Package of your choice and this chapter deals with various ways of installation.
