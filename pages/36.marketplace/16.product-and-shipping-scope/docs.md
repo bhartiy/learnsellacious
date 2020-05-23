@@ -103,6 +103,4 @@ Selected slot and shipping rate will reflect in summary and can be edited from h
 
 ![](Screenshot%202020-05-16%20at%208.16.37%20PM.png)
 
-After placing order slots and shipping will reftect in orders details.
-
-![](Screenshot%202020-05-16%20at%203.46.11%20PM.png)
+After placing order slots and shipping will reftect in orders details, invoices and order email.
