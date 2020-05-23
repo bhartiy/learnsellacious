@@ -24,6 +24,7 @@ Install Instructions
 * If you planning to create a fresh new eCommerce website then go with QuickStart package, it includes Joomla, Sellacious, Sample Data, Template and SPPagebuilder for easy customisation. [Quickstart Install](https://www.sellacious.com/documentation-v2#/learn/installuninstall/quickstart-installation)
 * If you have older version of sellaciious and want to updat it with latest version. [Update Sellacious](https://www.sellacious.com/documentation-v2#/learn/installuninstall/updating-sellacious)
 * If you have explored sellacious features and created your products and looking for another template, then you can just install that particulars template. [Template Installation](https://www.sellacious.com/documentation-v2#/learn/template/installing-template)
+* If you want to update your template. [Update template](https://www.sellacious.com/documentation-v2#/learn/installuninstall/updating-templates)
 * You can hide Sellacious branding anytime with a single click once you purchase our subscription and it comes with many more features. [Sellacious Pricing](https://www.sellacious.com/pricing)
 * Sellacious offers a customisation as per client requirements, so you can anytime opt for this no matter how much products you have. [Hire Us](https://www.sellacious.com/hire-us)
 
