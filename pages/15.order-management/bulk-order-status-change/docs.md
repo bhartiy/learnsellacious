@@ -12,7 +12,7 @@ visible: true
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
 This feature enables sellers to change status of all the items in an order at once rather than changing it one by one. 
-To enable this feature go to Shop Settings->Order Status Change and set it to **Order.**
+To enable this feature go to Shop **Settings->Order Status Change** and set it to **Order.**
 
 ![](Screenshot%202020-05-23%20at%206.09.17%20PM.png)
 
