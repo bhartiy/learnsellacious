@@ -7,9 +7,9 @@ taxonomy:
 visible: true
 ---
 
-**To create the product categories,follow steps:**
+**To create the product categories, follow steps:**
 1. Go to the Sellacious panel of your website.
-2. Go to Categories and select the _Physical Product_ if you want to create a category for physical products. If you want to create electronic products, Select _Electronic Product_.
+2. Go to Categories and select the _Physical Product_ if you want to create a category for physical products. If you want to create electronic products, Select _Electronic Product_. ![](screenshot-localhost-2020.05.23-15_46_58.png)
 3. To create a new category, click on New button.
 4. Fill the information about the category in different sections available in the category window. You can also view this link. [How to create a Product Category?](https://www.sellacious.com/learn/categories/product-categories)
 5. Click on Save button to save the category details, the product category added successfully.
