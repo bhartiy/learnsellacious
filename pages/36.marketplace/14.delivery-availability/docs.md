@@ -7,8 +7,11 @@ taxonomy:
 visible: true
 ---
 
+Written by: Indresh Maurya
+Date: 20-05-2020
+Compatibility: Sellacious v2.0.0-Beta1+
+
 ### Delivery Availability:
-(Available in version 2.0-beta1)
 
 Delivery Availability enables sellers to show delivery timing on their store page and process the order in time slots. Delivery functionality is divided in two scopes.
 A. [Product Scope](https://www.sellacious.com/learn/marketplace/product-and-shipping-scope#product-scope)
