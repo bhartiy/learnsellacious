@@ -1,6 +1,6 @@
 ---
 title: Introduction
-media_order: Template.png
+media_order: 'Template.png,Screenshot 2020-05-23 at 2.38.23 PM.png'
 taxonomy:
     category:
         - docs
@@ -8,6 +8,8 @@ visible: true
 ---
 
 **Template** is the backbone for creating the webpages for your shop.You can download or buy different types of  templates from https://www.sellacious.com/sellacious-templates. Templates are pre-formatted in some way.
+
+![](Screenshot%202020-05-23%20at%202.38.23%20PM.png)
 
 ##### **To Manage Templates :**
 
