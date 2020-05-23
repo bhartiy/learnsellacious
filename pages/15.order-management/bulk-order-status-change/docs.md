@@ -31,3 +31,5 @@ If order consits of more that one seller's item, bulk change can be done sellerw
 It can be ssen here that status of all the item is changed
 
 ![](Screenshot%202020-05-23%20at%206.31.00%20PM.png)
+
+**Note:** On Seller Login - Seller will only see their own order status, not main order's status and main order status will be according to all the item order status.
