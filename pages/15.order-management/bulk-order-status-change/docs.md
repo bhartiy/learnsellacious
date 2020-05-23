@@ -16,7 +16,7 @@ To enable this feature go to Shop **Settings->Order Status Change** and set it t
 
 ![](Screenshot%202020-05-23%20at%206.09.17%20PM.png)
 
-When order is done have lots of items in it 
+When order is done having lots of items in it 
 
 ![](Screenshot%202020-05-23%20at%206.14.15%20PM.png)
 
