@@ -1,6 +1,6 @@
 ---
 title: 'Add A Product'
-media_order: 'product_catalogue.jpg,basic-product.png,inventory.png,seller.png'
+media_order: 'product_catalogue.jpg,basic-product.png,inventory.png,seller.png,Screen Shot 2020-05-23 at 3.10.07 PM.png,Screen Shot 2020-05-23 at 3.16.38 PM.png,Screen Shot 2020-05-23 at 3.18.48 PM.png'
 taxonomy:
     category:
         - docs
@@ -21,16 +21,20 @@ visible: true
 
 ![](basic-product.png)
 
-<br>   v) Select the seller for which you want to create the product. You can always switch from current seller to other seller. [How to add/edit seller to the product?](https://www.sellacious.com/learn/product/add-edit-listing-of-seller) 
+5. Select the seller for which you want to create the product. You can always switch from current seller to other seller. [How to add/edit seller to the product?](https://www.sellacious.com/learn/product/add-edit-listing-of-seller) 
 **Note: This section will be visible only to admin. Seller will not be able to add the products for another sellers if not permitted.**
 
 ![](seller.png)
 
-<br>  vi) Fill the inventory details for your product.
+6. Fill the inventory details for your product.
 
-![](inventory.png)
+![](Screen%20Shot%202020-05-23%20at%203.10.07%20PM.png)
 
-<br>  vii) Enter the price of your product.
-<br> viii) Click on Save button to save the product details, the product is successfully added to your inventory.
-<br> d). Add variants for this product as varinats can be added only when product is saved.
-6. You can create other products and their variants by using above method.
+7. Enter the price of your product.
+
+![](Screen%20Shot%202020-05-23%20at%203.16.38%20PM.png)
+
+8. Click on Save button to save the product details, the product is successfully added to your inventory.
+9. Add variants for this product as varinats can be added only when product is saved.
+
+![](Screen%20Shot%202020-05-23%20at%203.18.48%20PM.png)
