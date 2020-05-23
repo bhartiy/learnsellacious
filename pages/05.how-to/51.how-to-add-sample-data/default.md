@@ -3,6 +3,10 @@ title: 'How to add sample data'
 media_order: 'install2.png,Screen Shot 2020-05-09 at 1.09.11 PM.png,install2 (2).png,export.png'
 ---
 
+**Written by:** Rashi Gupta
+**Date:** 11-05-2020
+**Compatibility:** Sellacious v2.0.0-Beta1+
+
 In Sellacious, there are 2 ways to add sample data.
 
 1. At installation time 
