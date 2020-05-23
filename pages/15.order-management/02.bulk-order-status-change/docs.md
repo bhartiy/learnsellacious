@@ -20,7 +20,7 @@ When order is done having lots of items in it
 
 ![](Screenshot%202020-05-23%20at%206.27.57%20PM.png)
 
-You will get option to cange the status of all the orders at once in backend orders view
+You will get option to change the status of all the orders at once in backend orders view
 
 ![](Screenshot%202020-05-23%20at%206.29.06%20PM.png)
 
@@ -28,7 +28,7 @@ If order consits of more that one seller's item, bulk change can be done sellerw
 
 ![](Screenshot%202020-05-23%20at%206.19.50%20PM.png)
 
-It can be ssen here that status of all the item is changed
+It can be seen here that status of all the item is changed
 
 ![](Screenshot%202020-05-23%20at%206.31.00%20PM.png)
 
