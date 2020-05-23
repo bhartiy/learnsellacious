@@ -3,6 +3,10 @@ title: 'How to remove sample data'
 media_order: 'remove1.png,screenshot-localhost-2020.05.09-14_24_04.png,delete.png,categories.png,user.png,modules1.png,modules.png,sdc.png,menu.png'
 ---
 
+**Written by:** Rashi Gupta
+**Date:** 11-05-2020
+**Compatibility:** Sellacious v2.0.0-Beta1+
+
 To remove the sample data, we need to remove all products, categories, users and modules one by one. 
 
 **1. Remove Products -** To remove all products in once, select all products then click on the bulk options button and trash all the products. 
