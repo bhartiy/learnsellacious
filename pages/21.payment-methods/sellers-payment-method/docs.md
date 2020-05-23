@@ -9,7 +9,7 @@ visible: true
 
 Sellers can have their own payment methods in sellacious. To enable sellers to create their own payment method follow these steps-
 
-1. First you have to grant permission to sellers to create/edit payment methods. Go to Settings>>permissions and select Seller category and component Sellacious.
+1. First you have to grant permission to sellers to create/edit payment methods. Go to Settings->permissions and select Seller category and component Sellacious.
 
 ![](Screenshot%202020-05-08%20at%202.53.23%20PM.png)
 
@@ -18,7 +18,7 @@ In payment method section give relevant permission to seller like this
 
 ![](Screenshot%202020-05-08%20at%202.55.16%20PM.png)
 
-2. Now select the payment method plugins which you want to avail to the seller. For this go to Settings>>global configuration>>Sellers>>Limit Seller Payment Methods
+2. Now select the payment method plugins which you want to avail to the seller. For this go to Settings->global configuration->Sellers->Limit Seller Payment Methods
 
 ![](Screenshot%202020-05-08%20at%204.35.53%20PM.png)
 
