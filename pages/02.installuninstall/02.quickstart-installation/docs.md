@@ -8,6 +8,10 @@ taxonomy:
 visible: true
 ---
 
+**Written by:** Rashi Gupta
+**Date:** 11-05-2020
+**Compatibility:** Sellacious v2.0.0-Beta1+
+
 When you download Sellacious, you will find zip SQuickv2-Quickstart_v2.x.x.zip. Quickstart is an exact replica of what you see on our demo. This is for both multivendor and single vendor marketplace and configuring correctly will convert a simple single vendor marketplace to a multivendor marketplace and vice-versa. 
 
 Quickstart is very easy to install same as the Joomla installation. The quickstart package is free and consists of sample data quickstart packages comes free with all our Free or Paid templates. The default free template "SQuick" also contain this magical file. It normally takes just 10 minutes to create a multivendor website using our quickstart.
