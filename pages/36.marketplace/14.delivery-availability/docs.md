@@ -7,9 +7,9 @@ taxonomy:
 visible: true
 ---
 
-Written by: Indresh Maurya
-Date: 20-05-2020
-Compatibility: Sellacious v2.0.0-Beta1+
+**Written by:** Indresh Maurya
+**Date:** 20-05-2020
+**Compatibility:** Sellacious v2.0.0-Beta1+
 
 ### Delivery Availability:
 
