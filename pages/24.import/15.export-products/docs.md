@@ -14,3 +14,5 @@ This feature enable you to export product from product catalog and from importer
 Available filters can be applied before exporting products, for example if you want to export product from particular seller apply seller filter and only that seller's products will be exported.
 
 ![](Screenshot%202020-05-23%20at%207.31.13%20PM.png)
+
+when you will click on export, products will be exported in csv format. 
