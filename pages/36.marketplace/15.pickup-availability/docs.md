@@ -7,8 +7,11 @@ taxonomy:
 visible: true
 ---
 
+Written by: Indresh Maurya
+Date: 20-05-2020
+Compatibility: Sellacious v2.0.0-Beta1+
+
 ### Pickup availability:
-(Available in version 2.0-beta1)
 
 This enables the sellers to show stores pickup timing on their store page. To use pickup availability feature-
 
