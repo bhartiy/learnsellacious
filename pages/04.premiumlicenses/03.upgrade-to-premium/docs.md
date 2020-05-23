@@ -9,6 +9,10 @@ admin:
     children_display_order: collection
 ---
 
+**Written by:** Rashi Gupta
+**Date:** 12-05-2020
+**Compatibility:** Sellacious v2.0.0-Beta1+
+
 There are two ways to upgrade a free license to premium license.
 1. When you have already installed free license: go to method 1.
 2. When you installing it for first time: go to method 2.
