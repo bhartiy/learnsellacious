@@ -14,7 +14,7 @@ visible: true
 
 With the help of Sellacious Hyperlocal you can create your own store sensitive to user and product location. 
 
-This hyperlocal package consists of a **Hyperlocal Module and Plugin**. Both are already built in sellacious latest version.
+This hyperlocal package consists of a **Hyperlocal Module and Plugin**. Both are already built in sellacious latest version. To enable Sellacious Hyperlocal Go to Joomla backend Manage->Modules->New->Sellacious Hyperlocal and publish module.
 
 ![](Screenshot%202020-05-25%20at%2010.54.45%20AM.png)
 
