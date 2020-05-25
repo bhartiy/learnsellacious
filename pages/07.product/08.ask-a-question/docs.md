@@ -1,27 +1,22 @@
 ---
 title: 'Ask a question'
-media_order: 'ask_a_question.jpg,product_questions.jpg,send.jpg,questions.png,answer.png,question`.png'
+media_order: 'ask_a_question.jpg,product_questions.jpg,send.jpg,questions.png,answer.png,question`.png,Screen Shot 2020-05-25 at 12.37.33 PM.png'
 taxonomy:
     category:
         - docs
 visible: true
 ---
 
-**Ask a question** feature is present on the sellacious panel in which User can ask any question on related to the product. User can ask any questions from the frontend.
-
----
+ur **Ask a question** feature is present on the sellacious panel in which User can ask any question on related to the product. User can ask any questions from the frontend.
 
 **Steps to "Ask a Question" related to a Product:**
 
 1. Go to the product page in the frontend.
 2. At the bottom **Ask a question** section is presented on the product page.
-3. If you're logged in already add your name, email and ask any question related to the product. And id=f you're logged in simply ask the question.
-4. Click on the submit button.
+3. If you're not logged in then add your name, email and ask any question related to the product.  ![](ask_a_question.jpg)
+4. If you are logged in already then just ask your question and submit it by pressing submit button.
+![](Screen%20Shot%202020-05-25%20at%2012.37.33%20PM.png)
 5. And your asked question will sent to the admin/seller of that product.
-
-![](ask_a_question.jpg)
-
----
 
 **To answer the asked question as admin/seller, following steps are:**
 
