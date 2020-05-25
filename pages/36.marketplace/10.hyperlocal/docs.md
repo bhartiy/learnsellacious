@@ -1,6 +1,6 @@
 ---
 title: 'Sellacious Hyperlocal'
-media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png,Region based .png,By distance.png,google api.png,gc by radius.png,gc by region.png,p location.png,product config.png,radius.png,seller location.png,product location.png,Untitled Diagram.png,Screenshot 2020-05-25 at 10.54.45 AM.png,Screenshot 2020-05-25 at 11.22.22 AM.png,Screenshot 2020-05-25 at 12.12.00 PM.png'
+media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png,Region based .png,By distance.png,google api.png,gc by radius.png,gc by region.png,p location.png,product config.png,radius.png,seller location.png,product location.png,Untitled Diagram.png,Screenshot 2020-05-25 at 10.54.45 AM.png,Screenshot 2020-05-25 at 11.22.22 AM.png,Screenshot 2020-05-25 at 12.12.00 PM.png,Screenshot 2020-05-25 at 12.46.25 PM.png,Screenshot 2020-05-25 at 12.45.32 PM.png'
 taxonomy:
     category:
         - docs
@@ -31,8 +31,8 @@ Sellacious Hyperlocal functions differently for sellers and website visiter,  so
 
 Store location and Product location is saved at the time of its creation with the help of Sellacious Hyperlocal which later used for address matching based on the location of the user.
 
-![](seller%20location.png)
-![](product%20location.png)
+![](Screenshot%202020-05-25%20at%2012.46.25%20PM.png)
+![](Screenshot%202020-05-25%20at%2012.45.32%20PM.png)
 
 **Enterprise** version of sellacious supports **warehouse** functionality too which means a seller can have multiple warehouses with delivery capability in an area where the warehouse is located. So now Seller can avail delivery in area where the warehouse is located as well as the store location.
 
