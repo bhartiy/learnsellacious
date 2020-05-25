@@ -1,17 +1,22 @@
 ---
 title: 'Sellacious Hyperlocal'
-media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png,Region based .png,By distance.png,google api.png,gc by radius.png,gc by region.png,p location.png,product config.png,radius.png,seller location.png,product location.png,Untitled Diagram.png'
+media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png,Region based .png,By distance.png,google api.png,gc by radius.png,gc by region.png,p location.png,product config.png,radius.png,seller location.png,product location.png,Untitled Diagram.png,Screenshot 2020-05-25 at 10.54.45 AM.png'
 taxonomy:
     category:
         - docs
 visible: true
 ---
 
+**Written by:** Indresh Maurya
+**Date:** 25-05-2020
+**Compatibility:** Sellacious v2.0.0-Beta1+
+
+
 With the help of Sellacious Hyperlocal you can create your own store sensitive to user and product location. 
 
-This hyperlocal package consists of a **Hyperlocal Module and Plugin**. Which both are already built in sellacious latest version. We are upgrading this feature of sellacious day by day and adding many more additions to this feature.
+This hyperlocal package consists of a **Hyperlocal Module and Plugin**. Both are already built in sellacious latest version.
 
-_Hyperlocal is compatible to the sellacious version 1.6.x and above. If your site isn't updated yet to the latest sellacious, please update it to use hyperlocal and many more exciting feature of sellacious._
+![](Screenshot%202020-05-25%20at%2010.54.45%20AM.png)
 
 ### Use cases for Sellacius Hyperlocal
 Sellacious Hyperlocal provides location sensitivity based on following use cases
