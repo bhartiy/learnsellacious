@@ -47,10 +47,10 @@ You can also create a new special category with the settings you want.
 ![](Screen%20Shot%202020-05-25%20at%2012.17.56%20PM.png)
 5. In badge options you can add the badge icon and style it for special category which will be visible on the assigned products. You can also use badge text and style it the way you want.
 ![](Screen%20Shot%202020-05-25%20at%2012.18.02%20PM.png)
-7. In style options you can style the products for that special category, like their background and border.
+6. In style options you can style the products for that special category, like their background and border.
 
 ![](special_categories1.jpg)
 
-8. Click on save.
-9. And your new special category is created.
+7. Click on save.
+8. And your new special category is created.
 ![](screenshot-localhost-2020.05.25-12_26_33.png)
