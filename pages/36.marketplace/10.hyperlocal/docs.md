@@ -76,11 +76,7 @@ Seller1 can avail products in circle A and seller2 can vavil products in circle 
 
 
 ### Configuration for Radius based
-For radius based filtering select by distance in address matching tab in joomla administrator
-
-![](By%20distance.png)
-
-and in Global Configuration of Sellacious backend
+You can configure the hyperlocal from **Global Configuration->SellaciousHyperlocal**. You cab set here Hyperlocal type-radius and enable radius filter.
 
 ![](Screenshot%202020-05-25%20at%2011.22.22%20AM.png)
 
