@@ -9,7 +9,8 @@ visible: true
 
 #### ### ## ### ###### # **User can mention manufacturer details in Manufacturer column.**
 
-**By Default sellacious provide Manufacturer column, but the user have to enable it.**
+**By Default sellacious provide Manufacturer column, but user have to enable it.**
+
 To enable Manufacturer column:
 1. Go to the Sellacious panel of your website.
 2. From left menu bar, go to the **Settings->>Global Configuration** from the drop down Menu.
@@ -25,7 +26,7 @@ Now Manufacturer will be available for the selected product type.
 **You can add manufacturer or brand in product by the following steps:**
 
 1. Go to the Sellacious panel of your website.
-2. To add brand/Manufacturer to your product, go to Shop than Product Catalogue from the dropped down menu. ![](product_catalogue.jpg)
+2. To add brand/Manufacturer to your product, go to **Shop->>Product Catalogue** from the drop-down menu. ![](product_catalogue.jpg)
 
 3. Click on the new button, Then on the basic information tab go to the manufacturer menu.
 
