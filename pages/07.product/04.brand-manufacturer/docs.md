@@ -59,7 +59,7 @@ Now Manufacturer will be available for the selected product type.
 12. Click refresh Cache from left sidebar.
 13. And your changes will be updated.
 
-You can mention Brand and Manufacturer name in Manufacturer option. But if you want to make a different column for Brand, create a new column Brand From Additional Attribute.
+You can mention Manufacturer name in Manufacturer option. But if you want to make a different column for Brand, create a new column Brand From Additional Attribute.
 
 
 
