@@ -1,6 +1,6 @@
 ---
 title: Advertisement
-media_order: 'special_categories.jpg,special_categories1.jpg,special.png,special1.png'
+media_order: 'special_categories.jpg,special_categories1.jpg,special.png,special1.png,Screen Shot 2020-05-25 at 12.17.56 PM.png,Screen Shot 2020-05-25 at 12.18.02 PM.png,Screen Shot 2020-05-25 at 12.18.18 PM.png'
 taxonomy:
     category:
         - docs
@@ -9,12 +9,12 @@ visible: true
 
 **You can Advertise the product by applying the special categories for the product.**
 
-Special categories include **Bordered, Highlighted, featured**. If you want to change the products listing on the front end then you can use the highlighted, bordered and featured features.This listing is used to show the product more specifically in the frontend. You can change the stock and price of the product also from here. Basically,This option is available, when the paid listing is selected.
+Special categories include **Highlighted, Bordered, Featured**. If you want to change the products listing on the front end then you can use the highlighted, bordered and featured features. This listing is used to show the product more specifically in the frontend. You can change the stock and price of the product also from here. Basically, this option is available when the paid listing is selected.
 
 **In sellacious by default there are three special categories H, B, F.
 **
 **Note:** H,B,F represents the special categories for the products. You can assign them on products from here directly.
-H stands for Highlighted feature, B stands for the Bordered feature, F stands for the featured feature.
+H stands for Highlighted feature, B stands for the Bordered feature, F stands for the Featured feature.
 
 **You can create the advertisement by assigning default special categories to products:**
 
@@ -37,20 +37,20 @@ H stands for Highlighted feature, B stands for the Bordered feature, F stands fo
 **To create a new Special category.**
 You can also create a new special category with the settings you want.
 
-**Follow the following steps to create a new Special categories:**
-
 1. Go to the sellacious panel of your website.
-2. Go to categories, select special categories from the drop down menu.
+2. From left sside menu, go to **Categories->>Special Categories** from the drop-down menu.
 3. In the special categories, click on new button on the top.
 
 ![](special_categories.jpg)
 
-4. Submit the name of the special category and Fee Recurrence days. Fee Recurrence days are for how much time you want to assign the products in this category.
-5. Submit the subscription fee, which seller will pay when he assign his products to this category. If you want to create a free special category leave amount to 0.00.
-6. In badge options you can add the badge icon and style it for special category which will be visible on the right-top of the assigned products. You can also use badge text and style it the way you want.
+4. Fill all the details in Basic options. Fee Recurrence days are for how much time you want to assign the products in this category. Enter the subscription fee, which seller will pay when he assign his products to this category. If you want to create a free special category leave amount to 0.00.
+![](Screen%20Shot%202020-05-25%20at%2012.17.56%20PM.png)
+5. In badge options you can add the badge icon and style it for special category which will be visible on the assigned products. You can also use badge text and style it the way you want.
+![](Screen%20Shot%202020-05-25%20at%2012.18.02%20PM.png)
 7. In style options you can style the products for that special category, like their background and border.
 
 ![](special_categories1.jpg)
 
 8. Click on save.
 9. And your new special category is created.
+![](screenshot-localhost-2020.05.25-12_26_33.png)
