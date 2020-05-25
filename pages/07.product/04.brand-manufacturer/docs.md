@@ -41,7 +41,7 @@ Now Manufacturer will be available for the selected product type.
 **You can add Manufacturer details through import method and the steps are:**
 
 1. Go to the sellacious panel of your website.
-2. To import, first navigate to import utility on the left side of panel. Then click on importer option  
+2. To import, first navigate to Import Utility on the left side of panel. Then click on importer option  
    from  the drop-down menu.
 3. In the Sellacious native format, select download with all specifications column and open the 
    downloaded file.
@@ -53,7 +53,7 @@ Now Manufacturer will be available for the selected product type.
 7. If you want to add Manufacturer details for the created product then write Product_Title there 
    and add Manufacturer details.
 8. Download the file in .csv format.
-9. Again go to the import utility->>importer from left side menu.
+9. Again go to the **Import Utility->>importer** from left side menu.
 10. In the Sellacious native format, select upload csv and upload the downloaded csv file.![](screenshot-localhost-2020.05.25-10_36_11.png)
 11. Select options which you want to import in Import configuration.
 12. Click refresh Cache from left sidebar.
