@@ -1,6 +1,6 @@
 ---
 title: 'How to enable ''Coming Soon...'' for your website'
-media_order: 'Screenshot 2020-05-25 at 6.56.35 PM.png,Screenshot 2020-05-25 at 7.07.09 PM.png,Screenshot 2020-05-25 at 7.06.17 PM.png,Screenshot 2020-05-25 at 7.05.48 PM.png'
+media_order: 'Screenshot 2020-05-25 at 7.06.17 PM.png,Screenshot 2020-05-25 at 7.05.48 PM.png,Screenshot 2020-05-25 at 7.11.47 PM.png,Screenshot 2020-05-25 at 7.12.31 PM.png'
 taxonomy:
     category:
         - docs
@@ -8,7 +8,7 @@ visible: true
 ---
 
 **Written by:** Indresh Maurya
-**Date:** 23-05-2020
+**Date:** 25-05-2020
 **Compatibility:** Sellacious v1.7.3+
 
 This document helps you in enabling "Comming soon..." for your webste. To achieve this follow these steps-
@@ -30,3 +30,11 @@ in Helix ultimate
 in Astroid
 
 ![](Screenshot%202020-05-25%20at%207.06.17%20PM.png)
+
+**Step4:** Now Under basic tab you will get option to set the website status "Comming Soon"
+
+![](Screenshot%202020-05-25%20at%207.11.47%20PM.png)
+
+in astroid it will be under Miscellaneous 
+
+![](Screenshot%202020-05-25%20at%207.12.31%20PM.png)
