@@ -1,6 +1,6 @@
 ---
 title: Brand/Manufacturer
-media_order: 'product_catalogue.jpg,manufacturer.jpg,manufacturer.png'
+media_order: 'product_catalogue.jpg,manufacturer.jpg,manufacturer.png,screenshot-localhost-2020.05.25-10_18_02.png,screenshot-localhost-2020.05.25-10_23_23.png,screenshot-localhost-2020.05.25-10_36_11.png'
 taxonomy:
     category:
         - docs
@@ -12,11 +12,11 @@ visible: true
 **By Default sellacious provide Manufacturer column, but the user have to enable it.**
 To enable Manufacturer column:
 1. Go to the Sellacious panel of your website.
-2. Go to settings menu at the left menu bar and select global configuration from the drop down Menu.
+2. From left menu bar, go to the **Settings->>Global Configuration** from the drop down Menu.
 3. Go to Backend display options.
 4. Enable the option manufacturer for desired product type.
 
-![](manufacturer.png)
+![](screenshot-localhost-2020.05.25-10_18_02.png)
 
 5. Save the changes you made.
 
@@ -25,10 +25,11 @@ Now Manufacturer will be available for the selected product type.
 **You can add manufacturer or brand in product by the following steps:**
 
 1. Go to the Sellacious panel of your website.
-2. To add brand/Manufacturer to your product, go to Shop than Product Catalogue from the dropped down menu.
+2. To add brand/Manufacturer to your product, go to Shop than Product Catalogue from the dropped down menu. ![](product_catalogue.jpg)
+
 3. Click on the new button, Then on the basic information tab go to the manufacturer menu.
 
-![](product_catalogue.jpg)
+![](screenshot-localhost-2020.05.25-10_23_23.png)
 
 4. Select the manufacturer, If the manufacturer is not listed then create a manufacturer with the help of this [link](https://www.sellacious.com/learn/user-profiles/manufacturer-profiles).
 
@@ -51,11 +52,11 @@ Now Manufacturer will be available for the selected product type.
 7. If you want to add Manufacturer details for the created product then write Product_Title there 
    and add Manufacturer details.
 8. Download the file in .csv format.
-9.In the Import utility on the left pane, selects importers.
-10.In the Sellacious native format, select upload csv and upload the downloaded csv file.
-11.Select options which you want to import in Import configuration.
-12.Click refresh Cache from left sidebar.
-13.And your changes will be updated.
+9. Again go to the import utility->>importer from left side menu.
+10. In the Sellacious native format, select upload csv and upload the downloaded csv file.![](screenshot-localhost-2020.05.25-10_36_11.png)
+11. Select options which you want to import in Import configuration.
+12. Click refresh Cache from left sidebar.
+13. And your changes will be updated.
 
 You can mention Brand and Manufacturer name in Manufacturer option. But if you want to make a different column for Brand, create a new column Brand From Additional Attribute.
 
