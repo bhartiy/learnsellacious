@@ -7,7 +7,7 @@ taxonomy:
 visible: true
 ---
 
-(Available in version 1.7.3)
+**NOTE: This Documentation is only for sellaciosu version 1.7.3.**
 
 Once the Sellacios Hyperlocal is enabled, sellers will be able to Select delivery slots viz Store Timings, Delivery Hours, Pickup Hours etc.
 
