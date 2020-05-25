@@ -1,6 +1,6 @@
 ---
 title: 'How to enable ''Coming Soon...'' for your website'
-media_order: 'Screenshot 2020-05-25 at 7.06.17 PM.png,Screenshot 2020-05-25 at 7.05.48 PM.png,Screenshot 2020-05-25 at 7.11.47 PM.png,Screenshot 2020-05-25 at 7.12.31 PM.png'
+media_order: 'Screenshot 2020-05-25 at 7.06.17 PM.png,Screenshot 2020-05-25 at 7.05.48 PM.png,Screenshot 2020-05-25 at 7.11.47 PM.png,Screenshot 2020-05-25 at 7.12.31 PM.png,Screenshot 2020-05-25 at 6.56.35 PM.png'
 taxonomy:
     category:
         - docs
@@ -19,7 +19,7 @@ This document helps you in enabling "Comming soon..." for your webste. To achiev
 
 **Step:** Now you will see all the available teplate present here. Click and open default template. Default template is one against which there is **yellow star**.
 
-![](Screenshot%202020-05-25%20at%207.07.09%20PM.png)
+![](Screenshot%202020-05-25%20at%207.16.49%20PM.png)
 
 **Step3:** After opening you will get **Teplate Options** button depending on framework.
 
