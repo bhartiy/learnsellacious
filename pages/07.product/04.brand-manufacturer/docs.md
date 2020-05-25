@@ -42,7 +42,7 @@ Now Manufacturer will be available for the selected product type.
 
 1. Go to the sellacious panel of your website.
 2. To import, first navigate to import utility on the left side of panel. Then click on importer option  
-   from  the dropped down menu.
+   from  the drop-down menu.
 3. In the Sellacious native format, select download with all specifications column and open the 
    downloaded file.
 4. You can create a new product there and add manufacturer by filling credentials in 
