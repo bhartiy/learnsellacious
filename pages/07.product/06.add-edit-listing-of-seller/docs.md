@@ -9,7 +9,7 @@ visible: true
 
 You can always add or edit the listing of seller in product. This tab will be visible only for admin. Sellers can't view this tab unless they have the permission to view this tab.
 
-**Currently Editing:** Whenever you create;edit a product, you can view the seller name for which you're editing/creating the product at top.
+**Currently Editing:** Whenever you create or edit a product, you can view the seller name for which you're editing/creating the product at top.
 
 **Listed Seller:** In this section you can view the seller for which the product is already created. This section is only visible when you save the new product or edit already created product. You can always click on switch to edit the product for another seller. You can also create a new seller from sellacious. [How to create a seller from sellacious?](https://www.sellacious.com/learn/user-profiles/seller-profiles) 
 
