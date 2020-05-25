@@ -1,5 +1,5 @@
 ---
-title: 'Images and attachments for products'
+title: 'Image and Attachments for products'
 media_order: 'product_catalogue.jpg,bulk_images.jpg,primary.png,screenshot-localhost-2020.05.25-11_21_29.png,screenshot-localhost-2020.05.25-11_23_59.png'
 taxonomy:
     category:
