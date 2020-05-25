@@ -1,6 +1,6 @@
 ---
 title: 'Sellacious Hyperlocal'
-media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png,Region based .png,By distance.png,google api.png,gc by radius.png,gc by region.png,p location.png,product config.png,radius.png,seller location.png,product location.png,Untitled Diagram.png,Screenshot 2020-05-25 at 10.54.45 AM.png,Screenshot 2020-05-25 at 11.22.22 AM.png'
+media_order: 'hyperlocal1.png,hyperlocal2.png,hyperlocal3.png,hyperlocal4.png,hyperlocal5.png,hyperlocal6.png,hyperlocal7.png,rento mozo.png,hyperlocal.png,hyperlocalsdasd2.png,Region based .png,By distance.png,google api.png,gc by radius.png,gc by region.png,p location.png,product config.png,radius.png,seller location.png,product location.png,Untitled Diagram.png,Screenshot 2020-05-25 at 10.54.45 AM.png,Screenshot 2020-05-25 at 11.22.22 AM.png,Screenshot 2020-05-25 at 12.12.00 PM.png'
 taxonomy:
     category:
         - docs
@@ -48,13 +48,9 @@ For example, if region selected by user is Delhi then the products which are ava
 
 ![](rento%20mozo.png)
 ### Configuration for Region based
-For region based filtering select by region in address matching tab in joomla administrator
+To use the hyperlocal as region based you have to set Hyperlocal Type- By Region and also Adress match level.
 
-![](Region%20based%20.png)
-
-and in Global Configuration of Sellacious backend
-
-![](gc%20by%20region.png)
+![](Screenshot%202020-05-25%20at%2012.12.00%20PM.png)
 
 ### 2. Radius Based
 
