@@ -10,7 +10,7 @@ visible: true
 You can upload more than one images in products. You can also add a primary image and video (YouTube/Vimeo) in products. To upload images and videos in products follow steps described below:
 
 1. Go to the sellacious panel.
-2. In left menu bar go to Shop > Product Catelog.
+2. In left menu bar go to Shop > Product Catalogue.
 
 ![](product_catalogue.jpg)
 
