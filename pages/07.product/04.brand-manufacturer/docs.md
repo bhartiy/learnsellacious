@@ -1,5 +1,5 @@
 ---
-title: Brand/Manufacturer
+title: Manufacturer
 media_order: 'product_catalogue.jpg,manufacturer.jpg,manufacturer.png,screenshot-localhost-2020.05.25-10_18_02.png,screenshot-localhost-2020.05.25-10_23_23.png,screenshot-localhost-2020.05.25-10_36_11.png'
 taxonomy:
     category:
@@ -23,10 +23,10 @@ To enable Manufacturer column:
 
 Now Manufacturer will be available for the selected product type.
 
-**You can add manufacturer or brand in product by the following steps:**
+**You can add manufacturer in product by the following steps:**
 
 1. Go to the Sellacious panel of your website.
-2. To add brand/Manufacturer to your product, go to **Shop->>Product Catalogue** from the drop-down menu. ![](product_catalogue.jpg)
+2. To add Manufacturer to your product, go to **Shop->>Product Catalogue** from the drop-down menu. ![](product_catalogue.jpg)
 
 3. Click on the new button, Then on the basic information tab go to the manufacturer menu.
 
