@@ -12,7 +12,7 @@ visible: true
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
 
-With the help of Sellacious Hyperlocal you can create your own store sensitive to user and product location. 
+With the help of Sellacious Hyperlocal you can create your own store sensitive to user and product location. To use Sellacious hyperlocal you need Google Geolocation API key.You can gey this here https://developers.google.com/maps/documentation/geolocation/get-api-key
 
 This hyperlocal package consists of a **Hyperlocal Module and Plugin**. Both are already built in sellacious latest version. To enable Sellacious Hyperlocal Go to Joomla backend Manage->Modules->New->Sellacious Hyperlocal and publish module.
 
