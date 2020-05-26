@@ -1,6 +1,6 @@
 ---
 title: 'Pricing Type'
-media_order: 'Capture.PNG,Capture1.PNG,Screen Shot 2020-05-26 at 12.36.03 PM.png,Screen Shot 2020-05-26 at 12.39.37 PM.png,Screen Shot 2020-05-26 at 12.41.46 PM.png,Screen Shot 2020-05-26 at 12.44.04 PM.png,Screen Shot 2020-05-26 at 12.57.48 PM.png,Screen Shot 2020-05-26 at 1.00.05 PM.png,Screen Shot 2020-05-26 at 1.02.28 PM.png,Screen Shot 2020-05-26 at 1.11.54 PM.png,Screen Shot 2020-05-26 at 1.12.06 PM.png,screenshot-localhost-2020.05.26-14_10_54.png,screenshot-localhost-2020.05.26-14_21_04.png,screenshot-localhost-2020.05.26-14_22_10.png,Screen Shot 2020-05-26 at 2.29.38 PM.png,Screen Shot 2020-05-26 at 2.30.53 PM.png,screenshot-localhost-2020.05.26-12_28_51.png,Screen Shot 2020-05-26 at 2.33.34 PM.png,Screen Shot 2020-05-26 at 2.36.35 PM.png,Screen Shot 2020-05-26 at 2.44.25 PM.png,Screen Shot 2020-05-26 at 2.45.27 PM.png,Screen Shot 2020-05-26 at 2.45.42 PM.png,Screen Shot 2020-05-26 at 2.49.17 PM.png,Screen Shot 2020-05-26 at 2.53.14 PM.png'
+media_order: 'Capture.PNG,Capture1.PNG,Screen Shot 2020-05-26 at 12.36.03 PM.png,Screen Shot 2020-05-26 at 12.39.37 PM.png,Screen Shot 2020-05-26 at 12.41.46 PM.png,Screen Shot 2020-05-26 at 12.44.04 PM.png,Screen Shot 2020-05-26 at 12.57.48 PM.png,Screen Shot 2020-05-26 at 1.00.05 PM.png,Screen Shot 2020-05-26 at 1.02.28 PM.png,Screen Shot 2020-05-26 at 1.11.54 PM.png,Screen Shot 2020-05-26 at 1.12.06 PM.png,screenshot-localhost-2020.05.26-14_10_54.png,screenshot-localhost-2020.05.26-14_21_04.png,screenshot-localhost-2020.05.26-14_22_10.png,Screen Shot 2020-05-26 at 2.29.38 PM.png,Screen Shot 2020-05-26 at 2.30.53 PM.png,screenshot-localhost-2020.05.26-12_28_51.png,Screen Shot 2020-05-26 at 2.33.34 PM.png,Screen Shot 2020-05-26 at 2.36.35 PM.png,Screen Shot 2020-05-26 at 2.44.25 PM.png,Screen Shot 2020-05-26 at 2.45.27 PM.png,Screen Shot 2020-05-26 at 2.45.42 PM.png,Screen Shot 2020-05-26 at 2.49.17 PM.png,Screen Shot 2020-05-26 at 2.53.14 PM.png,Screen Shot 2020-05-26 at 2.58.23 PM.png,Screen Shot 2020-05-26 at 2.58.56 PM.png'
 taxonomy:
     category:
         - docs
@@ -29,8 +29,7 @@ Pricing Types are:
 ![](Screen%20Shot%202020-05-26%20at%202.36.35%20PM.png)
 **5. Querry Form for Price:** In querry form for price poduct, querry form is showing. Buyer need to submit the enquirey form related to product. For querry form, you can create querry form field.
 https://www.sellacious.com/documentation-v2#/learn/additional-attributes/query-form-fields
-![](Screen%20Shot%202020-05-26%20at%202.44.25%20PM.png)
-![](Screen%20Shot%202020-05-26%20at%2012.57.48%20PM.png)
+![](Screen%20Shot%202020-05-26%20at%202.58.56%20PM.png)![](Screen%20Shot%202020-05-26%20at%202.58.23%20PM.png)
 **6. Flat Pricing:** In Flat pricing product, seller can set the flat pricing for the product.![](Screen%20Shot%202020-05-26%20at%202.45.27%20PM.png)
 ![](Screen%20Shot%202020-05-26%20at%201.00.05%20PM.png)
 **7. Basic Pricing:** In basic type product, seller can set cost price, listed price and markup to calculate effective selling price.![](Screen%20Shot%202020-05-26%20at%202.45.42%20PM.png)
