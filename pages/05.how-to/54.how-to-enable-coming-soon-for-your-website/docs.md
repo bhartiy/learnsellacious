@@ -17,7 +17,7 @@ This document helps you in enabling "Comming soon..." for your webste. To achiev
 
 ![](Screenshot%202020-05-25%20at%206.56.35%20PM.png)
 
-**Step:** Now you will see all the available teplate present here. Click and open default template. Default template is one against which there is **yellow star**.
+**Step:** Now you will see all the available teplate present here. Click and open default template. Default template is one against which there is **yellow star**. If you are using multiple template then you have to do it for all of them for example here in marketpalce there are three template so enable it in all three.
 
 ![](Screenshot%202020-05-25%20at%207.16.49%20PM.png)
 
