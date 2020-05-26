@@ -1,6 +1,6 @@
 ---
 title: 'Ask a question'
-media_order: 'ask_a_question.jpg,product_questions.jpg,send.jpg,questions.png,answer.png,question`.png,Screen Shot 2020-05-25 at 12.37.33 PM.png'
+media_order: 'ask_a_question.jpg,product_questions.jpg,send.jpg,questions.png,answer.png,question`.png,Screen Shot 2020-05-25 at 12.37.33 PM.png,screenshot-localhost-2020.05.26-09_40_29.png'
 taxonomy:
     category:
         - docs
@@ -38,12 +38,8 @@ visible: true
 
 ![](answer.png)
 
----
-
 **Configure Ask A Question:**
 
 You can always configure Ask A questions settings.
-
-You can do that from Sellacious backend > Settings > Global Configuration > General.
-
-![](question%60.png)
+You can do that from Sellacious backend **Settings->>Global Configuration->>General**.
+![](screenshot-localhost-2020.05.26-09_40_29.png)
