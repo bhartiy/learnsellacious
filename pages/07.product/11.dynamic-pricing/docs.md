@@ -1,6 +1,6 @@
 ---
 title: 'Pricing Type'
-media_order: 'Capture.PNG,Capture1.PNG,Screen Shot 2020-05-26 at 12.36.03 PM.png,Screen Shot 2020-05-26 at 12.39.37 PM.png,Screen Shot 2020-05-26 at 12.41.46 PM.png,Screen Shot 2020-05-26 at 12.44.04 PM.png,Screen Shot 2020-05-26 at 12.57.48 PM.png,Screen Shot 2020-05-26 at 1.00.05 PM.png,Screen Shot 2020-05-26 at 1.02.28 PM.png,Screen Shot 2020-05-26 at 1.11.54 PM.png,Screen Shot 2020-05-26 at 1.12.06 PM.png'
+media_order: 'Capture.PNG,Capture1.PNG,Screen Shot 2020-05-26 at 12.36.03 PM.png,Screen Shot 2020-05-26 at 12.39.37 PM.png,Screen Shot 2020-05-26 at 12.41.46 PM.png,Screen Shot 2020-05-26 at 12.44.04 PM.png,Screen Shot 2020-05-26 at 12.57.48 PM.png,Screen Shot 2020-05-26 at 1.00.05 PM.png,Screen Shot 2020-05-26 at 1.02.28 PM.png,Screen Shot 2020-05-26 at 1.11.54 PM.png,Screen Shot 2020-05-26 at 1.12.06 PM.png,screenshot-localhost-2020.05.26-14_10_54.png,screenshot-localhost-2020.05.26-14_21_04.png,screenshot-localhost-2020.05.26-14_22_10.png'
 taxonomy:
     category:
         - docs
@@ -19,10 +19,10 @@ Pricing Types are:
 7. Basic Pricing
 8. Dynamic Pricng
 
-**1. No Pricing:** In no pricing type product, no pricing information is showing in product.
+**1. No Pricing:** In no pricing type product, no pricing information is showing in product.![](screenshot-localhost-2020.05.26-14_10_54.png)
 ![](Screen%20Shot%202020-05-26%20at%2012.36.03%20PM.png)
-**2. Call for Price:** In call for pricing type product, sellers number is showing on product. Buyer need to call for the product to ask relevant information. ![](Screen%20Shot%202020-05-26%20at%2012.39.37%20PM.png)
-**3. Email for Price:** In email for pricing type product, sellers email is showing on product. Buyer need to email send for the product to ask relevant information.![](Screen%20Shot%202020-05-26%20at%2012.44.04%20PM.png)
+**2. Call for Price:** In call for pricing type product, sellers number is showing on product. Buyer need to call for the product to ask relevant information.![](screenshot-localhost-2020.05.26-14_21_04.png) ![](Screen%20Shot%202020-05-26%20at%2012.39.37%20PM.png)
+**3. Email for Price:** In email for pricing type product, sellers email is showing on product. Buyer need to email send for the product to ask relevant information.![](screenshot-localhost-2020.05.26-14_22_10.png)![](Screen%20Shot%202020-05-26%20at%2012.44.04%20PM.png)
 **4. Free Pricing:** In Free pricing type product, product is marked as free. Buyer can add this product in cart and purchase without any payment.
 ![](Screen%20Shot%202020-05-26%20at%2012.41.46%20PM.png)
 **5. Querry Form for Price:** In querry form for price poduct, querry form is showing. Buyer need to submit the enquirey form related to product.
