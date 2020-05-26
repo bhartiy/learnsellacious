@@ -15,7 +15,9 @@ New view (menu) is added to show coupon and discoints, also there are configurat
 
 1. To make coupon and discount menu go to **Joomal Backend->Menu**. Create new and select **Sellacious->Coupons/Shoprules in menu type**. Oncce published coupons and disconts will show on frontend.
 
+Coupons:
 ![](Screenshot%202020-05-26%20at%2012.55.50%20PM.png)
+Discounts:
 ![](72896069-e78bf100-3d44-11ea-837a-4740927a8f28.png)
 
 2. These coupons can be shown on sellers store page. To enable this go to **Settings->Global Configuration->Frontened Display Options** and enable coupons and discount for store page.
