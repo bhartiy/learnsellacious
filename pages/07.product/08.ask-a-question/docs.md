@@ -33,7 +33,7 @@ visible: true
 ![](questions.png)
 
 **Note: 1. Only answered questions are visible on products.**
-<br>**2. One question can have only one answer.**
+      **2. One question can have only one answer.**
 
 ![](answer.png)
 
