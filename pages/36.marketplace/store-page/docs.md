@@ -1,6 +1,6 @@
 ---
 title: 'The Store Page'
-media_order: 'Screenshot 2020-05-26 at 2.59.32 PM.png,Screenshot 2020-05-26 at 3.10.44 PM.png,Screenshot 2020-05-26 at 3.14.14 PM.png,Screenshot 2020-05-26 at 3.15.57 PM.png,Screenshot 2020-05-26 at 5.41.56 PM.png,Screenshot 2020-05-26 at 5.47.10 PM.png,Screenshot 2020-05-26 at 5.48.24 PM.png'
+media_order: 'Screenshot 2020-05-26 at 2.59.32 PM.png,Screenshot 2020-05-26 at 3.10.44 PM.png,Screenshot 2020-05-26 at 3.14.14 PM.png,Screenshot 2020-05-26 at 3.15.57 PM.png,Screenshot 2020-05-26 at 5.41.56 PM.png,Screenshot 2020-05-26 at 5.47.10 PM.png,Screenshot 2020-05-26 at 5.48.24 PM.png,72896075-eb1f7800-3d44-11ea-8c13-51be164f23ed (1).png,Screenshot 2020-05-26 at 5.57.42 PM.png'
 taxonomy:
     category:
         - docs
@@ -39,3 +39,9 @@ Chat button is visible now on store page
 **4. Tax and discount Button:** tax and discount buttons can be enabled on store page now. To know more how to do it visit https://www.sellacious.com/documentation-v2#/learn/coupons/coupons-and-discounts-for-store
 
 ![](72896075-eb1f7800-3d44-11ea-8c13-51be164f23ed%20%281%29.png)
+
+**5. Map Location:** Location Button can be enabled by adding google map api key in hyperlocal and saving store location in seller profile.
+
+![](Screenshot%202020-05-26%20at%205.57.42%20PM.png)
+
+6. 
