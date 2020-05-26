@@ -35,3 +35,7 @@ Now got to Frontend Display Options and enable chat button on seller page.
 Chat button is visible now on store page 
 
 ![](Screenshot%202020-05-26%20at%205.48.24%20PM.png)
+
+**4. Tax and discount Button:** tax and discount buttons can be enabled on store page now. To know more how to do it visit https://www.sellacious.com/documentation-v2#/learn/coupons/coupons-and-discounts-for-store
+
+![](72896075-eb1f7800-3d44-11ea-8c13-51be164f23ed%20%281%29.png)
