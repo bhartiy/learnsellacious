@@ -1,6 +1,6 @@
 ---
 title: 'The Store Page'
-media_order: 'Screenshot 2020-05-26 at 2.59.32 PM.png,Screenshot 2020-05-26 at 3.10.44 PM.png,Screenshot 2020-05-26 at 3.14.14 PM.png,Screenshot 2020-05-26 at 3.15.57 PM.png,Screenshot 2020-05-26 at 5.41.56 PM.png,Screenshot 2020-05-26 at 5.47.10 PM.png,Screenshot 2020-05-26 at 5.48.24 PM.png,72896075-eb1f7800-3d44-11ea-8c13-51be164f23ed (1).png,Screenshot 2020-05-26 at 5.57.42 PM.png,Screenshot 2020-05-26 at 6.07.55 PM.png'
+media_order: 'Screenshot 2020-05-26 at 2.59.32 PM.png,Screenshot 2020-05-26 at 3.10.44 PM.png,Screenshot 2020-05-26 at 3.14.14 PM.png,Screenshot 2020-05-26 at 3.15.57 PM.png,Screenshot 2020-05-26 at 5.41.56 PM.png,Screenshot 2020-05-26 at 5.47.10 PM.png,Screenshot 2020-05-26 at 5.48.24 PM.png,72896075-eb1f7800-3d44-11ea-8c13-51be164f23ed (1).png,Screenshot 2020-05-26 at 5.57.42 PM.png,Screenshot 2020-05-26 at 6.07.55 PM.png,Screenshot 2020-05-26 at 6.16.03 PM.png,Screenshot 2020-05-26 at 6.16.39 PM.png'
 taxonomy:
     category:
         - docs
@@ -44,9 +44,14 @@ Chat button is visible now on store page
 
 ![](Screenshot%202020-05-26%20at%205.57.42%20PM.png)
 
-**6. Store Timings:** Store timings, delivery timing and pickup timing can be enabled on store page. to know more about store timing visit https://www.sellacious.com/documentation-v2#/learn/marketplace/delivery-availability
+**6. Social Icons:** Social icons can be added to store page, to add social icon first add social links un seller profile, then enable social links from **Settings->Global Configuration->Frontend Display Options-> Social Links**
+
+![](Screenshot%202020-05-26%20at%206.16.03%20PM.png)
+![](Screenshot%202020-05-26%20at%206.16.39%20PM.png)
+
+**7. Store Timings:** Store timings, delivery timing and pickup timing can be enabled on store page. to know more about store timing visit https://www.sellacious.com/documentation-v2#/learn/marketplace/delivery-availability
 
 ![](Screenshot%202020-05-26%20at%206.07.55%20PM.png)
 
-**7. Store Reviews:** 
+**8. Store Reviews:** 
 
