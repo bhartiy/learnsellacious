@@ -1,6 +1,6 @@
 ---
 title: 'Global custom field'
-media_order: 'Screenshot 2020-05-26 at 9.40.56 AM.png,Screenshot 2020-05-26 at 9.43.55 AM.png'
+media_order: 'Screenshot 2020-05-26 at 9.40.56 AM.png,Screenshot 2020-05-26 at 9.43.55 AM.png,Screenshot 2020-05-26 at 9.49.41 AM.png,Screenshot 2020-05-26 at 9.55.45 AM.png'
 taxonomy:
     category:
         - docs
@@ -22,3 +22,13 @@ To create a global custom field follow these steps. Here we take a product attri
 2. In edit window you will get option to make the field **Global**
 
 ![](Screenshot%202020-05-26%20at%209.43.55%20AM.png)
+
+3. A field can be set global from list view too
+
+![](Screenshot%202020-05-26%20at%209.49.41%20AM.png)
+
+4. Once the field is set global it will show as read only in category as beahve as core field
+
+![](Screenshot%202020-05-26%20at%209.55.45%20AM.png)
+
+5. 
