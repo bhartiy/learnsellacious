@@ -13,7 +13,7 @@ visible: true
 
 Store page is a page dedicated to individual seller. This page provides all information about a particular seller like seller logo, store name, store address, seller's coupon/discount, store rating/reviews, store timing, store products and many more. In this chapter we will learn how to configure your store page.
 
-**1. Store Logo:** Store logo is an image to represt the store. Store logo can be added from Seller in sellacious backend. Once uploaded the Store Logo will show on store page.
+**1. Store Logo:** Store logo is an image to represent the store. Store logo can be added from Seller profile in sellacious backend. Once uploaded the Store Logo will show on store page.
 
 ![](Screenshot%202020-05-26%20at%202.59.32%20PM.png)
 ![](Screenshot%202020-05-26%20at%203.10.44%20PM.png)
@@ -36,7 +36,7 @@ Chat button is visible now on store page
 
 ![](Screenshot%202020-05-26%20at%205.48.24%20PM.png)
 
-**4. Tax and discount Button:** tax and discount buttons can be enabled on store page now. To know more how to do it visit https://www.sellacious.com/documentation-v2#/learn/coupons/coupons-and-discounts-for-store
+**4. Tax and discount Button:** Tax and discount buttons can be enabled on store page now. To know more how to do it visit https://www.sellacious.com/documentation-v2#/learn/coupons/coupons-and-discounts-for-store
 
 ![](72896075-eb1f7800-3d44-11ea-8c13-51be164f23ed%20%281%29.png)
 
