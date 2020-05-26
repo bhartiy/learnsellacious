@@ -1,5 +1,8 @@
 ---
-title: Tags
+title: 'Global custom field'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
