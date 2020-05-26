@@ -1,6 +1,6 @@
 ---
 title: 'The Store Page'
-media_order: 'Screenshot 2020-05-26 at 2.59.32 PM.png,Screenshot 2020-05-26 at 3.10.44 PM.png'
+media_order: 'Screenshot 2020-05-26 at 2.59.32 PM.png,Screenshot 2020-05-26 at 3.10.44 PM.png,Screenshot 2020-05-26 at 3.14.14 PM.png,Screenshot 2020-05-26 at 3.15.57 PM.png'
 taxonomy:
     category:
         - docs
@@ -19,4 +19,8 @@ Store page is a page dedicated to individual seller. This page provides all info
 ![](Screenshot%202020-05-26%20at%203.10.44%20PM.png)
 
 
-2. 
+**2. Store Name and Address:** Store Name can be added from seller profile store name and address fields and will show on store page.
+
+![](Screenshot%202020-05-26%20at%203.14.14%20PM.png)
+![](Screenshot%202020-05-26%20at%203.15.57%20PM.png)
+
