@@ -1,6 +1,9 @@
 ---
 title: 'File Attachments'
-media_order: 'product_catalogue.jpg,attachment.jpg'
+media_order: 'product_catalogue.jpg,attachment.jpg,screenshot-localhost-2020.05.26-15_22_25.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -11,5 +14,5 @@ Here you can upload any relevant documentation or files to this product.
 3. To create a new product, click on New button.
 ![](product_catalogue.jpg)
 4. You can upload the attachment in the product catalogue window.
-![](attachment.jpg)
+![](screenshot-localhost-2020.05.26-15_22_25.png)
 5. Click on Save button to save the product details, the product is successfully added to your inventory.
