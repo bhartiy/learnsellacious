@@ -15,7 +15,7 @@ Global custom field functionality is added in sellaciosu now. A custom field can
 
 To create a global custom field follow these steps. Here we take a product attribute example but same can be done for other attributes too-
 
-1. To make a global custom field of product attribute go to Aditional Attribute->Product Atributes->New
+1. To make a global custom field of product attribute go to Aditional Attribute->Product Atributes
 
 ![](Screenshot%202020-05-26%20at%209.40.56%20AM.png)
 
