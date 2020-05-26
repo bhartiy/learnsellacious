@@ -27,7 +27,9 @@ Pricing Types are:
 **3. Email for Price:** In email for pricing type product, sellers email is showing on product. Buyer need to email send for the product to ask relevant information.![](screenshot-localhost-2020.05.26-14_22_10.png)![](Screen%20Shot%202020-05-26%20at%202.30.53%20PM.png)
 **4. Free Pricing:** In Free pricing type product, product is marked as free. Buyer can add this product in cart and purchase without any payment.![](Screen%20Shot%202020-05-26%20at%202.53.14%20PM.png)
 ![](Screen%20Shot%202020-05-26%20at%202.36.35%20PM.png)
-**5. Querry Form for Price:** In querry form for price poduct, querry form is showing. Buyer need to submit the enquirey form related to product.![](Screen%20Shot%202020-05-26%20at%202.44.25%20PM.png)
+**5. Querry Form for Price:** In querry form for price poduct, querry form is showing. Buyer need to submit the enquirey form related to product. For querry form, you can create querry form field.
+https://www.sellacious.com/documentation-v2#/learn/additional-attributes/query-form-fields
+![](Screen%20Shot%202020-05-26%20at%202.44.25%20PM.png)
 ![](Screen%20Shot%202020-05-26%20at%2012.57.48%20PM.png)
 **6. Flat Pricing:** In Flat pricing product, seller can set the flat pricing for the product.![](Screen%20Shot%202020-05-26%20at%202.45.27%20PM.png)
 ![](Screen%20Shot%202020-05-26%20at%201.00.05%20PM.png)
