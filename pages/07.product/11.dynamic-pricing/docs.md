@@ -1,6 +1,6 @@
 ---
 title: 'Pricing Type'
-media_order: 'Capture.PNG,Capture1.PNG,Screen Shot 2020-05-26 at 12.36.03 PM.png,Screen Shot 2020-05-26 at 12.39.37 PM.png,Screen Shot 2020-05-26 at 12.41.46 PM.png,Screen Shot 2020-05-26 at 12.44.04 PM.png,Screen Shot 2020-05-26 at 12.57.48 PM.png,Screen Shot 2020-05-26 at 1.00.05 PM.png,Screen Shot 2020-05-26 at 1.02.28 PM.png,Screen Shot 2020-05-26 at 1.11.54 PM.png,Screen Shot 2020-05-26 at 1.12.06 PM.png,screenshot-localhost-2020.05.26-14_10_54.png,screenshot-localhost-2020.05.26-14_21_04.png,screenshot-localhost-2020.05.26-14_22_10.png,Screen Shot 2020-05-26 at 2.29.38 PM.png,Screen Shot 2020-05-26 at 2.30.53 PM.png'
+media_order: 'Capture.PNG,Capture1.PNG,Screen Shot 2020-05-26 at 12.36.03 PM.png,Screen Shot 2020-05-26 at 12.39.37 PM.png,Screen Shot 2020-05-26 at 12.41.46 PM.png,Screen Shot 2020-05-26 at 12.44.04 PM.png,Screen Shot 2020-05-26 at 12.57.48 PM.png,Screen Shot 2020-05-26 at 1.00.05 PM.png,Screen Shot 2020-05-26 at 1.02.28 PM.png,Screen Shot 2020-05-26 at 1.11.54 PM.png,Screen Shot 2020-05-26 at 1.12.06 PM.png,screenshot-localhost-2020.05.26-14_10_54.png,screenshot-localhost-2020.05.26-14_21_04.png,screenshot-localhost-2020.05.26-14_22_10.png,Screen Shot 2020-05-26 at 2.29.38 PM.png,Screen Shot 2020-05-26 at 2.30.53 PM.png,screenshot-localhost-2020.05.26-12_28_51.png,Screen Shot 2020-05-26 at 2.33.34 PM.png'
 taxonomy:
     category:
         - docs
@@ -8,7 +8,10 @@ visible: true
 ---
 
 We have 8 type of pricing. To show pricing type in product, first go to the **Settings->>Global Configuration->>Pricing**. Select the pricing type which you want to show in your product.
+![](screenshot-localhost-2020.05.26-12_28_51.png)
 
+In Category,
+![](Screen%20Shot%202020-05-26%20at%202.33.34%20PM.png)
 Pricing Types are:
 1. No Pricing
 2. Call for Price 
