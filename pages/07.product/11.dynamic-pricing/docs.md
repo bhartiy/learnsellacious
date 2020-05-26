@@ -7,7 +7,7 @@ taxonomy:
 visible: true
 ---
 
-We have 8 type of pricing type. To show pricing type in product, first go to the **Settings->>Global Configuration->>Pricing**. Select the pricing type which you want to show in your product.
+We have 8 type of pricing. To show pricing type in product, first go to the **Settings->>Global Configuration->>Pricing**. Select the pricing type which you want to show in your product.
 
 Pricing Types are:
 1. No Pricing
