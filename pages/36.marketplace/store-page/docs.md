@@ -1,6 +1,6 @@
 ---
 title: 'The Store Page'
-media_order: 'Screenshot 2020-05-26 at 2.59.32 PM.png,Screenshot 2020-05-26 at 3.10.44 PM.png,Screenshot 2020-05-26 at 3.14.14 PM.png,Screenshot 2020-05-26 at 3.15.57 PM.png,Screenshot 2020-05-26 at 5.41.56 PM.png,Screenshot 2020-05-26 at 5.47.10 PM.png,Screenshot 2020-05-26 at 5.48.24 PM.png,72896075-eb1f7800-3d44-11ea-8c13-51be164f23ed (1).png,Screenshot 2020-05-26 at 5.57.42 PM.png,Screenshot 2020-05-26 at 6.07.55 PM.png,Screenshot 2020-05-26 at 6.16.03 PM.png,Screenshot 2020-05-26 at 6.16.39 PM.png,Screenshot 2020-05-26 at 6.24.36 PM.png,Screenshot 2020-05-26 at 6.23.26 PM.png,Screenshot 2020-05-26 at 6.27.47 PM.png,Screenshot 2020-05-26 at 6.30.23 PM.png'
+media_order: 'Screenshot 2020-05-26 at 2.59.32 PM.png,Screenshot 2020-05-26 at 3.10.44 PM.png,Screenshot 2020-05-26 at 3.14.14 PM.png,Screenshot 2020-05-26 at 3.15.57 PM.png,Screenshot 2020-05-26 at 5.41.56 PM.png,Screenshot 2020-05-26 at 5.47.10 PM.png,Screenshot 2020-05-26 at 5.48.24 PM.png,72896075-eb1f7800-3d44-11ea-8c13-51be164f23ed (1).png,Screenshot 2020-05-26 at 5.57.42 PM.png,Screenshot 2020-05-26 at 6.07.55 PM.png,Screenshot 2020-05-26 at 6.16.03 PM.png,Screenshot 2020-05-26 at 6.16.39 PM.png,Screenshot 2020-05-26 at 6.24.36 PM.png,Screenshot 2020-05-26 at 6.23.26 PM.png,Screenshot 2020-05-26 at 6.27.47 PM.png'
 taxonomy:
     category:
         - docs
@@ -60,5 +60,5 @@ Chat button is visible now on store page
 
 **9. Filter Module:** Filter module can be enabled on store page, to enable filter module on store page  go to **Settings->Global Configuration->Frontend Display Options-> Show filters on store details page** 
 
-![](Screenshot%202020-05-26%20at%206.30.23%20PM.png)
+![](Screenshot%202020-05-26%20at%206.32.21%20PM.png)
 ![](Screenshot%202020-05-26%20at%206.27.47%20PM.png)
