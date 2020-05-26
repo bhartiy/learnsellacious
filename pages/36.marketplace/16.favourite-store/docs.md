@@ -13,14 +13,14 @@ visible: true
 
 Favorite Store functionality is added in sellacious by which a user can mark a store to favorite and all the marked stores can be seen into favorite stores view.
 
-1.First Make a Favourite Stores menu, go to Joomla Backend->Menu->New and sellect Sellacious->Favourite Stores in menu type.
+1. First Make a Favourite Stores menu, go to **Joomla Backend->Menu->New** and sellect **Sellacious->Favourite Stores** in menu type.
 
 ![](Screenshot%202020-05-26%20at%207.23.29%20PM.png)
 
-3.Now if user click on add to fav store button that store will be added to fevorite list.
+2.Now if user click on add to **fav store button** that store will be added to fevorite list.
 
 ![](Screenshot%202020-05-26%20at%207.20.26%20PM.png)
 
-5.which will bw shown in favorite store view same like wishlist.
+3.which will bw shown in favorite store view same like wishlist.
 
 ![](Screenshot%202020-05-26%20at%207.21.07%20PM.png)
