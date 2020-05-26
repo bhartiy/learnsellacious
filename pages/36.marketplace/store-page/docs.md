@@ -49,7 +49,7 @@ Chat button is visible now on store page
 ![](Screenshot%202020-05-26%20at%206.16.03%20PM.png)
 ![](Screenshot%202020-05-26%20at%206.16.39%20PM.png)
 
-**7. Store Timings:** Store timings, delivery timing and pickup timing can be enabled on store page. to know more about store timing visit https://www.sellacious.com/documentation-v2#/learn/marketplace/delivery-availability
+**7. Store Timings:** Store timings, delivery timing and pickup timing can be enabled on store page. to know more about store timing visit [Store timings](https://www.sellacious.com/documentation-v2#/learn/marketplace/delivery-availability)
 
 ![](Screenshot%202020-05-26%20at%206.07.55%20PM.png)
 
