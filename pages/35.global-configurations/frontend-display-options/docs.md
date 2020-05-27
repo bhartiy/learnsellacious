@@ -71,7 +71,8 @@ You can apply the special listing badge for categories & subcategories, Products
 <br>**Menu Item First parent**: Choose a menu parent item under which the top level category menu items will be created. Menu item hierarchy will minimum the categories hierarchy.
 <br>**Product category menu**:  Choose settings for creating automatic menu for frontend based on product categories.Disabling sync for any level will disable it for all levels below it irrespective of their setting. You can enable sync with the menu level and you can add the menu level by clicking over the plus icon.
 
-**New Address Fields:**
+### New Address Fields:
+(Compatibility: Sellacious v2.0.0-Beta1+)
 
 ![](Screenshot%202020-05-27%20at%207.06.32%20PM.png)
 New form field is Added to manage address fields settings like show/hide/mandatory, label value, ordering etc. In this new form label value can be changes according to language and it will show particular label wherever address fields are rendering. 
