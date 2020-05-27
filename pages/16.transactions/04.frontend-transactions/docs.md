@@ -29,3 +29,5 @@ Frontend transaction view(menu can be created) is added to sellacius which provi
 
 ![](64906463-b7807180-d704-11e9-8b62-ea3e790b71c1.png)
 ![](Screenshot%202020-05-27%20at%206.37.23%20PM.png)
+
+after user palces withdrawl admin needs to **Sellacious Backend->Transactions** approve/decline in order to reflect it in user's ewallet.
