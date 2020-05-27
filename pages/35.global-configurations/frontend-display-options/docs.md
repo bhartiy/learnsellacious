@@ -1,5 +1,6 @@
 ---
 title: 'Frontend display options'
+media_order: 'Screenshot 2020-05-27 at 7.06.32 PM.png,Screenshot 2020-05-27 at 7.10.20 PM.png,Screenshot 2020-05-27 at 7.13.47 PM.png'
 taxonomy:
     category:
         - docs
@@ -72,10 +73,12 @@ You can apply the special listing badge for categories & subcategories, Products
 
 **New Address Fields:**
 
-
+![](Screenshot%202020-05-27%20at%207.06.32%20PM.png)
 
 New form field is Added to manage address fields settings like show/hide/mandatory, label value, ordering etc. In this new form label value can be changes according to language and it will show particular label wherever address fields are rendering. 
 
+![](Screenshot%202020-05-27%20at%207.10.20%20PM.png)
+![](Screenshot%202020-05-27%20at%207.13.47%20PM.png)
 
 <br>**Company**: In address field, You want to enter the company name in the frontend or not. Here you can have three options: Hide, show and Required. If you choose hide then it will not be displayed on the front end. If you choose show, then it will displayed on the front end.If you choose the required, Then it will be act like the mandatory field.
 <br>**Street address**: In address field, You want to enter the street address  in the frontend or not. Here you can have three options: Hide, show and Required. If you choose hide then it will not be displayed on the front end. If you choose show, then it will displayed on the front end.If you choose the required, Then it will be act like the mandatory field.
