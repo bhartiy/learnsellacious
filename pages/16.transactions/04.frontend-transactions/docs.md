@@ -25,6 +25,7 @@ Frontend transaction view(menu can be created) is added to sellacius which provi
 
 ![](64906461-b4858100-d704-11e9-87df-5d770476d379.png)
 
-4. Amount can be added in user ewallet using available payment methods.
+4. Amount can be added in user ewallet using available payment methods and withdrawl can be placed
 
 ![](64906463-b7807180-d704-11e9-8b62-ea3e790b71c1.png)
+![](Screenshot%202020-05-27%20at%206.37.23%20PM.png)
