@@ -1,6 +1,6 @@
 ---
 title: 'Frontend display options'
-media_order: 'Screenshot 2020-05-27 at 7.06.32 PM.png,Screenshot 2020-05-27 at 7.10.20 PM.png,Screenshot 2020-05-27 at 7.13.47 PM.png,Screenshot 2020-05-27 at 7.19.23 PM.png,Screenshot 2020-05-27 at 7.21.44 PM.png,Screenshot 2020-05-27 at 7.22.20 PM.png'
+media_order: 'Screenshot 2020-05-27 at 7.06.32 PM.png,Screenshot 2020-05-27 at 7.10.20 PM.png,Screenshot 2020-05-27 at 7.13.47 PM.png,Screenshot 2020-05-27 at 7.19.23 PM.png,Screenshot 2020-05-27 at 7.21.44 PM.png,Screenshot 2020-05-27 at 7.22.20 PM.png,Screenshot 2020-05-27 at 7.26.38 PM.png,Screenshot 2020-05-27 at 7.30.16 PM.png'
 taxonomy:
     category:
         - docs
@@ -82,7 +82,9 @@ Option is added to show/hide name fields on registration page or addresses or bo
 No. of address lines can be selected from here for example if we have set no. of lines 3 in address, it will show three fields for adsress
 ![](Screenshot%202020-05-27%20at%207.21.44%20PM.png)
 ![](Screenshot%202020-05-27%20at%207.22.20%20PM.png)
-
+Country, state, district can be shown as select2 dropdown or as text field. if checked text only these fields will show as text field.
+![](Screenshot%202020-05-27%20at%207.26.38%20PM.png)
+![](Screenshot%202020-05-27%20at%207.30.16%20PM.png)
 
 
 <br>**Company**: In address field, You want to enter the company name in the frontend or not. Here you can have three options: Hide, show and Required. If you choose hide then it will not be displayed on the front end. If you choose show, then it will displayed on the front end.If you choose the required, Then it will be act like the mandatory field.
