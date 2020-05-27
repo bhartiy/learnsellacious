@@ -1,6 +1,6 @@
 ---
 title: 'Frontend display options'
-media_order: 'Screenshot 2020-05-27 at 7.06.32 PM.png,Screenshot 2020-05-27 at 7.10.20 PM.png,Screenshot 2020-05-27 at 7.13.47 PM.png'
+media_order: 'Screenshot 2020-05-27 at 7.06.32 PM.png,Screenshot 2020-05-27 at 7.10.20 PM.png,Screenshot 2020-05-27 at 7.13.47 PM.png,Screenshot 2020-05-27 at 7.19.23 PM.png,Screenshot 2020-05-27 at 7.21.44 PM.png,Screenshot 2020-05-27 at 7.22.20 PM.png'
 taxonomy:
     category:
         - docs
@@ -79,9 +79,9 @@ New form field is Added to manage address fields settings like show/hide/mandato
 ![](Screenshot%202020-05-27%20at%207.13.47%20PM.png)
 Option is added to show/hide name fields on registration page or addresses or both. if field is unchecked it will not show.
 ![](Screenshot%202020-05-27%20at%207.19.23%20PM.png)
-
-
-
+No. of address lines can be selected from here for example if we have set no. of lines 3 in address, it will show three fields for adsress
+![](Screenshot%202020-05-27%20at%207.21.44%20PM.png)
+![](Screenshot%202020-05-27%20at%207.22.20%20PM.png)
 
 
 
