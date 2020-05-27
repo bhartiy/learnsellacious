@@ -1,6 +1,6 @@
 ---
 title: 'Frontend display options'
-media_order: 'Screenshot 2020-05-27 at 7.06.32 PM.png,Screenshot 2020-05-27 at 7.10.20 PM.png,Screenshot 2020-05-27 at 7.13.47 PM.png,Screenshot 2020-05-27 at 7.19.23 PM.png,Screenshot 2020-05-27 at 7.21.44 PM.png,Screenshot 2020-05-27 at 7.22.20 PM.png,Screenshot 2020-05-27 at 7.26.38 PM.png,Screenshot 2020-05-27 at 7.30.16 PM.png'
+media_order: 'Screenshot 2020-05-27 at 7.06.32 PM.png,Screenshot 2020-05-27 at 7.10.20 PM.png,Screenshot 2020-05-27 at 7.13.47 PM.png,Screenshot 2020-05-27 at 7.19.23 PM.png,Screenshot 2020-05-27 at 7.21.44 PM.png,Screenshot 2020-05-27 at 7.22.20 PM.png,Screenshot 2020-05-27 at 7.30.16 PM.png,Screenshot 2020-05-27 at 7.26.38 PM.png'
 taxonomy:
     category:
         - docs
