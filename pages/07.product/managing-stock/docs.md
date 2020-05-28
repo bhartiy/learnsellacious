@@ -1,5 +1,8 @@
 ---
 title: 'Managing Stock'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -48,10 +51,11 @@ Import is used to update stocks in csv file and then import that file  in Sellac
 
 
 **I don't want to manage stocks of my Product, how can I?**
-1. Go to settings menu, select global configuration from the drop down.
-2. Go to stock management option.
-3. There will be option of Stock management, select inherit from global.
+1. Go to sellecious panel.
+2. Go to shop->>Product Catalogue.
+3. Edit the product and click on inventory tab, and disable the manage stock button.
 4. Then you don’t have to manage stocks every time. 
+![](manage%20stock.png)
 
 **How to quickly view what is current left stock? **
 1. Go to settings menu, select global configuration from the drop down.
