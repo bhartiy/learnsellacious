@@ -7,6 +7,10 @@ taxonomy:
 visible: true
 ---
 
+**Edited by:** Rashi Gupta
+**Date:** 26-05-2020
+**Compatibility:** Sellacious v2.0.0-Beta1+
+
 This option is for when you don't want to sell products on your site. By disabling checkout, checkout options like buy now and add to cart buttons, won't be available on the frontend.
 
 **To disable Checkout feature from your site:**
