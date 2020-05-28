@@ -22,7 +22,7 @@ By Default sellacious provide Minimum & Maximum Quantity column, but the user ha
 4. Save the changes you made.
 ![](screenshot-localhost-2020.05.28-16_43_06.png)
 
-Now Minimum & Maximum Quantity option will be available in product.
+Now Minimum & Maximum Quantity option will be available in inventory section in product edit.
 
 ![](screenshot-localhost-2020.05.28-16_44_47.png)
 
