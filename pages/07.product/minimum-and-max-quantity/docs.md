@@ -1,6 +1,6 @@
 ---
 title: 'Minimum and Maximum Quantity'
-media_order: 'maxx Min.PNG,njhjhh.PNG'
+media_order: 'maxx Min.PNG,njhjhh.PNG,screenshot-localhost-2020.05.28-16_44_47.png,screenshot-localhost-2020.05.28-16_43_06.png'
 taxonomy:
     category:
         - docs
@@ -17,22 +17,18 @@ By Default sellacious provide Minimum & Maximum Quantity column, but the user ha
 **To enable Minimum & Maximum Quantity column:**
 
 1. Go to the Sellacious panel of your website.
-2. Go to settings menu at the left menu bar and select global configuration from the drop down           
-    Menu.
-3. At the bottom, there will be an option of Backend Display Option.
-4. Edit the fields, check Minimum & Maximum Quantity  in all columns.
-5. Save the changes you made.
+2. Go to Settings->>Global Configuration->>Backend Display Options.
+3. Check Minimum & Maximum Quantity  in all columns.
+4. Save the changes you made.
+![](screenshot-localhost-2020.05.28-16_43_06.png)
 
-![](njhjhh.PNG)
+Now Minimum & Maximum Quantity option will be available in product.
 
-**Now at the time of product a Minimum & Maximum Quantity option will be  available.**
-
-![](maxx%20Min.PNG)
-
+![](screenshot-localhost-2020.05.28-16_44_47.png)
 
 **You can add Minimum & Maximum details through import method and the steps are:**
 
-1.  Go to the sellacious panel of your website.
+1. Go to the sellacious panel of your website.
 2. To import, first navigate to import utility on the left side of panel. Then click on importer option  
      from  the dropped down menu.
 3. In the Sellacious native format, select download with all specifications column and open the 
@@ -42,7 +38,7 @@ By Default sellacious provide Minimum & Maximum Quantity column, but the user ha
 5. If you want to add Minimum & Maximum details for the created product then write 
     Product_Title there and add numeric value in Minimum_Qunatity and Maximum_Quantity.
 6. Download the file in .csv format.
-7. In the Import utility on the left pane, selects importers.
+7. In the Import utility on the left panel, selects importers.
 8. In the Sellacious native format, select upload csv and upload the downloaded csv file.
 9. Select options which you want to import in Import configuration.
 10. Click refresh Cache from left sidebar.
