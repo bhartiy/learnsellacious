@@ -1,5 +1,9 @@
 ---
 title: 'Query form Fields'
+media_order: 'query1.png,Screen Shot 2020-05-28 at 5.36.35 PM.png,query2.png,Screen Shot 2020-05-28 at 5.46.36 PM.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -7,18 +11,21 @@ visible: true
 * **After enabling Query form from backend, it became mandatory for the consumers to fill the form.**
 * **After submitting the form the price of the products will be shown to the consumers.**
 
-##### **How To Enable Query form fields**
-1. Go to settings, select global configuration from the drop down menu.
-2. Click on the seller tab.
-3. In the Price Display Field choode Submit Query form Option.
-4. Save the changes.
+##### **How To Create Query form fields**
+1. Go to Sellacious panel of your website.
+2. From the left menu, go to the **Additional attribute->>Query form fields**.
+3. Now click on a new button to create new query form field.![](query1.png)
+4. Now select your field type and fill all the required details and save.
+![](Screen%20Shot%202020-05-28%20at%205.36.35%20PM.png)
+5. Query form field is created.
 
 
 ##### **How To use Query Form field:**
-1. Query Form Fields are very useful for the sellers.
-2. Sellers dont have to mention the Price of Products.
-3. All they have to create a new query form field and enable it from the backend.
-4. After enabling Query form field , price of the products will not shown to the consumers.
-5. To ask any query regarding the Price, customers have to submit the query form.
-6. And the seller will get the submitted form, and answer all the queries of the consumer.
-7. From Query Form field, Sellers are able to tell the price to only those consumers, who want to buy their            products.
+1. From the left menu, go to the **Shop->>Product Catalogue**.
+2. Now click on the new button to create new product.
+3. Enter your basic information of your product and click on pricing tab.
+4. In pricing tab, select the query form for price type.![](query2.png)
+5. From the bottom, select your query form field from the bottom query form field option.
+6. In product detail page, you can see submit query button.![](Screen%20Shot%202020-05-28%20at%205.46.36%20PM.png)
+7. To open the query form, just click on the submit query button.
+![](Screen%20Shot%202020-05-28%20at%205.46.07%20PM.png)![](Screen%20Shot%202020-05-28%20at%205.46.07%20PM.png)
