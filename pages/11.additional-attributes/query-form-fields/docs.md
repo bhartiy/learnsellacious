@@ -1,6 +1,6 @@
 ---
 title: 'Query form Fields'
-media_order: 'query1.png,Screen Shot 2020-05-28 at 5.36.35 PM.png,query2.png,Screen Shot 2020-05-28 at 5.46.36 PM.png'
+media_order: 'query1.png,Screen Shot 2020-05-28 at 5.36.35 PM.png,Screen Shot 2020-05-28 at 5.46.36 PM.png,Screen Shot 2020-05-28 at 5.46.07 PM.png,query2.png'
 taxonomy:
     category:
         - docs
@@ -28,4 +28,4 @@ visible: true
 5. From the bottom, select your query form field from the bottom query form field option.
 6. In product detail page, you can see submit query button.![](Screen%20Shot%202020-05-28%20at%205.46.36%20PM.png)
 7. To open the query form, just click on the submit query button.
-![](Screen%20Shot%202020-05-28%20at%205.46.07%20PM.png)![](Screen%20Shot%202020-05-28%20at%205.46.07%20PM.png)
+![](Screen%20Shot%202020-05-28%20at%205.46.07%20PM.png)
