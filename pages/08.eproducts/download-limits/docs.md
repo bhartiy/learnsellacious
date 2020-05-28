@@ -10,7 +10,7 @@ visible: true
 **For E-Product we can set the downloading limits.**
 
 1. Go to the Sellacious panel of your website.
-2. Go to Shop->>Product Catalogue from the drop-down menu.
+2. Go to **Shop->>Product Catalogue** from the drop-down menu.
 3. To create a new product, click on new button.
 4. In Product type, select Electronic as a type.
 5. To set the download limit, Go to inventory tab on the left.
