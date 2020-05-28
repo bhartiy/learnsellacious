@@ -7,6 +7,10 @@ taxonomy:
 visible: true
 ---
 
+**Edited by:** Rashi Gupta
+**Date:** 28-05-2020
+**Compatibility:** Sellacious v2.0.0-Beta1+
+
 * **Query Form is a form by which customers can ask any query related to products.**
 
 ##### **How To Create Query form fields**
