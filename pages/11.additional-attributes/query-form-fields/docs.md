@@ -8,8 +8,6 @@ visible: true
 ---
 
 * **Query Form is a form by which customers can ask any query related to products.**
-* **After enabling Query form from backend, it became mandatory for the consumers to fill the form.**
-* **After submitting the form the price of the products will be shown to the consumers.**
 
 ##### **How To Create Query form fields**
 1. Go to Sellacious panel of your website.
