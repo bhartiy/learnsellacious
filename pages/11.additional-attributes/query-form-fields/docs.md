@@ -23,7 +23,7 @@ visible: true
 2. Now click on the new button to create new product.
 3. Enter your basic information of your product and click on pricing tab.
 4. In pricing tab, select the query form for price type.![](query2.png)
-5. From the bottom, select your query form field from the bottom query form field option.
+5. Select your query form field from the bottom query form field option.
 6. In product detail page, you can see submit query button.![](Screen%20Shot%202020-05-28%20at%205.46.36%20PM.png)
 7. To open the query form, just click on the submit query button.
 ![](Screen%20Shot%202020-05-28%20at%205.46.07%20PM.png)
