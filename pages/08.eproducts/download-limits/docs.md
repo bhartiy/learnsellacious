@@ -1,5 +1,9 @@
 ---
 title: 'Download limits'
+media_order: 'limit1.png,Screen Shot 2020-05-28 at 7.22.31 PM.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -12,12 +16,11 @@ visible: true
 5. To set the download limit, Go to inventory tab on the left.
 6. In inventory there are two columns- **Max Download Limit**, **Max Download Period**, to set the download limit.
 
-![](limit1.png)
-
-8. In Max Download Limit, you can mention the value to make sure that the user can only download it no.of times.If in case Max Download limit is 5, then the user can download it only 5 times.
-9. In Max Download Priod, you can mention the time. So, that till that time the user can download it.If in case Max Download Period is 6 days, then the user can download the **Max Download Limit**(value) till 6 days.
-10. Click on Save button to save the product details.
-11. And the Download limits of that product will be saved.
+![](Screen%20Shot%202020-05-28%20at%207.22.31%20PM.png)
+7. In Max Download Limit, you can mention the value to make sure that the user can only download it no.of times.If in case Max Download limit is 5, then the user can download it only 5 times.
+8. In Max Download Priod, you can mention the time. So, that till that time the user can download it.If in case Max Download Period is 6 days, then the user can download the **Max Download Limit**(value) till 6 days.
+9. Click on Save button to save the product details.
+10. And the Download limits of that product will be saved.
 
 **You can add Download limits of Electronic Products through import method and the steps are:**
 
