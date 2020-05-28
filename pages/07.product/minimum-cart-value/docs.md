@@ -1,9 +1,12 @@
 ---
 title: 'Minimum Cart Value'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
-**Minimum Cart value :**  You can set a minimum price for the users to checkout. You  set the minimum cart price 500$ So the buyer can not checkout, If the product price is less than 500$.
+**Minimum Cart value :**  You can set a minimum price for the users to checkout. If you set the minimum cart price is 500$ then the buyer can not checkout, If the cart value is less than 500$.
 
 **You can set the Minimum Cart Price through following steps:**
 
