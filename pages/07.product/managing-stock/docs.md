@@ -57,12 +57,6 @@ Import is used to update stocks in csv file and then import that file  in Sellac
 4. Then you don’t have to manage stocks every time. 
 ![](manage%20stock.png)
 
-**How to quickly view what is current left stock? **
-1. Go to settings menu, select global configuration from the drop down.
-2. Go to stock management option.
-3. There will be an option of Show stock column in catalogue, enable it or click on yes option.
-4. Then the remaining stock will be shown at the catalogue.
-
 
 **How to mark a default stock/over stock of products?**
 1. Go to settings menu, select global configuration from the drop down.
