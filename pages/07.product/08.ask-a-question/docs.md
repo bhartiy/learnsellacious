@@ -7,6 +7,10 @@ taxonomy:
 visible: true
 ---
 
+**Edited by:** Rashi Gupta
+**Date:** 25-05-2020
+**Compatibility:** Sellacious v2.0.0-Beta1+
+
 **Ask a question** feature is present on the sellacious panel in which User can ask any question on related to the product. User can ask any questions from the frontend.
 
 **Steps to "Ask a Question" related to a Product:**
