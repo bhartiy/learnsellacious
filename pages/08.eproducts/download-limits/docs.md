@@ -35,7 +35,7 @@ visible: true
    Product_Title there and add numeric value in **EPRODUCT_DOWNLOAD_LIMIT** and **EPRODUCT_DOWNLOAD_PERIOD**
    column.
 6. Download the file in .csv format.
-7. In the Import utility on the left pane, selects importers.
+7. In the Import utility on the left panel, select importers.
 8. In the Sellacious native format, select upload csv and upload the downloaded csv file.
 9. Select options which you want to import in Import configuration.
 10. Click refresh Cache from left sidebar.
