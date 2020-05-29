@@ -26,7 +26,7 @@ SMTP Security → SSL
 SMTP Port → 465
 SMTP Username → Your email address email@myemail.com
 SMTP Password → Your email password
-SMTP Host → smtp.gmail.com
+SMTP Host → smtp.gmail.com (for yahoo smtp.mail.yahoo.com)
 
 ![](smtp%20sttings.png)
 
