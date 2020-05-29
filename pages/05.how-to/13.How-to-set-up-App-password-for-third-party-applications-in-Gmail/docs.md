@@ -7,6 +7,9 @@ taxonomy:
 visible: true
 ---
 
+**Written by:** Indresh Maurya
+**Date:** 23-08-2019
+
 If you are using 2-step password verification in Gmail- you need to generate the new password. After generating the password- follow all the steps-
 
 1. Connect to your Google account. Click on the top right corner and click "My account".
