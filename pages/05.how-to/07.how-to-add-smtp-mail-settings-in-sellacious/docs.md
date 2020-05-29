@@ -19,7 +19,7 @@ Locate **Mail settings**
 
 Here you can fill the fields according to your email provider.
 
-## **For gmail**
+**Email Settings**
 
 Mailer → SMTP
 From Email → Your email address email@myemail.com
