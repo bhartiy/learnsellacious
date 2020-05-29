@@ -1,6 +1,6 @@
 ---
 title: 'How to set up App password for third party applications in Gmail?'
-media_order: 'Google-account-Security-App passwords-Teamgate-SMTP.png,1.png,2.png,smtp sttings.png'
+media_order: 'Google-account-Security-App passwords-Teamgate-SMTP.png,1.png,2.png'
 taxonomy:
     category:
         - docs
