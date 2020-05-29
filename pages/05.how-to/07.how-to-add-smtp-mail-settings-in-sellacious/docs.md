@@ -34,7 +34,7 @@ SMTP Host → smtp.gmail.com (for yahoo smtp.mail.yahoo.com)
 
 ![](smtp%20sttings.png)
 
-After filling all the fields save configuration. You can test by sending a test mail. If confugration is corect ypu will get successful message on top
+After filling all the fields save configuration. You can test by sending a test mail. If confugration is corect you will get successful message on top
 
 ![](Screenshot%202020-05-29%20at%2010.50.43%20AM.png)
 
