@@ -6,7 +6,7 @@ title: 'Variant Import'
 **Date:** 29-05-2020
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
-**You can add Variants through import method and the steps are:**
+**You can also add Variants through import method and the steps are:**
 
 1. Go to the sellacious panel of your website.
 2. To import, first navigate to import utility on the left side of panel. Then click on importer option  
