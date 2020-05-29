@@ -20,8 +20,7 @@ title: 'Variant Import'
    VARIANT_CURRENT_STOCK, VARIANT_OVER_STOCK_SALE_LIMIT, VARIANT_RESERVED_STOCK, VARIANT_STOCK_SOLD, 
    VARIANT_PRICE_ADD, VARIANT_PRICE_IS_PERCENT.
 6. Fill all needed columns.
-7. If you want to add variants for the created product then write Product_Title there 
-   and add Variant details.
+7. If you want to add variants for the created product then write Product_Title there and add Variant details.
 8. Download the file in .csv format.
 9. In the Import utility on the left panel, select importers.
 10. In the Sellacious native format, select upload csv and upload the downloaded csv file.
