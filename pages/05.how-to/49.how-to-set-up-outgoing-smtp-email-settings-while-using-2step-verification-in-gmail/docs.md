@@ -1,5 +1,5 @@
 ---
-title: 'How to set up Outgoing SMTP email settings while using 2-step verification in Gmail?'
+title: 'How to set up App password for third party applications in Gmail?'
 media_order: 'Google-account-Security-App passwords-Teamgate-SMTP.png,1.png,2.png,smtp sttings.png'
 taxonomy:
     category:
