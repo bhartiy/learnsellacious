@@ -34,6 +34,6 @@ If you are using 2-step password verification in Gmail- you need to generate the
 
 ![](2.png)
 
-6. Enter the password into SMTP password field.
+6. Enter the password (without space) into SMTP password field.
 
 ![](smtp%20sttings.png)
