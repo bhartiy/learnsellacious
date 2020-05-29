@@ -7,6 +7,9 @@ taxonomy:
 visible: true
 ---
 
+**Written by:** Indresh Maurya
+**Date:** 23-08-2019
+
 Simple Mail Transfer Protocol (SMTP) is the set of Internet standards for transmitting email across Internet networks. If you have an email provider, the best way to utilize that email within your Joomla site is to configure the SMTP settings in the Global Configurations area.
 
 **NOTE: To use mail service in sellacious you need to allow acess to third party apps in your email. It can be configured from security settings of your email service provider.** For gmail follow this [Documentation](https://www.sellacious.com/documentation-v2#/learn/how-to/how-to-set-up-app-password-for-third-party-applications-in-gmail)
