@@ -1,6 +1,6 @@
 ---
 title: 'How to add SMTP Mail Settings in sellacious ?'
-media_order: 'smtp sttings.png,Screenshot 2020-05-29 at 10.26.34 AM.png'
+media_order: 'smtp sttings.png,Screenshot 2020-05-29 at 10.26.34 AM.png,Screenshot 2020-05-29 at 10.50.43 AM.png'
 taxonomy:
     category:
         - docs
@@ -35,8 +35,8 @@ SMTP Host → smtp.gmail.com (for yahoo smtp.mail.yahoo.com)
 
 ![](smtp%20sttings.png)
 
-You can test by sending a test mail.
+After filling all the fields save configuration. You can test by sending a test mail. If confugration is corect ypu will get successful message on top
 
-After filling all the fields save configuration.
+![](Screenshot%202020-05-29%20at%2010.50.43%20AM.png)
 
 
