@@ -1,6 +1,6 @@
 ---
 title: 'How to set up App password for third party applications in Gmail?'
-media_order: 'Google-account-Security-App passwords-Teamgate-SMTP.png,1.png,2.png'
+media_order: 'Google-account-Security-App passwords-Teamgate-SMTP.png,1.png,2.png,test.png'
 taxonomy:
     category:
         - docs
@@ -39,4 +39,4 @@ If you are using 2-step password verification in Gmail- you need to generate the
 
 6. Enter the password (without space) into SMTP password field.
 
-![](smtp%20sttings.png)
+![](test.png)
