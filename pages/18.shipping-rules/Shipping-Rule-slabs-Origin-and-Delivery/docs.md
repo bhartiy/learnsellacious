@@ -26,6 +26,6 @@ Origin and Delivery location can be added to shipping rule slabs now i. sellacio
 
 ![](Screenshot%202020-05-30%20at%2012.30.22%20PM.png)
 
-4. You can see preview of csv slab after uplad, save it and shipping rule is created.
+4. You can see preview of csv slab after upload, save it and shipping rule is created.
 
 ![](Screenshot%202020-05-30%20at%2011.50.52%20AM.png)
