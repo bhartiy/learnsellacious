@@ -1,6 +1,6 @@
 ---
 title: 'Shipping Rule slabs Origin and Delivery'
-media_order: 'Screenshot 2020-05-30 at 12.07.05 PM.png,Screenshot 2020-05-30 at 12.18.51 PM.png,Screenshot 2020-05-30 at 12.12.20 PM.png,Screenshot 2020-05-30 at 11.50.52 AM.png'
+media_order: 'Screenshot 2020-05-30 at 12.07.05 PM.png,Screenshot 2020-05-30 at 12.18.51 PM.png,Screenshot 2020-05-30 at 12.12.20 PM.png,Screenshot 2020-05-30 at 11.50.52 AM.png,Screenshot 2020-05-30 at 12.30.22 PM.png'
 taxonomy:
     category:
         - docs
@@ -24,6 +24,8 @@ Origin and Delivery location can be added to shipping rule slabs now i. sellacio
 
 3. Now go to **Shop->Shipping Rule->New** and choose By Quantity or By Purchase Value in S**hipment Quotation Method / API** Upload your csv of shipping rule slab.
 
-![](Screenshot%202020-05-30%20at%2011.50.52%20AM.png)
+![](Screenshot%202020-05-30%20at%2012.30.22%20PM.png)
 
 4. You can see preview of csv slab after uplad, save it and shipping rule is created.
+
+![](Screenshot%202020-05-30%20at%2011.50.52%20AM.png)
