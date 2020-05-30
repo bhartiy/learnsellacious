@@ -1,6 +1,9 @@
 ---
 title: 'Download stats'
 media_order: stats.png
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -15,9 +18,9 @@ visible: true
 
 ![](stats.png)
 
-6. You can check the statistics of downloaded Electronic Products from here.
-7. To check File wise statistic of Electronic products select File Wise Downloads.
-8. To check Product wise statistics of Electronic Products select Product wise.
+5. You can check the statistics of downloaded Electronic Products from here.
+6. To check File wise statistic of Electronic products select File Wise Downloads.
+7. To check Product wise statistics of Electronic Products select Product wise.
 
 
 
