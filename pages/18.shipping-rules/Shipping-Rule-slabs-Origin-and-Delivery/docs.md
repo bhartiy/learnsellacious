@@ -11,18 +11,18 @@ visible: true
 **Date:** 30-05-2020
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
-Origin and Delivery location can be added to shipping rule slabs now in sellacious. Now we can set rannge(min-max) and also origine and delivery lovations to slab rates. To enable this option follow these steps-
+Origin and Delivery location can be added to shipping rule slabs now in sellacious. Now we can set range(min-max) and also origine/delivery lovations to slab rates. To enable this option follow these steps-
 
-1. Enable **Shipping Rule Slabs By Import** from S**ettings->Global Configuration->Shipment** 
+1. Enable **Shipping Rule Slabs By Import** from **Settings->Global Configuration->Shipment** 
 
 ![](Screenshot%202020-05-30%20at%2012.07.05%20PM.png)
 
-2. Now select what should be the type of **CSV Import Location Field**, you can choose id, code or title for the geolocation.
+2. Now select the type of **CSV Import Location Field**, you can choose **id, code or title** for the geolocation.
 
 ![](Screenshot%202020-05-30%20at%2012.12.20%20PM.png)
 ![](Screenshot%202020-05-30%20at%2012.18.51%20PM.png)
 
-3. Now go to **Shop->Shipping Rule->New** and choose By Quantity or By Purchase Value in S**hipment Quotation Method / API** Upload your csv of shipping rule slab.
+3. Now go to **Shop->Shipping Rule->New** and choose By Quantity or By Purchase Value in **Shipment Quotation Method / API**.  Upload your csv of shipping rule slab.
 
 ![](Screenshot%202020-05-30%20at%2012.30.22%20PM.png)
 
