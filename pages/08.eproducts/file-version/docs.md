@@ -19,9 +19,9 @@ visible: true
 5. In Product type, select Electronic.
 6. Fill all required details related to product and save.
 7. After saving, open the product and go to Inventory tab.
-8. In E-Product Setting->Upload Product column, click on add new file or Link.
-9. After uploading file, click on edit button.![](screenshot-localhost-2020.05.29-18_58_06.png)
-10. In the product media window, you can set a version for that product or you can the change the version of that product.
+8. In E-Product Setting->Upload Product column.
+9. If file is already uploaded then click on edit button.![](screenshot-localhost-2020.05.29-18_58_06.png)
+10. In the product media window, you can update a version for that product or you can the change the version of that product.
 ![](screenshot-localhost-2020.05.29-19_05_09.png)
 12. You can check or edit the file version from here and save.
 13. Click on the save button to save the product details.
