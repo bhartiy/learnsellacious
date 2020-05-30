@@ -1,6 +1,9 @@
 ---
 title: 'Latest Files'
-media_order: 6.png
+media_order: '6.png,screenshot-localhost-2020.05.30-14_49_38.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -16,8 +19,8 @@ visible: true
 5. Select product type- electronic.
 6. save the product.
 7. Open the saved Product.
-8. Go to the inventory tab, On the upload product you can set the latest as 'Yes' or 'No'.
+8. Go to the inventory tab, click on the add new file or link.
+9. Product media window is open and here you can set Latest as 'Yes' or 'No'.
 
-![](6.png)
-
+![](screenshot-localhost-2020.05.30-14_49_38.png)
 10. Click on the save button to save the details.
