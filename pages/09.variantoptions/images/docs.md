@@ -10,8 +10,8 @@ visible: true
 **TO UPLOAD IMAGES FOR THE VARIANTS, FOLLOW STEPS:**
 
 1. Go to sellacious admin panel.
-2. Go to shop, select product catalogue from the drop down menu.
-3. Create a new product and save it, because you can create variant after saving or creating the product.
+2. Go to Shop->>Product Catalogue from the drop-down menu.
+3. Create a new product and save it, because you can create variant after saving the product.
 4. Reopen the product, select variant menu from the left.
 5. Click on add variant to create variant.
 
@@ -26,4 +26,4 @@ visible: true
 10. Upload the image
 
 ![](screenshot-localhost-2020.06.01-17_07_19.png)
-12. Save the variant and image of the variant will be saved.
+11. Save the variant and image of the variant will be saved.
