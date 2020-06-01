@@ -47,11 +47,11 @@ You can apply the special listing badge for categories & subcategories, Products
 <br>**Product block layout**: You can select here product block layout for frontend product list page. There are 5 layouts: 1. Default 2. Elegant 3. Jskart 4. Minimal 5. Travelkit
 ![](Screen%20Shot%202020-06-01%20at%206.42.41%20PM.png)
 
-1. Default: Default layout on frontend.![](Screen%20Shot%202020-06-01%20at%206.39.56%20PM.png)
-2. Elegant: Elegant layout on frontend. ![](Screen%20Shot%202020-06-01%20at%206.46.23%20PM.png) 
-3. Jskart: Jskart layout on frontend. ![](Screen%20Shot%202020-06-01%20at%206.47.09%20PM.png)
-4. Minimal: In Minimal layout, only price is showing on product list page. ![](Screen%20Shot%202020-06-01%20at%206.47.59%20PM.png)
-5. Travelkit: In travelkit layout, rating is also showing with price.![](Screen%20Shot%202020-06-01%20at%206.49.06%20PM.png)
+**1. Default:** In Default layout, add to cart, buy now, compare ,view, ratings are showing on frontend.![](Screen%20Shot%202020-06-01%20at%206.39.56%20PM.png)
+**2. Elegant:** In Elegant layout, all buttons are showing except buy now on frontend. ![](Screen%20Shot%202020-06-01%20at%206.46.23%20PM.png) 
+**3. Jskart:** Jskart layout on frontend. ![](Screen%20Shot%202020-06-01%20at%206.47.09%20PM.png)
+**4. Minimal:** In Minimal layout, only price is showing on product list page. ![](Screen%20Shot%202020-06-01%20at%206.47.59%20PM.png)
+**5. Travelkit:** In travelkit layout, rating is also showing with price.![](Screen%20Shot%202020-06-01%20at%206.49.06%20PM.png)
 
 <br>**Hide out of stock products**: Whether to hide the Out Of Stock products from the frontend listing completely.If disabled they will be shown as out of stock. If you want to hide the out of stock of the product then click on the ‘yes’ otherwise click on the ‘No’ button.
 <br>**Hide Zero Price products**: Whether to  hide the products with no price from the frontend listing completely.If disables, They will be shown as out of stock. If you want to hide zero price products then click on ‘yes’ otherwise click on ‘No’.
