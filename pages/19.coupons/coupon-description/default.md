@@ -4,6 +4,10 @@ media_order: 'coupon.png,screenshot-localhost-2020.06.01-17_44_41.png,Screen Sho
 visible: true
 ---
 
+**Written By:** Rashi Gupta
+**Date:** 01-06-2020
+**Compatibility:** Sellacious v2.0.0-beta1+
+
 **To add Coupon description, follow the below steps:**
 
 1. Go to the sellacious admin panel of your website.
@@ -15,8 +19,6 @@ visible: true
 5. You can enter your description related to your coupon and save the coupon.
 ![](Screen%20Shot%202020-06-01%20at%205.48.32%20PM.png)
 6. Click on the Show Details link.
-
 ![](screenshot-localhost-2020.06.01-17_49_52.png)
 7. Now, you can see the coupon description here.
-
 ![](Screen%20Shot%202020-06-01%20at%205.50.12%20PM.png)
