@@ -1,6 +1,6 @@
 ---
 title: 'Adding Variant'
-media_order: '89.png,90.png,92.png'
+media_order: '89.png,90.png,92.png,Screen Shot 2020-06-01 at 4.48.39 PM.png,screenshot-localhost-2020.06.01-16_54_12.png,screenshot-localhost-2020.06.01-17_07_19.png'
 taxonomy:
     category:
         - docs
@@ -17,16 +17,13 @@ visible: true
 
 ![](89.png)
 
-6. Fill the credentials.
-7. You need to save the item first to upload images and files.
+6. Fill the credentials. ![](Screen%20Shot%202020-06-01%20at%204.48.39%20PM.png)
+7. You need to save the variant first to upload images and files.
 
-![](90.png)
+![](screenshot-localhost-2020.06.01-16_54_12.png)
+8. Save the Variant.
+9. You will get option to upload other product images.
+10. Upload the image
 
-8. Save the item.
-9. Open the saved product.
-10. Upload the image.<br>
-11. save it.
-
-![](92.png)
-
-12.And image of your variant will be saved.
+![](screenshot-localhost-2020.06.01-17_07_19.png)
+12. Save the variant and image of the variant will be saved.
