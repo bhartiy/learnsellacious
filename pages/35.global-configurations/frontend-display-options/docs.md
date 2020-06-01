@@ -44,14 +44,8 @@ You can apply the special listing badge for categories & subcategories, Products
 <br>**Image Display Size**: Choose how to adjust images within the images slider container.The aspect ratio of the images will always be maintained. You can have two options: Fit to container and Completely Fill container(May be partially hidden).
 <br>**List layout**: Select the default layout for the list on front-end. You can select the view of the products in the front end. It can be masonry, Grid and List. 
 <br>**Show layout switcher**: Select whether the users will be able to switch the list layout between grid and list format. If you want to switch then click on the ‘yes’ otherwise click on the ‘No’.
-<br>**Product block layout**: You can select here product block layout for frontend product list page. 
+<br>**Product block layout**: You can select here product block layout for frontend product list page. There are 5 layouts: 1. Default 2. Elegant 3. Jskart 4. Minimal 5. Travelkit
 ![](Screen%20Shot%202020-06-01%20at%206.42.41%20PM.png)
-There are 5 layouts:
-1. Default
-2. Elegant
-3. Jskart
-4. Minimal
-5. Travelkit
 
 1. Default: Default layout on frontend.![](Screen%20Shot%202020-06-01%20at%206.39.56%20PM.png)
 2. Elegant: Elegant layout on frontend. ![](Screen%20Shot%202020-06-01%20at%206.46.23%20PM.png) 
