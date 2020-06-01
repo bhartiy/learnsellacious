@@ -16,9 +16,7 @@ visible: true
 ![](coupon.png)
 4. Fill all the nesessary details and also at the bottom of the page, you can find description box.
 ![](screenshot-localhost-2020.06.01-17_44_41.png)
-5. You can enter your description related to your coupon and save the coupon.
-![](Screen%20Shot%202020-06-01%20at%205.48.32%20PM.png)
-6. Click on the Show Details link.
+5. Click on the Show Details link.
 ![](screenshot-localhost-2020.06.01-17_49_52.png)
-7. Now, you can see the coupon description here.
+6. Now, you can see the coupon description here.
 ![](Screen%20Shot%202020-06-01%20at%205.50.12%20PM.png)
