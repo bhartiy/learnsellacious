@@ -1,6 +1,6 @@
 ---
 title: 'Frontend display options'
-media_order: 'Screenshot 2020-05-27 at 7.06.32 PM.png,Screenshot 2020-05-27 at 7.10.20 PM.png,Screenshot 2020-05-27 at 7.13.47 PM.png,Screenshot 2020-05-27 at 7.19.23 PM.png,Screenshot 2020-05-27 at 7.21.44 PM.png,Screenshot 2020-05-27 at 7.22.20 PM.png,Screenshot 2020-05-27 at 7.30.16 PM.png,Screenshot 2020-05-27 at 7.26.38 PM.png,screenshot-localhost-2020.05.30-13_05_01.png'
+media_order: 'Screenshot 2020-05-27 at 7.06.32 PM.png,Screenshot 2020-05-27 at 7.10.20 PM.png,Screenshot 2020-05-27 at 7.13.47 PM.png,Screenshot 2020-05-27 at 7.19.23 PM.png,Screenshot 2020-05-27 at 7.21.44 PM.png,Screenshot 2020-05-27 at 7.22.20 PM.png,Screenshot 2020-05-27 at 7.30.16 PM.png,Screenshot 2020-05-27 at 7.26.38 PM.png,screenshot-localhost-2020.05.30-13_05_01.png,Screen Shot 2020-06-01 at 6.42.41 PM.png,Screen Shot 2020-06-01 at 6.39.56 PM.png,Screen Shot 2020-06-01 at 6.46.23 PM.png,Screen Shot 2020-06-01 at 6.47.09 PM.png,Screen Shot 2020-06-01 at 6.47.59 PM.png'
 taxonomy:
     category:
         - docs
@@ -44,6 +44,21 @@ You can apply the special listing badge for categories & subcategories, Products
 <br>**Image Display Size**: Choose how to adjust images within the images slider container.The aspect ratio of the images will always be maintained. You can have two options: Fit to container and Completely Fill container(May be partially hidden).
 <br>**List layout**: Select the default layout for the list on front-end. You can select the view of the products in the front end. It can be masonry, Grid and List. 
 <br>**Show layout switcher**: Select whether the users will be able to switch the list layout between grid and list format. If you want to switch then click on the ‘yes’ otherwise click on the ‘No’.
+<br>**Product block layout**: You can select here product block layout for frontend product list page. 
+![](Screen%20Shot%202020-06-01%20at%206.42.41%20PM.png)
+There are 5 layouts:
+1. Default
+2. Elegant
+3. Jskart
+4. Minimal
+5. Travelkit
+
+1. Default: Default layout on frontend.![](Screen%20Shot%202020-06-01%20at%206.39.56%20PM.png)
+2. Elegant: Elegant layout on frontend. ![](Screen%20Shot%202020-06-01%20at%206.46.23%20PM.png) 
+3. Jskart: Jskart layout on frontend. ![](Screen%20Shot%202020-06-01%20at%206.47.09%20PM.png)
+4. Minimal: In Minimal layout, only price is showing on product list page. ![](Screen%20Shot%202020-06-01%20at%206.47.59%20PM.png)
+5. Travelkit: In travelkit layout, rating is also showing with price.![](Screen%20Shot%202020-06-01%20at%206.49.06%20PM.png)
+
 <br>**Hide out of stock products**: Whether to hide the Out Of Stock products from the frontend listing completely.If disabled they will be shown as out of stock. If you want to hide the out of stock of the product then click on the ‘yes’ otherwise click on the ‘No’ button.
 <br>**Hide Zero Price products**: Whether to  hide the products with no price from the frontend listing completely.If disables, They will be shown as out of stock. If you want to hide zero price products then click on ‘yes’ otherwise click on ‘No’.
 <br>**Hide ZIP code Filter**: Choose whether to show or hide the zip code filter in the products pages. If you want to hide ZIP code filter the click on ‘Yes’ Button otherwise click on ‘No’ button.
