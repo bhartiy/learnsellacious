@@ -1,6 +1,9 @@
 ---
 title: 'Create Package'
 media_order: '33.png,34.png,35.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -26,7 +29,6 @@ visible: true
 2. Select global configuration from the drop down menu.
 3. On the general Tab, Select the Allowed product type as 'Both'.
 
-![](35.png)
 
-5. Click on the save button to save the details.
+4. Click on the save button to save the details.
 6. And You can create a package.
