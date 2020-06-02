@@ -11,20 +11,20 @@ visible: true
 It is a detailed description of the design and materials used to making the variants.
 
 To add variant specifications, follow steps:
-1. Go to the Sellacious admin panel.
-2. Create Atributes of specifications you want to add with your variants from Additional Attributes>>Product attributes
+1. Go to the Sellacious admin panel of the website.
+2. Create Attributes of specifications you want to add with your variants from Additional Attributes->>Product attributes
 
 ![](Atributes.PNG)
 
-4. Go to categories, select categories type from the drop down menu( For eg. Physical Product).
-5. Select a category to add variant specifications in that category.
+3. Go to categories, select categories type from the drop down menu( For eg. Physical Product).
+4. Select a category to add variant specifications in that category.
 
 ![](variant%20spec..png)
 
-4. Go to Custom Field section on the left.
-5. On the bottom there will be one variant field, add specification you want to add for that category.
-6. Click on save button.
+5. Go to Custom Field section on the left.
+6. On the bottom there will be one variant field, add specification you want to add for that category.
+7. Click on save button.
 
 ![](variant%20spec1..png)
 
-7.Variant specification will be added.
+8. Variant specification will be added.
