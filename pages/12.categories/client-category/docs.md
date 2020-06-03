@@ -22,5 +22,6 @@ visible: true
 *  **Client attributes:** You can set the client attributes from the client attributes tab. Set the user permissions, price markup. 
 *  **Profile Fields:** You can set the profile fields.
 ![](screenshot-localhost-2020.06.03-14_58_20.png)
+
 5. Click on save button.
 6. New Client is created and information regarding the client will saved.
