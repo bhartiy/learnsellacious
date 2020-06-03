@@ -1,6 +1,9 @@
 ---
 title: 'Manufacturer Category'
 media_order: '39.png,40.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -16,12 +19,12 @@ visible: true
 
 ![](39.png)
 
-5. Fill the information of Manufacturer.
+4. Fill the information of Manufacturer.
 
 * Basic information: You can set the basic information of the category by Type,Name,Category and status.
 * Manufacturer Attributes: You can set the manufacturer attributes from the manufacturer attributes tab.Set the user   permissions, price markup. 
 
 ![](40.png)
 
-6. Click on save button.
-7. New Manufacturer is creted and information regarding the manufacturer will saved.
+5. Click on save button.
+6. New Manufacturer is creted and information regarding the manufacturer will saved.
