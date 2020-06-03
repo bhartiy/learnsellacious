@@ -1,6 +1,6 @@
 ---
 title: 'Manufacturer Category'
-media_order: '39.png,40.png'
+media_order: '39.png,40.png,screenshot-localhost-2020.06.03-15_27_43.png,Screen Shot 2020-06-03 at 3.48.46 PM.png'
 taxonomy:
     category:
         - docs
@@ -11,20 +11,17 @@ visible: true
 
 **Manufacturer category is a category in which we can create a new manufacturer.**
 
-**To create a new Manufacturer, follow steps:**
+**To create a new Manufacturer category, follow steps:**
 
 1. Go to the sellacious panel of your website.
-2. Go to categories and select manufacturer from the dropped down menu.
+2. Go to categories and select manufacturer from the dropp-down menu.
 3. To create a new manufacturer, click on new button.
-
-![](39.png)
+![](screenshot-localhost-2020.06.03-15_27_43.png)
 
 4. Fill the information of Manufacturer.
 
-* Basic information: You can set the basic information of the category by Type,Name,Category and status.
-* Manufacturer Attributes: You can set the manufacturer attributes from the manufacturer attributes tab.Set the user   permissions, price markup. 
+* Basic information: You can set the basic information of the category by Type, Name, Category and status. 
 
-![](40.png)
-
+![](Screen%20Shot%202020-06-03%20at%203.48.46%20PM.png)
 5. Click on save button.
-6. New Manufacturer is creted and information regarding the manufacturer will saved.
+6. New Manufacturer category is creted.
