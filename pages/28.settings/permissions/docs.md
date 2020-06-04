@@ -7,7 +7,15 @@ visible: true
 ---
 
 #### Permissions
-This section specify the user category you want to give the permission.
+
+**Written by:** Indresh Maurya
+**Date:** 04-06-2020
+**Compatibility:** Sellacious v2.0.0-Beta1+
+
+This section specifies the user category you want to give the permission. In Sellacious v2.0.0-Beta1+ sellacious user categories are considered as user groups. Also permissions can be selected component wise, means you you have to select category and component and then set permission accordingaly.
+
+To set permissions go to Settings->Permissions, In User Category choose the catagory to which you want to allow perticular permissions and component for which you wnat to set pemissions.
+
 <br>**User category**:  Give the permission access to the user. The user categories are the Guest, administrator, registered, Seller, staff. Select the user category from the drop down menu.
 #### Crucial permissions
 <br>**Sellacious backend login**: The account login from the backend of the sellacious.
