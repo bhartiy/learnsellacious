@@ -22,4 +22,4 @@ This functionality allows sellers to login in sellacious backend when the websit
 
 ![](Screenshot%202020-06-04%20at%204.15.17%20PM.png)
 
-6. Now sellers can do offline login.
+6. Save and Now sellers can do offline login.
