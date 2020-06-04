@@ -1,5 +1,6 @@
 ---
 title: Permissions
+media_order: 'Screenshot 2020-06-04 at 4.53.42 PM.png,Screenshot 2020-06-04 at 4.57.04 PM.png'
 taxonomy:
     category:
         - docs
@@ -14,8 +15,12 @@ This section specifies the user category you want to give the permission. In Sel
 
 To set permissions go to **Settings->Permissions**, In User Category choose the catagory to which you want to allow perticular permissions and component for which you wnat to set pemissions.
 
-<br>**User category**:  Give the permission access to the user. The user categories are the Guest, administrator, registered, Seller, staff. Select the user category from the drop down menu.
-#### Crucial permissions
+![](Screenshot%202020-06-04%20at%204.53.42%20PM.png)
+
+Here either we can set permissions manually or can copy from any existing category.
+
+![](Screenshot%202020-06-04%20at%204.57.04%20PM.png)
+
 <br>**Sellacious backend login**: The account login from the backend of the sellacious.
 <br>**Inherited**: Inherited represents the parent categories are to be inherited to the child categories.
 <br>**Allowed**: You can opt to choose to allow the user group accessing that particular option by clicking on allowed button.
