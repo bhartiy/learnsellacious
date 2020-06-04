@@ -34,7 +34,6 @@ These are the component wise permissions-
 
 ![](Screenshot%202020-06-04%20at%205.40.26%20PM.png)
 
-<br>**visitor stats on dashboard**: you can opt whether you have to show the statistics of the dashboard or not.
 #### Additional Attributes
 <br><br>**view custom field:**  The user permission to view the custom field.
 <br>**create custom fields**:  The user permissions to create the custom fields.
