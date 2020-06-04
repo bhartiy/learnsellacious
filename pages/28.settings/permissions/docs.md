@@ -1,6 +1,6 @@
 ---
 title: Permissions
-media_order: 'Screenshot 2020-06-04 at 4.53.42 PM.png,Screenshot 2020-06-04 at 4.57.04 PM.png'
+media_order: 'Screenshot 2020-06-04 at 4.53.42 PM.png,Screenshot 2020-06-04 at 4.57.04 PM.png,Screenshot 2020-06-04 at 4.15.17 PM.png'
 taxonomy:
     category:
         - docs
@@ -23,14 +23,17 @@ Here either we can set permissions manually or can copy from any existing catego
 
 These are the component wise permissions-
 
-## Global:
+### Global:
 
-<br>**Sellacious backend login**: The account login from the backend of the sellacious.
-<br>**Inherited**: Inherited represents the parent categories are to be inherited to the child categories.
-<br>**Allowed**: You can opt to choose to allow the user group accessing that particular option by clicking on allowed button.
-<br>**Denied**:  You can opt to choose not to allow the user group accessing that particular option by clicking on denied button.
-<br>**Allow Global Configuration Edit**: You can change the use permissions of the global configuration from here.
-<br>**Change permissions**: You can change the user permissions.
+**Shop Owner / Sellacious Administrator (Full Access Everywhere)**: This allows user full acess to all the features of sellaciosu without any restriction like Super user.
+**Sellacious Management**: Allow the users in this group to perform basic management task excluding administrative tasks on this site.
+**Allow Global Config edit**:  The user will be allowed to edit global configurations, this means he can change anything on this e-commerce website including business and revenue model.
+**Change Permissions**: Change any permission of any usergroup on this permission page.
+**Sellacious backend login**: The account login from the backend of the sellacious.
+**Sellacious Backend Offline Login:** Allow the users in this group to login to sellacious backend while site is offline.
+
+![](Screenshot%202020-06-04%20at%204.15.17%20PM.png)
+
 <br>**visitor stats on dashboard**: you can opt whether you have to show the statistics of the dashboard or not.
 #### Additional Attributes
 <br><br>**view custom field:**  The user permission to view the custom field.
