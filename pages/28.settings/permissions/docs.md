@@ -1,6 +1,6 @@
 ---
 title: Permissions
-media_order: 'Screenshot 2020-06-04 at 4.53.42 PM.png,Screenshot 2020-06-04 at 4.57.04 PM.png,Screenshot 2020-06-04 at 4.15.17 PM.png'
+media_order: 'Screenshot 2020-06-04 at 4.53.42 PM.png,Screenshot 2020-06-04 at 4.57.04 PM.png,Screenshot 2020-06-04 at 5.40.26 PM.png'
 taxonomy:
     category:
         - docs
@@ -32,7 +32,7 @@ These are the component wise permissions-
 **Sellacious backend login**: The account login from the backend of the sellacious.
 **Sellacious Backend Offline Login:** Allow the users in this group to login to sellacious backend while site is offline.
 
-![](Screenshot%202020-06-04%20at%204.15.17%20PM.png)
+![](Screenshot%202020-06-04%20at%205.40.26%20PM.png)
 
 <br>**visitor stats on dashboard**: you can opt whether you have to show the statistics of the dashboard or not.
 #### Additional Attributes
