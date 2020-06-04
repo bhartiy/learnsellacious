@@ -6,8 +6,6 @@ taxonomy:
 visible: true
 ---
 
-#### Permissions
-
 **Written by:** Indresh Maurya
 **Date:** 04-06-2020
 **Compatibility:** Sellacious v2.0.0-Beta1+
