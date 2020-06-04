@@ -21,6 +21,10 @@ Here either we can set permissions manually or can copy from any existing catego
 
 ![](Screenshot%202020-06-04%20at%204.57.04%20PM.png)
 
+These are the component wise permissions-
+
+## Global:
+
 <br>**Sellacious backend login**: The account login from the backend of the sellacious.
 <br>**Inherited**: Inherited represents the parent categories are to be inherited to the child categories.
 <br>**Allowed**: You can opt to choose to allow the user group accessing that particular option by clicking on allowed button.
