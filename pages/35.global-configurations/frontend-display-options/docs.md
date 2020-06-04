@@ -21,6 +21,8 @@ You can apply the special listing badge for categories & subcategories, Products
 <br>**Add to cart Button**: You can choose whether you have to apply the add to cart button on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
 <br>**Buy Now Button**:You can choose whether you have to apply the Buy now button on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
 <br>**product quick view button**: You can choose whether you have to apply the product quick view button on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
+<br>**Manufacturer Details**: You can choose whether you have to apply the Manufacturer Details on product details page & product quick view page.
+![](screenshot-localhost-2020.06.04-15_58_43.png)
 <br>**product price display**:You can choose whether you have to apply the product price Display on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
 
 **continue price display**: You can choose whether you have to apply the continue price display on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
