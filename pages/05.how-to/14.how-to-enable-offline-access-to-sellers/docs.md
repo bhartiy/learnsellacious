@@ -1,5 +1,6 @@
 ---
 title: 'How to enable Offline Access to sellers'
+media_order: 'Screenshot 2020-06-04 at 4.11.38 PM.png'
 taxonomy:
     category:
         - docs
@@ -15,6 +16,7 @@ This functionality allows sellers to login in sellacious backend when the websit
 1. Navigate to **Settings->Permissions** in sellacious backend.
 2. In **User Category** choose the catagory to which you want to allow backend access and in **Components** choose (Global)
 
+![](Screenshot%202020-06-04%20at%204.11.38%20PM.png)
 
-
-4. 
+4. Now permission for this component will be shown below, enable **Sellacious backend offline login** in this section.
+5. Now sellers can do offline login.
