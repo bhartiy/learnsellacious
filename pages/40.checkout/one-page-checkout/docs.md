@@ -16,7 +16,7 @@ We have two type of checkout:
 1. Step-wise checkout
 2. One page Checkout
 
-In OPC, there is all information showing in one page related to checkout. To make the checkout one page checkout, follow these steps:
+We will discuss here about one page checkout. In OPC, there is all information showing in one page related to checkout. To make the checkout one page checkout, follow these steps:
 
 1. Go to Sellacious panel of your website.
 2. Go to Settings->>Global Configuration->>Shope setting. ![](screenshot-localhost-2020.06.05-18_44_50.png)
