@@ -24,7 +24,7 @@ This enables the sellers to show stores status(open/close) on their store page. 
 
 ![](Screenshot%202020-05-21%20at%2010.50.53%20AM.png)
 
-2. Go to **Categories->Seller->Default Seller Category** and check these profile fields so that they show in seller profile.
+2. Go to **Categories->Seller->Default Seller Category** (or any other) and check these profile fields so that they show in seller profile.
 
 ![](Screenshot%202020-06-05%20at%203.04.14%20PM.png)
 
