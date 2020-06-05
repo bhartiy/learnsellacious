@@ -23,7 +23,7 @@ visible: true
 
 4. Fill the information in basic options ![](screenshot-localhost-2020.06.05-11_23_41.png)
 5. In Badge options, you can set badge icon/text, width, style , color.![](screenshot-localhost-2020.06.05-11_24_23.png)
-6. In style options border style, width, color, background color  ![](Screen%20Shot%202020-06-05%20at%2011.24.37%20AM.png)
+6. In style options, you can set border style, width, color, background color  ![](Screen%20Shot%202020-06-05%20at%2011.24.37%20AM.png)
 7. Click on save button to save.
 8. New **Special Category** is created.
 
