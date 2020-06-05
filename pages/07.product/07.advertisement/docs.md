@@ -57,6 +57,6 @@ You can also create a new special category with the settings you want.
 8. And your new special category is created.
 ![](screenshot-localhost-2020.05.25-12_26_33.png)
 
-Now special category product and badge will show up in your list pages.You can enable this config to stand out special category products in your module.
+Now special category product and badge will show up in your list pages. You can enable this config to stand out special category products in your module.
 
 ![](Screenshot%202020-06-05%20at%2010.30.26%20AM.png)
