@@ -1,5 +1,5 @@
 ---
-title: 'Product Module'
+title: 'Sellacious Products Module'
 media_order: 'Screen Shot 2020-06-05 at 12.37.00 PM.png,Screen Shot 2020-06-05 at 12.37.07 PM.png,Screen Shot 2020-06-05 at 12.37.12 PM.png,Screen Shot 2020-06-05 at 12.37.18 PM.png,Screen Shot 2020-06-05 at 12.37.23 PM.png,Screen Shot 2020-06-05 at 12.37.30 PM.png,Screen Shot 2020-06-05 at 12.37.34 PM.png'
 visible: true
 ---
