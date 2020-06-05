@@ -1,14 +1,14 @@
 ---
 title: 'Sellacious Products Module'
-media_order: 'Screen Shot 2020-06-05 at 12.37.00 PM.png,Screen Shot 2020-06-05 at 12.37.07 PM.png,Screen Shot 2020-06-05 at 12.37.12 PM.png,Screen Shot 2020-06-05 at 12.37.18 PM.png,Screen Shot 2020-06-05 at 12.37.23 PM.png,Screen Shot 2020-06-05 at 12.37.30 PM.png,Screen Shot 2020-06-05 at 12.37.34 PM.png,Screen Shot 2020-06-05 at 1.20.52 PM.png,screenshot-localhost-2020.06.05-13_31_05.png'
+media_order: 'Screen Shot 2020-06-05 at 12.37.00 PM.png,Screen Shot 2020-06-05 at 12.37.07 PM.png,Screen Shot 2020-06-05 at 12.37.12 PM.png,Screen Shot 2020-06-05 at 12.37.18 PM.png,Screen Shot 2020-06-05 at 12.37.23 PM.png,Screen Shot 2020-06-05 at 12.37.30 PM.png,Screen Shot 2020-06-05 at 12.37.34 PM.png,Screen Shot 2020-06-05 at 1.20.52 PM.png,screenshot-localhost-2020.06.05-13_31_05.png,Screen Shot 2020-06-05 at 1.49.33 PM.png'
 visible: true
 ---
 
-Written By: Rashi Gupta
-Date: 5-06-2020
+**Written By**: Rashi Gupta
+**Date**: 5-06-2020
 
-Sellacious Product Module will display All Type of product like: 
-![](Screen%20Shot%202020-06-05%20at%2012.37.00%20PM.png)
+Sellacious Product Module will display all Type of product. When publish the sellacious product module, it will show on fontend like this:
+![](Screen%20Shot%202020-06-05%20at%201.49.33%20PM.png)
 
 **1. Latest:**  In Latest product type, only latest product will be shown in module i.e. only those products which have been created recenlty.
 **2. Related:** In Related product type, only related products is shown on frontend. You can select in whose relation you'd like to display products for. In related product, two filters is added. Both related products for:
@@ -16,14 +16,14 @@ a. Both from active product detail page and selected below
 b. product on active product detail page
 c. Selected products below
 ![](Screen%20Shot%202020-06-05%20at%201.20.52%20PM.png)
-
 **3. Bestselling:**  In Bestselling product type, bestselling products will be shown on frontend.
 **4. Recently Viewd:** This option shows a user the products he viewed recently. If the user just visited the website and have no viewing history the module will not show any products. This module requires “Sellacious Recent Viewed Product Tracking” to be installed to record user viewing history in temporary browser cookie. If the plugin is not installed, the module will not work.
 **5. Seller Specific:** If no IDs are entered, and if Display only Current Page Seller Products is selected as No, then random products will be shown wherever the module is published.
 ![](screenshot-localhost-2020.06.05-13_31_05.png)
 **6. Special Category:** This option displays Special category products. Products of the selected special category will be displayed in front end.
+![](Screen%20Shot%202020-06-05%20at%2012.37.00%20PM.png)
 
-**Basic**
+**Basic:**
 **Section Title**: Section title is showing in frontend on product module.
 **Section Description**: Section description is showing below the section title in frontend on product module.
 ![](Screen%20Shot%202020-06-05%20at%2012.37.07%20PM.png)
@@ -47,8 +47,3 @@ c. Selected products below
 **Show price of products**: In module, you have option to show price of products in frontend.
 **Quick View Button**: In module, you have option to show quick view button on products in frontend.
 ![](Screen%20Shot%202020-06-05%20at%2012.37.23%20PM.png)
-
-**Advanced**
-**Module Class Suffix**:
-**Ordering**:
-![](Screen%20Shot%202020-06-05%20at%2012.37.34%20PM.png)
