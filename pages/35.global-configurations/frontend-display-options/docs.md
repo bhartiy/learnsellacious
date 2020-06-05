@@ -36,7 +36,7 @@ You can apply the special listing badge for categories & subcategories, Products
 **Sub Category Pages**
 <br>**Select Layout**: You can select layout for category view pages. There are 6 layouts: ![](Screen%20Shot%202020-06-05%20at%204.58.46%20PM.png)
 
-1. Default: In default layout, category image is showing with number of product.![](Screen%20Shot%202020-06-05%20at%204.59.13%20PM.png)
+1. Default: In default layout, category image is showing with number of product.![](Screen%20Shot%202020-06-05%20at%204.59.24%20PM.png)
 2. Elegant: In Elegant layout, category title, image and number of product is showing. ![](Screen%20Shot%202020-06-05%20at%205.16.03%20PM.png)
 3. Icontext: Icontext layout is showing on frontend like this: ![](Screen%20Shot%202020-06-05%20at%205.23.46%20PM.png)
 4. List: In list layout, only category list is showing. ![](Screen%20Shot%202020-06-05%20at%205.25.21%20PM.png)
