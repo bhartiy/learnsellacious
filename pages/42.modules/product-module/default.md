@@ -11,6 +11,12 @@ visible: true
 Sellacious Product Module will display all Type of product. When publish the sellacious product module, it will show on fontend like this:
 ![](Screen%20Shot%202020-06-05%20at%201.49.33%20PM.png)
 
+Following type of Product modules can be created using this-
+
+![](Screen%20Shot%202020-06-05%20at%2012.37.00%20PM.png)
+
+You just need to select a particular type and change some configuration accordingally.
+
 **1. Latest:**  In Latest product type, only latest product will be shown in module i.e. only those products which have been created recenlty.
 **2. Related:** In Related product type, only related products is shown on frontend. You can select in whose relation you'd like to display products for. In related product, two filters is added. Both related products for:
 a. Both from active product detail page and selected below
@@ -22,8 +28,8 @@ c. Selected products below
 **5. Seller Specific:** If no IDs are entered, and if Display only Current Page Seller Products is selected as No, then random products will be shown wherever the module is published.
 ![](screenshot-localhost-2020.06.05-13_31_05.png)
 **6. Special Category:** This option displays Special category products. Products of the selected special category will be displayed in front end.
-![](Screen%20Shot%202020-06-05%20at%2012.37.00%20PM.png)
 
+Other than above these are common configurations-
 **Basic:**
 **Section Title**: Section title is showing in frontend on product module.
 **Section Description**: Section description is showing below the section title in frontend on product module.
