@@ -4,7 +4,7 @@ media_order: 'Screen Shot 2020-06-05 at 12.37.00 PM.png,Screen Shot 2020-06-05 a
 visible: true
 ---
 
-**Written By**: Rashi Gupta
+[]()**Written By**: Rashi Gupta
 **Date**: 5-06-2020
 **Compatibility**: Sellacious v2.0.0-Beta1+
 
@@ -15,7 +15,7 @@ Following type of Product modules can be created using this-
 
 ![](Screen%20Shot%202020-06-05%20at%2012.37.00%20PM.png)
 
-You just need to select a particular type and change some configuration accordingally.
+You just need to select a particular type and change some configuration accordingly.
 
 **1. Latest:**  In Latest product type, only latest product will be shown in module i.e. only those products which have been created recenlty.
 **2. Related:** In Related product type, only related products is shown on frontend. You can select in whose relation you'd like to display products for. In related product, two filters is added. Both related products for:
