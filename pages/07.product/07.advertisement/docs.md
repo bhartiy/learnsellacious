@@ -1,5 +1,5 @@
 ---
-title: Advertisement
+title: 'Special Category Badge/Advertisement'
 media_order: 'special_categories.jpg,special_categories1.jpg,special.png,special1.png,Screen Shot 2020-05-25 at 12.17.56 PM.png,Screen Shot 2020-05-25 at 12.18.02 PM.png,Screen Shot 2020-05-25 at 12.18.18 PM.png,screenshot-localhost-2020.05.25-12_26_33.png,Screen Shot 2020-05-28 at 6.19.35 PM.png'
 taxonomy:
     category:
