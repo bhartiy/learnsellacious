@@ -1,6 +1,6 @@
 ---
 title: 'Sellacious Products Module'
-media_order: 'Screen Shot 2020-06-05 at 12.37.00 PM.png,Screen Shot 2020-06-05 at 12.37.07 PM.png,Screen Shot 2020-06-05 at 12.37.12 PM.png,Screen Shot 2020-06-05 at 12.37.18 PM.png,Screen Shot 2020-06-05 at 12.37.23 PM.png,Screen Shot 2020-06-05 at 12.37.30 PM.png,Screen Shot 2020-06-05 at 12.37.34 PM.png,Screen Shot 2020-06-05 at 1.20.52 PM.png,screenshot-localhost-2020.06.05-13_31_05.png,Screen Shot 2020-06-05 at 1.49.33 PM.png'
+media_order: 'Screen Shot 2020-06-05 at 12.37.00 PM.png,Screen Shot 2020-06-05 at 12.37.07 PM.png,Screen Shot 2020-06-05 at 12.37.12 PM.png,Screen Shot 2020-06-05 at 12.37.18 PM.png,Screen Shot 2020-06-05 at 12.37.23 PM.png,Screen Shot 2020-06-05 at 12.37.30 PM.png,Screen Shot 2020-06-05 at 12.37.34 PM.png,Screen Shot 2020-06-05 at 1.20.52 PM.png,screenshot-localhost-2020.06.05-13_31_05.png,Screen Shot 2020-06-05 at 1.49.33 PM.png,Screen Shot 2020-06-05 at 2.37.11 PM.png'
 visible: true
 ---
 
@@ -66,3 +66,8 @@ Other than above these are common configurations-
 **Show price of products**: In module, you have option to show price of products in frontend.
 **Quick View Button**: In module, you have option to show quick view button on products in frontend.
 ![](Screen%20Shot%202020-06-05%20at%2012.37.23%20PM.png)
+
+**Advanced:**
+**Module Class Suffix**: A suffix to be applied to the css class of the module (table.moduletable), this allows individual module styling
+**Ordering**: In ordering, you can set how the product will be shown in which order like popular, rating, lowest price, highest price.
+![](Screen%20Shot%202020-06-05%20at%202.37.11%20PM.png)
