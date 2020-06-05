@@ -6,6 +6,7 @@ visible: true
 
 **Written By**: Rashi Gupta
 **Date**: 5-06-2020
+**Compatibility**: Sellacious v2.0.0-Beta1+
 
 Sellacious Product Module will display all Type of product. When publish the sellacious product module, it will show on fontend like this:
 ![](Screen%20Shot%202020-06-05%20at%201.49.33%20PM.png)
