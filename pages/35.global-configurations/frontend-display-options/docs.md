@@ -1,6 +1,6 @@
 ---
 title: 'Frontend display options'
-media_order: 'Screenshot 2020-05-27 at 7.06.32 PM.png,Screenshot 2020-05-27 at 7.10.20 PM.png,Screenshot 2020-05-27 at 7.13.47 PM.png,Screenshot 2020-05-27 at 7.19.23 PM.png,Screenshot 2020-05-27 at 7.21.44 PM.png,Screenshot 2020-05-27 at 7.22.20 PM.png,Screenshot 2020-05-27 at 7.30.16 PM.png,Screenshot 2020-05-27 at 7.26.38 PM.png,screenshot-localhost-2020.05.30-13_05_01.png,Screen Shot 2020-06-01 at 6.42.41 PM.png,Screen Shot 2020-06-01 at 6.39.56 PM.png,Screen Shot 2020-06-01 at 6.46.23 PM.png,Screen Shot 2020-06-01 at 6.47.09 PM.png,Screen Shot 2020-06-01 at 6.47.59 PM.png'
+media_order: 'Screenshot 2020-05-27 at 7.06.32 PM.png,Screenshot 2020-05-27 at 7.10.20 PM.png,Screenshot 2020-05-27 at 7.13.47 PM.png,Screenshot 2020-05-27 at 7.19.23 PM.png,Screenshot 2020-05-27 at 7.21.44 PM.png,Screenshot 2020-05-27 at 7.22.20 PM.png,Screenshot 2020-05-27 at 7.30.16 PM.png,Screenshot 2020-05-27 at 7.26.38 PM.png,screenshot-localhost-2020.05.30-13_05_01.png,Screen Shot 2020-06-01 at 6.42.41 PM.png,Screen Shot 2020-06-01 at 6.39.56 PM.png,Screen Shot 2020-06-01 at 6.46.23 PM.png,Screen Shot 2020-06-01 at 6.47.09 PM.png,Screen Shot 2020-06-01 at 6.47.59 PM.png,screenshot-localhost-2020.06.04-15_58_43.png,Screen Shot 2020-06-01 at 6.49.06 PM.png,Screen Shot 2020-06-05 at 4.58.46 PM.png,Screen Shot 2020-06-05 at 4.59.13 PM.png,Screen Shot 2020-06-05 at 4.59.24 PM.png,Screen Shot 2020-06-05 at 5.16.03 PM.png'
 taxonomy:
     category:
         - docs
@@ -34,6 +34,19 @@ You can apply the special listing badge for categories & subcategories, Products
 <br>**Download link on order detail**: You can choose whether you have to apply the download link on order detail on  categories & sub categories, Products list pages, Product details Pages and Product quick view pages.
 
 **Sub Category Pages**
+<br>**Select Layout**: You can select layout for category view pages. There are 6 layouts:
+1. Default
+2. Elegant
+3. Icontext
+4. List
+5. Textimage
+6. Textonly
+
+1. Default: In default layout, category image is showing with number of product.
+![](Screen%20Shot%202020-06-05%20at%204.58.46%20PM.png)
+2. Elegant: In Elegant layout, category title, image and number of product is showing.
+![](Screen%20Shot%202020-06-05%20at%205.16.03%20PM.png)
+
 <br>**Category Sub-Category count**: whether to show sub-category count for each category in frontend categories list.You can show or hide the category sub-category count from the front-end.
 <br>**Category product count**: Whether to show product count for each category in fronetend categories list. You can show or hide the category product count from teh front end..
 <br>**Category Description**: Whether to show category description and details on subcategory pages in frontend. You can show or hide the category description from teh front end.
