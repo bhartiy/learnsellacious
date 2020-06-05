@@ -4,7 +4,7 @@ media_order: 'Screen Shot 2020-06-05 at 12.37.00 PM.png,Screen Shot 2020-06-05 a
 visible: true
 ---
 
-[]()**Written By**: Rashi Gupta
+**Written By**: Rashi Gupta
 **Date**: 5-06-2020
 **Compatibility**: Sellacious v2.0.0-Beta1+
 
@@ -36,7 +36,6 @@ c. Selected products below
 
 Other than above these are common configurations-
 **Basic:**
-
 **Section Title**: Section title is showing in frontend on product module.
 **Section Description**: Section description is showing below the section title in frontend on product module.
 ![](Screen%20Shot%202020-06-05%20at%2012.37.07%20PM.png)
