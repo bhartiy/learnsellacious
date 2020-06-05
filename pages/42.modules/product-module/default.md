@@ -43,7 +43,11 @@ Other than above these are common configurations-
 **Layout Options:**
 **Layout**: We have three types of layout: 1.Grid 2.Carusel 3.List
 **Product Block Layout**: You can choose which product block you want to show for this module. We have 5 Layouts: 
-1.Default 2.Elegant 3.Jskart 4.Minimal 5.Travelkit
+1.Default 
+2. Elegant
+3. Jskart
+4. Minimal 
+5. Travelkit
 ![](Screen%20Shot%202020-06-05%20at%2012.37.12%20PM.png)
 
 **Filter:**
