@@ -8,12 +8,6 @@ Written By: Rashi Gupta
 Date: 5-06-2020
 
 Sellacious Product Module will display All Type of product like: 
-1. Latest
-2. Related
-3. Bestselling
-4. Recently Viewd
-5. Seller Specific 
-6. Special Category
 ![](Screen%20Shot%202020-06-05%20at%2012.37.00%20PM.png)
 
 **1. Latest:**  In Latest product type, only latest product will be shown in module i.e. only those products which have been created recenlty.
