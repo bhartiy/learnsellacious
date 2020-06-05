@@ -21,13 +21,14 @@ Sellacious Product Module will display All Type of product like:
 a. Both from active product detail page and selected below
 b. product on active product detail page
 c. Selected products below
+![](Screen%20Shot%202020-06-05%20at%201.20.52%20PM.png)
+
 **3. Bestselling:**  In Bestselling product type, bestselling products will be shown on frontend.
 **4. Recently Viewd:** This option shows a user the products he viewed recently. If the user just visited the website and have no viewing history the module will not show any products. This module requires “Sellacious Recent Viewed Product Tracking” to be installed to record user viewing history in temporary browser cookie. If the plugin is not installed, the module will not work.
 **5. Seller Specific:** If no IDs are entered, and if Display only Current Page Seller Products is selected as No, then random products will be shown wherever the module is published.
 ![](screenshot-localhost-2020.06.05-13_31_05.png)
 **6. Special Category:** This option displays Special category products. Products of the selected special category will be displayed in front end.
 
-![](Screen%20Shot%202020-06-05%20at%201.20.52%20PM.png)
 **Basic**
 **Section Title**: Section title is showing in frontend on product module.
 **Section Description**: Section description is showing below the section title in frontend on product module.
