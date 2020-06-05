@@ -1,6 +1,6 @@
 ---
 title: 'Store Availability'
-media_order: 'Screenshot 2020-05-21 at 10.38.24 AM.png,Screenshot 2020-05-21 at 10.39.00 AM.png,Screenshot 2020-05-21 at 10.39.51 AM.png,Screenshot 2020-05-21 at 10.50.53 AM.png'
+media_order: 'Screenshot 2020-05-21 at 10.38.24 AM.png,Screenshot 2020-05-21 at 10.39.00 AM.png,Screenshot 2020-05-21 at 10.39.51 AM.png,Screenshot 2020-05-21 at 10.50.53 AM.png,Screenshot 2020-06-05 at 3.04.14 PM.png'
 taxonomy:
     category:
         - docs
@@ -24,7 +24,11 @@ This enables the sellers to show stores status(open/close) on their store page. 
 
 ![](Screenshot%202020-05-21%20at%2010.50.53%20AM.png)
 
-2. Configure Store timing in Sellers profile in backend or sellers edit profile in frontend. Here **Show store availability** is to show store status(open/closed) on the store page and **Show store timing** is to show store timing on the store page.
+2. Go to **Categories->Sellers->Default Seller Category** and check these profile fields so that they show in seller profile.
+
+![](Screenshot%202020-06-05%20at%203.04.14%20PM.png)
+
+3. Configure Store timing in Sellers profile in backend or sellers edit profile in frontend. Here **Show store availability** is to show store status(open/closed) on the store page and **Show store timing** is to show store timing on the store page.
 
 ![](Screenshot%202020-05-21%20at%2010.38.24%20AM.png)
 
@@ -32,7 +36,7 @@ This enables the sellers to show stores status(open/close) on their store page. 
 
 ![](Screenshot%202020-05-21%20at%2010.39.00%20AM.png)
 
-3. Now store availability (open or closed) and store timings will be shown on seller's store page accordingly. Store’s time zone is also shown and today's timing is shown highlighted.
+4. Now store availability (open or closed) and store timings will be shown on seller's store page accordingly. Store’s time zone is also shown and today's timing is shown highlighted.
 
 ![](Screenshot%202020-05-21%20at%2010.39.51%20AM.png)
 
