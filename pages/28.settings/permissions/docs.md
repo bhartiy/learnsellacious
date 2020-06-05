@@ -35,11 +35,12 @@ These are the component wise permissions-
 ![](Screenshot%202020-06-04%20at%205.40.26%20PM.png)
 
 #### Additional Attributes
-<br><br>**view custom field:**  The user permission to view the custom field.
-<br>**create custom fields**:  The user permissions to create the custom fields.
-<br>**delete custom fields**: To give the user permissions to delete the custom field.
-<br>**edit custom fields**:  To give the user permission to edit the custom fields.
+**view custom field:**  The user permission to view the custom field.
+**create custom fields**:  The user permissions to create the custom fields.
+**delete custom fields**: To give the user permissions to delete the custom field.
+**edit custom fields**:  To give the user permission to edit the custom fields.
 **activate/deactivate custom field**: To activate or to deactivate the user permissions in the custom field.
+
 #### Categories
 <br>**allow category list view**:  To give the permission to the user to allow the product category in list view.
 <br>**allow category creation**: To allow the user permissions to create the product category.
