@@ -4,6 +4,9 @@ media_order: 'Screen Shot 2020-06-05 at 12.37.00 PM.png,Screen Shot 2020-06-05 a
 visible: true
 ---
 
+Written By: Rashi Gupta
+Date: 5-06-2020
+
 Sellacious Product Module will display All Type of product like: 
 1. Latest 
 2. Related, 
