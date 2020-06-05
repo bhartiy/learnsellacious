@@ -1,6 +1,6 @@
 ---
 title: Introduction
-media_order: 'ship.png,ship1.png'
+media_order: 'ship.png,ship1.png,Screen Shot 2020-06-05 at 3.51.28 PM.png'
 taxonomy:
     category:
         - docs
@@ -22,9 +22,8 @@ visible: true
 ![](ship.png)
 
 5. Fill the Credentials. 
-7. In **Shipping Rule** section- **Rule Name, Status, Shipment Quotation Method/API** text fields are mandatory.
-8. Click on save button to save the Shipping rule details.
+6. In **Shipping Rule** section- **Rule Name, Status, Shipment Quotation Method/API** text fields are mandatory.
+7. Click on save button to save the Shipping rule details.
 
-![](ship1.png)
-
-10. And the new shipping rule is added.
+![](Screen%20Shot%202020-06-05%20at%203.51.28%20PM.png)
+8. And the new shipping rule is added.
