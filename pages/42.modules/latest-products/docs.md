@@ -3,7 +3,7 @@ title: 'Sellacious Latest Products'
 visible: true
 ---
 
-Sellacious latest products module will display the latest products.
+Sellacious latest products module will display the latest created products.
 
 **Basic:**
 **Section Title**: Section title is showing in frontend on product module.
