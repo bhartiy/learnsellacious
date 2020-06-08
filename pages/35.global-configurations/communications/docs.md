@@ -1,6 +1,6 @@
 ---
 title: 'Communications/Text Msg/OTP'
-media_order: 'Screenshot 2020-06-08 at 1.32.28 PM.png,Screenshot 2020-06-08 at 5.29.23 PM.png,Screenshot 2020-06-08 at 5.48.47 PM.png'
+media_order: 'Screenshot 2020-06-08 at 1.32.28 PM.png,Screenshot 2020-06-08 at 5.29.23 PM.png,Screenshot 2020-06-08 at 5.48.47 PM.png,Screenshot 2020-06-08 at 5.54.52 PM.png'
 taxonomy:
     category:
         - docs
@@ -26,7 +26,12 @@ Msg91: https://msg91.com
 
 ![](Screenshot%202020-06-08%20at%201.32.28%20PM.png)
 
-3. After install and enable thsese two plugin the sms API will show in Settings->Global Configuration->Communications
+3. After install and enable thsese two plugin the sms API will show in Settings->Global Configuration->Communications. Add Auth tokan and save.
 
 ![](Screenshot%202020-06-08%20at%205.29.23%20PM.png)
 ![](Screenshot%202020-06-08%20at%205.48.47%20PM.png)
+
+4. Now configure OTP configuration from Global Confuguration->Login & Registration.
+
+![](Screenshot%202020-06-08%20at%205.54.52%20PM.png)
+
