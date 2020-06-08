@@ -1,5 +1,5 @@
 ---
-title: 'Seller Module'
+title: 'Sellacious Seller Stores Module'
 visible: true
 ---
 
