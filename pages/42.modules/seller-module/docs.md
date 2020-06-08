@@ -3,21 +3,20 @@ title: 'Sellacious Seller Stores Module'
 visible: true
 ---
 
-**Number of products**: The number of products you can listed on the front end.
-<br>**Show products by**: Whether to displays the products by seller ID or seller category IDs.
-<br>**Special category**: You can select the special categories to display the special category products in the front end. The special category include the highlighted, bordered and featured.
-<br>**Disply only current page seller products**: Select YES if you want to limit the products of current product page sellers, else it will disply the products of selected sellers as per the limit.
-Options
-<br>**Product Feature List**: The product feature list created while creating the products. If you click on ‘yes’ then the feature list will be displayed on the front end and if you click on ‘No’ then the feature list will not be displayed.
-<br>**Display ratings**: It represents the ratings of the products. If you click on ‘yes’ then you can display the rating and if you click on ‘No’ then the ratings will not be displayed on the frontend.
-<br>**Compare Button**: It represents the compare button will be displayed on the front end or not. It will be shown on the upper layer of the listed products.
-<br>**Add to cart Button**: It represents the add to cart button will be displayed on the front end or not.It will be shown on the upper layer of the listed products.
-<br>**Buy Now Button**: It represents the buy now button will be displayed on the front end or not.It will be shown on the upper layer of the listed products.
-<br>**Layout**: You can select the layout you want to display the products. It can be grid, List and carousel.
-**MENU ASSIGNMENT:**
-You can choose where you want to show the module. You can select any one of the option from here.
-On all pages
-No. of pages
-Only on pages selected
-On all pages except selected
+Sellacious Seller Store Module will display list of seller stores. When publish the sellacious seller store module, it will show on fontend like this:
+![](Screen%20Shot%202020-06-08%20at%206.44.32%20PM.png)
+**Section Title**: Section title is showing in frontend on Store module.
+**Section Description**: Section description is showing below the section title in frontend on store module.
+**Number of Stores**: You can set the number of stores you want to show in store module.
+**Category**: You can choose the seller category from which you want to show on store module.
+**Display Ratings**: You can show/hide Store Ratings on frontend on store module, but Stores rating should be enabled from sellacious config.
+**Display Product Count**: You can show/hide store product count on frontend in store module.
+![](Screen%20Shot%202020-06-08%20at%207.02.35%20PM.png)
 
+**Layout**: We have 2 layouts in store module: 1. Carousel, 2. Grid![](Screen%20Shot%202020-06-08%20at%207.04.12%20PM.png)
+
+**Ordering**: In oredring, you can set how the stores are showing on frontend in module, either stores are in Alphabetical order or in Random order. ![](Screen%20Shot%202020-06-08%20at%207.04.44%20PM.png)
+
+**OrderBy**: You can set stores in Ascending or descending order in frontend.![](Screen%20Shot%202020-06-08%20at%207.11.33%20PM.png)
+
+**Module Class Suffix**: A suffix to be applied to the css class of the module (table.moduletable), this allows individual module styling
