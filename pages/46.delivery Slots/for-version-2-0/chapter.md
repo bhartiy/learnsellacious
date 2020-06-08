@@ -5,8 +5,6 @@ taxonomy:
 visible: true
 ---
 
-### Chapter Number
+In version 2.0 delivery slots configurations:
 
-# Chapter Title
-
-Chapter description.
+1. For Store Availability [](https://www.sellacious.com/learn/delivery%20slots/for-version-2-0/product-and-shipping-scope#product-scope)
