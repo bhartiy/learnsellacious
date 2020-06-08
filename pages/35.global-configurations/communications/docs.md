@@ -26,7 +26,7 @@ Msg91: https://msg91.com
 
 ![](Screenshot%202020-06-08%20at%201.32.28%20PM.png)
 
-3. After install and enable thsese two plugin the sms API will show in Settings->Global Configuration->Communications. Add Auth tokan and save.
+3. After install and enable these two plugin the sms API will show in Settings->Global Configuration->Communications. Add Auth tokan and save.
 
 ![](Screenshot%202020-06-08%20at%205.29.23%20PM.png)
 ![](Screenshot%202020-06-08%20at%205.48.47%20PM.png)
