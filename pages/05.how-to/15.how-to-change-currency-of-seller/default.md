@@ -3,7 +3,9 @@ title: 'How to change currency of seller'
 media_order: 'image-2020.06.04-10_15_59.png,image-2020.06.04-10_10_18.png,image-2020.06.04-10_08_11 (1).png'
 ---
 
-Written By:
+**Written By**: Rashi Gupta
+**Date**: 08-06-2020
+**Compatibility**: Sellacious v2.0.
 
 To change the currency of seller, follow these steps:
 
