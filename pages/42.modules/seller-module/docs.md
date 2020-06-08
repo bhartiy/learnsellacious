@@ -6,10 +6,15 @@ visible: true
 Sellacious Seller Store Module will display list of seller stores. When publish the sellacious seller store module, it will show on fontend like this:
 ![](Screen%20Shot%202020-06-08%20at%206.44.32%20PM.png)
 **Section Title**: Section title is showing in frontend on Store module.
+
 **Section Description**: Section description is showing below the section title in frontend on store module.
+
 **Number of Stores**: You can set the number of stores you want to show in store module.
+
 **Category**: You can choose the seller category from which you want to show on store module.
+
 **Display Ratings**: You can show/hide Store Ratings on frontend on store module, but Stores rating should be enabled from sellacious config.
+
 **Display Product Count**: You can show/hide store product count on frontend in store module.
 ![](Screen%20Shot%202020-06-08%20at%207.02.35%20PM.png)
 
