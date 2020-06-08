@@ -3,6 +3,10 @@ title: 'Sellacious Seller Stores Module'
 visible: true
 ---
 
+**Written By**: Rashi Gupta
+**Date**: 08-06-2020
+**Compatibility**: Sellacious v2.0.0-Beta1+
+
 Sellacious Seller Store Module will display list of seller stores. When publish the sellacious seller store module, it will show on fontend like this:
 ![](Screen%20Shot%202020-06-08%20at%206.44.32%20PM.png)
 **Section Title**: Section title is showing in frontend on Store module.
