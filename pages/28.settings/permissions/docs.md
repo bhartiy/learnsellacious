@@ -53,6 +53,8 @@ Now Sellers also be able to import thier products in sellaciosu marketplace, to 
 **Delete any Import Template**  This permission will allow user to delete any import template for any user.
 **Delete own Import Template**  This permission will allow user to delete his own import template, which he has created.
 
+![](Screenshot%202020-06-08%20at%206.15.03%20PM.png)
+
 #### Additional Attributes
 **view custom field:**  The user permission to view the custom field.
 **create custom fields**:  The user permissions to create the custom fields.
