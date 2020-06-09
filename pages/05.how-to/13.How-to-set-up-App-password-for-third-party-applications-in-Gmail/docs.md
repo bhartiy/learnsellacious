@@ -40,3 +40,6 @@ If you are using 2-step password verification in Gmail- you need to generate the
 6. Enter the password (without space) into SMTP password field.
 
 ![](test.png)
+
+
+Note: For yoahho mail go to https://help.yahoo.com/kb/generate-third-party-passwords-sln15241.html
