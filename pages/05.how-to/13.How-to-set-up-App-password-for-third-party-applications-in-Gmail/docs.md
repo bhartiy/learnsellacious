@@ -42,4 +42,4 @@ If you are using 2-step password verification in Gmail- you need to generate the
 ![](test.png)
 
 
-Note: For yoahho mail go to https://help.yahoo.com/kb/generate-third-party-passwords-sln15241.html
+Note: For yahoo mail go to https://help.yahoo.com/kb/generate-third-party-passwords-sln15241.html
