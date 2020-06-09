@@ -31,9 +31,9 @@ Sendmail Path → This should already be present if not it needs to be /usr/sbin
 SMTP Authentication → Select Yes
 SMTP Security → SSL
 SMTP Port → 465
+SMTP Host → smtp.gmail.com (for yahoo smtp.mail.yahoo.com)
 SMTP Username → Your email address email@myemail.com
 SMTP Password → Your email password or App password
-SMTP Host → smtp.gmail.com (for yahoo smtp.mail.yahoo.com)
 
 ![](smtp%20sttings.png)
 
