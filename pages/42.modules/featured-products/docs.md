@@ -1,9 +1,15 @@
 ---
-title: 'Featured Products'
+title: 'Sellacious Special Category Products'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
 Display the special category products: You can apply the module for the sellacious special category products.
+
+**Basic:**
+
 <br>**Number of products**: The number of products you can listed on the front end.
 <br>**Special category**: You can select the special categories to display the special category products in the front end. The special category include the highlighted, bordered and featured.
 
