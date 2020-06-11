@@ -1,5 +1,5 @@
 ---
-title: 'Delivery Slots'
+title: Delivery_Slots
 taxonomy:
     category: docs
 ---
