@@ -7,7 +7,7 @@ taxonomy:
 visible: true
 ---
 
-Display the special category products: You can apply the module for the sellacious special category products.
+Sellacious special category module display the special category products in frontend.
 
 **Basic:**
 **Section Title:** Section title is showing in frontend on special category product module.
