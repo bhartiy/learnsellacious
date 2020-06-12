@@ -30,10 +30,6 @@ shop website: You can add the website of the shop here. It must be in a complete
 
 **shop currency**: Choose default shop currency. You can change the shop currency from here according to your choice.when you click on the text box drop box menu will be appeared all the currencies are to be listed here.
 
-**default intitial stock**: Set a default initial stock value for all products, this can be over ridden in the category if stock management is set to category level. You can change the initial stock by scroll bar placed on the text box.
-
-**default over stock limit**: Set a default over stock sales limit value for all products, this can be over ridden in the category if stock management is set to category level.
-
 **order complete redirect**: Enter the URL where the user should be redirected on click of continue button on order completion page. You can add the URL of the redirected page of the order. It must be in the complete URL like https://www.google.com
 
 **check stock in front-end**:  This option will help you to add the stock manager in the front end to check the stock. If you want to check the stock from the front end then click on the ‘yes’ otherwise you can click on the ‘No’ button. This feature is mainly used for the checking the stock from the front end, 
