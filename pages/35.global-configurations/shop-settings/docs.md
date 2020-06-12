@@ -30,11 +30,6 @@ shop website: You can add the website of the shop here. It must be in a complete
 
 **shop currency**: Choose default shop currency. You can change the shop currency from here according to your choice.when you click on the text box drop box menu will be appeared all the currencies are to be listed here.
 
-**stock management**: Choose at what level the stock value can be set. If set to ‘Global’ it would be possible to enter stock at category level and product level, and once the stock ends the product level, and once the stock ends the product will be marked as out of stock forever.
-**Inherit from global:
-Inherit from category:
-Individual product:**
-
 **default intitial stock**: Set a default initial stock value for all products, this can be over ridden in the category if stock management is set to category level. You can change the initial stock by scroll bar placed on the text box.
 
 **default over stock limit**: Set a default over stock sales limit value for all products, this can be over ridden in the category if stock management is set to category level.
