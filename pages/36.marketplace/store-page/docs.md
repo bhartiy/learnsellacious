@@ -63,7 +63,7 @@ Chat button is visible now on store page
 ![](Screenshot%202020-05-26%20at%206.32.21%20PM.png)
 ![](Screenshot%202020-05-26%20at%206.27.47%20PM.png)
 
-**10. Add to favourite store** Users can add a store to its favourite list. When you click the button, store will be added to favorite and it will show Favourite store Page too. To know more about it go to [Favourite store](https://www.sellacious.com/documentation-v2#/learn/marketplace/favourite-store)
+**10. Add to favourite store** Users can add a store to its favourite list. When you click the button, store will be added to favourite and it will show Favourite store Page too. To know more about it go to [Favourite store](https://www.sellacious.com/documentation-v2#/learn/marketplace/favourite-store)
 
 ![](Screenshot%202020-05-26%20at%207.20.26%20PM.png)
 ![](Screenshot%202020-05-26%20at%207.21.07%20PM.png)
