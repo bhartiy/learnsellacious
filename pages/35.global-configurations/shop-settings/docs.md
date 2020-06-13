@@ -44,9 +44,19 @@ You can set the shop settings from the global configuration.
 
 **Catalogue Mode**: If enabled, the user will be allowed to checkout and place orders. In frontend there is a option while the placing the orders. When you click on the check out the payment process starts and allow the checkout process. If you want to allow the checkout then click on the ‘yes’ button otherwise you can click on ‘No’ button.
 
-**minimum cart value**: Enter the minimum cart value required to be able to complete the checkout process. You can add the minimum amount of value for processing the checkout according to the currency.
+**Minimum Cart Value**: Enter the minimum cart value required to be able to complete the checkout process. You can add the minimum amount of value for processing the checkout according to the currency.
 
-**checkout form fields**: If you want to ask some extra information from a buyer during the checkout process. Add your form fields here.The cart checkout will include these automatically.
+**Global Checkout Form Fields**: These fields will be automatically added in cart checkout. Fields which are not set as Global will be available for selection in Checkout Form Fields.
+
+**Checkout Form Fields**: If you want to ask some extra information from a buyer during the checkout process. Add your form fields here. The cart checkout will include these automatically.
+
+**Checkout Type**: Select if you want Checkout page to show in steps-wise or in one page.
+
+**OPC column count**: If you select one page checkout in above checkout-type then select, how many columns should the One page checkout sections be divided: 2 columns, 3 columns.
+
+**Order Status Change**: Choose whether you want to change order status for the whole order or for each product individually.
+
+**Allow Order Address Edit**: If you want the customers to be able to edit billing/shipping address before payment, enable the setting from here.
 
 **ORDER NUMBER SETTING**
 <br>**Order Number Pattern**: Choose a pattern for how the order numbers are built when an order is placed. You can use following placeholders in your pattern.
