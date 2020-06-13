@@ -18,27 +18,31 @@ You can set the shop settings from the global configuration.
 
 * **Back-office Favicon**: Upload image to be used as Sellacious back office logo. You can upload the back-office logo upto max 1GB. It is a premium feature.
 
-**shop address**: The address of your shop. You can add the 3-4 lines of the address here in the text box.
+**Shop Address**: The address of your shop. You can add the 3-4 lines of the address here in the text box.
 
-**shop country**: The country belongs to your shop. You can select the country after typing two or more characters the list of the countries are to be listed here.
+**Shop Country**: The country belongs to your shop. You can select the country after typing two or more characters the list of the countries are to be listed here.
 
-**user IP based default country**: It will overwrite shop country in address. If we set as ‘yes’ then you can access the country with the User IP. If we set as ‘No’ Then you can’t access the country with the User IP. 
+**User IP Based Default Country**: It will overwrite shop country in address. If we set as ‘yes’ then you can access the country with the User IP. If we set as ‘No’ Then you can’t access the country with the User IP. 
 
-**shop phone number**: The phone number of the shop can be added here.Two fields are there to add the shop phone #1 and shop phone#2. Shop phone#1 is for adding personal phone number and shop phone#2 is for adding alternative phone number.
-shop email: The email id of the shop can be added here.
-shop website: You can add the website of the shop here. It must be in a complete website address for example: www.sellacious.com/shop
+**Shop Phone Number**: The phone number of the shop can be added here.Two fields are there to add the shop phone #1 and shop phone#2. Shop phone#1 is for adding personal phone number and shop phone#2 is for adding alternative phone number.
+**Shop Email**: The email id of the shop can be added here.
+**Shop Website**: You can add the website of the shop here. It must be in a complete website address for example: www.sellacious.com/shop
 
-**shop currency**: Choose default shop currency. You can change the shop currency from here according to your choice.when you click on the text box drop box menu will be appeared all the currencies are to be listed here.
+**Shop Currency**: Choose default shop currency. You can change the shop currency from here according to your choice.when you click on the text box drop box menu will be appeared all the currencies are to be listed here.
 
-**order complete redirect**: Enter the URL where the user should be redirected on click of continue button on order completion page. You can add the URL of the redirected page of the order. It must be in the complete URL like https://www.google.com
+**Order Complete Redirect**: Enter the URL where the user should be redirected on click of continue button on order completion page. You can add the URL of the redirected page of the order. It must be in the complete URL like https://www.google.com
 
-**check stock in front-end**:  This option will help you to add the stock manager in the front end to check the stock. If you want to check the stock from the front end then click on the ‘yes’ otherwise you can click on the ‘No’ button. This feature is mainly used for the checking the stock from the front end, 
+**Display Stock on Product Detail**: If you select Yes, product stock count will display on product detail page.
 
-**zero price checkout**: Choose whether an item with zero price can be purchased(for free) during the checkout or not.
-allow user currency prefernece: Allow users to set their own preferred currency.They can always  to another currency temporarily during site navigation. If you click on the Yes button then you can allow the user currency preference and if you click No then you can’t allow the user currency preference.
-detect currency from IP: Automatically detect currency from users IP address if no preferred currency is set. If you want to enable the currency from your Ip then click on yes button and if you want to disable the currency from your IP then click on No button.
+**Display Stock on Product in product list view**: If you select Yes, product stock count will display on product list page.
 
-**allow checkout**: If enabled, the user will be allowed to checkout and place orders. In frontend there is a option while the placing the orders.When you click on the check out the payment process starts and allow the checkout process. If you want to allow the checkout then click on the ‘yes’ button otherwise you can click on ‘No’ button.
+**Zero Price Checkout**: Choose whether an item with zero price can be purchased(for free) during the checkout or not.
+
+**Allow User Currency Prefernece**: Allow users to set their own preferred currency.They can always  to another currency temporarily during site navigation. If you click on the Yes button then you can allow the user currency preference and if you click No then you can’t allow the user currency preference.
+
+**Detect Currency From IP**: Automatically detect currency from users IP address if no preferred currency is set. If you want to enable the currency from your Ip then click on yes button and if you want to disable the currency from your IP then click on No button.
+
+**Catalogue Mode**: If enabled, the user will be allowed to checkout and place orders. In frontend there is a option while the placing the orders. When you click on the check out the payment process starts and allow the checkout process. If you want to allow the checkout then click on the ‘yes’ button otherwise you can click on ‘No’ button.
 
 **minimum cart value**: Enter the minimum cart value required to be able to complete the checkout process. You can add the minimum amount of value for processing the checkout according to the currency.
 
