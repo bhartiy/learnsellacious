@@ -108,6 +108,7 @@ No. of address lines can be selected from here for example if we have set no. of
 ![](Screenshot%202020-05-27%20at%207.21.44%20PM.png)
 ![](Screenshot%202020-05-27%20at%207.22.20%20PM.png)
 Country, state, district can be shown as select2 dropdown or as text field. if checked text only these fields will show as text field.
+NOTE: Do not change this again and again from one to another, otherwise geolocation saved with dropdown will show as location id. So in this case best practice is to enable one type of field for your shop from begining.
 ![](Screenshot%202020-05-27%20at%207.26.38%20PM.png)
 ![](Screenshot%202020-05-27%20at%207.30.16%20PM.png)
 
