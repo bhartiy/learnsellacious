@@ -84,6 +84,11 @@ You can set the shop settings from the global configuration.
 <br>**Order ID shift**:  Enter the value by which the order ID should be increased when building order number.
 ![](Screen%20Shot%202020-06-20%20at%207.26.51%20PM.png)
 
+**Invoice Setting**:
+
+**Invoice on Order Status**: Select the order status on which the Invoice should be generated. Leave it as is, if you want the Invoice generated as soon as the order is created.
+![](Screen%20Shot%202020-06-20%20at%207.29.48%20PM.png)
+
 **RMA**
 
 RMA is the return merchandise authorisation is a part of the process of returning a product to receive refund, replacement or repair during the product’s warranty period.
