@@ -1,5 +1,6 @@
 ---
 title: 'Shop Settings'
+media_order: 'Screen Shot 2020-06-20 at 7.24.55 PM.png'
 taxonomy:
     category:
         - docs
@@ -58,6 +59,16 @@ You can set the shop settings from the global configuration.
 
 **Allow Order Address Edit**: If you want the customers to be able to edit billing/shipping address before payment, enable the setting from here.
 
+**Rounding Grand Total**
+
+**Rounding Grand Total**: If enabled, Cart Grand Total will be rounded according to the below settings.
+
+**Rounding Method**: Choose the Rounding Method which will used to round Grand Total.
+
+**Rounding Direction**: Choose whether Grand Total should be rounded up or rounded down.
+
+![](Screen%20Shot%202020-06-20%20at%207.24.55%20PM.png)
+
 **ORDER NUMBER SETTING**
 <br>**Order Number Pattern**: Choose a pattern for how the order numbers are built when an order is placed. You can use following placeholders in your pattern.
 {USERID} = User ID of the customer
@@ -73,6 +84,7 @@ You can set the shop settings from the global configuration.
 <br>**Order ID shift**:  Enter the value by which the order ID should be increased when building order number.
 
 **RMA**
+
 RMA is the return merchandise authorisation is a part of the process of returning a product to receive refund, replacement or repair during the product’s warranty period.
 
 **Allow Returns**: Choose how to manage purchase returns for a product sold from this store. You can choose three conditions from here disable, Use global settings, allow sellers to choose. You can set as the disable, Use global settings and allow sellers to choose. In disable you can disable the allow return option. Global settings will set the allow returns option from the global configuration. In allow sellers to choose, sellers can choose whether to allow the return or not.
