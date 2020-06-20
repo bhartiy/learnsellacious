@@ -82,6 +82,7 @@ You can set the shop settings from the global configuration.
 {OID}=Order ID(required)
 <br>**Order Number Padding**: Enter the minimum number of digits to use for order id when building order number.
 <br>**Order ID shift**:  Enter the value by which the order ID should be increased when building order number.
+![](Screen%20Shot%202020-06-20%20at%207.26.51%20PM.png)
 
 **RMA**
 
