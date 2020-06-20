@@ -72,7 +72,8 @@ You can set the shop settings from the global configuration.
 <br>**Order Number Padding**: Enter the minimum number of digits to use for order id when building order number.
 <br>**Order ID shift**:  Enter the value by which the order ID should be increased when building order number.
 
-**RMA** : RMA is the return merchandise authorisation is a part of the process of returning a product to receive refund, replacement or repair during the product’s warranty period.
+**RMA**
+RMA is the return merchandise authorisation is a part of the process of returning a product to receive refund, replacement or repair during the product’s warranty period.
 
 **Allow Returns**: Choose how to manage purchase returns for a product sold from this store. You can choose three conditions from here disable, Use global settings, allow sellers to choose. You can set as the disable, Use global settings and allow sellers to choose. In disable you can disable the allow return option. Global settings will set the allow returns option from the global configuration. In allow sellers to choose, sellers can choose whether to allow the return or not.
 
