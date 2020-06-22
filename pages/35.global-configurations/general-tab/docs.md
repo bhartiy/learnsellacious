@@ -36,6 +36,8 @@ Check the type from the following options: Image, Document, archive, Audio, Vide
 
 **Allow duplicate geolocation**: choose whether to use two geo locations with same names and with same parent region. We can use this feature in different locations with same name.For example, Beverly Hills in California and Beverly hills in Texas. 
 
+**Product Category Mandatory**: Choose 'Yes' if you want to require all the products to be assigned at least one category or 'No' to make category selection optional for products.
+
 **Product Category Limit:** Set the number of allowed categories to select in product, i.e. unlimited, single, define limit.
 
 **Product rating**: This feature allow the consumers to rate your products from frontend.<br>
