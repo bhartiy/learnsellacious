@@ -103,3 +103,10 @@ Terms & conditions for returns: Enter the terms and conditions which are applica
 **Exchange period & Image**: Enter number of days to allow exchange and choose an image for each to show on the product page to highlight the exchange availability.The sellers may be provided a choice among these while listing their products.
 
 **Terms & conditions for exchange**: Enter the terms and conditions which are applicable to all exchange requests. You can describe all the conditions if you apply the allow exchange option
+
+**GST Details**
+**GST Number:** You can enter your shop GST Number here.
+
+**PAN Number:** You can enter your shop PAN Numbere here.
+
+**Ask Buyer's GST on Checkout:** If you enable this, You can ask Buyer GST Numbere here during checkout.![](Screen%20Shot%202020-06-22%20at%205.20.47%20PM.png)
