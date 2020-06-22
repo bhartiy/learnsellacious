@@ -1,6 +1,9 @@
 ---
 title: 'General Tab'
 media_order: 'General Tab.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -19,19 +22,12 @@ You can set the variants from the product catalogue in sellacious admin panel.
 * **Enabled.show variants as options to the main product:** You can use this feature to add multi-variants to main       products in your shop. 
 * **Enabled.show each variant as a separate product:**  You can use this feature to add multi-variants to seperate       products in your shop. 
 
-**Pricing model**: pricing model represents to set the price.Pricing represents the price of the particular product.
-* **flat price**: This option is to set flat Pricing to products.No profit margin or any other price will override       this pricing type.
-* **Basic pricing**: In this option you can set cost price and profit margin in products.<br>
-    But if flat price is set with these prices then flat price will override the calculated or listed price. 
-* **Advance pricing**: Advance option in pricing is USP of sellacious.<br>
-    With this pricing type you can set pricing for particular user group and also for definite time.<br>
-    It can also be described as offer price which will be applied and visible to only few customers group.<br>
-    You can set quantity limit in this pricing type and that price will only apply to that limit. 
-
 **Allowed product type**: In this feature you can select the type of products you want to display on the front end.   It can be physical product, Electronic product or both. 
 * **Physical only:** Physical product represents the products physical in nature. For example: Laptops,                 Mobile phones etc. 
 * **Electronic only:**  Electronic products are the products electronic in nature and non-tangible. For example: E-     books. 
 * **Both:** This option is for both physical and electronic products.
+
+**Default Product Type**: You can choose which product type should be selected by default.
 
 **E-product file types**: In this feature select the type of file for e-products. E-products are the electronic products i.e, E-Books.
 Check the type from the following options: Image, Document, archive, Audio, Video.
