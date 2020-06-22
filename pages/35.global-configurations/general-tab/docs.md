@@ -27,7 +27,7 @@ You can set the variants from the product catalogue in sellacious admin panel.
 * **Electronic only:**  Electronic products are the products electronic in nature and non-tangible. For example: E-     books. 
 * **Both:** This option is for both physical and electronic products.
 
-**Default Product Type**: You can choose which product type should be selected by default.
+**Default Product Type**: You can choose which product type should be selected by default. These types are: Physical, Electronic, Package.
 
 **E-product file types**: In this feature select the type of file for e-products. E-products are the electronic products i.e, E-Books.
 Check the type from the following options: Image, Document, archive, Audio, Video.
