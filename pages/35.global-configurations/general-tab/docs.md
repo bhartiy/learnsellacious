@@ -44,6 +44,11 @@ Check the type from the following options: Image, Document, archive, Audio, Vide
   By enabling this feature product ratings option will be available in the front end.<br>
   If you dont want to give rating options to the consumer then disable it.<br>
 
+**Show cart modal**:
+
+**Allow Questions on Product**: If you want buyer to ask question on product to allow questions on product, enable it.
+
+
 **product detail page**: The product detail page is the detailed page of the product which is shown in the front end. The features and the description of the products added on each product to be shown here.
 
 **product comparison**: Select whether you want to compare the products with other products or not.There is an option on every product to compare.If you want to compare then tick on the compare button to compare the products. You can enable or disable the comparing feature from here.The product comparison chart includes price, Rating, Sold by, features, product summary, Life style, color, storage type and what’s in box.
