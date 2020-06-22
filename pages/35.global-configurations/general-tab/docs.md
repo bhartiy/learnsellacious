@@ -36,6 +36,8 @@ Check the type from the following options: Image, Document, archive, Audio, Vide
 
 **Allow duplicate geolocation**: choose whether to use two geo locations with same names and with same parent region. We can use this feature in different locations with same name.For example, Beverly Hills in California and Beverly hills in Texas. 
 
+**Product Category Limit:** Set the number of allowed categories to select in product, i.e. unlimited, single, define limit.
+
 **Product rating**: This feature allow the consumers to rate your products from frontend.<br>
   By enabling this featureproduct ratings option will be available in the front end.<br>
   If you dont want to give rating options to the consumer then disable it.<br>
