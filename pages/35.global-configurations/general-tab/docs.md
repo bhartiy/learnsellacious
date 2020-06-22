@@ -41,7 +41,7 @@ Check the type from the following options: Image, Document, archive, Audio, Vide
 **Product Category Limit:** Set the number of allowed categories to select in product, i.e. unlimited, single, define limit.
 
 **Product rating**: This feature allow the consumers to rate your products from frontend.<br>
-  By enabling this featureproduct ratings option will be available in the front end.<br>
+  By enabling this feature product ratings option will be available in the front end.<br>
   If you dont want to give rating options to the consumer then disable it.<br>
 
 **product detail page**: The product detail page is the detailed page of the product which is shown in the front end. The features and the description of the products added on each product to be shown here.
