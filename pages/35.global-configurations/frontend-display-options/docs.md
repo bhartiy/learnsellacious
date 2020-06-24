@@ -23,6 +23,15 @@ You can apply the special listing badge for categories & subcategories, Products
 <br>**product quick view button**: You can choose whether you have to apply the product quick view button on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
 <br>**Manufacturer Details**: You can choose whether you have to apply the Manufacturer Details on product details page & product quick view page.
 ![](screenshot-localhost-2020.06.04-15_58_43.png)
+
+**Chat Button**: You can choose whether you have to apply the chat button on product detail page and store page.
+
+**Coupons Button**: You can choose whether you have to apply the coupons button on store page.
+
+**Discounts Button**: You can choose whether you have to apply the discounts button on store page.
+
+**Social Links**: You can choose whether you have to apply the social links button on store page.
+
 <br>**product price display**:You can choose whether you have to apply the product price Display on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
 
 **continue price display**: You can choose whether you have to apply the continue price display on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
