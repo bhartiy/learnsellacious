@@ -44,7 +44,7 @@ Check the type from the following options: Image, Document, archive, Audio, Vide
   By enabling this feature product ratings option will be available in the front end.<br>
   If you dont want to give rating options to the consumer then disable it.<br>
 
-**Show cart modal**:
+**Show cart modal**: You can choose whether to show cart modal everytime when product added to cart or only show add to cart message.
 
 **Allow Questions on Product**: If you want buyer to ask question on product to allow questions on product, enable it.
 
