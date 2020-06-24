@@ -60,7 +60,9 @@ Check the type from the following options: Image, Document, archive, Audio, Vide
 
 **maximum products to compare**: Select the Maximum number of products, which can be compared at one time. Suppose you set its value 5, then at one time only 5 products can be compared.
 
-**Redirect URL**:The user  will be redirected to this page when a requested page either does not exist or it has been disabled. You can add a redirect URL if the link of your shop is not working. Redirect the URL means making the web page available under more than one URL address. When a web browser attempts to open a URL that has been redirected, a page with a different URL is opened.
+**Redirect URL**: The user  will be redirected to this page when a requested page either does not exist or it has been disabled. You can add a redirect URL if the link of your shop is not working. Redirect the URL means making the web page available under more than one URL address. When a web browser attempts to open a URL that has been redirected, a page with a different URL is opened.
+
+**Product Wishlist**: If you want that buyer can add products in wishlist, enable this configuration.
 
 **Protect email/phone number**: Protect email/phone number helps you To prevent the information from the others.you can choose the text or the image to protect your details. The call/email for price information can be used by spammers/bots to exploit the sellers. Displaying these information as image can prevent this to significant level.
 
