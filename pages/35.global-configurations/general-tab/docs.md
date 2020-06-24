@@ -74,13 +74,15 @@ Check the type from the following options: Image, Document, archive, Audio, Vide
 
 **Forex update frequency**: choose how often the forex rates should be fetched. Only the latest fetched rates are used for internal currency exchanges within sellacious. The updation of the Forex after a particular frequency. You can set the update frequency from here. You can set according to the days, minute and Hours.
 
-**Send Email After Product Creation**
+**Send Email After Product Creation**: Choose whether to send email after product creation or not.
 
-**Shop Rule Slabs By Import**
+**Shop Rule Slabs By Import**: Choose whether you want to import Shop rule slabs using CSV import. If disabled, you will be able to set them manually in the grid provided and country, state, zip filtering will not be available.
 
-**CSV Import Location Field**
+**CSV Import Location Field**: Choose the Field you want to enter for Location when importing rules from CSV. These are: 1. Code, 2. Title, 3. Id
 
-**Default Editor**
+**Default Editor**: Select the default text editor for your site. Registered Users will be able to change their preference in their personal details if you allow that option.
+
+**Default List Limit**: Sets the default length of lists in the Control Panel for all users.
 
 **Site Offline Settings**
 
