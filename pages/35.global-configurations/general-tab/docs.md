@@ -48,6 +48,9 @@ Check the type from the following options: Image, Document, archive, Audio, Vide
 
 **Allow Questions on Product**: If you want buyer to ask question on product to allow questions on product, enable it.
 
+**Allow Guests to Ask Question**: If you want guest can also ask question on product, enable it.
+
+
 
 **product detail page**: The product detail page is the detailed page of the product which is shown in the front end. The features and the description of the products added on each product to be shown here.
 
