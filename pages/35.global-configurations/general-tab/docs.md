@@ -74,16 +74,16 @@ Check the type from the following options: Image, Document, archive, Audio, Vide
 
 **Forex update frequency**: choose how often the forex rates should be fetched. Only the latest fetched rates are used for internal currency exchanges within sellacious. The updation of the Forex after a particular frequency. You can set the update frequency from here. You can set according to the days, minute and Hours.
 
-**show sellacious branding**: To show the branding of the sellacious on the frontend, If you want to use this feature then you have to buy the license. It is a premium feature of the sellacious. The sellacious branding shown on the bottom of the page. If you want to remove the sellacious branding from your page then click on ‘yes’ otherwise select ‘No’.
+**Send Email After Product Creation**
 
-**Main menu**: Choose a menu to be used for the main navigation menu for sellacious. You can select from the drop down menu. Use system present and Sellacious backoffice menu. You can choose the menu which are already presented in the back office of the sellacious is the system present and the sellacious backoffice menu will create the menus from the menu manager.
-show stock column in catalogue: Choose whether to show the stock column in the particular catalogue or not.This is the setting for the sellacious backoffice. Whether you want to show the stock column in the product catalogue or not.The number of products which are currently on your stock. You can change the stock from the product catalogue.when you click on the product then on the seller specific you can change the current stock of the product.
+**Shop Rule Slabs By Import**
 
-**show ratings column catalogue**: Choose whether to show the rating column in the product catalogue or not. This is the setting for the sellacious backoffice. Whether you want to show the ratings column in the product catalogue or not.Rating is the detailed list view which was submitted by the customers.
- 5 Stars represented as Excellent.
- 4 Stars represented as Above Average.
- 3 Stars represented as Average.
- 2 Stars represented as Below Average.
- 1 Stars represented as Poor.
- 
-**show orders column in catalogue**: Choose whether to show the column order in the product catalogue or not. It is sellacious backoffice in which the orders are to listed. The orders are to be listed according to the Number of orders for that product which includes number of products ordered and the quantity of the product.(for example: 3(6) 3 presents the number of orders and 6 represents the quantity).
+**CSV Import Location Field**
+
+**Default Editor**
+
+**Site Offline Settings**
+
+**Offline Message**: Display or not a Frontend message when the site is offline. The custom offline message uses the value defined in the 'Custom message' field. The language offline message uses the value defined in the site language ini file.
+
+**Custom Message**: The custom offline message will be used if the 'Offline Message' field is set to 'Use Custom Message'.
