@@ -47,15 +47,21 @@ You can apply the special listing badge for categories & subcategories, Products
 <br>**Show Rating on stores view**: You can choose whether you have to apply the show rating on stores view on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
 
 **Show store ratings on Store details view**: Choose whether to show store rating on store page.
-<br>**Show location on store details view**:
-<br>**Store logo image size**:
-<br>**Height of image for stores**:
-<br>**No. of Products Columns**:
-<br>**Show filters on store details page**:
-<br>**Position of filters on store page**:
-<br>**Show reviews on Stores View**:
-<br>**Number of Reviews for stores page**:
+<br>**Show location on store details view**: Choose whether to show store's location on store details view. The location icon will only be visible if Hyperlocal plugin is enabled and a Google maps API key has been provided.
+<br>**Store logo image size**: Choose whether to show logo image size:
+1. Fit to container.
+2. Completely fill container(may be partially hidden)
+<br>**Height of image for stores**: you can set the height of image of stores from here.
+<br>**No. of Products Columns**: You can select the No. of Columns in Products listing view to show.
+<br>**Show filters on store details page**: Choose whether to show filters on store detail page.
+<br>**Position of filters on store page**: You can set the positionof filters on store page, i.e. left or right.
+<br>**Show reviews on Stores View**: Choose whether to show reviews of store on stores view.
+<br>**Number of Reviews for stores page**: You can set maximum number of reviews to display on stores view.
 <br>**Download link on order detail**: You can choose whether you have to apply the download link on order detail on  categories & sub categories, Products list pages, Product details Pages and Product quick view pages.
+<br>**Show category with no product**: Whether to show category with no product on categories view 
+<br>**Show title of single payment method**: Whether to show title of payment method when only one payment method is published
+<br>**Add Fund button on Transactions page**: Select whether you want to show Add Fund button on Transactions page or to hide the button.
+<br>**Place withdrawal on Transactions page**: Select whether you want to show place withdrwal button on Transactions page.
 
 **Sub Category Pages**
 <br>**Select Layout**: You can select layout for category view pages. There are 6 layouts: ![](Screen%20Shot%202020-06-05%20at%204.58.46%20PM.png)
