@@ -1,5 +1,5 @@
 ---
-title: 'How to questions'
+title: 'How to wo'
 taxonomy:
     category:
         - docs
