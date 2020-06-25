@@ -32,7 +32,7 @@ You can apply the special listing badge for categories & subcategories, Products
 
 **Social Links**: You can choose whether you have to apply the social links button on store page.
 
-<br>**continue shopping link in cart**:  You can choose whether you have to apply the continue shopping link in cart on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
+**continue shopping link in cart**:  You can choose whether you have to apply the continue shopping link in cart on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
 
 **Show Product review stats on Product Review Page**:
 
