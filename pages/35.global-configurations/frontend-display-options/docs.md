@@ -38,9 +38,9 @@ You can apply the special listing badge for categories & subcategories, Products
 
 **Continue shopping URL**: You can choose whether you have to apply the continue shopping URL on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
 
-**Show 'Whats in box'**: 
+**Show 'Whats in box'**: Choose whether you want the 'Whats in box' information of products to display in front end.
 
-**Number of stores column**:
+**Number of stores column**: Choose number of columns in store listing view.
 
 **Show product count on stores views**: You can choose whether you have to apply the show product count on stores view on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
 <br>**Show zero rating**: You can choose whether you want to show/hide zero ratings on your website.![](screenshot-localhost-2020.05.30-13_05_01.png)
