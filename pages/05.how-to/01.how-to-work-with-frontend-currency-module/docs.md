@@ -1,11 +1,12 @@
 ---
-title: 'How to wo'
+title: 'How to work with Frontend Currency Module '
 taxonomy:
     category:
         - docs
 visible: true
 ---
 
-Below is list of How To Question:
+Follow these steps to enable Frontend Currecy Module
 
-1. [How to create a registration page for Client/Seller Category?](https://www.sellacious.com/documentation-v2#/learn/how-to/how-to-create-a-registration-page-for-clientseller-category)
+1. Select Your Forex API from Settings->Global Configuration->General 
+
