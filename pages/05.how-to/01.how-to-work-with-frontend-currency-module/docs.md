@@ -27,6 +27,6 @@ Follow these steps to enable Frontend Currecy Module
 
 ![](Screenshot%202020-06-25%20at%206.00.16%20PM.png)
 
-4. Now Frontend Currecy Module will show up on published. position and on changeing currency, price of products will show in that one.
+4. Now Frontend Currecy Module will show up on published position and on changing currency, price of products will show in that currency.
 
 ![](Screenshot%202020-06-25%20at%206.04.45%20PM.png)
