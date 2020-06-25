@@ -46,8 +46,15 @@ You can apply the special listing badge for categories & subcategories, Products
 <br>**Show zero rating**: You can choose whether you want to show/hide zero ratings on your website.![](screenshot-localhost-2020.05.30-13_05_01.png)
 <br>**Show Rating on stores view**: You can choose whether you have to apply the show rating on stores view on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
 
-**Show store ratings on Store details view**:
-
+**Show store ratings on Store details view**: Choose whether to show store rating on store page.
+<br>**Show location on store details view**:
+<br>**Store logo image size**:
+<br>**Height of image for stores**:
+<br>**No. of Products Columns**:
+<br>**Show filters on store details page**:
+<br>**Position of filters on store page**:
+<br>**Show reviews on Stores View**:
+<br>**Number of Reviews for stores page**:
 <br>**Download link on order detail**: You can choose whether you have to apply the download link on order detail on  categories & sub categories, Products list pages, Product details Pages and Product quick view pages.
 
 **Sub Category Pages**
