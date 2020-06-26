@@ -1,5 +1,6 @@
 ---
 title: 'Product Detail Image Options'
+media_order: 'Screen Shot 2020-06-26 at 3.55.16 PM.png'
 visible: true
 ---
 
@@ -7,3 +8,4 @@ visible: true
 
 **Show Navigation Arrows**: You can also choose whether to show navigation arrows (prev/next) on image or not.
 
+![](Screen%20Shot%202020-06-26%20at%203.55.16%20PM.png)
