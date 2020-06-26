@@ -17,7 +17,8 @@ visible: true
 * **Window Lens Border Width**: Define a border width of lense on Image.
 * **Window Lens Border Color**: Define a border color of lense on Image.
 * **Window Lens Background Color**: Define a background color of Lens area, always choose alpha value.
-* **Easing**: Choose whether to activate easing on zoom or not.![](Screen%20Shot%202020-06-26%20at%204.13.50%20PM.png)
+* **Easing**: Choose whether to activate easing on zoom or not.
+![](Screen%20Shot%202020-06-26%20at%204.13.50%20PM.png)
 **Zoom Type on mobile**: Choose whether to set Lense or Disable on mobile view. You can choose Lens or None.
 
 **Lens size on mobile**: Define Lens size on mobile view. Enter the number of lens size you want to display in mobile.
