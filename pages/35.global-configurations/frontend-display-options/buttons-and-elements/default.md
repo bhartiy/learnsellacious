@@ -17,9 +17,7 @@ You can apply the special listing badge for categories & subcategories, Products
 <br>**Buy Now Button**:You can choose whether you have to apply the Buy now button on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
 <br>**product quick view button**: You can choose whether you have to apply the product quick view button on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
 <br>**Manufacturer Details**: You can choose whether you have to apply the Manufacturer Details on product details page & product quick view page.
-![](screenshot-localhost-2020.06.04-15_58_43.png)
-
-**Chat Button**: You can choose whether you have to apply the chat button on product detail page and store page.
+<br>**Chat Button**: You can choose whether you have to apply the chat button on product detail page and store page.
 
 **Coupons Button**: You can choose whether you have to apply the coupons button on store page.
 
@@ -38,7 +36,7 @@ You can apply the special listing badge for categories & subcategories, Products
 **Number of stores column**: Choose number of columns in store listing view.
 
 **Show product count on stores views**: You can choose whether you have to apply the show product count on stores view on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
-<br>**Show zero rating**: You can choose whether you want to show/hide zero ratings on your website.![](screenshot-localhost-2020.05.30-13_05_01.png)
+<br>**Show zero rating**: You can choose whether you want to show/hide zero ratings on your website.
 <br>**Show Rating on stores view**: You can choose whether you have to apply the show rating on stores view on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
 
 **Show store ratings on Store details view**: Choose whether to show store rating on store page.
