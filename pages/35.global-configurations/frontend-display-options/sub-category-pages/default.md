@@ -1,5 +1,6 @@
 ---
 title: 'Sub Category Pages'
+media_order: 'Screen Shot 2020-06-05 at 5.27.27 PM.png,Screen Shot 2020-06-05 at 5.26.30 PM.png,Screen Shot 2020-06-05 at 5.25.21 PM.png,Screen Shot 2020-06-05 at 5.23.46 PM.png,Screen Shot 2020-06-05 at 5.16.03 PM.png,Screen Shot 2020-06-05 at 4.58.46 PM.png,Screen Shot 2020-06-05 at 4.59.24 PM.png'
 visible: true
 ---
 
@@ -12,7 +13,6 @@ visible: true
 4. List: In list layout, only category list is showing. ![](Screen%20Shot%202020-06-05%20at%205.25.21%20PM.png)
 5. Textimage: ![](Screen%20Shot%202020-06-05%20at%205.26.30%20PM.png)
 6. Textonly: In Textonly layout, category name is showing with number of products.![](Screen%20Shot%202020-06-05%20at%205.27.27%20PM.png)
-
 
 
 
