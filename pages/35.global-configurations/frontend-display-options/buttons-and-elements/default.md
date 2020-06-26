@@ -41,9 +41,7 @@ You can apply the special listing badge for categories & subcategories, Products
 
 **Show store ratings on Store details view**: Choose whether to show store rating on store page.
 <br>**Show location on store details view**: Choose whether to show store's location on store details view. The location icon will only be visible if Hyperlocal plugin is enabled and a Google maps API key has been provided.
-<br>**Store logo image size**: Choose whether to show logo image size:
-1. Fit to container.
-2. Completely fill container(may be partially hidden)
+<br>**Store logo image size**: Choose whether to show logo image size: 1. Fit to container, 2. Completely fill container(may be partially hidden)
 <br>**Height of image for stores**: you can set the height of image of stores from here.
 <br>**No. of Products Columns**: You can select the No. of Columns in Products listing view to show.
 <br>**Show filters on store details page**: Choose whether to show filters on store detail page.
