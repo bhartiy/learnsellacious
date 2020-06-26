@@ -3,10 +3,8 @@ title: 'Product Options'
 visible: true
 ---
 
-<br>**Product Image Height**: Product image container height in the product detail pages. You can adjust the height of the product page in the front end.
-<br>**Product image width**: product image container width in the product detail pages. You can adjust the width of the product page in the front end.
-<br>**Image Display Size**: Choose how to adjust images within the images slider container.The aspect ratio of the images will always be maintained. You can have two options: Fit to container and Completely Fill container(May be partially hidden).
-<br>**List layout**: Select the default layout for the list on front-end. You can select the view of the products in the front end. It can be masonry, Grid and List. 
+<br>**Layout Switcher**: Choose which switcher you want to show. Switcher will hide if only 1 option selected. if no option selected then all options will show
+<br>**Default Layout**: Select the default layout for the products list on front-end, by default it is Grid
 <br>**Show layout switcher**: Select whether the users will be able to switch the list layout between grid and list format. If you want to switch then click on the ‘yes’ otherwise click on the ‘No’.
 <br>**Product block layout**: You can select here product block layout for frontend product list page. There are 5 layouts: 1. Default 2. Elegant 3. Jskart 4. Minimal 5. Travelkit
 ![](Screen%20Shot%202020-06-01%20at%206.42.41%20PM.png)
@@ -19,5 +17,6 @@ visible: true
 
 <br>**Hide out of stock products**: Whether to hide the Out Of Stock products from the frontend listing completely.If disabled they will be shown as out of stock. If you want to hide the out of stock of the product then click on the ‘yes’ otherwise click on the ‘No’ button.
 <br>**Hide Zero Price products**: Whether to  hide the products with no price from the frontend listing completely.If disables, They will be shown as out of stock. If you want to hide zero price products then click on ‘yes’ otherwise click on ‘No’.
-<br>**Hide ZIP code Filter**: Choose whether to show or hide the zip code filter in the products pages. If you want to hide ZIP code filter the click on ‘Yes’ Button otherwise click on ‘No’ button.
-<br>**Hide category Filter**: Choose whether to show or hide the category filter in the products pages.If you want to hide category filter the click on ‘Yes’ Button otherwise click on ‘No’ button.
+<br>**Image Height**: Enter the Image Height of Products listing view.
+<br>**Products Image Size**: Choose how to adjust images within the image container. The aspect ratio of the images will always be maintained.
+<br>**Show image thumbs**: Choose whether to show image thumbs below the product's image in product list. This will let you see all of the product's images in products list pages itself.
