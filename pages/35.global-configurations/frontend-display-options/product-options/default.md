@@ -1,5 +1,6 @@
 ---
 title: 'Product Options'
+visible: true
 ---
 
 <br>**Product Image Height**: Product image container height in the product detail pages. You can adjust the height of the product page in the front end.
