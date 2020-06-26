@@ -25,6 +25,8 @@ visible: true
 <br>**Redirect if no Sub Category**:
 <br>**Category Maximum Level**:
 <br>**Category Banner on Product Listing View**:
-<br>**Category Banner Height (px)**:
-<br>**No. of Categories Columns**:
-<br>**Category Image Size**:
+<br>**Category Banner Height (px)**: You can set category Banner container height in the product listing pages
+<br>**No. of Categories Columns**: You can select number of columns in which you want to show category on category page.
+<br>**Category Image Size**: You can choose how to show category images within the image container, i.e:
+1. Fit to container
+2. Completely fill container(may be partially hidden)
