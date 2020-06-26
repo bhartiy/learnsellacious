@@ -5,7 +5,7 @@ visible: true
 ---
 
 (Compatibility: Sellacious v2.0.0-Beta1+)
-
+**Address Fields**:
 ![](address1.png)
 New form field is Added to manage address fields settings like show/hide/mandatory, label value, ordering etc. In this new form label value can be changes according to language and it will show particular label wherever address fields are rendering. 
 ![](address2.png)![](address3.png)
