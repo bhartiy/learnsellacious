@@ -14,10 +14,17 @@ visible: true
 5. Textimage: ![](Screen%20Shot%202020-06-05%20at%205.26.30%20PM.png)
 6. Textonly: In Textonly layout, category name is showing with number of products.![](Screen%20Shot%202020-06-05%20at%205.27.27%20PM.png)
 
-
-
 <br>**Category Sub-Category count**: whether to show sub-category count for each category in frontend categories list.You can show or hide the category sub-category count from the front-end.
-<br>**Category product count**: Whether to show product count for each category in fronetend categories list. You can show or hide the category product count from teh front end..
+<br>**Category product count**: Whether to show product count for each category in fronetend categories list. You can show or hide the category product count from teh front end.
+<br>**Show Header Section on category page**:	
 <br>**Category Description**: Whether to show category description and details on subcategory pages in frontend. You can show or hide the category description from teh front end.
 <br>**Category Products**: Whether to show a list of products in the selected category on subcategory pages in frontend.
+<br>**Show Back Button On category Header**:	
+<br>**Category Page View All Products**:
 <br>**Category page product limit**:  Number of product to display on category pages. You can enter the number of pages you want to display the product in the front end.
+<br>**Redirect if no Sub Category**:
+<br>**Category Maximum Level**:
+<br>**Category Banner on Product Listing View**:
+<br>**Category Banner Height (px)**:
+<br>**No. of Categories Columns**:
+<br>**Category Image Size**:
