@@ -16,15 +16,15 @@ visible: true
 
 <br>**Category Sub-Category count**: whether to show sub-category count for each category in frontend categories list.You can show or hide the category sub-category count from the front-end.
 <br>**Category product count**: Whether to show product count for each category in fronetend categories list. You can show or hide the category product count from teh front end.
-<br>**Show Header Section on category page**:	
+<br>**Show Header Section on category page**: You can choose whether to show category banner and description on category page or not.
 <br>**Category Description**: Whether to show category description and details on subcategory pages in frontend. You can show or hide the category description from teh front end.
 <br>**Category Products**: Whether to show a list of products in the selected category on subcategory pages in frontend.
-<br>**Show Back Button On category Header**:	
-<br>**Category Page View All Products**:
+<br>**Show Back Button On category Header**: You can choose whether to show go back button on category header.	
+<br>**Category Page View All Products**: You can choose if you want to show view all products button on category page or not.
 <br>**Category page product limit**:  Number of product to display on category pages. You can enter the number of pages you want to display the product in the front end.
-<br>**Redirect if no Sub Category**:
-<br>**Category Maximum Level**:
-<br>**Category Banner on Product Listing View**:
+<br>**Redirect if no Sub Category**: Choose whether to automatically redirect to products list when a category has no sub categories to show in category page.
+<br>**Category Maximum Level**: Enter the maximum level of category after which it will automatically redirect to product list page. Minimum value is 1.
+<br>**Category Banner on Product Listing View**: Choose whether to show/hide Category Banner on Product Listing View.
 <br>**Category Banner Height (px)**: You can set category Banner container height in the product listing pages
 <br>**No. of Categories Columns**: You can select number of columns in which you want to show category on category page.
 <br>**Category Image Size**: You can choose how to show category images within the image container, i.e:
