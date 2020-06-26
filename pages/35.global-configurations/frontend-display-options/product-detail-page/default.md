@@ -9,5 +9,7 @@ visible: true
 <br>**Show Listing Type**: You can choose whether to show listing type information on product detail page or not.
 <br>**Show Seller's Ratings**: You can choose whether to show seller's rating on product detail page or not.
 <br>**Manufacturer Link on Product Detail**: Choose where to redirect on click Manufacturer Link on Product Detail Page.
-<br>**Show reviews on product View**: 
-<br>**Number of Reviews for product page**:
+<br>**Show reviews on product View**: you can Choose whether to show reviews of product on product detail page view.
+<br>**Number of Reviews for product page**: You can set the number of reviews to show of product on product detail page.
+
+![](Screen%20Shot%202020-06-26%20at%203.47.52%20PM.png)
