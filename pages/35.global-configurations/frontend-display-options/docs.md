@@ -14,4 +14,4 @@ visible: true
 5. Product Detail Image Options
 6. Image Zoom Options
 7. Categories Menu Sync
-8. Address Fields
+8. Address Fields [](https://www.sellacious.com/documentation-v2#/learn/global-configurations/frontend-display-options/address-fields)
