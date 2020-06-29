@@ -7,11 +7,11 @@ taxonomy:
 visible: true
 ---
 
-1. Button and elements
-2. Sub Category Pages
-3. Products Options
-4. Product Detail page
-5. Product Detail Image Options
-6. Image Zoom Options
-7. Categories Menu Sync
+##### 1. Button and elements [](https://www.sellacious.com/documentation-v2#/learn/global-configurations/frontend-display-options/buttons-and-elements)
+##### 2. Sub Category Pages [](https://www.sellacious.com/documentation-v2#/learn/global-configurations/frontend-display-options/sub-category-pages)
+##### 3. Products Options [](https://www.sellacious.com/documentation-v2#/learn/global-configurations/frontend-display-options/product-options)
+##### 4. Product Detail page [](https://www.sellacious.com/documentation-v2#/learn/global-configurations/frontend-display-options/product-detail-page)
+##### 5. Product Detail Image Options [](https://www.sellacious.com/documentation-v2#/learn/global-configurations/frontend-display-options/product-detail-image-options)
+##### 6. Image Zoom Options [](https://www.sellacious.com/documentation-v2#/learn/global-configurations/frontend-display-options/image-zoom-options)
+##### 7. Categories Menu Sync [](https://www.sellacious.com/documentation-v2#/learn/global-configurations/frontend-display-options/category-menu-sync)
 ##### 8. Address Fields [](https://www.sellacious.com/documentation-v2#/learn/global-configurations/frontend-display-options/address-fields)
