@@ -13,9 +13,9 @@ visible: true
 <br>**Itemised Shipping**: Choose whether the shipping method selection will be available for each item in the cart separately or just once for the entire cart.Each item will be applied as the shipping rule. Choose yes if you want to apply the Flat shipping or the defined shipping rule.
 
 **Shipping cost calculation**: Choose how do you want to calculate the shipping cost. It consists of entire cart as one, group items by seller, Individual items.
-* <br>**Entire cart as one**: You can calculate the shipping cost in entire cart as one. That means you can apply the shipping cost to all the products which is presented in the cart.
-* <br>**Group items by seller**: If the seller is one and number of items are to be in group wise then 
-* <br>**Individual items**: How much shipping cost for shipping an individual item.
+* **Entire cart as one**: You can calculate the shipping cost in entire cart as one. That means you can apply the shipping cost to all the products which is presented in the cart.
+* **Group items by seller**: If the seller is one and number of items are to be in group wise then 
+* **Individual items**: How much shipping cost for shipping an individual item.
 
 **Shipment allowed to**:
 Choose specific locations which are allowed as billing address. leave all four boxes below blank to allow all locations.A larger geographical location selected covers its sub-regions automatically.
