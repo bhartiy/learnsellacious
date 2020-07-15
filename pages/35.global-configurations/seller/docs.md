@@ -1,5 +1,8 @@
 ---
 title: Seller
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -10,6 +13,8 @@ visible: true
 **Seller can create products**: Choose whether a seller can create his own products or a variant of any existing products for listing. NO will allow then to only sell the existing products and variants.
 
 **Seller can create coupons**:  Choose whether the sellers are allowed to create coupons or not. This will work only when you go to permissions page and select to set permissions for the sellers.
+
+**Limit Seller Payment Methods**: Provide the limit for seller payment methods.
 
 **Shopper group visible to seller**: Choose whether the sellers are allowed to know the shopper groups of a buyer. If you choose ‘yes’ then shopper group is visible to the seller.
 
@@ -25,4 +30,8 @@ visible: true
 
 **Send query form to**: where you want to send the query forms. It can be concerned seller, Administrators or both. Concerned seller means a particular seller.
 
-**Price display**: Select how a seller can display selling prices for his products. You can choose the price display as show price display, call us for price, Email for price and Submit query form.
+**Require Product Approval**: You can choose whether to require seller product approval or not.
+
+**Seller Limit in Cart**: You can set seller limit in cart: 1. Unlimited and 2. Single Seller. If you set single seller, buyer can purchase only one seller product in one time. If you set unlimited, buyer can buy multiple seller's product at one time.
+
+**Seller Separate Invoice**: Choose whether separate invoices will be generated for each seller in order.
