@@ -5,44 +5,46 @@ visible: true
 
 Before we begin, please ensure that you have met the Minimum Requirements in order for Sellacious to run smoothly:
 
-**Minimum Requirements**<br>
+<hr>
+# Minimum Requirements
+
 In order for Sellacious to operate correctly, please ensure that the following system requirements are met:<br>
+    
+Joomla `3.9.x`. Please note: `Joomla 4.x` in NOT supported yet
+PHP `v5.5+` or `v7.1+`
+MySQL `v5.5.3+` or MariaDB `10.1.22+` (**with InnoDB suppert enabled**)
 
-`Joomla 3.9` and above is installed.<br>
-PHP `v7.1+` and above.<br>
-PHP: Safe Mode = Off  
-PHP: `shell_exec` Enabled  
-PHP Extensions: `ZIP Library`. It is requires by Sellacious for much faster extraction process.<br>
-PHP Extensions: `CURL Library`. It is requires by Sellacious to perform outgoing connections.<br>
-PHP Extensions: `MB String Library`. It is used by Sellacious in manipulating of database strings.<br>
-PHP Extension: `MYSQLi`. It is used by Sellacious for managing database.<br>
+PHP Extension: `ZIP Library`. It is requires by Sellacious for much faster extraction process.
+PHP Extension: `CURL Library`. It is requires by Sellacious to perform outgoing connections.
+PHP Extension: `MB String Library`. It is used by Sellacious in manipulating of database strings.
+PHP Extension: `MYSQLi`. It is used by Sellacious for database connection.
+PHP Extension: `Sqlite 3.25.2+`. It is used by Sellacious for products catalog caching and search indexes for faster speed and performance.
 
-Below are the minimum requirements. If you want to upload files more than the below size, increase below settings accordingly. 
+PHP: `Safe Mode` = Off
+PHP: `shell_exec` = Enabled
+PHP: `passthru` = On
+PHP: `magic_quotes_gpc` = Off
+PHP: `max_execution_time` = 30
 
-PHP: `[upload_max_filesize = 50MB]`.<br>
-PHP: `[post_max_size = 50MB]`.<br>
-PHP: `[magic_quotes_gpc = Off]`.<br>
-PHP: `[max_execution_time = 60]`.<br>
-PHP: `[memory_limit = 64MB]`;<br>
-MySQL `v5.1` and above.<br>
+**Note:** Below are the minimum requirements. If you want to upload larger files, increase below settings accordingly. 
 
+PHP: `upload_max_filesize` = 50MB
+PHP: `post_max_size` = 50MB
+PHP: `memory_limit` = 64MB
+    
+    
+<hr>
+<br>
+# Recommended Settings
 
-**Recommended Requirements**<br>
-To get the best out of EasySocial, below are the list of recommended requirements for your site.<br>
+To get the best out of Sellacious, below are the list of recommended settings (in addition to the minimum requirements) for your site.<br>
 
-`Joomla 3.8+` and above is installed.<br>
-`PHP v7` and above.<br>
-PHP Extensions: `ZIP Library`. It is requires by EasySocial for much faster extraction process.<br>
-PHP Extensions: `CURL Library`. It is requires by EasySocial to perform outgoing connections.<br>
-PHP Extensions: `MB String Library`. It is used by EasySocial in manipulating of strings.<br>
-PHP Extension: `MYSQLi`. It is used by Sellacious for managing database.<br>
+Joomla `3.9.x` (latest in 3.9 series, see https://downloads.joomla.org/latest) installed
+PHP `v7.3` and above
+MariaDB `10.1.22+` (instead of MySQL)    
 
-PHP: `[passthru = On]`.<br>
-PHP: `[upload_max_filesize = 128MB]`.<br>
-PHP: `[post_max_size = 128MB]`.<br>
-PHP: `[magic_quotes_gpc = Off]`.<br>
-PHP: `[max_execution_time = 200]`.<br>
-PHP: `[memory_limit = 128MB]`;<br>
-MySQL `v5.5.3` and above.<br>
+**Note:** Below are the minimum requirements. If you want to upload larger files, increase below settings accordingly. 
 
-
+PHP: `upload_max_filesize` = 128MB
+PHP: `post_max_size` = 128MB
+PHP: `memory_limit` = 128MB
