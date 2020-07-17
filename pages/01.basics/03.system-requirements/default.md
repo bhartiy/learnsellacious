@@ -1,5 +1,7 @@
 ---
 title: Requirements
+external_links:
+    no_follow: true
 visible: true
 ---
 
@@ -10,7 +12,7 @@ Before we begin, please ensure that you have met the Minimum Requirements in ord
 
 In order for Sellacious to operate correctly, please ensure that the following system requirements are met:<br>
     
-Joomla **3.9.x**. <small>Please note: `Joomla 4.x` in NOT supported yet</small>
+Joomla **3.9.x**. <small>Please note: **Joomla 4.x** in NOT supported yet</small>
 PHP **v5.5+** or **v7.1+**
 MySQL **v5.5.3+** or MariaDB **10.1.22+** <small>(with InnoDB suppert enabled)</small>
 
