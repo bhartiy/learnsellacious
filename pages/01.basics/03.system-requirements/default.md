@@ -7,8 +7,8 @@ visible: true
 
 Before we begin, please ensure that you have met the Minimum Requirements in order for Sellacious to run smoothly:
 
+### Minimum Requirements
 <hr>
-## Minimum Requirements
 
 In order for Sellacious to operate correctly, please ensure that the following system requirements are met:<br>
     
@@ -34,16 +34,16 @@ PHP: **upload_max_filesize = 50MB**
 PHP: **post_max_size = 50MB**
 PHP: **memory_limit = 64MB**
     
-    
-<hr>
+
 <br>
-## Recommended Settings
+### Recommended Settings
+<hr>
 
 To get the best out of Sellacious, below are the list of recommended settings (in addition to the minimum requirements) for your site.<br>
 
 Joomla **3.9.x** (latest in 3.9 series, see https://downloads.joomla.org/latest) installed
 PHP **v7.3** and above
-MariaDB **10.1.22+** (instead of MySQL)    
+MariaDB **10.4.x+** (instead of MySQL)    
 
 **Note:** Below are the minimum requirements. If you want to upload larger files, increase below settings accordingly. 
 
