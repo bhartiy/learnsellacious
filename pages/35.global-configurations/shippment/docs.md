@@ -7,8 +7,8 @@ visible: true
 ---
 
 **Shipped By**: Choose who will ship the products to customer. You can use two options from here shop and concerned seller. The products are to be shipped by the shop or the concerned seller. Concerned seller is the seller who is selling the products.
-* <br>**Flat shipment fee**: Choose whether this product has a flat fee for shipment or cost is decided using the available shipping rules. If you want to charge flat shipping then click on the yes, charge a flat shipping cost and if you don’t want to use defined shipping rules then click on the No, Use defined shipping rules.
-* <br>**Flat fee amount**: The amount which is considered as the flat fee while shipment. It can be represented as in the currency value. You can add the amount here.This option will occured only when the flat shipment fee is considered as the charge a flat shipping cost.
+* **Flat shipment fee**: Choose whether this product has a flat fee for shipment or cost is decided using the available shipping rules. If you want to charge flat shipping then click on the yes, charge a flat shipping cost and if you don’t want to use defined shipping rules then click on the No, Use defined shipping rules.
+* **Flat fee amount**: The amount which is considered as the flat fee while shipment. It can be represented as in the currency value. You can add the amount here.This option will occured only when the flat shipment fee is considered as the charge a flat shipping cost.
 <br>**Tax/Discount in shipping**: Include taxes and discount while shipping for entire cart. If you want to add the tax/discount then click on the ‘yes’ button and if you don’t want to add the tax/discount then click on the ‘No’ Button.
 <br>**Shipping selection in Checkout**: You can Choose selection type for shipping:
 * **Product Wise**: Shipping method selection will be available for each item in the cart separately.
