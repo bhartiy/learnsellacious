@@ -17,4 +17,4 @@ https://www.sellacious.com/documentation-v2#/learn/global-configurations/communi
 
 **Length of OTP**: You can set the length of the generated OTP.
 
-**OTP validity (s)**: Here you can set, for how many seconds OTP should be valid?
+**OTP validity (s)**: Here you can set, for how many seconds OTP should be valid.
