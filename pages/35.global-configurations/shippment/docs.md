@@ -26,6 +26,9 @@ When choose shipping selection as Cart Wise:
 * **Group items by seller**: If the seller is one and number of items are to be in group wise then 
 * **Individual items**: How much shipping cost for shipping an individual item.
 
+When choose shipping selection as Seller Wise:
+**Select shipping in Product** : Choose whether to allow selecting Shipping rules in Product.
+
 **Shipment allowed to**:
 Choose specific locations which are allowed as billing address. leave all four boxes below blank to allow all locations.A larger geographical location selected covers its sub-regions automatically.
 <br>**Ship to countries**: The billing address is according to the countries.
