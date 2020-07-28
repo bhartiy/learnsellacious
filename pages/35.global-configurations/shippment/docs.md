@@ -12,8 +12,9 @@ When you choose shipped by Shop:
 * **Flat shipment fee**: Choose whether this product has a flat fee for shipment or cost is decided using the available shipping rules. If you want to charge flat shipping then click on the yes, charge a flat shipping cost and if you don’t want to use defined shipping rules then click on the No, Use defined shipping rules.
 
 When you select Yes, Charge a flat shipping cost.
-* **Flat fee amount**: The amount which is considered as the flat fee while shipment. It can be represented as in the currency value. You can add the amount here.This option will occured only when the flat shipment fee is considered as the charge a flat shipping cost.
-<br>**Tax/Discount in shipping**: Include taxes and discount while shipping for entire cart. If you want to add the tax/discount then click on the ‘yes’ button and if you don’t want to add the tax/discount then click on the ‘No’ Button.
+* **Flat fee amount**: The amount which is considered as the flat fee while shipment. It can be represented as in the currency value. You can add the amount here. This option will occured only when the flat shipment fee is considered as the charge a flat shipping cost.
+
+**Tax/Discount in shipping**: Include taxes and discount while shipping for entire cart. If you want to add the tax/discount then click on the ‘yes’ button and if you don’t want to add the tax/discount then click on the ‘No’ Button.
 <br>**Shipping selection in Checkout**: You can Choose selection type for shipping:
 * **Product Wise**: Shipping method selection will be available for each item in the cart separately.
 * **Cart Wise**: Shipping method selection will be available just once for the entire cart.
