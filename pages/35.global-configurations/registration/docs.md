@@ -1,5 +1,8 @@
 ---
-title: Registration
+title: 'Login & Registration'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
