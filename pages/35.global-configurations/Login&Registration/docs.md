@@ -10,11 +10,8 @@ visible: true
 
 **Profile Sections Ordering**: You can set the ordering of sections of the user profile.
 
-**Frontend Login Methods**: 
+**Frontend Login Methods**: You can choose how would you allow the users to login in frontend.
 
-**Shop owner/management Group:** Select the owner/management group from drop down list.The owner/management group can be seller, registered, staffs, super user etc.
-**Customer User groups:** Choose the joomla user groups for your client categories.You will be able to assign one of these groups to each client category.When you click on the text box then all the group will be listed in the drop down menu.
-**Seller User groups:** Choose the joomla user groups for your seller categories.You will be able to assign one of these groups to each seller category.When you click on the text box then all the group will be listed in the drop down menu.
-**Staff user groups:** Choose the Joomla user groups for your staff categories.You will be able to assign one of these groups to each staff category.When you click on the text box then all the group will be listed in the drop down menu.
-**Manufacturer User groups:** Choose the Joomla user groups for your manufacturer categories.You will be able to assign one of these groups to these groups to each manufacturer category.When you click on the text box then all the group will be listed in the drop down menu.
+**Length of OTP**: You can set the length of the generated OTP.
 
+**OTP validity (s)**: Here you can set, for how many seconds OTP should be valid?
