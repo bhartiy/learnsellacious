@@ -1,5 +1,6 @@
 ---
 title: 'Reviews and Ratings'
+media_order: 'Screen Shot 2020-07-28 at 12.25.40 PM.png'
 taxonomy:
     category:
         - docs
@@ -20,3 +21,5 @@ Review and Rating is the detailed list view which was submitted by the customers
 **What can be rated**: Choose what can be rated (1-5 stars) by the customers. Tick the check box for rating. It can be products, sellers, packaging and shipment. Rating is represented as the stars for scaling the products.
 
 **What can be Reviewed**: Choose what can be (comment/ Description) by the customers. It can be products and sellers.Review is the short summary of the products reviewed by the user.
+
+![](Screen%20Shot%202020-07-28%20at%2012.25.40%20PM.png)
