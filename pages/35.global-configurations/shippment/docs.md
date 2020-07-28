@@ -29,6 +29,8 @@ When choose shipping selection as Cart Wise:
 When choose shipping selection as Seller Wise:
 **Select shipping in Product** : Choose whether to allow selecting Shipping rules in Product.
 
+**Shipping Rule Slabs By Import**: Choose whether you want to import shipping rule slabs using CSV import. If disabled, you will be able to set them manually in the grid provided and country, state, zip filtering will not be available.
+
 **Shipment allowed to**:
 Choose specific locations which are allowed as billing address. leave all four boxes below blank to allow all locations.A larger geographical location selected covers its sub-regions automatically.
 <br>**Ship to countries**: The billing address is according to the countries.
