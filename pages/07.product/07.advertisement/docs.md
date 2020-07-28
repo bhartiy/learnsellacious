@@ -13,7 +13,7 @@ visible: true
 
 > **You can Advertise the product by applying the special categories for the product.**
 
-Special categories includes **Highlighted, Bordered, Featured**. Special category affects the product status on the front end and you can use the highlighted, bordered and featured features to show the products effectively. This listing is used to show the product more specifically in the frontend. Basically, this option is available when the special category listing fee is selected.
+Special categories includes **Highlighted, Bordered, Featured**. Special category affects the product status on the front end and you can use the highlighted, bordered and featured features to show the products effectively. This listing is used to show the product more specifically in the frontend.
 
 **In sellacious by default there are three special categories H, B, F.
 **
