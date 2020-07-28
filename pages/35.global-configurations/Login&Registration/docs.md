@@ -12,6 +12,9 @@ visible: true
 
 **Frontend Login Methods**: You can choose how would you allow the users to login in frontend.
 
+For more information related to otp, follow the below documentation:
+https://www.sellacious.com/documentation-v2#/learn/global-configurations/communications
+
 **Length of OTP**: You can set the length of the generated OTP.
 
 **OTP validity (s)**: Here you can set, for how many seconds OTP should be valid?
