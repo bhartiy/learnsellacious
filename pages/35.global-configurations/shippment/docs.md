@@ -19,6 +19,8 @@ When you select Yes, Charge a flat shipping cost.
 * **Product Wise**: Shipping method selection will be available for each item in the cart separately.
 * **Cart Wise**: Shipping method selection will be available just once for the entire cart.
 * **Seller Wise**: Shipping method selection will be available for each seller in cart separately.
+
+When choose shipping selection as Cart Wise:
 <br>**Shipping cost calculation**: Choose how do you want to calculate the shipping cost. It consists of entire cart as one, group items by seller, Individual items.
 * **Entire cart as one**: You can calculate the shipping cost in entire cart as one. That means you can apply the shipping cost to all the products which is presented in the cart.
 * **Group items by seller**: If the seller is one and number of items are to be in group wise then 
