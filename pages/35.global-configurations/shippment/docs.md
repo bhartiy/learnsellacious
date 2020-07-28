@@ -31,6 +31,8 @@ When choose shipping selection as Seller Wise:
 
 **Shipping Rule Slabs By Import**: Choose whether you want to import shipping rule slabs using CSV import. If disabled, you will be able to set them manually in the grid provided and country, state, zip filtering will not be available.
 
+**Credit Shipping Amount to**: You can choose to whom the shiiping amount should be credit for all the orders i.e. 1. Rule Owner, 2. Shop, 3. Seller.
+
 **Shipment allowed to**:
 Choose specific locations which are allowed as billing address. leave all four boxes below blank to allow all locations.A larger geographical location selected covers its sub-regions automatically.
 <br>**Ship to countries**: The billing address is according to the countries.
