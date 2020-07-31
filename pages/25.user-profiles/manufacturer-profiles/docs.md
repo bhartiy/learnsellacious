@@ -1,6 +1,9 @@
 ---
 title: 'Manufacturer Profiles'
 media_order: 'manu.profile.png,manu.profile1.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -19,7 +22,7 @@ visible: true
 5. In Basic Information tab **Name**, **Username**, **Email** Fields are mandatory.
 6. Click on save button to save the manufacturer details.
 
-![](manu.profile1.png)
+![](clienp.png)
 
 7. Created Manufacturer Profile is successfully added.
 8. By default client category is assigned to maufacturer.
