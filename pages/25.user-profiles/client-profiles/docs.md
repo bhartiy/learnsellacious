@@ -1,6 +1,9 @@
 ---
 title: 'Client profiles'
-media_order: 'client.png,client1.png,clients2.png,clients3.png'
+media_order: 'client.png,client1.png,clients2.png,clients3.png,clienp.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -16,10 +19,9 @@ visible: true
 5. In Basic Information section- name, Username and email Fields are mandatory.
 6. Click the save button.
 
-![](client1.png)
+![](clienp.png)
 
 7. New Client Profile is created.
-
 
 ##### **To Manage a Client Profile, Follow Steps:**
 
@@ -35,7 +37,7 @@ visible: true
 
 ![](clients3.png)
 
-8. Client details will be edited.
+7. Client details will be edited.
 
 
 
