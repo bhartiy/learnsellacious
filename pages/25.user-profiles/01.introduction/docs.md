@@ -1,6 +1,6 @@
 ---
 title: Introduction
-media_order: up.png
+media_order: 'up.png,up1.png,Screen Shot 2020-07-31 at 5.49.12 PM.png'
 taxonomy:
     category:
         - docs
@@ -22,9 +22,8 @@ visible: true
 
 5. Fill the credentials.
 6. Save the settings.
-
-![](up1.png)
+![](Screen%20Shot%202020-07-31%20at%205.49.12%20PM.png)
 
 7. New User Profile is created.
-**NOTE :** Selecting category of respective User Profile is Very importanat othervise it will be saved in default client category. Also unbock button should be enabled.
+**NOTE :** Selecting category of respective User Profile is Very importanat othervise it will be saved in default client category. Also unblock button should be enabled.
 
