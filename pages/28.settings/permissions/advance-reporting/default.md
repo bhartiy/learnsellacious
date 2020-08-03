@@ -6,3 +6,7 @@ visible: true
 **View Advanced Reports:** Allows sellers to view all advance reports.
 
 **View Own Advanced Reports:** Allows sellers to view own advance reports.
+
+**View Assigned Advanced Reports:** Allows sellers to view assigned advanced reports.
+
+**Create Advanced Reports:** Allows sellers to create advanced reports.
