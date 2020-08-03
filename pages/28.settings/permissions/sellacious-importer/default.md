@@ -1,5 +1,5 @@
 ---
-title: 'Sellacious Permissions'
+title: 'Sellacious Importer'
 visible: true
 ---
 
