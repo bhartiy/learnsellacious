@@ -1,6 +1,6 @@
 ---
 title: Permissions
-media_order: 'Screenshot 2020-06-04 at 4.53.42 PM.png,Screenshot 2020-06-04 at 4.57.04 PM.png,Screenshot 2020-06-04 at 5.40.26 PM.png'
+media_order: 'Screenshot 2020-06-04 at 4.57.04 PM.png'
 taxonomy:
     category:
         - docs
