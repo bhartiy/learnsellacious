@@ -10,3 +10,7 @@ visible: true
 **View Assigned Advanced Reports:** Allows sellers to view assigned advanced reports.
 
 **Create Advanced Reports:** Allows sellers to create advanced reports.
+
+**Edit Advanced Reports:** Allows sellers to edit advanced reports.
+
+**Edit Own Advanced Reports:** Allows sellers to edit own advanced reports.
