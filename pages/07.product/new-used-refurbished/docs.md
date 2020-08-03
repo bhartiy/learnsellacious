@@ -14,8 +14,9 @@ visible: true
 3. Go to the seller tab then select the listing type you want to add in your store.![](screenshot-localhost-2020.05.28-17_04_29.png)
 4. For creating the listing type for the seller, Go to the shop then select the product catalogue from the drop down menu.
 5. You can apply the listing type while creating the product. In the inventory tab, select the listing type you want to use for the particular product.![](screenshot-localhost-2020.05.28-17_05_41.png)
-6. Click on the save button to save the details of the isting type of your product. 
-7. listing type and item condition will be shown on frontend details page.
+6. Click on the save button to save the details of the isting type of your product.
+
+8. Listing type and item condition will be shown on frontend details page.
 ![](Screenshot%202020-08-03%20at%205.28.07%20PM.png)
 8. Listings can be show/hide from frontend display options->product details page.
 ![](Screenshot%202020-08-03%20at%205.30.20%20PM.png)
