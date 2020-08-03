@@ -1,6 +1,6 @@
 ---
 title: New/Used/Refurbished
-media_order: 'screenshot-localhost-2020.05.28-17_04_29.png,screenshot-localhost-2020.05.28-17_05_41.png,Screenshot 2020-08-03 at 5.28.07 PM.png'
+media_order: 'screenshot-localhost-2020.05.28-17_04_29.png,screenshot-localhost-2020.05.28-17_05_41.png,Screenshot 2020-08-03 at 5.28.07 PM.png,Screenshot 2020-08-03 at 5.30.20 PM.png,Screenshot 2020-08-03 at 5.29.46 PM.png,Screenshot 2020-08-03 at 5.38.18 PM.png'
 taxonomy:
     category:
         - docs
@@ -17,5 +17,11 @@ visible: true
 6. Click on the save button to save the details of the isting type of your product. 
 7. listing type and item condition will be shown on frontend details page.
 ![](Screenshot%202020-08-03%20at%205.28.07%20PM.png)
-8. 
+8. Listings can be show/hide from frontend display options->product details page.
+![](Screenshot%202020-08-03%20at%205.30.20%20PM.png)
+9.Qick view is available for various listing available from details page.
+![](Screenshot%202020-08-03%20at%205.29.46%20PM.png)
+10. Listing type will show on bakend orders view
+![](Screenshot%202020-08-03%20at%205.38.18%20PM.png)
+**NOTE: Listing type Short Code are avialable for email template, order invoice, print order and order pdf.**
 
