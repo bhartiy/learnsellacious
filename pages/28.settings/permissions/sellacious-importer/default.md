@@ -3,7 +3,7 @@ title: 'Sellacious Importer'
 visible: true
 ---
 
-### Sellacious Importer
+### Importer
 
 Now Sellers also be able to import thier products in sellaciosu marketplace, to enable this permissions component is added. these are the permissions in this respect-
 
