@@ -21,12 +21,7 @@ Here either we can set permissions manually or can copy from any existing catego
 
 These are the component wise permissions-
 
-#### Additional Attributes
-**view custom field:**  The user permission to view the custom field.
-**create custom fields**:  The user permissions to create the custom fields.
-**delete custom fields**: To give the user permissions to delete the custom field.
-**edit custom fields**:  To give the user permission to edit the custom fields.
-**activate/deactivate custom field**: To activate or to deactivate the user permissions in the custom field.
+
 
 #### Categories
 <br>**allow category list view**:  To give the permission to the user to allow the product category in list view.
