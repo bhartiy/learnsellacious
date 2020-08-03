@@ -11,5 +11,4 @@ visible: true
 **Change Permissions**: Change any permission of any usergroup on this permission page.
 **Sellacious backend login**: The account login from the backend of the sellacious.
 **Sellacious Backend Offline Login:** Allow the users in this group to login to sellacious backend while site is offline.
-
-![](Screenshot%202020-06-04%20at%205.40.26%20PM.png)
+![](Screenshot%202020-08-03%20at%206.22.59%20PM.png)
