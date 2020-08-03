@@ -22,3 +22,5 @@ visible: true
 **Delete Report:** Allows sellers to delete any reports.
 
 **Delete Own Report:** Allows sellers to delete own reports.
+
+![](Screenshot%202020-08-03%20at%206.54.41%20PM.png)
