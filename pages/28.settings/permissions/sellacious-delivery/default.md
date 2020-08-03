@@ -1,5 +1,5 @@
 ---
-title: 'Delivery Orders'
+title: 'Sellacious Delivery'
 media_order: 'Screenshot 2020-08-03 at 6.47.14 PM.png'
 visible: true
 ---
