@@ -22,3 +22,8 @@ Here either we can set permissions manually or can copy from any existing catego
 These are the component wise permissions-
 
 [Sellacious Importer](https://www.sellacious.com/learn/settings/permissions/sellacious-importer)
+[Languages](https://www.sellacious.com/learn/settings/permissions/languages)
+[Menu Manager](https://www.sellacious.com/learn/settings/permissions/menu-manager)
+[Sellacious](https://www.sellacious.com/learn/settings/permissions/sellacious)
+[Sellacious Delivery](https://www.sellacious.com/learn/settings/permissions/sellacious-delivery)
+[Advance Reporting](https://www.sellacious.com/learn/settings/permissions/advance-reporting)
