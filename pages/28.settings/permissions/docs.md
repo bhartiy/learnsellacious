@@ -15,8 +15,6 @@ This section specifies the user category you want to give the permission. In Sel
 
 To set permissions go to **Settings->Permissions**, In User Category choose the catagory to which you want to set perticular permissions and component for which you wnat to set pemissions.
 
-![](Screenshot%202020-06-04%20at%204.53.42%20PM.png)
-
 Here either we can set permissions manually or can copy from any existing category.
 
 ![](Screenshot%202020-06-04%20at%204.57.04%20PM.png)
