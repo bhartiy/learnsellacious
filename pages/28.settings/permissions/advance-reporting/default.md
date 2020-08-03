@@ -17,4 +17,8 @@ visible: true
 
 **Publish/Unpublish all Reports:** Allows sellers to publish/unpublish all reports.
 
-**Publish/Unpublish own Reports:** Allows sellers to publish/unpublish own reports.
+**Publish/Unpublish Own Reports:** Allows sellers to publish/unpublish own reports.
+
+**Delete Report:** Allows sellers to delete any reports.
+
+**Delete Own Report:** Allows sellers to delete own reports.
