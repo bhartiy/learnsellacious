@@ -24,5 +24,5 @@ visible: true
 ![](Screenshot%202020-08-03%20at%205.29.46%20PM.png)
 10. Listing type will show on bakend orders view
 ![](Screenshot%202020-08-03%20at%205.38.18%20PM.png)
-**NOTE: Listing type Short Code are avialable for email template, order invoice, print order and order pdf.**
+**NOTE: Listing type Short Codes are avialable for Email template, Order invoice, Print order and Order pdf.**
 
