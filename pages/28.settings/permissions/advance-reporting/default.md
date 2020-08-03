@@ -14,3 +14,7 @@ visible: true
 **Edit Advanced Reports:** Allows sellers to edit advanced reports.
 
 **Edit Own Advanced Reports:** Allows sellers to edit own advanced reports.
+
+**Publish/Unpublish all Reports:** Allows sellers to publish/unpublish all reports.
+
+**Publish/Unpublish own Reports:** Allows sellers to publish/unpublish own reports.
