@@ -20,7 +20,7 @@ visible: true
 ![](Screenshot%202020-08-03%20at%205.28.07%20PM.png)
 8. Listings can be show/hide from frontend display options->product details page.
 ![](Screenshot%202020-08-03%20at%205.30.20%20PM.png)
-9.Qick view is available for various listing available from details page.
+9. Quick view is available for various listing available from details page.
 ![](Screenshot%202020-08-03%20at%205.29.46%20PM.png)
 10. Listing type will show on bakend orders view
 ![](Screenshot%202020-08-03%20at%205.38.18%20PM.png)
