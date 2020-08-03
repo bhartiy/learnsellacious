@@ -22,3 +22,4 @@ Now Sellers also be able to import thier products in sellaciosu marketplace, to 
 **Delete any Import Template**  This permission will allow user to delete any import template for any user.
 **Delete own Import Template**  This permission will allow user to delete his own import template, which he has created.
 
+![](Screenshot%202020-08-03%20at%206.30.55%20PM.png)
