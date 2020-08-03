@@ -4,7 +4,7 @@ media_order: 'Screenshot 2020-08-03 at 6.41.16 PM.png'
 visible: true
 ---
 
-### LAnguages:
+### Languages:
 
 **Configure ACL & Options:** Allows users in the group to edit the options and permissions of this extension.
 
