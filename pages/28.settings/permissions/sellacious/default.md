@@ -1,6 +1,6 @@
 ---
 title: Sellacious
-media_order: 'Screenshot 2020-08-03 at 7.15.09 PM.png,Screenshot 2020-08-04 at 9.39.17 AM.png,Screenshot 2020-08-04 at 9.44.44 AM.png,Screenshot 2020-08-04 at 10.29.22 AM.png,Screenshot 2020-08-04 at 10.40.43 AM.png,Screenshot 2020-08-04 at 11.04.49 AM.png,Screenshot 2020-08-04 at 11.29.35 AM.png,Screenshot 2020-08-04 at 11.35.48 AM.png,Screenshot 2020-08-04 at 11.30.12 AM.png,Screenshot 2020-08-04 at 1.54.29 PM.png'
+media_order: 'Screenshot 2020-08-03 at 7.15.09 PM.png,Screenshot 2020-08-04 at 9.39.17 AM.png,Screenshot 2020-08-04 at 9.44.44 AM.png,Screenshot 2020-08-04 at 10.29.22 AM.png,Screenshot 2020-08-04 at 10.40.43 AM.png,Screenshot 2020-08-04 at 11.04.49 AM.png,Screenshot 2020-08-04 at 11.29.35 AM.png,Screenshot 2020-08-04 at 11.35.48 AM.png,Screenshot 2020-08-04 at 11.30.12 AM.png,Screenshot 2020-08-04 at 1.54.29 PM.png,Screenshot 2020-08-04 at 2.02.03 PM.png'
 visible: true
 ---
 
@@ -108,3 +108,15 @@ This component contains all the permission related to sellaciosu marketplace.
 
 ![](Screenshot%202020-08-04%20at%201.54.29%20PM.png)
 
+
+#### License Management
+
+**View License List:** Allows users to view list of licenses.
+**Create License:** Allows users to create licenses.
+**Delete License:** Allows users to delete licenses.
+**Edit License:** Allows users to edit licenses.
+**Publish/Unpublish License:** Allows users to Publish/Unpublish Licenses.
+
+![](Screenshot%202020-08-04%20at%202.02.03%20PM.png)
+
+#### 
