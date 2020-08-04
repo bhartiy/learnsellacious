@@ -1,6 +1,6 @@
 ---
 title: 'Seller Commission'
-media_order: 'Screen Shot 2020-08-04 at 12.16.19 PM.png,Screen Shot 2020-08-04 at 12.16.57 PM.png,Screen Shot 2020-08-04 at 12.23.21 PM.png,Screen Shot 2020-08-04 at 12.23.27 PM.png'
+media_order: 'Screen Shot 2020-08-04 at 12.16.19 PM.png,Screen Shot 2020-08-04 at 12.16.57 PM.png,Screen Shot 2020-08-04 at 12.23.21 PM.png,Screen Shot 2020-08-04 at 12.23.27 PM.png,Screen Shot 2020-08-04 at 12.40.28 PM.png,Screen Shot 2020-08-04 at 12.40.41 PM.png'
 ---
 
 We have seller commission field to mamage seller comission from the category i.e. by seller/product category. To add the seller comission, you can add either from seller category or from product category.
@@ -21,4 +21,16 @@ We have seller commission field to mamage seller comission from the category i.e
 
 ![](Screen%20Shot%202020-08-04%20at%2012.23.27%20PM.png)
 
-Seller category and product category commissions are vice versa. Whatever commission is decided in any category like product or seller, it will refelect in other category
+Seller category and product category commissions are vice versa. Whatever commission is decided in any category like product or seller, it will refelect in other category.
+
+Also, seller commission will also define from the seller profile too. Whatever commission is define in seller profile, it will be on first priority than seller/product category.
+
+1. Go to the seller profile and edit the profile.
+2. Click on the seller commission tab in seller profile.
+ ![](Screen%20Shot%202020-08-04%20at%2012.40.28%20PM.png)
+3. Click on the manage commission button.
+
+![](Screen%20Shot%202020-08-04%20at%2012.40.41%20PM.png)
+4. From here you can manage the commission, you can enter the diferent different commission for each category.
+5. Save the seller profile.
+6. On every purchase, seller commission will deduct and credit to the shop owner account. 
