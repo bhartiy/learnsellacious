@@ -45,5 +45,12 @@ This component contains all the permission related to sellaciosu marketplace.
 ![](Screenshot%202020-08-04%20at%2010.29.22%20AM.png)
 
 
+#### Coupons
+
+View All Coupons: Allow user to view all coupons.
+View Own Coupons:Allow user to view own coupons.
+Create coupon: Allows user to create own coupon.
+Edit anyone's Coupons: Allows users to edit all the coupons.
+
 
   
