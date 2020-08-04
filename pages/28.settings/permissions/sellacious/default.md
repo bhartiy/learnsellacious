@@ -160,7 +160,7 @@ This component contains all the permission related to sellaciosu marketplace.
 ![](Screenshot%202020-08-04%20at%202.40.36%20PM.png)
 
 
-#### Products 
+#### Product
 
 **View All Products:** This permission allows user to view products from all the sellers.
 **View own Products** This permission allows user to view own products.
@@ -181,3 +181,13 @@ This component contains all the permission related to sellaciosu marketplace.
 **Approve/Disapprove any Product:** Allows user to Approve/Disapprove any Product form catalog.
 
 ![](Screenshot%202020-08-04%20at%203.11.40%20PM.png)
+
+#### Product Order Views
+
+**View Any Order Status:** Allows user to view status of Orders and products inside it, of any order of any seller.
+**View Your Order Status:** Allows user to view View Order Status of own products.
+**Edit status of any order item:** Allows user to edit status of any order.
+**Edit status of own (seller) order item:** Allows user to edit status of own order item.
+**Delete Any Order:** Allows user to delete any order.
+
+![](Screenshot%202020-08-04%20at%203.29.05%20PM.png)
