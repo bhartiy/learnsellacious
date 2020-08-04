@@ -1,6 +1,6 @@
 ---
 title: Sellacious
-media_order: 'Screenshot 2020-08-03 at 7.15.09 PM.png,Screenshot 2020-08-04 at 9.39.17 AM.png,Screenshot 2020-08-04 at 9.44.44 AM.png,Screenshot 2020-08-04 at 10.29.22 AM.png,Screenshot 2020-08-04 at 10.40.43 AM.png,Screenshot 2020-08-04 at 11.04.49 AM.png,Screenshot 2020-08-04 at 11.29.35 AM.png,Screenshot 2020-08-04 at 11.35.48 AM.png,Screenshot 2020-08-04 at 11.30.12 AM.png,Screenshot 2020-08-04 at 1.54.29 PM.png,Screenshot 2020-08-04 at 2.02.03 PM.png,Screenshot 2020-08-04 at 2.11.41 PM.png'
+media_order: 'Screenshot 2020-08-03 at 7.15.09 PM.png,Screenshot 2020-08-04 at 9.39.17 AM.png,Screenshot 2020-08-04 at 9.44.44 AM.png,Screenshot 2020-08-04 at 10.29.22 AM.png,Screenshot 2020-08-04 at 10.40.43 AM.png,Screenshot 2020-08-04 at 11.04.49 AM.png,Screenshot 2020-08-04 at 11.29.35 AM.png,Screenshot 2020-08-04 at 11.35.48 AM.png,Screenshot 2020-08-04 at 11.30.12 AM.png,Screenshot 2020-08-04 at 1.54.29 PM.png,Screenshot 2020-08-04 at 2.02.03 PM.png,Screenshot 2020-08-04 at 2.11.41 PM.png,Screenshot 2020-08-04 at 2.16.02 PM.png'
 visible: true
 ---
 
@@ -128,3 +128,18 @@ This component contains all the permission related to sellaciosu marketplace.
 **Delete Measurement Unit:** Allows users to delete Measurement Unit.
 
 ![](Screenshot%202020-08-04%20at%202.11.41%20PM.png)
+
+
+
+#### Messages
+
+**View all Message:** Allows users to view all the messages.
+**View Own Message:** Allows users to view own messages.
+**Create Message:** Allows users to create messages.
+**Send Bulk Messages:** Allows users to send bulk messages. Create message permission is required for this to take effect.
+**Reply Messages** Allows users to reply to any message irrespective of their original recipient or sender.
+**Reply Own Message:** Allows users to reply any message that received by the user.
+**Send HTML formatted Email:** Select whether the use will be allowed to send HTML formatted or just plain text message.
+**Delete Message:** Allows users to create messages.
+
+![](Screenshot%202020-08-04%20at%202.16.02%20PM.png)
