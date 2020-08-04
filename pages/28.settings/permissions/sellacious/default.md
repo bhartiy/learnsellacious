@@ -28,4 +28,14 @@ This component contains all the permission related to sellaciosu marketplace.
 ![](Screenshot%202020-08-04%20at%209.39.17%20AM.png)
 
 
+#### Categories
+
+**Allow Category list view:** Allows users to see all list of categories.
+**Allow Category Creation:** Allows users to create new cateogy in sellacious.
+**Allow Category Editing:** Allows users to edit categories.
+**Allow Category State Change:** Allows users to publish/unpublish catergories.
+**Allow Category Deletion:** Allows users to delete catogory.
+
+![](Screenshot%202020-08-04%20at%209.44.44%20AM.png)
+
   
