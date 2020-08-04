@@ -20,3 +20,5 @@ We have seller commission field to mamage seller comission from the category i.e
 6. Click on the manage commission button, you can see the same commission amount as you have entered in seller category for product category.
 
 ![](Screen%20Shot%202020-08-04%20at%2012.23.27%20PM.png)
+
+Seller category and product category commissions are vice versa. 
