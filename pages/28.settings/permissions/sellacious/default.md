@@ -15,3 +15,17 @@ This component contains all the permission related to sellaciosu marketplace.
 **Activate/Deactivate Custom Field**: To activate or to deactivate the user permissions in the custom field.
 
 ![](Screenshot%202020-08-03%20at%207.15.09%20PM.png)
+
+
+#### Buy Now Buttons
+
+**View All Buy Now Buttons:** Allows users to views all the by now buttons.
+**View Own Buy Now Buttons:** Allows users to views own by now buttons.
+**Create Buy Now Buttons:** Allows users to create buy now buttons.
+**Edit Buy Now Buttons:** Allows users to edit all buy now buttons.
+**Edit Own Buy Now Buttons:** Allows users to edit own buy now buttons.
+
+![](Screenshot%202020-08-04%20at%209.39.17%20AM.png)
+
+
+  
