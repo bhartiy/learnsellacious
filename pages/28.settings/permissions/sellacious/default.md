@@ -1,6 +1,6 @@
 ---
 title: Sellacious
-media_order: 'Screenshot 2020-08-03 at 7.15.09 PM.png,Screenshot 2020-08-04 at 9.39.17 AM.png,Screenshot 2020-08-04 at 9.44.44 AM.png,Screenshot 2020-08-04 at 10.29.22 AM.png,Screenshot 2020-08-04 at 10.40.43 AM.png,Screenshot 2020-08-04 at 11.04.49 AM.png,Screenshot 2020-08-04 at 11.29.35 AM.png,Screenshot 2020-08-04 at 11.35.48 AM.png,Screenshot 2020-08-04 at 11.30.12 AM.png,Screenshot 2020-08-04 at 1.54.29 PM.png,Screenshot 2020-08-04 at 2.02.03 PM.png,Screenshot 2020-08-04 at 2.11.41 PM.png,Screenshot 2020-08-04 at 2.16.02 PM.png,Screenshot 2020-08-04 at 2.40.36 PM.png,Screenshot 2020-08-04 at 3.11.40 PM.png'
+media_order: 'Screenshot 2020-08-03 at 7.15.09 PM.png,Screenshot 2020-08-04 at 9.39.17 AM.png,Screenshot 2020-08-04 at 9.44.44 AM.png,Screenshot 2020-08-04 at 10.29.22 AM.png,Screenshot 2020-08-04 at 10.40.43 AM.png,Screenshot 2020-08-04 at 11.04.49 AM.png,Screenshot 2020-08-04 at 11.29.35 AM.png,Screenshot 2020-08-04 at 11.35.48 AM.png,Screenshot 2020-08-04 at 11.30.12 AM.png,Screenshot 2020-08-04 at 1.54.29 PM.png,Screenshot 2020-08-04 at 2.02.03 PM.png,Screenshot 2020-08-04 at 2.11.41 PM.png,Screenshot 2020-08-04 at 2.16.02 PM.png,Screenshot 2020-08-04 at 2.40.36 PM.png,Screenshot 2020-08-04 at 3.11.40 PM.png,Screenshot 2020-08-04 at 3.29.05 PM.png,Screenshot 2020-08-04 at 4.15.17 PM.png'
 visible: true
 ---
 
@@ -197,3 +197,8 @@ This component contains all the permission related to sellaciosu marketplace.
 
 **View All Questions:** Allows user to view all the questions from the shop.
 **View Own Questions:** Allows the user to view the Questions related to their own Products.
+**Edit All Questions:** Allows user to edit all the questions.
+**Edit Own Questions:** Allows the user to edit the Questions related to their own Products.
+
+![](Screenshot%202020-08-04%20at%204.15.17%20PM.png)
+
