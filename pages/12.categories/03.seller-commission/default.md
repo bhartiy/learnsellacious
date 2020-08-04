@@ -21,4 +21,4 @@ We have seller commission field to mamage seller comission from the category i.e
 
 ![](Screen%20Shot%202020-08-04%20at%2012.23.27%20PM.png)
 
-Seller category and product category commissions are vice versa. 
+Seller category and product category commissions are vice versa. Whatever commission is decided in any category like product or seller, it will refelect in other category
