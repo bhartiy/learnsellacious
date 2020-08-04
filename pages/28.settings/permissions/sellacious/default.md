@@ -202,3 +202,10 @@ This component contains all the permission related to sellaciosu marketplace.
 
 ![](Screenshot%202020-08-04%20at%204.15.17%20PM.png)
 
+
+#### Reporting & Statistics
+
+**Visitor Stats on Dashboard:** Allows user to view visitor stats on dashboard.
+
+![](Screenshot%202020-08-04%20at%205.13.56%20PM.png)
+
