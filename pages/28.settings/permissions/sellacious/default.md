@@ -157,4 +157,4 @@ This component contains all the permission related to sellaciosu marketplace.
 **Activate/Deactivate Payment Method:** Allows users to Activate/Deactivate all Payment Method. 
 **Activate/Deactivate own Payment Method:** Allows users to Activate/Deactivate own Payment Method. 
 
-![](Screenshot%202020-08-04%20at%202.16.02%20PM.png)
+![](Screenshot%202020-08-04%20at%202.40.36%20PM.png)
