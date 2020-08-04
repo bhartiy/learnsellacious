@@ -1,6 +1,6 @@
 ---
 title: Sellacious
-media_order: 'Screenshot 2020-08-03 at 7.15.09 PM.png,Screenshot 2020-08-04 at 9.39.17 AM.png,Screenshot 2020-08-04 at 9.44.44 AM.png,Screenshot 2020-08-04 at 10.29.22 AM.png,Screenshot 2020-08-04 at 10.40.43 AM.png'
+media_order: 'Screenshot 2020-08-03 at 7.15.09 PM.png,Screenshot 2020-08-04 at 9.39.17 AM.png,Screenshot 2020-08-04 at 9.44.44 AM.png,Screenshot 2020-08-04 at 10.29.22 AM.png,Screenshot 2020-08-04 at 10.40.43 AM.png,Screenshot 2020-08-04 at 11.04.49 AM.png,Screenshot 2020-08-04 at 11.29.35 AM.png'
 visible: true
 ---
 
@@ -69,4 +69,13 @@ This component contains all the permission related to sellaciosu marketplace.
 **Edit Forex:** Allows users to edit forex of a currency.
 
 ![](Screenshot%202020-08-04%20at%2011.04.49%20AM.png)
-  
+
+#### Custom Status (Orders and others)
+
+**View Order Status:** Allows users to view order status.
+**Add Order Status:** Allows users to create order status.
+**Delete Order Status:** Allows users to delete order status.
+**Edit Order Status:** Allows users to edit order status.
+**Activate/Deactivate Order Status:** Allows users to Activate/Deactivate order status.
+
+![](Screenshot%202020-08-04%20at%2011.29.35%20AM.png)
