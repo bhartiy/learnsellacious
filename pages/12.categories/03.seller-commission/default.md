@@ -55,4 +55,4 @@ Seller category and product category commissions are vice versa. Whatever commis
 * Save the seller profile.
 * On every purchase, seller commission will deduct and credit to the shop owner account. 
 
-**Note: If commission is define in seller profile, category and global too. Seller profile will be on first priority. If commission is define only in category and global, category will be priority. 
+**Note: If commission is define in seller profile, category and global too. Seller profile will be on first priority. If commission is define only in category and global, category will be priority.**
