@@ -1,6 +1,6 @@
 ---
 title: Sellacious
-media_order: 'Screenshot 2020-08-03 at 7.15.09 PM.png,Screenshot 2020-08-04 at 9.39.17 AM.png,Screenshot 2020-08-04 at 9.44.44 AM.png,Screenshot 2020-08-04 at 10.29.22 AM.png,Screenshot 2020-08-04 at 10.40.43 AM.png,Screenshot 2020-08-04 at 11.04.49 AM.png,Screenshot 2020-08-04 at 11.29.35 AM.png,Screenshot 2020-08-04 at 11.35.48 AM.png,Screenshot 2020-08-04 at 11.30.12 AM.png,Screenshot 2020-08-04 at 1.54.29 PM.png,Screenshot 2020-08-04 at 2.02.03 PM.png,Screenshot 2020-08-04 at 2.11.41 PM.png,Screenshot 2020-08-04 at 2.16.02 PM.png,Screenshot 2020-08-04 at 2.16.02 PM.png'
+media_order: 'Screenshot 2020-08-03 at 7.15.09 PM.png,Screenshot 2020-08-04 at 9.39.17 AM.png,Screenshot 2020-08-04 at 9.44.44 AM.png,Screenshot 2020-08-04 at 10.29.22 AM.png,Screenshot 2020-08-04 at 10.40.43 AM.png,Screenshot 2020-08-04 at 11.04.49 AM.png,Screenshot 2020-08-04 at 11.29.35 AM.png,Screenshot 2020-08-04 at 11.35.48 AM.png,Screenshot 2020-08-04 at 11.30.12 AM.png,Screenshot 2020-08-04 at 1.54.29 PM.png,Screenshot 2020-08-04 at 2.02.03 PM.png,Screenshot 2020-08-04 at 2.11.41 PM.png,Screenshot 2020-08-04 at 2.16.02 PM.png,Screenshot 2020-08-04 at 2.40.36 PM.png,Screenshot 2020-08-04 at 3.11.40 PM.png'
 visible: true
 ---
 
@@ -158,3 +158,26 @@ This component contains all the permission related to sellaciosu marketplace.
 **Activate/Deactivate own Payment Method:** Allows users to Activate/Deactivate own Payment Method. 
 
 ![](Screenshot%202020-08-04%20at%202.40.36%20PM.png)
+
+
+#### Products 
+
+**View All Products:** This permission allows user to view products from all the sellers.
+**View own Products** This permission allows user to view own products.
+**Add New Product:** Allows use to add a listing of product.
+**Edit Basic Information of any Product:** Allows user to edit Basic information of created product of any seller, Basic segment include General, Specification, Pricing segment of product creation.
+**Edit Inventory and Pricing of any Product:** Allows user to edit Inventory associated with any product, including Stock, Price, Cost, Attachments or Description.
+**Edit Shipment Section of any Product:** Allows user to edit shipment section of any product.
+**Edit Related Products:** Allows user to edit related product of any product.
+**Manage Product SEO of any Seller:** Allows user to edit SEO of any product.
+**Edit Basic Information of own Product:** Allows user to edit Basic information of own product, Basic segment include General, Specification, Pricing segment of product creation.
+**Edit Inventory and Pricing of own Product:** Allows user to edit Inventory associated with own product, including Stock, Price, Cost, Attachments or Description.
+**Edit Shipment Section of own Product:** Allows user to edit shipment section of own product.
+**Edit Related Products of own product:** Allows user to edit related product of own product.
+**Manage Product SEO of own products:** Allows user to edit SEO of own product.
+**Delete any Product:** Allows user to delete any product form catalog.
+**Delete own Product:** Allows user to delete own product form catalog.
+**Activate/Deactivate any Product:** Allows user to Activate/Deactivate any Product form catalog.
+**Approve/Disapprove any Product:** Allows user to Approve/Disapprove any Product form catalog.
+
+![](Screenshot%202020-08-04%20at%203.11.40%20PM.png)
