@@ -27,6 +27,7 @@ There are three ways to set the Seller Commission:
 
 *  Go to the left menu-> Categories.
 *  Open the seller category and click on seller attributes tab.
+
 ![](Screen%20Shot%202020-08-04%20at%2012.16.19%20PM.png)
 
 * Click on the manage commission button, commission drawer will open from left side.
