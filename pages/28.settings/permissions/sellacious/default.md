@@ -79,3 +79,11 @@ This component contains all the permission related to sellaciosu marketplace.
 **Activate/Deactivate Order Status:** Allows users to Activate/Deactivate order status.
 
 ![](Screenshot%202020-08-04%20at%2011.29.35%20AM.png)
+
+
+#### Download Statistics
+
+View All Downloads: Allows users to view all the downloads from the shop.
+View Own Downloads: Allows users to view the downloads related to their own e-products.
+
+![](Screenshot%202020-08-04%20at%2011.30.12%20AM.png)
