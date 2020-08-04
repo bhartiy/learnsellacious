@@ -17,9 +17,7 @@ There are three ways to set the Seller Commission:
 
 * Go to the Settings-> Global configuration
 * In the seller tab, you can found On sale commission
-
 ![](Screenshot.png)
-
 * Enter the commission number and saved it. 
 * This commission amount will deduct from the seller account and credit to the owner account.
 
@@ -27,19 +25,13 @@ There are three ways to set the Seller Commission:
 
 *  Go to the left menu-> Categories.
 *  Open the seller category and click on seller attributes tab.
-
 ![](Screen%20Shot%202020-08-04%20at%2012.16.19%20PM.png)
-
 * Click on the manage commission button, commission drawer will open from left side.
 ![](Screen%20Shot%202020-08-04%20at%2012.16.57%20PM.png)
-
 * Enter the seller commission in product categories and save it.
 * Open the product category and click on seller commission tab.
-
 ![](Screen%20Shot%202020-08-04%20at%2012.23.21%20PM.png)
-
 * Click on the manage commission button, you can see the same commission amount as you have entered in seller category for product category.
-
 ![](Screen%20Shot%202020-08-04%20at%2012.23.27%20PM.png)
 
 Seller category and product category commissions are vice versa. Whatever commission is decided in any category like product or seller, it will refelect in other category.
