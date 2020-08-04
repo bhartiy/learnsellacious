@@ -5,7 +5,7 @@ media_order: 'Screen Shot 2020-08-04 at 12.16.19 PM.png,Screen Shot 2020-08-04 a
 
 We have seller commission field to mamage seller comission from the category i.e. by seller/product category. To add the seller comission, you can add either from seller category or from product category.
 
-1. Go to the left menu-> Categories
+1. Go to the left menu-> Categories.
 2. Open the seller category and click on seller attributes tab.
 ![](Screen%20Shot%202020-08-04%20at%2012.16.19%20PM.png)
 
