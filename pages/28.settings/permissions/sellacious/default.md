@@ -1,6 +1,6 @@
 ---
 title: Sellacious
-media_order: 'Screenshot 2020-08-03 at 7.15.09 PM.png'
+media_order: 'Screenshot 2020-08-03 at 7.15.09 PM.png,Screenshot 2020-08-04 at 9.39.17 AM.png,Screenshot 2020-08-04 at 9.44.44 AM.png,Screenshot 2020-08-04 at 10.29.22 AM.png'
 visible: true
 ---
 
@@ -37,5 +37,11 @@ This component contains all the permission related to sellaciosu marketplace.
 **Allow Category Deletion:** Allows users to delete catogory.
 
 ![](Screenshot%202020-08-04%20at%209.44.44%20AM.png)
+
+**Communication Log:** Allows users to view communicationlog.
+
+![](Screenshot%202020-08-04%20at%2010.29.22%20AM.png)
+
+
 
   
