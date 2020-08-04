@@ -209,3 +209,11 @@ This component contains all the permission related to sellaciosu marketplace.
 
 ![](Screenshot%202020-08-04%20at%205.13.56%20PM.png)
 
+#### Review & Ratings
+
+**View Rating & Reviews:** Allows user to see list of reviews.
+**View own Rating & Reviews:** View Rating & Reviews only associated with logged-in user.
+**Block/unblock Rating & Review:** Allows users to Block/unblock Rating & Review.
+**Delete Rating & Review:** Allows users to delete Rating & Review.
+
+![](Screenshot%202020-08-04%20at%205.28.57%20PM.png)
