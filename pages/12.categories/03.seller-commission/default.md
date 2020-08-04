@@ -3,6 +3,10 @@ title: 'Seller Commission'
 media_order: 'Screen Shot 2020-08-04 at 12.16.19 PM.png,Screen Shot 2020-08-04 at 12.16.57 PM.png,Screen Shot 2020-08-04 at 12.23.21 PM.png,Screen Shot 2020-08-04 at 12.23.27 PM.png,Screen Shot 2020-08-04 at 12.40.28 PM.png,Screen Shot 2020-08-04 at 12.40.41 PM.png,Screenshot.png'
 ---
 
+**Written by**: Rashi Gupta
+**Date**: 03-08-2020
+**Compatibility**: Sellacious v2.0.0-Beta1+
+
 There are three ways to set the Seller Commission:
 1. From Global
 2. From Category (seller/product)
@@ -13,6 +17,7 @@ There are three ways to set the Seller Commission:
 
 * Go to the Settings-> Global configuration
 * In the seller tab, you can found On sale commission
+
 ![](Screenshot.png)
 
 * Enter the commission number and saved it. 
