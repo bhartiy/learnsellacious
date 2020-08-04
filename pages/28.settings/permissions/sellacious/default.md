@@ -58,4 +58,15 @@ This component contains all the permission related to sellaciosu marketplace.
 
 ![](Screenshot%202020-08-04%20at%2010.40.43%20AM.png)
 
+
+#### Currency
+
+**View Currencies:** Allows users to view currencies in any state.
+**Create New Currency:** Allows users to create currency.
+**Edit Currency:** Allows users to edit any currency.
+**Activate/Deactivate Currency:** Allows users to activate/deactivate any currency.
+**Delete Currency:** Allows users to delete existing currencies.
+**Edit Forex:** Allows users to edit forex of a currency.
+
+![](Screenshot%202020-08-04%20at%2011.04.49%20AM.png)
   
