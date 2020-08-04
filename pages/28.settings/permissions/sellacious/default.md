@@ -1,6 +1,6 @@
 ---
 title: Sellacious
-media_order: 'Screenshot 2020-08-03 at 7.15.09 PM.png,Screenshot 2020-08-04 at 9.39.17 AM.png,Screenshot 2020-08-04 at 9.44.44 AM.png,Screenshot 2020-08-04 at 10.29.22 AM.png'
+media_order: 'Screenshot 2020-08-03 at 7.15.09 PM.png,Screenshot 2020-08-04 at 9.39.17 AM.png,Screenshot 2020-08-04 at 9.44.44 AM.png,Screenshot 2020-08-04 at 10.29.22 AM.png,Screenshot 2020-08-04 at 10.40.43 AM.png'
 visible: true
 ---
 
@@ -47,10 +47,15 @@ This component contains all the permission related to sellaciosu marketplace.
 
 #### Coupons
 
-View All Coupons: Allow user to view all coupons.
-View Own Coupons:Allow user to view own coupons.
-Create coupon: Allows user to create own coupon.
-Edit anyone's Coupons: Allows users to edit all the coupons.
+**View All Coupons:** Allow user to view all coupons.
+**View Own Coupons:** Allow user to view own coupons.
+**Create Coupon:** Allows user to create own coupon.
+**Edit Anyone's Coupons:** Allows users to edit all the coupons.
+**Edit Own Coupons:** Allows users to edit own the coupons.
+**Delete Any Coupon:** This permission will allow user to delete any coupon for any user, user will also see list of coupons created by other users.
+**Delete Own Coupons:** This permission will allow user to delete his own coupons. which he has created. he can see his own coupons but if creation is not allowed he can not create new coupons.
+**Activate/Deactivate Coupons:** Allow user to Temporarily Activate or Deactivate Coupons, deactivating coupon will make it inactive on frontend and your sellacious POS.
 
+![](Screenshot%202020-08-04%20at%2010.40.43%20AM.png)
 
   
