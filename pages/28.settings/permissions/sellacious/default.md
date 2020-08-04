@@ -38,6 +38,8 @@ This component contains all the permission related to sellaciosu marketplace.
 
 ![](Screenshot%202020-08-04%20at%209.44.44%20AM.png)
 
+#### Communication Log
+
 **Communication Log:** Allows users to view communicationlog.
 
 ![](Screenshot%202020-08-04%20at%2010.29.22%20AM.png)
