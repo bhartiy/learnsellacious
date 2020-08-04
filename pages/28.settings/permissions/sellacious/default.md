@@ -191,3 +191,9 @@ This component contains all the permission related to sellaciosu marketplace.
 **Delete Any Order:** Allows user to delete any order.
 
 ![](Screenshot%202020-08-04%20at%203.29.05%20PM.png)
+
+
+#### Questions
+
+**View All Questions:** Allows user to view all the questions from the shop.
+**View Own Questions:** Allows the user to view the Questions related to their own Products.
