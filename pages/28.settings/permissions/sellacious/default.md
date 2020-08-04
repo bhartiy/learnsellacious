@@ -87,3 +87,11 @@ This component contains all the permission related to sellaciosu marketplace.
 **View Own Downloads:** Allows users to view the downloads related to their own e-products.
 
 ![](Screenshot%202020-08-04%20at%2011.30.12%20AM.png)
+
+
+#### Email Templates
+
+**List Email Templates:** Allows users to view all the email templates for the emails that are sent by sellacious.
+**Edit Email Templates:** Allow user to edit the email templates for the emails that are sent by sellacious.
+
+![](Screenshot%202020-08-04%20at%2011.35.48%20AM.png)
