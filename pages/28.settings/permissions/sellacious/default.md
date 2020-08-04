@@ -1,6 +1,6 @@
 ---
 title: Sellacious
-media_order: 'Screenshot 2020-08-03 at 7.15.09 PM.png,Screenshot 2020-08-04 at 9.39.17 AM.png,Screenshot 2020-08-04 at 9.44.44 AM.png,Screenshot 2020-08-04 at 10.29.22 AM.png,Screenshot 2020-08-04 at 10.40.43 AM.png,Screenshot 2020-08-04 at 11.04.49 AM.png,Screenshot 2020-08-04 at 11.29.35 AM.png'
+media_order: 'Screenshot 2020-08-03 at 7.15.09 PM.png,Screenshot 2020-08-04 at 9.39.17 AM.png,Screenshot 2020-08-04 at 9.44.44 AM.png,Screenshot 2020-08-04 at 10.29.22 AM.png,Screenshot 2020-08-04 at 10.40.43 AM.png,Screenshot 2020-08-04 at 11.04.49 AM.png,Screenshot 2020-08-04 at 11.29.35 AM.png,Screenshot 2020-08-04 at 11.35.48 AM.png,Screenshot 2020-08-04 at 11.30.12 AM.png,Screenshot 2020-08-04 at 1.54.29 PM.png'
 visible: true
 ---
 
@@ -95,3 +95,16 @@ This component contains all the permission related to sellaciosu marketplace.
 **Edit Email Templates:** Allow user to edit the email templates for the emails that are sent by sellacious.
 
 ![](Screenshot%202020-08-04%20at%2011.35.48%20AM.png)
+
+
+#### Geo Locations (Country, State, ZIP/PIN)
+
+**View Geolocation:** Allows users to view list of geolocations.
+**View Own Geolocation:** Allows users to view own list of geolocations.
+**Create Geolocation:** Allows users to create Geolocation, Geolocations are available hierarchical  country, state, district, suburb, zip details usable site wide.
+**Edit Geolocation:** Allows users to edit geolocations.
+**Block/UnBlock Geolocation:** Allows users to Block/UnBlock geolocations.
+**Delete Geolocation:** Allows users to delete geolocations.
+
+![](Screenshot%202020-08-04%20at%201.54.29%20PM.png)
+
