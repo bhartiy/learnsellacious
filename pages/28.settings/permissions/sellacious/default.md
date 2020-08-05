@@ -257,3 +257,17 @@ This component contains all the permission related to sellaciosu marketplace.
 **Activate/Deactivate Tax/Discount Rule:** Allows users to Activate/Deactivate any Tax/Discount Rule.
 
 ![](Screenshot%202020-08-05%20at%2012.30.04%20PM.png)
+
+
+#### Variant
+
+**View variants:** Allows users to view all the variants.
+**View Own variants:** Allows users to view their own variants.
+**Create variants:** Allows users to create variants.
+**Delete variants:** Allows users to delete variants.
+**Delete Own variants:** Allows users to delete own variants.
+**Edit variants:** Allows users to edit any variants.
+**Edit Own variants:** Allows users to edit their own variants.
+**Activate/Deactivate variants:** Allows users to Activate/Deactivate any variants.
+
+![](Screenshot%202020-08-05%20at%2012.34.03%20PM.png)
