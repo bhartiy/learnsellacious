@@ -259,6 +259,23 @@ This component contains all the permission related to sellaciosu marketplace.
 ![](Screenshot%202020-08-05%20at%2012.30.04%20PM.png)
 
 
+#### Transactions, Add Fund, Withdrawal
+
+**View Transactions:** Allows users to view all the Transactions.
+**View Own Transactions:** Allows users to view their own Transactions.
+**Add Funds Directly to any User Account:** Allows users to add funds Directly to any User Account.
+**Add Funds in Any User via Payment Gateways:** Aloows Users to Add Funds in Any User via Payment Gateways.
+**Add Funds Directly into Own Account:** Allows users to Add Funds Directly into Own Account.
+**Add Funds own Account by Payment Gateways:** Allows users to Add Funds own Account by Payment Gateways.
+**Submit Withdrawal for Anyone:** Allows users to Submit Withdrawal for Anyone.
+**Submit Own Withdrawal Request:** Allows users to Submit Own Withdrawal Request .
+**Approve Withdrawal:** Allows users to Approve Withdrawal.
+**Delete Transactions:** Allows users to delete Transactions.
+**Delete Own Transactions:** Allows users to delete own Transactions.
+
+![](Screenshot%202020-08-05%20at%2012.43.21%20PM.png)
+
+
 #### Variant
 
 **View variants:** Allows users to view all the variants.
