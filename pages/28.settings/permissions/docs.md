@@ -27,3 +27,9 @@ These are the component wise permissions-
 [Sellacious](https://www.sellacious.com/learn/settings/permissions/sellacious)
 [Sellacious Delivery](https://www.sellacious.com/learn/settings/permissions/sellacious-delivery)
 [Advance Reporting](https://www.sellacious.com/learn/settings/permissions/advance-reporting)
+
+**Please Note:**
+* A user with Super Admin / Shop Owner access will always be Allowed irrespective of the denied settings anywhere.
+* Inherit means this category will use the rules of its parent categories.
+* Denied means users in this category and all sub-categories will not be allowed to perform the specific action irrespective of the sub-categories' Allowed setting.
+* Allowed means the users in this category will be allowed to perform the specific action. But if any of the parent categories have Denied set, then Allowed will have no effect and Denied will be applied.
