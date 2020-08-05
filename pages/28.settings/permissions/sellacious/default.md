@@ -217,3 +217,20 @@ This component contains all the permission related to sellaciosu marketplace.
 **Delete Rating & Review:** Allows users to delete Rating & Review.
 
 ![](Screenshot%202020-08-04%20at%205.28.57%20PM.png)
+
+
+#### Shipping & Rules
+
+**View Shipping Rules:** Allows users to view all the shipping rules.
+**View Own Shipping Rules:** Allows users to view own shipping rules.
+**Create Shipping Rules:** Allows users to create shipping rules.
+**Delete Shipping Rules:** Allows users to delete shipping rules.
+**Delete Own Shipping Rules:** Allows users to delete own shipping rules.
+**Edit Shipping Rule:** Allows users to edit any shipping rule.
+**Edit Own Shipping Rule:** Allows users to edit own shipping rule.
+**Activate/Deactivate Shipping Rule:** Allows usres to Activate/Deactivate any Shipping Rule.
+
+![](Screenshot%202020-08-05%20at%2011.57.02%20AM.png)
+
+
+
