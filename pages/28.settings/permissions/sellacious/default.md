@@ -241,7 +241,19 @@ This component contains all the permission related to sellaciosu marketplace.
 **Edit Special categories:** Allows users to edit any Special categories.
 **Activate/Deactivate Special categories:** Allows users to Activate/Deactivate any Special categories.
 
-
 ![](Screenshot%202020-08-05%20at%2012.25.58%20PM.png)
 
 
+
+#### Tax/Discount Rules
+
+**View Tax/Discount Rules:** Allows users to view all the Tax/Discount rules.
+**View Own Tax/Discount Rules:** Allows users to view their own Tax/Discount rules.
+**Create Tax/Discount Rules:** Allows users to create Tax/Discount rules.
+**Delete Tax/Discount Rules:** Allows users to delete Tax/Discount rules.
+**Delete Own Tax/Discount Rules:** Allows users to delete own Tax/Discount rules.
+**Edit Tax/Discount Rule:** Allows users to edit any Tax/Discount rule.
+**Edit Own Tax/Discount Rule:** Allows users to edit their own Tax/Discount rule.
+**Activate/Deactivate Tax/Discount Rule:** Allows users to Activate/Deactivate any Tax/Discount Rule.
+
+![](Screenshot%202020-08-05%20at%2012.30.04%20PM.png)
