@@ -1,6 +1,6 @@
 ---
 title: Sellacious
-media_order: 'Screenshot 2020-08-03 at 7.15.09 PM.png,Screenshot 2020-08-04 at 9.39.17 AM.png,Screenshot 2020-08-04 at 9.44.44 AM.png,Screenshot 2020-08-04 at 10.29.22 AM.png,Screenshot 2020-08-04 at 10.40.43 AM.png,Screenshot 2020-08-04 at 11.04.49 AM.png,Screenshot 2020-08-04 at 11.29.35 AM.png,Screenshot 2020-08-04 at 11.35.48 AM.png,Screenshot 2020-08-04 at 11.30.12 AM.png,Screenshot 2020-08-04 at 1.54.29 PM.png,Screenshot 2020-08-04 at 2.02.03 PM.png,Screenshot 2020-08-04 at 2.11.41 PM.png,Screenshot 2020-08-04 at 2.16.02 PM.png,Screenshot 2020-08-04 at 2.40.36 PM.png,Screenshot 2020-08-04 at 3.11.40 PM.png,Screenshot 2020-08-04 at 3.29.05 PM.png,Screenshot 2020-08-04 at 4.15.17 PM.png'
+media_order: 'Screenshot 2020-08-03 at 7.15.09 PM.png,Screenshot 2020-08-04 at 9.39.17 AM.png,Screenshot 2020-08-04 at 9.44.44 AM.png,Screenshot 2020-08-04 at 10.29.22 AM.png,Screenshot 2020-08-04 at 10.40.43 AM.png,Screenshot 2020-08-04 at 11.04.49 AM.png,Screenshot 2020-08-04 at 11.29.35 AM.png,Screenshot 2020-08-04 at 11.35.48 AM.png,Screenshot 2020-08-04 at 11.30.12 AM.png,Screenshot 2020-08-04 at 1.54.29 PM.png,Screenshot 2020-08-04 at 2.02.03 PM.png,Screenshot 2020-08-04 at 2.11.41 PM.png,Screenshot 2020-08-04 at 2.16.02 PM.png,Screenshot 2020-08-04 at 2.40.36 PM.png,Screenshot 2020-08-04 at 3.11.40 PM.png,Screenshot 2020-08-04 at 3.29.05 PM.png,Screenshot 2020-08-04 at 4.15.17 PM.png,Screenshot 2020-08-04 at 5.13.56 PM.png,Screenshot 2020-08-05 at 12.25.58 PM.png,Screenshot 2020-08-04 at 5.28.57 PM.png,Screenshot 2020-08-05 at 12.43.21 PM.png,Screenshot 2020-08-05 at 12.30.04 PM.png,Screenshot 2020-08-05 at 12.34.03 PM.png,Screenshot 2020-08-05 at 11.57.02 AM.png,Screenshot 2020-08-05 at 12.55.58 PM.png'
 visible: true
 ---
 
@@ -274,6 +274,18 @@ This component contains all the permission related to sellaciosu marketplace.
 **Delete Own Transactions:** Allows users to delete own Transactions.
 
 ![](Screenshot%202020-08-05%20at%2012.43.21%20PM.png)
+
+
+#### User Profiles
+
+**View User List:** Allows user to view all user list.
+**Create new User:** Create New User Profile, Single User Profile can have multiple type of user account Manufacturer, Vendor, Seller, Customer, Staff or any other, means single user can have multiple roles.
+**Edit User:** Allows users to edit any existing user profile.
+**Block/Unblock Any User Profile:** Allows users to Block/Unblock Any User Profile.
+**Edit Own User Profile:** Allows users to Edit Own User Profile.
+**Delete User:** Allows users to Delete Users.
+
+![](Screenshot%202020-08-05%20at%2012.55.58%20PM.png)
 
 
 #### Variant
