@@ -233,4 +233,15 @@ This component contains all the permission related to sellaciosu marketplace.
 ![](Screenshot%202020-08-05%20at%2011.57.02%20AM.png)
 
 
+#### Special categories
+
+**View Special categories:** Allows users to view all the Special categories.
+**Create Special categories:** Allows users to create Special categories.
+**Delete Special categories:** Allows users to delete Special categories.
+**Edit Special categories:** Allows users to edit any Special categories.
+**Activate/Deactivate Special categories:** Allows users to Activate/Deactivate any Special categories.
+
+
+![](Screenshot%202020-08-05%20at%2012.25.58%20PM.png)
+
 
