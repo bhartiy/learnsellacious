@@ -11,7 +11,7 @@ visible: true
 **Date:** 03-08-2020
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
-This section specifies the user category you want to give the permission. In Sellacious v2.0.0-Beta1+ sellacious user categories are considered as user groups. Also permissions can be selected component wise, means you you have to select category and component and then set permission accordingaly.
+This section specifies the user category you want to give the permission. In Sellacious v2.0.0-Beta1+ sellacious user categories are considered as user groups. Also permissions can be selected component wise, means you you have to select category and component and then set permission accordingly.
 
 To set permissions go to **Settings->Permissions**, In User Category choose the catagory to which you want to set perticular permissions and component for which you wnat to set pemissions.
 
