@@ -20,7 +20,7 @@ Here either we can set permissions manually or can copy from any existing catego
 ![](Screenshot%202020-06-04%20at%204.57.04%20PM.png)
 
 These are the component wise permissions-
-
+[Global Permissions](https://www.sellacious.com/documentation-v2#/learn/settings/permissions/global-permissions)
 [Sellacious Importer](https://www.sellacious.com/learn/settings/permissions/sellacious-importer)
 [Languages](https://www.sellacious.com/learn/settings/permissions/languages)
 [Menu Manager](https://www.sellacious.com/learn/settings/permissions/menu-manager)
