@@ -5,7 +5,7 @@ visible: true
 
 ### Importer
 
-Now Sellers also be able to import thier products in sellaciosu marketplace, to enable this permissions component is added. these are the permissions in this respect-
+Now Sellers also be able to import their products in sellacious marketplace, to enable this permissions component is added. These are the permissions in this respect-
 
 **View All Import History**  Allow user to view all import history created by him and others.
 **View own Import History**  Allow user to view his own import history, created only by him.
