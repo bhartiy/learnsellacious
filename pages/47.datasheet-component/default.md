@@ -63,3 +63,7 @@ Separate view is provided for datasheet configuration which will give options to
 **Title of the Attachments:**
 **Show Long Description:**
 **Show Price List:**
+**Show Variants List:**
+**Variants List Columns:**
+**Variants List Header:**
+**Variants List Footer:**
