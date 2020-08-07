@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Component'
-media_order: 'Screenshot 2020-08-07 at 3.07.26 PM.png,Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.45.20 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png'
+media_order: 'Screenshot 2020-08-07 at 3.07.26 PM.png,Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.45.20 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png,screencapture-localhost-ctech4-sellacious-sellacious-index-php-2020-08-07-16_01_47.png'
 taxonomy:
     category:
         - docs
@@ -46,5 +46,9 @@ Separate view is provided for datasheet configuration which will give options to
 **List page style:** css of list page can be changed from here and can be reset to default at any time.
 
 ![](Screenshot%202020-08-07%20at%203.53.13%20PM.png)
+
+**Detail page option:** You can manage detail page element from here 
+
+![](screencapture-localhost-ctech4-sellacious-sellacious-index-php-2020-08-07-16_01_47.png)
 
 
