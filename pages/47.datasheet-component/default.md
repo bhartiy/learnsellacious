@@ -51,4 +51,5 @@ Separate view is provided for datasheet configuration which will give options to
 
 ![](screencapture-localhost-ctech4-sellacious-sellacious-index-php-2020-08-07-16_01_47.png)
 
+**Product Layout:** Choose which layout should be used in Product Detail Page.
 
