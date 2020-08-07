@@ -52,18 +52,23 @@ Separate view is provided for datasheet configuration which will give options to
 ![](screencapture-localhost-ctech4-sellacious-sellacious-index-php-2020-08-07-16_01_47.png)
 
 **Product Layout:** Choose which layout should be used in Product Detail Page.
-**Show Manufacturer Logo:**
-**Show Part Number:**
-**Show Product Title:**
-**Show Short Description:**
-**Show Specifications:**
-**Show Features:**
-**Show Images:**
-**Show Attachments:**
-**Title of the Attachments:**
-**Show Long Description:**
-**Show Price List:**
-**Show Variants List:**
-**Variants List Columns:**
-**Variants List Header:**
-**Variants List Footer:**
+**Show Manufacturer Logo:** Show/hide Manufacturer Logo.
+**Show Part Number:** Show/hide Part Number.
+**Show Product Title:** Show/hide Product Title.
+**Show Short Description:** Show/hide Short Description.
+**Show Specifications:** Show/hide Specifications.
+**Show Features:** Show/hide Features.
+**Show Images:** Choose between galery and primary image for product.
+**Show Attachments:** Show/hide Attachments.
+**Title of the Attachments:** Show/hide Title of the Attachments.
+**Show Long Description:** Show/hide Long Description.
+**Show Price List:** Show/hide Price List.
+**Show Variants List:** Show/hide Variants section on details page.
+**Variants List Columns:** Choose what Columns to show in variant section.
+**Variants List Header:** Show/hide List Header.
+**Variants List Footer:** Show/hide List Footer.
+
+
+**Detail page style:** css of Detail page can be changed from here and can be reset to default at any time.
+
+![](Screenshot%202020-08-07%20at%204.48.12%20PM.png)
