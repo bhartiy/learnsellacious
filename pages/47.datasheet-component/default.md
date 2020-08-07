@@ -33,7 +33,7 @@ then go to **Manage->Extention->Manage** and make sure it is enabled
 #### Cofiguration
 Separate view is provided for datasheet configuration which will give options to manage the elements in datasheet list view as well as detail page.
 
-**1.** For that first make a datasheet configuration menu if not done already.
+**1.** For that first make a datasheet configuration menu if not done already. To Know more how to make Backofiice menu go to https://www.sellacious.com/documentation-v2#/learn/settings/menu-manager 
 
 ![](Screenshot%202020-08-07%20at%203.42.14%20PM.png)
 
