@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Component'
-media_order: 'Screenshot 2020-08-07 at 3.07.26 PM.png,Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.45.20 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png,screencapture-localhost-ctech4-sellacious-sellacious-index-php-2020-08-07-16_01_47.png,Screenshot 2020-08-07 at 4.11.49 PM.png'
+media_order: 'Screenshot 2020-08-07 at 3.07.26 PM.png,Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.45.20 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png,Screenshot 2020-08-07 at 4.11.49 PM.png,Screenshot 2020-08-07 at 4.48.12 PM.png,image1.png,image2.png'
 taxonomy:
     category:
         - docs
@@ -18,7 +18,7 @@ To enable this component follow these steps-
 
 ## Installation
 
-**1.** Install and enable Datasheet component com_sellaciousdatasheet.zip from joomla backend. Go to **Manage->Extention->Install.** 
+**1.** Install and enable Datasheet component **com_sellaciousdatasheet.zip** from joomla backend. Go to **Manage->Extention->Install.** 
 
 ![](Screenshot%202020-08-07%20at%203.22.21%20PM.png)
 
@@ -32,9 +32,9 @@ then go to **Manage->Extention->Manage** and make sure it is enabled
 
 ## Cofiguration
 Separate view is provided for datasheet configuration which will give options to manage the elements in datasheet list view as well as detail page. These configuration can be done on three level
-**Global Level**
-**Category Level**
-**Product Level**
+**1. Global Level**
+**2. Category Level**
+**3. Product Level**
 
 ### Global Level
 
@@ -52,9 +52,8 @@ Separate view is provided for datasheet configuration which will give options to
 
 ![](Screenshot%202020-08-07%20at%203.53.13%20PM.png)
 
-**Detail page option:** You can manage detail page element from here 
-
-![](screencapture-localhost-ctech4-sellacious-sellacious-index-php-2020-08-07-16_01_47.png)
+**Detail page option:** You can manage detail page element from here
+![](image1.png)
 
 **Product Layout:** Choose which layout should be used in Product Detail Page.
 **Show Manufacturer Logo:** Show/hide Manufacturer Logo.
@@ -73,7 +72,10 @@ Separate view is provided for datasheet configuration which will give options to
 **Variants List Header:** Show/hide List Header.
 **Variants List Footer:** Show/hide List Footer.
 
+![](image2.png)
 
 **Detail page style:** css of Detail page can be changed from here and can be reset to default at any time.
 
 ![](Screenshot%202020-08-07%20at%204.48.12%20PM.png)
+
+
