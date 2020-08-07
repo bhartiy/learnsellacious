@@ -2,12 +2,9 @@
 title: 'Datasheet Component'
 media_order: 'Screenshot 2020-08-07 at 3.07.26 PM.png,Screenshot 2020-08-07 at 3.22.21 PM.png'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
-
-### 47
-
-# Datasheet Component
 
 **Written by:** Indresh Maurya
 **Date:** 03-08-2020
