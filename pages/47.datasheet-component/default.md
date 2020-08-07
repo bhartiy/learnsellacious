@@ -16,7 +16,7 @@ This chapter deals with the Datasheet Component layout and configuration ralated
 
 To enable this component follow these steps-
 
-#### Installation
+## Installation
 
 **1.** Install and enable Datasheet component com_sellaciousdatasheet.zip from joomla backend. Go to **Manage->Extention->Install.** 
 
@@ -30,8 +30,13 @@ then go to **Manage->Extention->Manage** and make sure it is enabled
 
 ![](Screenshot%202020-08-07%20at%203.33.15%20PM.png)
 
-#### Cofiguration
-Separate view is provided for datasheet configuration which will give options to manage the elements in datasheet list view as well as detail page.
+## Cofiguration
+Separate view is provided for datasheet configuration which will give options to manage the elements in datasheet list view as well as detail page. These configuration can be done on three level
+**Global Level**
+**Category Level**
+**Product Level**
+
+### Global Level
 
 **1.** For that first make a datasheet configuration menu if not done already. To Know more how to make Backofiice menu go to https://www.sellacious.com/documentation-v2#/learn/settings/menu-manager 
 
