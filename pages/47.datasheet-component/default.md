@@ -92,3 +92,7 @@ Same option are available in category edit and those options if enabled will app
 Same option are available in product edit and those options if enabled will apply on that particular produst. Also the option is given if you want to choose global layout or category layout.
 Additional config for given for adding long description
 ![](Screenshot%202020-08-07%20at%205.28.27%20PM.png)
+
+
+**Hide Variants:** List page section of Frontend display options.
+**Hide Variant Specifications:** Backend display options
