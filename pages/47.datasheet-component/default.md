@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Component'
-media_order: 'Screenshot 2020-08-07 at 3.07.26 PM.png,Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.45.20 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png,Screenshot 2020-08-07 at 4.11.49 PM.png,Screenshot 2020-08-07 at 4.48.12 PM.png,image1.png,image3.png,Screenshot 2020-08-07 at 5.23.11 PM.png,Screenshot 2020-08-07 at 5.28.27 PM.png'
+media_order: 'Screenshot 2020-08-07 at 3.07.26 PM.png,Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png,Screenshot 2020-08-07 at 4.11.49 PM.png,Screenshot 2020-08-07 at 4.48.12 PM.png,image1.png,image3.png,Screenshot 2020-08-07 at 5.23.11 PM.png,Screenshot 2020-08-07 at 5.28.27 PM.png,Screenshot 2020-08-13 at 6.53.49 PM.png'
 taxonomy:
     category:
         - docs
@@ -46,7 +46,7 @@ Separate view is provided for datasheet configuration which will give options to
 
 **List Page Options:** You can opt what column to show and ordering of the columns. **Note** that specifications and cart buttons can't be removed and Ptoducts list page will show only global specifications and category list page will show global and category specific specifications. If all options are disabled then all will show. You can choose Part Number elements wheather it is Product SKU, Seller SKU, Seller Name or all.
 
-![](Screenshot%202020-08-07%20at%203.45.20%20PM.png)
+![](Screenshot%202020-08-13%20at%206.53.49%20PM.png)
 ![](Screenshot%202020-08-07%20at%204.11.49%20PM.png)
 **List page style:** css of list page can be changed from here and can be reset to default at any time.
 
