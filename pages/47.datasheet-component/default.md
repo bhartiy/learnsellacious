@@ -93,6 +93,7 @@ Same option are available in product edit and those options if enabled will appl
 Additional config for given for adding long description
 ![](Screenshot%202020-08-07%20at%205.28.27%20PM.png)
 
+### Comlementory Configurations
 
 **Hide Variants:** List page section of Frontend display options.
 **Hide Variant Specifications:** Backend display options
