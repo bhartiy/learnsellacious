@@ -10,7 +10,7 @@ taxonomy:
 
 Distiman consists of Following Component/plugins 
 
-1. [Datasheet:](https://www.sellacious.com/documentation-v2#/learn/distiman/datasheet-component) tabular layout of list page.
+1. [Datasheet:](https://www.sellacious.com/documentation-v2#/learn/distiman/datasheet-component) Tabular layout of list page.
 2. RFQ
 3. Configurator
 
