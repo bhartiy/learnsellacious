@@ -47,6 +47,10 @@ Separate view is provided for datasheet configuration which will give options to
 **List Page Options:** You can opt what column to show and ordering of the columns for list page. **Note** List page containing two or more than two categories will show only **Filterable global specifications** and Category list page will show global and category specific(core+variants) specifications. If all options are disabled then all will show. You can choose Part Number elements wheather it is Product SKU, Seller SKU, Seller Name or all.
 
 ![](Screenshot%202020-08-13%20at%206.53.49%20PM.png)
+
+Addotional options are provided to configure the category page head layout.
+
+![](Screenshot%202020-08-14%20at%208.15.42%20PM.png)
 ![](Screenshot%202020-08-07%20at%204.11.49%20PM.png)
 **List page style:** css of list page can be changed from here and can be reset to default at any time.
 
