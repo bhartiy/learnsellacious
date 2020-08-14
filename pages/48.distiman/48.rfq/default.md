@@ -1,6 +1,6 @@
 ---
 title: 'RFQ (Request for Quote)'
-media_order: 'Screenshot 2020-08-14 at 4.14.15 PM.png,Screenshot 2020-08-14 at 4.22.06 PM.png,Screenshot 2020-08-14 at 4.31.29 PM.png,Screenshot 2020-08-14 at 4.37.26 PM.png,Screenshot 2020-08-14 at 4.36.49 PM.png'
+media_order: 'Screenshot 2020-08-14 at 4.14.15 PM.png,Screenshot 2020-08-14 at 4.22.06 PM.png,Screenshot 2020-08-14 at 4.31.29 PM.png,Screenshot 2020-08-14 at 4.36.49 PM.png,Screenshot 2020-08-14 at 4.41.54 PM.png'
 ---
 
 Written by: Indresh Maurya
@@ -27,6 +27,6 @@ Once the component is installed option to show rfq button will appear in Global 
 RFQ button will show on list page, variant section and category page for datasheet layout.
 
 ![](Screenshot%202020-08-14%20at%204.36.49%20PM.png)
-![](Screenshot%202020-08-14%20at%204.37.26%20PM.png)
+![](Screenshot%202020-08-14%20at%204.41.54%20PM.png)
 
 
