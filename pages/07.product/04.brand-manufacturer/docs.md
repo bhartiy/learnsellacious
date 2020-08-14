@@ -34,8 +34,6 @@ Now Manufacturer will be available for the selected product type.
 
 4. Select the manufacturer, If the manufacturer is not listed then create a manufacturer with the help of this [link](https://www.sellacious.com/learn/user-profiles/manufacturer-profiles).
 
-![](manufacturer.jpg)
-
 5. Save the details by using the save button.
 
 **You can add Manufacturer details through import method and the steps are:**
