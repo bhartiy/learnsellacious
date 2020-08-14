@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Component'
-media_order: 'Screenshot 2020-08-07 at 3.07.26 PM.png,Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png,Screenshot 2020-08-07 at 4.11.49 PM.png,Screenshot 2020-08-07 at 4.48.12 PM.png,image3.png,Screenshot 2020-08-07 at 5.23.11 PM.png,Screenshot 2020-08-07 at 5.28.27 PM.png,Screenshot 2020-08-13 at 6.53.49 PM.png,details page.png'
+media_order: 'Screenshot 2020-08-07 at 3.07.26 PM.png,Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png,Screenshot 2020-08-07 at 4.11.49 PM.png,Screenshot 2020-08-07 at 4.48.12 PM.png,image3.png,Screenshot 2020-08-07 at 5.23.11 PM.png,Screenshot 2020-08-07 at 5.28.27 PM.png,Screenshot 2020-08-13 at 6.53.49 PM.png,details page.png,Screenshot 2020-08-14 at 11.15.17 AM.png'
 taxonomy:
     category:
         - docs
@@ -95,5 +95,8 @@ Additional config for given for adding long description
 
 ### Complementary Configurations
 
-**Hide Variants:** List page section of Frontend display options.
-**Hide Variant Specifications:** Backend display options
+**Hide Variants:** By default sellacious select best price listing of a product and displays it in list view. It can be a seller's product or a vaiant of main product and when clicked, it redirects to respective product details page rather than main product details page. If you want to always show main product in list page and redirect main product details page, enable Hide Variants from list page section of Frontend display options.
+
+![](Screenshot%202020-08-14%20at%2011.15.17%20AM.png)
+
+**Hide Variant Specifications:** In specification section of Product details page 
