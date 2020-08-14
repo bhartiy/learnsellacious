@@ -1,6 +1,6 @@
 ---
 title: 'Store Setup'
-media_order: 'about.jpg,activation_sellacious1.jpg,activation_sellacious2.jpg,activation_sellacious3.png,activation_sellacious4.png,activation_sellacious5.png,activation_Sellacious10.jpg,coupons.jpg,download2.jpg,license_key.jpg,premium.jpg,store.jpg,verification.jpg,shipping-rule.jpg,activation_sellacious1.png,product_catalogue.jpg,pricing1.jpg,variants.jpg,inventory_manager.jpg,Taxes&Discounts.jpg,Inventory_details.jpg,product.jpg,joomla.jpg,templates.jpg,templates2.jpg,Template_style.png,logo.jpg,save_logo.jpg,template.jpg,Screen Shot 2020-08-14 at 2.50.27 PM.png,Screenshot.png'
+media_order: 'about.jpg,activation_sellacious1.jpg,activation_sellacious2.jpg,activation_sellacious3.png,activation_sellacious4.png,activation_sellacious5.png,activation_Sellacious10.jpg,coupons.jpg,download2.jpg,license_key.jpg,premium.jpg,store.jpg,verification.jpg,shipping-rule.jpg,activation_sellacious1.png,product_catalogue.jpg,pricing1.jpg,variants.jpg,inventory_manager.jpg,Taxes&Discounts.jpg,Inventory_details.jpg,product.jpg,joomla.jpg,templates.jpg,templates2.jpg,Template_style.png,logo.jpg,save_logo.jpg,template.jpg,Screen Shot 2020-08-14 at 2.50.27 PM.png,Screenshot.png,Screen Shot 2020-08-14 at 2.58.44 PM.png,Screen Shot 2020-08-14 at 2.59.56 PM.png,Screenshot (1).png'
 taxonomy:
     category:
         - docs
@@ -43,13 +43,12 @@ g). Now your free license is activated, you can check it in your Sellacious pane
 <br>  iv) Upload the images and atatchements.
 ![](Screenshot.png)
 <br> iv) Fill the inventory details for your product.
-![](Inventory_details.jpg)
+![](Screen%20Shot%202020-08-14%20at%202.58.44%20PM.png)
 <br> vi) Enter the price of your product.
- ![](pricing1.jpg)
+![](Screen%20Shot%202020-08-14%20at%202.59.56%20PM.png)
 <br> vii) Click on Save button to save the product details, the product is successfully added to your inventory.
 <br> d). Add variants for this product.
-![](variants.jpg)
-
+![](Screenshot%20%281%29.png)
 6. You can **Manage inventory** by Shop-> Inventory manager
 ![](inventory_manager.jpg)
 7. create **Taxes and disocunts** for your shop. Shop-> Tax and Discounts
