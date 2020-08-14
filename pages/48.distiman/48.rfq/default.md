@@ -29,11 +29,11 @@ RFQ button will show on list page, variant section and category page for datashe
 ![](Screenshot%202020-08-14%20at%204.36.49%20PM.png)
 ![](Screenshot%202020-08-14%20at%204.41.54%20PM.png)
 
-**Request for Quote Page:**
+### Request for Quote Page
 When clicked on RFQ button it will redirect to Request for Quote Page with information of logged in user and product information like maunufacturer, part no. and quantity.
 ![](Screenshot%202020-08-14%20at%204.44.54%20PM.png)
 
-**Backoffice RFQ view:** 
+### Backoffice RFQ view
 
 Backend view of RFQ list is provided. Menu can be created which will show list and details of all the request created.
 
