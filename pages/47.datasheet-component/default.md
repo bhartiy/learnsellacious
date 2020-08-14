@@ -89,7 +89,7 @@ Option are available in category edit for category list page/category product de
 
 ### Product Level
 
-Option are available to choose Default(Category/Global) lauout or Override Product Layout in product edit and those options if enabled will apply on that particular product only and ignore category/global layout.
+Option are available to choose Default(Category/Global) lauout or Override Default Layout in product edit and those options if enabled will apply on that particular product only and ignore category/global layout.
 Additional config is given for adding long description
 ![](test3423.png)
 
