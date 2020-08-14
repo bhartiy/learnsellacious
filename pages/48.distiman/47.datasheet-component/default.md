@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Component'
-media_order: 'Screenshot 2020-08-07 at 3.07.26 PM.png,Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png,Screenshot 2020-08-07 at 4.11.49 PM.png,Screenshot 2020-08-07 at 4.48.12 PM.png,image3.png,Screenshot 2020-08-07 at 5.23.11 PM.png,Screenshot 2020-08-07 at 5.28.27 PM.png,Screenshot 2020-08-13 at 6.53.49 PM.png,details page.png,Screenshot 2020-08-14 at 11.15.17 AM.png,Screenshot 2020-08-14 at 11.45.59 AM.png,test3423.png'
+media_order: 'Screenshot 2020-08-07 at 3.07.26 PM.png,Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png,Screenshot 2020-08-07 at 4.11.49 PM.png,Screenshot 2020-08-07 at 4.48.12 PM.png,image3.png,Screenshot 2020-08-07 at 5.23.11 PM.png,Screenshot 2020-08-07 at 5.28.27 PM.png,Screenshot 2020-08-13 at 6.53.49 PM.png,details page.png,Screenshot 2020-08-14 at 11.15.17 AM.png,Screenshot 2020-08-14 at 11.45.59 AM.png,test3423.png,Screenshot 2020-08-14 at 8.15.42 PM.png'
 taxonomy:
     category:
         - docs
@@ -86,6 +86,10 @@ Separate view is provided for datasheet configuration which will give options to
 Option are available in category edit for category list page/category product details page and those options if enabled will apply on produsts of that category only. Also the option is given if you want to choose global layout for the category too. **Note:** If a product is associated with more than one categories, category layout will be ignored and global will be applied.
 
 ![](Screenshot%202020-08-07%20at%205.23.11%20PM.png)
+
+Addotional options are provided to configure the category page head layout.
+
+![](Screenshot%202020-08-14%20at%208.15.42%20PM.png)
 
 ### Product Level
 
