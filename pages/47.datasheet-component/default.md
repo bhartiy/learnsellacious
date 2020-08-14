@@ -99,6 +99,6 @@ Additional config for given for adding long description
 
 ![](Screenshot%202020-08-14%20at%2011.15.17%20AM.png)
 
-**Hide Variant Specifications:** In specification section of product details page all product related viz global, product and variant specifications are shown. To hide variant specifications from product details page disable it from Backend Display Options.
+**Hide Variant Specifications:** In specification section of product details page all product related specifications  viz global, product and variant specifications are shown. To hide variant specifications from product details page disable it from Backend Display Options.
 
 ![](Screenshot%202020-08-14%20at%2011.45.59%20AM.png)
