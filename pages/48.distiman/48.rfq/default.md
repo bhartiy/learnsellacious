@@ -35,7 +35,7 @@ When clicked on RFQ button it will redirect to Request for Quote Page with infor
 
 **Backoffice RFQ view:** 
 
-Backend view of RFQ list is provided. Menu can be created which will show listand details of all the request created.
+Backend view of RFQ list is provided. Menu can be created which will show list and details of all the request created.
 
 ![](Screenshot%202020-08-14%20at%205.16.07%20PM.png)
 ![](Screenshot%202020-08-14%20at%205.27.22%20PM.png)
