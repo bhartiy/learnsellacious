@@ -1,6 +1,6 @@
 ---
 title: 'Store Setup'
-media_order: 'about.jpg,activation_sellacious1.jpg,activation_sellacious2.jpg,activation_sellacious3.png,activation_sellacious4.png,activation_sellacious5.png,activation_Sellacious10.jpg,coupons.jpg,download2.jpg,license_key.jpg,premium.jpg,store.jpg,verification.jpg,shipping-rule.jpg,download2.jpg,activation_sellacious1.png,product_catalogue.jpg,pricing1.jpg,variants.jpg,inventory_manager.jpg,Taxes&Discounts.jpg,verification.jpg,license_key.jpg,Inventory_details.jpg,product.jpg,joomla.jpg,templates.jpg,templates.jpg,templates2.jpg,Template_style.png,logo.jpg,save_logo.jpg,Template_style.png,template.jpg'
+media_order: 'about.jpg,activation_sellacious1.jpg,activation_sellacious2.jpg,activation_sellacious3.png,activation_sellacious4.png,activation_sellacious5.png,activation_Sellacious10.jpg,coupons.jpg,download2.jpg,license_key.jpg,premium.jpg,store.jpg,verification.jpg,shipping-rule.jpg,activation_sellacious1.png,product_catalogue.jpg,pricing1.jpg,variants.jpg,inventory_manager.jpg,Taxes&Discounts.jpg,Inventory_details.jpg,product.jpg,joomla.jpg,templates.jpg,templates2.jpg,Template_style.png,logo.jpg,save_logo.jpg,template.jpg,Screen Shot 2020-08-14 at 2.50.27 PM.png,Screenshot.png'
 taxonomy:
     category:
         - docs
@@ -11,7 +11,7 @@ visible: true
 ![](download2.jpg)
 2. Once installed, Sellacious must be activated so that Sellacious can use many of its API. As soon as Sellacious is installed and launched, It asks for an active subscription. Subscription is a simple Email submit process.
 a). After installing Sellacious, go to your Sellacious administration panel.
-![](activation_sellacious1.jpg)
+![](Screen%20Shot%202020-08-14%20at%202.50.27%20PM.png)
 b). Once you log in to the panel, You can choose the subscription plan. There are four subscription to activate the sellacious. For beginners subscription plan is free and other subscription plan can be considered as the preimum plans.
 ![](activation_sellacious3.png)
 c). If you want to use free license then Purchase 'For Beginners'.
@@ -41,8 +41,8 @@ g). Now your free license is activated, you can check it in your Sellacious pane
  <br> ii) select product category.
 <br> iii) Enter the product name.
 <br>  iv) Upload the images and atatchements.
-![](product.jpg)
- <br> iv) Fill the inventory details for your product.
+![](Screenshot.png)
+<br> iv) Fill the inventory details for your product.
 ![](Inventory_details.jpg)
 <br> vi) Enter the price of your product.
  ![](pricing1.jpg)
