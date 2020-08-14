@@ -6,7 +6,7 @@ taxonomy:
 
 ### Chapter 47
 
-## Distiman
+# Distiman
 
 Distiman consists of Following Component/plugins 
 
