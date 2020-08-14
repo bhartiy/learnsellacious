@@ -1,6 +1,6 @@
 ---
 title: 'RFQ (Request for Quote)'
-media_order: 'Screenshot 2020-08-14 at 4.14.15 PM.png,Screenshot 2020-08-14 at 4.22.06 PM.png,Screenshot 2020-08-14 at 4.31.29 PM.png,Screenshot 2020-08-14 at 4.36.49 PM.png,Screenshot 2020-08-14 at 4.41.54 PM.png'
+media_order: 'Screenshot 2020-08-14 at 4.14.15 PM.png,Screenshot 2020-08-14 at 4.22.06 PM.png,Screenshot 2020-08-14 at 4.31.29 PM.png,Screenshot 2020-08-14 at 4.36.49 PM.png,Screenshot 2020-08-14 at 4.41.54 PM.png,Screenshot 2020-08-14 at 4.44.54 PM.png,Screenshot 2020-08-14 at 5.16.07 PM.png,Screenshot 2020-08-14 at 5.27.22 PM.png,Screenshot 2020-08-14 at 5.27.35 PM.png'
 ---
 
 Written by: Indresh Maurya
@@ -29,6 +29,14 @@ RFQ button will show on list page, variant section and category page for datashe
 ![](Screenshot%202020-08-14%20at%204.36.49%20PM.png)
 ![](Screenshot%202020-08-14%20at%204.41.54%20PM.png)
 
-**Request for Quote Page**
+**Request for Quote Page:**
 When clicked on RFQ button it will redirect to Request for Quote Page with information of logged in user and product information like maunufacturer, part no. and quantity.
 ![](Screenshot%202020-08-14%20at%204.44.54%20PM.png)
+
+**Backoffice RFQ view:** 
+
+Backend view of RFQ list is provided. Menu can be created which will show listand details of all the request created.
+
+![](Screenshot%202020-08-14%20at%205.16.07%20PM.png)
+![](Screenshot%202020-08-14%20at%205.27.22%20PM.png)
+![](Screenshot%202020-08-14%20at%205.27.35%20PM.png)
