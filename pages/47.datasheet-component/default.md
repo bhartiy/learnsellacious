@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Component'
-media_order: 'Screenshot 2020-08-07 at 3.07.26 PM.png,Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png,Screenshot 2020-08-07 at 4.11.49 PM.png,Screenshot 2020-08-07 at 4.48.12 PM.png,image3.png,Screenshot 2020-08-07 at 5.23.11 PM.png,Screenshot 2020-08-07 at 5.28.27 PM.png,Screenshot 2020-08-13 at 6.53.49 PM.png,details page.png,Screenshot 2020-08-14 at 11.15.17 AM.png'
+media_order: 'Screenshot 2020-08-07 at 3.07.26 PM.png,Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png,Screenshot 2020-08-07 at 4.11.49 PM.png,Screenshot 2020-08-07 at 4.48.12 PM.png,image3.png,Screenshot 2020-08-07 at 5.23.11 PM.png,Screenshot 2020-08-07 at 5.28.27 PM.png,Screenshot 2020-08-13 at 6.53.49 PM.png,details page.png,Screenshot 2020-08-14 at 11.15.17 AM.png,Screenshot 2020-08-14 at 11.45.59 AM.png,test3423.png'
 taxonomy:
     category:
         - docs
@@ -83,15 +83,15 @@ Separate view is provided for datasheet configuration which will give options to
 
 ### Catgory Level
 
-Same option are available in category edit and those options if enabled will apply on produsts of that category only. Also the option is given if you want to choose global layout for the category too.
+Option are available in category edit for category list page/category product details page and those options if enabled will apply on produsts of that category only. Also the option is given if you want to choose global layout for the category too. **Note:** If a product is associated with more than one categories, category layout will be ignored and global will be applied.
 
 ![](Screenshot%202020-08-07%20at%205.23.11%20PM.png)
 
 ### Product Level
 
-Same option are available in product edit and those options if enabled will apply on that particular produst. Also the option is given if you want to choose global layout or category layout.
+Option are available to choose Default(Category/Global) lauout or Override Product Layout in product edit and those options if enabled will apply on that particular product only and ignore category/global layout.
 Additional config for given for adding long description
-![](Screenshot%202020-08-07%20at%205.28.27%20PM.png)
+![](test3423.png)
 
 ### Complementary Configurations
 
