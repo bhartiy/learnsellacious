@@ -1,5 +1,5 @@
 ---
-title: RFQ
+title: 'RFQ (Request for Quote)'
 media_order: 'Screenshot 2020-08-14 at 4.14.15 PM.png,Screenshot 2020-08-14 at 4.22.06 PM.png,Screenshot 2020-08-14 at 4.31.29 PM.png,Screenshot 2020-08-14 at 4.37.26 PM.png,Screenshot 2020-08-14 at 4.36.49 PM.png'
 ---
 
