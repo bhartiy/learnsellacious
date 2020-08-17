@@ -1,6 +1,6 @@
 ---
 title: Configurator
-media_order: 'Screenshot 2020-08-17 at 2.50.03 PM.png,Screenshot 2020-08-17 at 2.51.21 PM.png,Screenshot 2020-08-17 at 3.05.56 PM.png'
+media_order: 'Screenshot 2020-08-17 at 2.50.03 PM.png,Screenshot 2020-08-17 at 2.51.21 PM.png,Screenshot 2020-08-17 at 3.05.56 PM.png,Screenshot 2020-08-17 at 3.51.01 PM.png,Screenshot 2020-08-17 at 3.52.44 PM.png'
 taxonomy:
     category:
         - docs
@@ -29,3 +29,7 @@ Once the component is installed option to show the configure it in product edit 
 In that tab, user can add different fields which will be used to generate dynamic SKU in product detaills page.
 
 ![](Screenshot%202020-08-17%20at%203.51.01%20PM.png)
+
+this dynamically generated sku will be used as part no. in rfq request
+
+![](Screenshot%202020-08-17%20at%203.52.44%20PM.png)
