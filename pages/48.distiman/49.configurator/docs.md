@@ -22,7 +22,10 @@ Then go to Manage->Extention->Manage and make sure it is enabled
 ![](Screenshot%202020-08-17%20at%202.50.03%20PM.png)
 
 ##Configuration
-Once the component is installed option to show the configure it in product edit
+Once the component is installed option to show the configure it in product edit under configurator tab
 
 ![](Screenshot%202020-08-17%20at%203.05.56%20PM.png)
 
+In that tab, user can add different fields which will be used to generate dynamic SKU in product detaills page.
+
+![](Screenshot%202020-08-17%20at%203.51.01%20PM.png)
