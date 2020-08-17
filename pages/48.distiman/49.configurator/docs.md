@@ -25,3 +25,4 @@ Then go to Manage->Extention->Manage and make sure it is enabled
 Once the component is installed option to show the configure it in product edit
 
 ![](Screenshot%202020-08-17%20at%203.05.56%20PM.png)
+
