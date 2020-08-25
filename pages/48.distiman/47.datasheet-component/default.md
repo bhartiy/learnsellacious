@@ -50,7 +50,7 @@ Separate view is provided for datasheet configuration which will give options to
 
 Datasheet Default Sorting and sorting direction (ascending/discending) can be chosen.
 You can choose Part Number elements wheather it is Product SKU, Seller SKU, Seller Name or all.
-Link to product details page can be disabled and made is read only.
+Link to product details page can be disabled and can be shown as read only.
 
 ![](Screenshot%202020-08-25%20at%205.51.32%20PM.png)
 
