@@ -81,6 +81,8 @@ Addotional options are provided to configure the category page head layout.
 **Show Price List:** Show/hide Price List (works only with dynamic pricing).
 **Show Tablular List:** Show/hide Variants section on details page.
 **Variants List Columns:** Choose what Columns to show in variant section.
+**Datasheet Default Sorting:** Enables you to set default sorting column for variant section datasheet.
+**Datasheet Sorting Direction:** Chose sorting direction (ascending/discending).
 **Table Header:** Show/hide List Header.
 **Table Header:** Show/hide List Footer.
 
