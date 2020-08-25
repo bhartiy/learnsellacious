@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Component'
-media_order: 'Screenshot 2020-08-07 at 3.07.26 PM.png,Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png,Screenshot 2020-08-07 at 4.11.49 PM.png,Screenshot 2020-08-07 at 4.48.12 PM.png,image3.png,Screenshot 2020-08-07 at 5.23.11 PM.png,Screenshot 2020-08-07 at 5.28.27 PM.png,Screenshot 2020-08-13 at 6.53.49 PM.png,details page.png,Screenshot 2020-08-14 at 11.15.17 AM.png,Screenshot 2020-08-14 at 11.45.59 AM.png,test3423.png,Screenshot 2020-08-14 at 8.15.42 PM.png'
+media_order: 'Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png,Screenshot 2020-08-07 at 4.11.49 PM.png,Screenshot 2020-08-07 at 4.48.12 PM.png,image3.png,Screenshot 2020-08-07 at 5.23.11 PM.png,Screenshot 2020-08-07 at 5.28.27 PM.png,Screenshot 2020-08-13 at 6.53.49 PM.png,details page.png,Screenshot 2020-08-14 at 11.15.17 AM.png,Screenshot 2020-08-14 at 11.45.59 AM.png,test3423.png,Screenshot 2020-08-14 at 8.15.42 PM.png,Screenshot 2020-08-25 at 5.04.20 PM.png'
 taxonomy:
     category:
         - docs
@@ -12,7 +12,7 @@ taxonomy:
 
 This chapter deals with the Datasheet Component layout and configuration ralated to it. Datasheet enables us to show list page in sheet format.
 
-![](Screenshot%202020-08-07%20at%203.07.26%20PM.png)
+![](Screenshot%202020-08-25%20at%205.04.20%20PM.png)
 
 To enable this component follow these steps-
 
