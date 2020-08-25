@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Component'
-media_order: 'Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png,Screenshot 2020-08-07 at 4.11.49 PM.png,Screenshot 2020-08-07 at 4.48.12 PM.png,image3.png,Screenshot 2020-08-07 at 5.23.11 PM.png,Screenshot 2020-08-07 at 5.28.27 PM.png,details page.png,Screenshot 2020-08-14 at 11.15.17 AM.png,Screenshot 2020-08-14 at 11.45.59 AM.png,test3423.png,Screenshot 2020-08-25 at 5.04.20 PM.png,Screenshot 2020-08-25 at 5.44.16 PM.png,Screenshot 2020-08-25 at 5.51.32 PM.png,Screenshot 2020-08-25 at 5.54.52 PM.png'
+media_order: 'Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png,Screenshot 2020-08-07 at 4.11.49 PM.png,Screenshot 2020-08-07 at 4.48.12 PM.png,image3.png,Screenshot 2020-08-07 at 5.23.11 PM.png,Screenshot 2020-08-07 at 5.28.27 PM.png,details page.png,Screenshot 2020-08-14 at 11.15.17 AM.png,Screenshot 2020-08-14 at 11.45.59 AM.png,test3423.png,Screenshot 2020-08-25 at 5.04.20 PM.png,Screenshot 2020-08-25 at 5.44.16 PM.png,Screenshot 2020-08-25 at 5.51.32 PM.png,Screenshot 2020-08-25 at 5.54.52 PM.png,Screenshot 2020-08-25 at 6.28.28 PM.png'
 taxonomy:
     category:
         - docs
@@ -118,3 +118,6 @@ Additional config is given for adding long description
 **Hide Variant Specifications:** In specification section of product details page all product related specifications  viz global, product and variant specifications are shown. To hide variant specifications from product details page disable it from Backend Display Options.
 
 ![](Screenshot%202020-08-14%20at%2011.45.59%20AM.png)
+
+**Config to hide paceholder image:** Placeholder image can be hidden from details page if no image is provided. Configuration is provided in frontend display options.
+![](Screenshot%202020-08-25%20at%206.28.28%20PM.png)
