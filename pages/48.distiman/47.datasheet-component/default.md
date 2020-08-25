@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Component'
-media_order: 'Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png,Screenshot 2020-08-07 at 4.11.49 PM.png,Screenshot 2020-08-07 at 4.48.12 PM.png,image3.png,Screenshot 2020-08-07 at 5.23.11 PM.png,Screenshot 2020-08-07 at 5.28.27 PM.png,details page.png,Screenshot 2020-08-14 at 11.15.17 AM.png,Screenshot 2020-08-14 at 11.45.59 AM.png,test3423.png,Screenshot 2020-08-14 at 8.15.42 PM.png,Screenshot 2020-08-25 at 5.04.20 PM.png,Screenshot 2020-08-25 at 5.44.16 PM.png,Screenshot 2020-08-25 at 5.51.32 PM.png'
+media_order: 'Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png,Screenshot 2020-08-07 at 4.11.49 PM.png,Screenshot 2020-08-07 at 4.48.12 PM.png,image3.png,Screenshot 2020-08-07 at 5.23.11 PM.png,Screenshot 2020-08-07 at 5.28.27 PM.png,details page.png,Screenshot 2020-08-14 at 11.15.17 AM.png,Screenshot 2020-08-14 at 11.45.59 AM.png,test3423.png,Screenshot 2020-08-25 at 5.04.20 PM.png,Screenshot 2020-08-25 at 5.44.16 PM.png,Screenshot 2020-08-25 at 5.51.32 PM.png,Screenshot 2020-08-25 at 5.54.52 PM.png'
 taxonomy:
     category:
         - docs
@@ -56,8 +56,8 @@ Link to product details page can be disabled and can be shown as read only.
 
 Addotional options are provided to configure the category page head layout.
 
-![](Screenshot%202020-08-14%20at%208.15.42%20PM.png)
-![](Screenshot%202020-08-07%20at%204.11.49%20PM.png)
+![](Screenshot%202020-08-25%20at%205.54.52%20PM.png)
+
 **List page style:** css of list page can be changed from here and can be reset to default at any time.
 
 ![](Screenshot%202020-08-07%20at%203.53.13%20PM.png)
