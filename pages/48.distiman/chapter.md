@@ -14,4 +14,4 @@ Distiman consists of Following Component/plugins
 2. [RFQ:](https://www.sellacious.com/documentation-v2#/learn/distiman/rfq) Enables user to make request for quote.
 3. [Configurator:](https://www.sellacious.com/documentation-v2#/learn/distiman/configurator) Dynamic SKU generator on product detail page.
 
-To know more about distiman visit www.distiman.co
+To know more about distiman visit https://distiman.co
