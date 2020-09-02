@@ -55,6 +55,8 @@ You can set the shop settings from the global configuration.
 
 **OPC column count**: If you select one page checkout in above checkout-type then select, how many columns should the One page checkout sections be divided: 2 columns, 3 columns.
 
+**Disable Guest Checkout**: Whether to disable checkout for guest users.
+
 **Order Status Change**: Choose whether you want to change order status for the whole order or for each product individually.
 
 **Allow Order Address Edit**: If you want the customers to be able to edit billing/shipping address before payment, enable the setting from here.
