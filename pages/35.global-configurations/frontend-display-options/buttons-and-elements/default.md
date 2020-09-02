@@ -31,6 +31,8 @@ You can apply the special listing badge for categories & subcategories, Products
 
 **Continue shopping URL**: You can choose whether you have to apply the continue shopping URL on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
 
+**Product Owner Name in Cart**: You can choose whether to show product seller or product manufacture name in cart.
+
 **Show 'Whats in box'**: Choose whether you want the 'Whats in box' information of products to display in front end.
 
 **Number of stores column**: Choose number of columns in store listing view.
