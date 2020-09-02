@@ -5,6 +5,7 @@ visible: true
 
 <br>**Product Image Height**: You can set the product image container height in the product detail pages.
 <br>**Image Display Size**: You can choose how to adjust images within the images slider container.The aspect ratio of the images will always be maintained. You can have two options: Fit to container and Completely Fill container(May be partially hidden).
+<br>**Allow Blank Product Image**: You can choose whether to show blank image or not if there is not image in product.
 <br>**Show Shipment Info**: You can choose whether to show shipment information on product detail page or not.
 <br>**Show Listing Type**: You can choose whether to show listing type information on product detail page or not.
 <br>**Show Seller's Ratings**: You can choose whether to show seller's rating on product detail page or not.
