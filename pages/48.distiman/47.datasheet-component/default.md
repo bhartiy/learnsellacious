@@ -10,7 +10,7 @@ taxonomy:
 **Date:** 03-08-2020
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
-This chapter deals with the Datasheet Component layout and configuration ralated to it. Datasheet enables us to show list page in sheet format.
+This chapter deals with the Datasheet Component layout and configuration related to it. Datasheet enables us to show list page in sheet format.
 
 ![](Screenshot%202020-08-25%20at%205.04.20%20PM.png)
 
