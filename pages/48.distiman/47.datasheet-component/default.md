@@ -42,7 +42,7 @@ Separate view is provided for datasheet configuration which will give options to
 
 ![](Screenshot%202020-08-07%20at%203.42.14%20PM.png)
 
-**2.** This view provides you option to waht to show and in what order on datasheet list page/details page.
+**2.** This view provides you option to what to show and in what order on datasheet list page/details page.
 
 **List Page Options:** You can opt what column to show and ordering of the columns for list page. **Note** List page containing two or more than two categories will show only **Filterable global specifications** and Category list page will show global and category specific(core+variants) specifications. If all options are disabled then all will show. 
 
