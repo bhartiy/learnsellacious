@@ -3,9 +3,9 @@ title: 'RFQ (Request for Quote)'
 media_order: 'Screenshot 2020-08-14 at 4.14.15 PM.png,Screenshot 2020-08-14 at 4.22.06 PM.png,Screenshot 2020-08-14 at 4.31.29 PM.png,Screenshot 2020-08-14 at 4.36.49 PM.png,Screenshot 2020-08-14 at 4.41.54 PM.png,Screenshot 2020-08-14 at 4.44.54 PM.png,Screenshot 2020-08-14 at 5.16.07 PM.png,Screenshot 2020-08-14 at 5.27.22 PM.png,Screenshot 2020-08-14 at 5.27.35 PM.png'
 ---
 
-Written by: Indresh Maurya
-Date: 14-08-2020
-Compatibility: Sellacious v2.0.0-Beta1+
+**Written by:** Indresh Maurya
+**Date:** 14-08-2020
+**Compatibility:** Sellacious v2.0.0-Beta1+
 
 Request for Quote component enables us to manage quote request on our product. View is added in both frontend and backend to do so.
 
