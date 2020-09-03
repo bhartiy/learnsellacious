@@ -93,13 +93,13 @@ Addotional options are provided to configure the category page head layout.
 ![](Screenshot%202020-08-07%20at%204.48.12%20PM.png)
 
 
-### Catgory Level
+### Category Level
 
 Option are available in category edit for category list page/category product details page and those options if enabled will apply on produsts of that category only. Also the option is given if you want to choose global layout for the category too. **Note:** If a product is associated with more than one categories, category layout will be ignored and global will be applied.
 
 ![](Screenshot%202020-08-07%20at%205.23.11%20PM.png)
 
-Addotional options are provided to configure the category page head layout.
+Additional options are provided to configure the category page head layout.
 
 ![](Screenshot%202020-08-25%20at%205.54.52%20PM.png)
 
@@ -119,9 +119,9 @@ Additional config is given for adding long description
 
 ![](Screenshot%202020-08-14%20at%2011.45.59%20AM.png)
 
-**Config to hide paceholder image:** Placeholder image can be hidden from details page if no image is provided. Configuration is provided in frontend display options.
+**Config to hide placeholder image:** Placeholder image can be hidden from details page if no image is provided. Configuration is provided in frontend display options.
 ![](Screenshot%202020-08-25%20at%206.28.28%20PM.png)
 
-**Config to show manufactures in cart:** frontend display options config allows you to show manufacturer instead of seller in cart.
+**Config to show manufactures in cart:** Frontend display options config allows you to show manufacturer instead of seller in cart.
 
 ![](Screenshot%202020-08-29%20at%207.42.52%20PM.png)
