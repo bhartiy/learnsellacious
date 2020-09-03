@@ -38,7 +38,7 @@ Separate view is provided for datasheet configuration which will give options to
 
 ### Global Level
 
-**1.** For that first make a datasheet configuration menu if not done already. To Know more how to make Backofiice menu go to https://www.sellacious.com/documentation-v2#/learn/settings/menu-manager 
+**1.** For that first make a datasheet configuration menu if not done already. To Know more how to make Backoffice menu go to https://www.sellacious.com/documentation-v2#/learn/settings/menu-manager 
 
 ![](Screenshot%202020-08-07%20at%203.42.14%20PM.png)
 
@@ -54,7 +54,7 @@ Link to product details page can be disabled and can be shown as read only.
 
 ![](Screenshot%202020-08-25%20at%205.51.32%20PM.png)
 
-Addotional options are provided to configure the category page head layout.
+Additional options are provided to configure the category page head layout.
 
 ![](Screenshot%202020-08-25%20at%205.54.52%20PM.png)
 
@@ -105,7 +105,7 @@ Additional options are provided to configure the category page head layout.
 
 ### Product Level
 
-Option are available to choose Default(Category/Global) lauout or Override Default Layout in product edit and those options if enabled will apply on that particular product only and ignore category/global layout.
+Option are available to choose Default(Category/Global) layout or Override Default Layout in product edit and those options if enabled will apply on that particular product only and ignore category/global layout.
 Additional config is given for adding long description
 ![](test3423.png)
 
