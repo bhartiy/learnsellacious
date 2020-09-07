@@ -2,12 +2,11 @@
 title: 'How to edit contact details in header'
 media_order: 'Screenshot 2020-09-07 at 6.32.55 PM.png,Screenshot 2020-09-07 at 6.33.50 PM.png,Screenshot 2020-09-07 at 6.34.46 PM.png,Screenshot 2020-09-07 at 6.36.34 PM.png,Screenshot 2020-09-07 at 6.37.50 PM.png'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
-### Chapter Number
-
-How to edit contact details in header
+### How to edit contact details in header
 
 Follow these steps to change header info of your website.
 
