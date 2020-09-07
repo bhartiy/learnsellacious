@@ -6,6 +6,8 @@ taxonomy:
 
 ### Chapter Number
 
-# Chapter Title
+How to edit contact details in header
 
-Chapter description.
+Follow these steps to change header info of your website.
+
+1. go to joomla backecd yourwebsite.com/administrator
