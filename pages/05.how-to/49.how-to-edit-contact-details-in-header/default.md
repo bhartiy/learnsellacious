@@ -33,3 +33,5 @@ Follow these steps to change header info of your website.
 6. here you can change your top bar informations 
 
 ![](Screenshot%202020-09-07%20at%206.39.02%20PM.png)
+
+save and change will be reflected in your site.
