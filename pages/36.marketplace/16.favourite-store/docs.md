@@ -21,6 +21,6 @@ Favorite Store functionality is added in sellacious by which a user can mark a s
 
 ![](Screenshot%202020-05-26%20at%207.20.26%20PM.png)
 
-3. Which will bw shown in favorite store view same like wishlist.
+3. Which will be shown in favorite store view same like wishlist.
 
 ![](Screenshot%202020-05-26%20at%207.21.07%20PM.png)
