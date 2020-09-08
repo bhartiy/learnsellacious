@@ -10,4 +10,4 @@ The seller ewallet represents the total amount of money in seller's account. You
 1. Go to the sellacious admin panel.
 2. For checking the ewallet, Go to the transaction.
 3. On the top of the transaction window you can check the amount of money in ewallet.
-4. You can add or withdraw the fund from transactions.
+4. You can add or withdrawal the fund from transactions.
