@@ -1,7 +1,8 @@
 ---
 title: 'How to publish sellacious toolbar on your website'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 ### How to publish sellacious toolbar on your website
@@ -16,4 +17,4 @@ NOTE: sellacious toolbar can be published either on top or bottom positions.
 
 now toolbar will show on your website.
 
-
+![](Screenshot%202020-09-07%20at%206.39.02%20PM.png)
