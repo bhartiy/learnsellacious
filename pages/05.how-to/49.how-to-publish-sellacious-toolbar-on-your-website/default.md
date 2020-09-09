@@ -6,8 +6,6 @@ taxonomy:
         - docs
 ---
 
-### How to publish sellacious toolbar on your website
-
 
 to publish sellacious toolbars follow these steps-
 
