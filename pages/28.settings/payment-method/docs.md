@@ -45,7 +45,7 @@ You can use this credit system only for the premium users.
 <br>**Default Credit Limit**: Enter the credit to assume for the customers with no defined limit in their profile.
 
 ##### Filters
-<br>**Address to Match**: You can the address of your region according to the billing address and shipping address.
+**Address to Match**: You can the address of your region according to the billing address and shipping address.
 <br>**Country**: Select the country you belongs. You can select the country by entering 2 or more characters, all the countries are to be listed here.
 <br>**State**: Select the state you belongs.You can select the state by entering 2 or more characters, all the states are to be listed here.
 <br>**District**: Select the district you belongs.You can select the district by entering 2 or more characters, all the district are to be listed here. You have to buy the geolocation to use this feature.
@@ -54,7 +54,6 @@ You can use this credit system only for the premium users.
 <br>**Save**: Save the email template details of a particular payment method . If we click on the save button all the changes you had applied for the payment method  is to be saved.
 <br>**Close**: To close the email template page or to remove the payment method page then you can click on the close button. If you don’t want to change the payment method details then you can click on the close button. Close button will close the payment method page.
 <br>**Save and New**: Save and new button is used to save the payment method and create a new payment method.
-
 
 ##### Create New Payment Method
 
