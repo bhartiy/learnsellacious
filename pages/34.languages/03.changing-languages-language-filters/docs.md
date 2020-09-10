@@ -8,7 +8,7 @@ visible: true
 ---
 
 **Sellacious backend Language Switcher:**
-In sellacious backend there's inbluilt language switcher, from which you can change the language of the backend.
+In sellacious backend there's inbuilt language switcher, from which you can change the language of the backend.
 
 ![](translation3.png)
 
@@ -79,7 +79,7 @@ First, we'll create a menu item for the French menu:
 ![](front9.png)
 
 2. Select the menu item type, Sellacious > Products.
-3. Enter Title Des produits (Products in French). You can give it anything you want. This title will be visible for the users.
+3. Enter Title Des products (Products in French). You can give it anything you want. This title will be visible for the users.
 4. Make sure Menu should be selected French Menu and language should be French as we're creating the menu item for French Menu and save the menu.<br>
 
 ![](front10.png)
@@ -106,7 +106,7 @@ You can do that by clicking on the star in the Home column next to the menu item
 
 ![](front13.png)
 
-We have assigned the Products menu item in English menu and Des produits menu item in French menu as default home page.
+We have assigned the Products menu item in English menu and Des products menu item in French menu as default home page.
 
 ![](front14.png)
 
