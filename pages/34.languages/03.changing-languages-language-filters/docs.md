@@ -91,7 +91,7 @@ To Create Menu items in the English language:
 
 2. Select the menu item type, Sellacious > Products.
 3. Enter the title Products.
-4. Make sure Menu should be selected English Menu and language should be English as we're creating the menu item for English Menu and save the menu.<br>
+4. Make sure Menu should be selected English Menu and language should be English as we're creating the menu item for English Menu and save the menu.
 
 ![](front12.png)
 
@@ -102,7 +102,7 @@ You can repeat the above process to create more menus in the French and English 
 >**Default Home Page**
 
 To publish these menus on the frontend, let's assign default home pages in both languages.<br>
-You can do that by clicking on the star in the Home column next to the menu item. The star will change into the flag of the British for English language and of the French flag for French Langauge.<br>
+You can do that by clicking on the star in the Home column next to the menu item. The star will change into the flag of the British for English language and of the French flag for French Langauge.
 
 ![](front13.png)
 
@@ -144,7 +144,7 @@ Now, both menus and their menu items are created. To visualize these menus on th
 
 ![](front18.png)
 
-4. Repeat the above process to create a module for the English menu.<br>
+4. Repeat the above process to create a module for the English menu.
 To configure the module for English menu:
 * Title: English Menu.
 * Language: Select English (en-GB).
