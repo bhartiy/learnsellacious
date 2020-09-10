@@ -7,22 +7,19 @@ visible: true
 ---
 
 ##### Payment Methods
-**New**
-New button is used to create a new payment method. The new payment method details are to be added here. If you click on the new button then you can create new payment method in your own way. 
+**New**: New button is used to create a new payment method. The new payment method details are to be added here. If you click on the new button then you can create new payment method in your own way. 
 ##### Bulk Actions
 **Publish**: This payment method status is for publishing the payment method in frontend. This is another condition which can control the visibility of payment method in frontend.  
 <br>**Unpublish**: This payment method status is for unpublishing the payment method in frontend. This is another condition which can control the visibility of payment method in frontend. 
 <br>**Trash**: The payment method which are trashed yet not deleted. The trashed payment method are temporarily deleted for sometime.
-
 <br>**Search Bar**: Search bar allows you to search for what you want to find. Search the payment method according to the name of the payment method.
 
 ##### Filters
-
-<br>**Select Status**:The filter will used for searching the payment method according to the status.The status are considered as Trashed, Published, Unpublished and All.
-<br>a)**Trashed**:  The payment method which are trashed yet not deleted. It is a stage in which the trashed payment method are temporarily deleted for sometime. 
-<br>b)**Unpublished**: This status will filter unpublished payment method from catalogue. you’ll be able to view only unpublished payment method. 
+<br>**Select Status**: The filter will used for searching the payment method according to the status.The status are considered as Trashed, Published, Unpublished and All.
+<br>a) **Trashed**: The payment method which are trashed yet not deleted. It is a stage in which the trashed payment method are temporarily deleted for sometime. 
+<br>b) **Unpublished**: This status will filter unpublished payment method from catalogue. you’ll be able to view only unpublished payment method. 
 published: This status will filter unpublished payment method from catalogue. you’ll be able to view only unpublished payment method. 
-<br>c)**All**: All the products are to be listed. You can view all the payment method you had created here whether it is published, unpublished or trashed payment method.
+<br>c) **All**: All the products are to be listed. You can view all the payment method you had created here whether it is published, unpublished or trashed payment method.
 <br>**Clear**: Clear button is used to clear the search filters. The search filter will used to search easily according to the payment method. The main importance is to remove the search filters applied on the payment method.
 <br>**Ordering Ascending**: List all the products according to the ascending & descending order as ID, Title and status.You can change the listing according to your choice.
 
