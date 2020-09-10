@@ -15,7 +15,7 @@ visible: true
 <br>**Search Bar**: Search bar allows you to search for what you want to find. Search the payment method according to the name of the payment method.
 
 ##### Filters
-<br>**Select Status**: The filter will used for searching the payment method according to the status.The status are considered as Trashed, Published, Unpublished and All.
+**Select Status**: The filter will used for searching the payment method according to the status.The status are considered as Trashed, Published, Unpublished and All.
 <br>a) **Trashed**: The payment method which are trashed yet not deleted. It is a stage in which the trashed payment method are temporarily deleted for sometime. 
 <br>b) **Unpublished**: This status will filter unpublished payment method from catalogue. you’ll be able to view only unpublished payment method. 
 published: This status will filter unpublished payment method from catalogue. you’ll be able to view only unpublished payment method. 
