@@ -24,7 +24,7 @@ published: This status will filter unpublished payment method from catalogue. yo
 <br>**Ordering Ascending**: List all the products according to the ascending & descending order as ID, Title and status.You can change the listing according to your choice.
 
 #### Creating payment plugin
-<br>**Method Name**: The name of the payment method.
+**Method Name**: The name of the payment method.
 <br>**Description**: It represents the short description of the particular payment method.
 <br>**plugin**: The plugin you want to use in this payment method. The payment method can be listed by the drop down menu. You can select the plugin from the listed provided.
 <br>**Success Status**: The current status of the payment method is to be approval pending or payment approved. If you want to create the payment method as approval pending or payment approved you can select from here.
