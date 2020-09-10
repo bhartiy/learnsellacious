@@ -136,11 +136,11 @@ Now, both menus and their menu items are created. To visualize these menus on th
 
 ![](front17.png)
 
-3. To configure the module for French Menu:<br>
-Title: French Menu.<br>
-Language: Select French (FR).<br>
-Position: Select position-7 (or any position you want to assign).<br>
-Click Save & Close.<br>
+3. To configure the module for French Menu:
+* Title: French Menu.
+* Language: Select French (FR).
+* Position: Select position-7 (or any position you want to assign).
+* Click Save & Close.
 
 ![](front18.png)
 
