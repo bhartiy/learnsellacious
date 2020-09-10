@@ -36,10 +36,10 @@ To use language switcher in the frontend, you need to enable the plugins listed 
 
 ![](front1.png)
 
-1. System - Language Code: This plugin provides the ability to change the language code in the generated HTML document to improve SEO.
+1. **System - Language Code:** This plugin provides the ability to change the language code in the generated HTML document to improve SEO.
 The fields will appear when the plugin is enabled and saved.
 
-2. System - Language Filter: This plugin filters the displayed content depending on the language. This plugin is to enable the Language Switcher module. By default, this plugin will try to detect the language settings of the visitor browser and display the site in this language (if available). You can also configure this plugin according to your needs.
+2. **System - Language Filter:** This plugin filters the displayed content depending on the language. This plugin is to enable the Language Switcher module. By default, this plugin will try to detect the language settings of the visitor browser and display the site in this language (if available). You can also configure this plugin according to your needs.
 
 ![](front5.png)
 
@@ -55,7 +55,7 @@ You need to create menus for languages available (English and French). We'll nee
 2. First, create a menu for the French language:<br>
 Title: enter **French Menu**.<br>
 Menu Type: enter **frenchmenu**.<br>
-Description: enter a description, ie **Menu for French content**.<br>
+Description: enter a description, i.e **Menu for French content**.<br>
 Click Save & Close.<br>
 
 ![](front6.png)
@@ -63,7 +63,7 @@ Click Save & Close.<br>
 3. Now create another menu for the English language:<br>
 Title: enter **English Menu**.<br>
 Menu Type: enter **englishmenu**.<br>
-Description: enter a description, ie **Menu for English content**.<br>
+Description: enter a description, i.e **Menu for English content**.<br>
 Click Save & Close.
 
 ![](front8.png)
