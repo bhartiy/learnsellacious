@@ -52,19 +52,19 @@ You need to create menus for languages available (English and French). We'll nee
 
 ![](front7.png)
 
-2. First, create a menu for the French language:<br>
-Title: enter **French Menu**.<br>
-Menu Type: enter **frenchmenu**.<br>
-Description: enter a description, i.e **Menu for French content**.<br>
-Click Save & Close.<br>
+2. First, create a menu for the French language:
+* Title: enter **French Menu**.
+* Menu Type: enter **frenchmenu**.
+* Description: enter a description, i.e **Menu for French content**.
+* Click Save & Close.
 
 ![](front6.png)
 
-3. Now create another menu for the English language:<br>
-Title: enter **English Menu**.<br>
-Menu Type: enter **englishmenu**.<br>
-Description: enter a description, i.e **Menu for English content**.<br>
-Click Save & Close.
+3. Now create another menu for the English language:
+* Title: enter **English Menu**.
+* Menu Type: enter **englishmenu**.
+* Description: enter a description, i.e **Menu for English content**.
+* Click Save & Close.
 
 ![](front8.png)
 
