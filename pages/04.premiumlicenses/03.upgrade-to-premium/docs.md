@@ -67,4 +67,4 @@ You can also buy a licence at this step (if not already) select the license you 
 
 The premium license is activated now on previous license key.
 
->> If you're getting a msg **Your license has expired. You can renew again for FREE!**, please click on this msg and register for free license (if you have purchased the premium license already) or Premium license if you want to use sellacious with premium feature and awesome support.
+NOTE: If you're getting a msg **Your license has expired. You can renew again for FREE! or Error occurred while verifying your licence**, please click on this msg and register for free license and activate it to premium.
