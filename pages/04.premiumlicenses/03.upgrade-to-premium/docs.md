@@ -67,4 +67,4 @@ You can also buy a licence at this step (if not already) select the license you 
 
 The premium license is activated now on previous license key.
 
-NOTE: If you're getting a msg **Your license has expired. You can renew again for FREE! or Error occurred while verifying your licence**, please click on this msg and register for free license and activate it to premium.
+**NOTE:** If you're getting a msg **Your license has expired. You can renew again for FREE! or Error occurred while verifying your licence**, please click on this msg and register for free license and activate it to premium.
