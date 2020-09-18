@@ -88,10 +88,10 @@ Check the type from the following options: Image, Document, archive, Audio, Vide
 
 **Offline Message**: Display or not a Frontend message when the site is offline. The custom offline message uses the value defined in the 'Custom message' field. The language offline message uses the value defined in the site language ini file.
 
-##Custom Message: The custom offline message will be used if the 'Offline Message' field is set to 'Use Custom Message'.
+**Custom Message:** The custom offline message will be used if the 'Offline Message' field is set to 'Use Custom Message'.
 
 
-Product Quantity Setting**
+##Product Quantity Setting
 
 These settings allow us to ad custom quantity label to places wherever quantity label is being used in our shop, like details page,list page, modules,  quick view, checkouts, orders view, invoices and order emails.
 ![](Screenshot%202020-09-18%20at%2010.09.49%20AM.png)
