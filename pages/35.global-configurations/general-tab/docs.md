@@ -1,6 +1,6 @@
 ---
 title: 'General Tab'
-media_order: 'General Tab.png,Screenshot 2020-09-18 at 10.09.49 AM.png,Screenshot 2020-09-18 at 10.24.58 AM.png,Screenshot 2020-09-18 at 10.40.37 AM.png,Screenshot 2020-09-18 at 10.41.16 AM.png,Screenshot 2020-09-18 at 10.56.57 AM.png,Screenshot 2020-09-18 at 10.59.52 AM.png'
+media_order: 'General Tab.png,Screenshot 2020-09-18 at 10.09.49 AM.png,Screenshot 2020-09-18 at 10.24.58 AM.png,Screenshot 2020-09-18 at 10.40.37 AM.png,Screenshot 2020-09-18 at 10.41.16 AM.png,Screenshot 2020-09-18 at 10.56.57 AM.png,Screenshot 2020-09-18 at 10.59.52 AM.png,Screenshot 2020-09-18 at 11.01.13 AM.png'
 taxonomy:
     category:
         - docs
@@ -102,4 +102,4 @@ Custom quantity on frontened
 These settings can be overriden from category level and products level
 ![](Screenshot%202020-09-18%20at%2010.56.57%20AM.png)
 ![](Screenshot%202020-09-18%20at%2010.59.52%20AM.png)
-
+![](Screenshot%202020-09-18%20at%2011.01.13%20AM.png)
