@@ -9,7 +9,7 @@ visible: true
 
 #### **General tab Text Fields:**
 
-![](General%20Tab.png)
+![](screencapture-localhost-ctech4-staging-sellacious-index-php-2020-09-18-11_24_46.png)
 
 **Market place**: Here You can Choose whether to apply the listing of the products from multiple seller or not.
 * **Disabled:** If marketplace is disabled then your shop will not considered as multi seller.<br>
