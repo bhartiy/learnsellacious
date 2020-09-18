@@ -93,7 +93,7 @@ Check the type from the following options: Image, Document, archive, Audio, Vide
 
 ##Product Quantity Setting
 
-These settings allow us to ad custom quantity label to places wherever quantity label is being used in our shop, like details page,list page, modules,  quick view, checkouts, orders view, invoices and order emails.
+These settings allow us to add custom quantity label to places wherever quantity label is being used in our shop, like details page,list page, modules,  quick view, checkouts, orders view, invoices and order emails.
 ![](Screenshot%202020-09-18%20at%2010.09.49%20AM.png)
 From here etither we can use default from language or choose/write our custom quantity label.
 ![](Screenshot%202020-09-18%20at%2010.24.58%20AM.png)
