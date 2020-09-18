@@ -1,6 +1,6 @@
 ---
 title: 'General Tab'
-media_order: 'General Tab.png,Screenshot 2020-09-18 at 10.09.49 AM.png,Screenshot 2020-09-18 at 10.24.58 AM.png,Screenshot 2020-09-18 at 10.40.37 AM.png,Screenshot 2020-09-18 at 10.41.16 AM.png,Screenshot 2020-09-18 at 10.56.57 AM.png,Screenshot 2020-09-18 at 10.59.52 AM.png,Screenshot 2020-09-18 at 11.01.13 AM.png'
+media_order: 'General Tab.png,Screenshot 2020-09-18 at 10.09.49 AM.png,Screenshot 2020-09-18 at 10.24.58 AM.png,Screenshot 2020-09-18 at 10.40.37 AM.png,Screenshot 2020-09-18 at 10.41.16 AM.png,Screenshot 2020-09-18 at 10.56.57 AM.png,Screenshot 2020-09-18 at 10.59.52 AM.png,Screenshot 2020-09-18 at 11.01.13 AM.png,Screenshot 2020-09-18 at 11.05.58 AM.png'
 taxonomy:
     category:
         - docs
@@ -88,10 +88,10 @@ Check the type from the following options: Image, Document, archive, Audio, Vide
 
 **Offline Message**: Display or not a Frontend message when the site is offline. The custom offline message uses the value defined in the 'Custom message' field. The language offline message uses the value defined in the site language ini file.
 
-**Custom Message**: The custom offline message will be used if the 'Offline Message' field is set to 'Use Custom Message'.
+##Custom Message: The custom offline message will be used if the 'Offline Message' field is set to 'Use Custom Message'.
 
 
-**Product Quantity Setting**
+Product Quantity Setting**
 
 These settings allow us to ad custom quantity label to places wherever quantity label is being used in our shop, like details page,list page, modules,  quick view, checkouts, orders view, invoices and order emails.
 ![](Screenshot%202020-09-18%20at%2010.09.49%20AM.png)
@@ -103,3 +103,5 @@ These settings can be overriden from category level and products level
 ![](Screenshot%202020-09-18%20at%2010.56.57%20AM.png)
 ![](Screenshot%202020-09-18%20at%2010.59.52%20AM.png)
 ![](Screenshot%202020-09-18%20at%2011.01.13%20AM.png)
+The quantity lablel can be used as price/quantity (like $12/kg) by enabling "Price/Quantity Label in Detail Page/List page" configuration.
+![](Screenshot%202020-09-18%20at%2011.05.58%20AM.png)
