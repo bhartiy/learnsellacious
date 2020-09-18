@@ -1,6 +1,6 @@
 ---
 title: 'General Tab'
-media_order: 'General Tab.png,Screenshot 2020-09-18 at 10.09.49 AM.png,Screenshot 2020-09-18 at 10.24.58 AM.png,Screenshot 2020-09-18 at 10.40.37 AM.png,Screenshot 2020-09-18 at 10.41.16 AM.png,Screenshot 2020-09-18 at 10.56.57 AM.png,Screenshot 2020-09-18 at 10.59.52 AM.png,Screenshot 2020-09-18 at 11.01.13 AM.png,Screenshot 2020-09-18 at 11.05.58 AM.png'
+media_order: 'General Tab.png,Screenshot 2020-09-18 at 10.09.49 AM.png,Screenshot 2020-09-18 at 10.24.58 AM.png,Screenshot 2020-09-18 at 10.40.37 AM.png,Screenshot 2020-09-18 at 10.41.16 AM.png,Screenshot 2020-09-18 at 10.56.57 AM.png,Screenshot 2020-09-18 at 10.59.52 AM.png,Screenshot 2020-09-18 at 11.01.13 AM.png,Screenshot 2020-09-18 at 11.05.58 AM.png,Screenshot 2020-09-18 at 11.08.24 AM.png'
 taxonomy:
     category:
         - docs
@@ -105,3 +105,5 @@ These settings can be overriden from category level and products level
 ![](Screenshot%202020-09-18%20at%2011.01.13%20AM.png)
 The quantity lablel can be used as price/quantity (like $12/kg) by enabling "Price/Quantity Label in Detail Page/List page" configuration.
 ![](Screenshot%202020-09-18%20at%2011.05.58%20AM.png)
+and it will show wherever price is displayed
+![](Screenshot%202020-09-18%20at%2011.08.24%20AM.png)
