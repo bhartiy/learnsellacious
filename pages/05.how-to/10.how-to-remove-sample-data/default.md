@@ -19,6 +19,7 @@ Again select all products and click on delete button. You will get message for s
 ![](delete.png)
 
 **2. Remove Categories -** To remove all categories at once, go to product categories and repeat all the same steps as we have done in products.
+**Note:** Do not remove user category viz default seller, client, staff and manufacturer.
 ![](categories.png)
 
 **3. Remove Users -** To remove users, go to user profile and select all users you want to remove and click on delete button.
