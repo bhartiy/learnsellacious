@@ -1,6 +1,6 @@
 ---
 title: 'General Tab'
-media_order: 'General Tab.png'
+media_order: 'General Tab.png,Screenshot 2020-09-18 at 10.09.49 AM.png'
 taxonomy:
     category:
         - docs
@@ -97,5 +97,5 @@ These settings allow us to ad custom quantity label to places wherever quantity 
 
 From here etither we can use default from language or choose/write our custom quantity label.
 
-
+![](Screenshot%202020-09-18%20at%2010.09.49%20AM.png)
 
