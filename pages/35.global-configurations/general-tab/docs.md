@@ -1,6 +1,6 @@
 ---
 title: 'General Tab'
-media_order: 'General Tab.png,Screenshot 2020-09-18 at 10.09.49 AM.png'
+media_order: 'General Tab.png,Screenshot 2020-09-18 at 10.09.49 AM.png,Screenshot 2020-09-18 at 10.24.58 AM.png'
 taxonomy:
     category:
         - docs
@@ -94,8 +94,9 @@ Check the type from the following options: Image, Document, archive, Audio, Vide
 **Product Quantity Setting**
 
 These settings allow us to ad custom quantity label to places wherever quantity label is being used in our shop, like details page,list page, modules,  quick view, checkouts, orders view, invoices and order emails.
-
-From here etither we can use default from language or choose/write our custom quantity label.
-
 ![](Screenshot%202020-09-18%20at%2010.09.49%20AM.png)
+From here etither we can use default from language or choose/write our custom quantity label.
+![](Screenshot%202020-09-18%20at%2010.24.58%20AM.png)
+
+
 
