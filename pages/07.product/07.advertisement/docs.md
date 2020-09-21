@@ -53,7 +53,8 @@ You can also create a new special category with the settings you want.
 ![](Screen%20Shot%202020-09-21%20at%2011.37.26%20AM.png)
 6. In style options you can style the products for that special category, like their background and border.
 ![](Screen%20Shot%202020-09-21%20at%2011.28.29%20AM.png)
-7. Advanced information
+7. Advanced information option, for 'Allowed users group' added for special category. It will allow special categories for that selected group only.
+If any category assigned by admin to seller product then seller will be able to see it as disabled.
 ![](Screen%20Shot%202020-09-21%20at%2011.28.39%20AM.png) 
 8. Click on save.
 9. And your new special category is created.
