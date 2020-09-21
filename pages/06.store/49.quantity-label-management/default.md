@@ -10,8 +10,8 @@ taxonomy:
 
 These settings allow us to add custom quantity label to places wherever quantity label is being used in our shop, like details page,list page, modules,  quick view, checkouts, orders view, invoices and order emails.
 ![](Screenshot%202020-09-18%20at%2010.09.49%20AM%20%281%29.png)
-![](Screenshot%202020-09-18%20at%2010.24.58%20AM%20%281%29.png)
 From here etither we can use default from language or choose/write our custom quantity label.
+![](Screenshot%202020-09-18%20at%2010.24.58%20AM%20%281%29.png)
 ![](Screenshot%202020-09-18%20at%2010.40.37%20AM%20%281%29.png)
 Custom quantity on frontened
 ![](Screenshot%202020-09-18%20at%2010.41.16%20AM%20%281%29.png)
