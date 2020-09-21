@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-##Product Quantity Setting
+**Product Quantity Settings**
 
 These settings allow us to add custom quantity label to places wherever quantity label is being used in our shop, like details page,list page, modules,  quick view, checkouts, orders view, invoices and order emails.
 ![](Screenshot%202020-09-18%20at%2010.09.49%20AM.png)
