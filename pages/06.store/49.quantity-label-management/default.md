@@ -1,5 +1,6 @@
 ---
 title: 'Quantity Label Management'
+media_order: 'Screenshot 2020-09-18 at 11.09.31 AM (1).png,Screenshot 2020-09-18 at 11.08.24 AM.png'
 taxonomy:
     category:
         - docs
@@ -21,4 +22,4 @@ The quantity lablel can be used as price/quantity (like $12/kg) by enabling "Pri
 ![](Screenshot%202020-09-18%20at%2011.05.58%20AM.png)
 and it will show wherever price is displayed
 ![](Screenshot%202020-09-18%20at%2011.08.24%20AM.png)
-![](Screenshot%202020-09-18%20at%2011.09.31%20AM.png)
+![](Screenshot%202020-09-18%20at%2011.09.31%20AM%20%281%29.png)
