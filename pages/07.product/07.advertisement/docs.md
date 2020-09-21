@@ -1,6 +1,6 @@
 ---
 title: 'Special Category Badge/Advertisement'
-media_order: 'special_categories.jpg,special_categories1.jpg,special.png,special1.png,Screen Shot 2020-05-25 at 12.17.56 PM.png,Screen Shot 2020-05-25 at 12.18.02 PM.png,Screen Shot 2020-05-25 at 12.18.18 PM.png,screenshot-localhost-2020.05.25-12_26_33.png,Screen Shot 2020-05-28 at 6.19.35 PM.png,Screenshot 2020-06-05 at 10.30.26 AM.png,Screen Shot 2020-09-21 at 11.28.01 AM.png,Screen Shot 2020-09-21 at 11.28.29 AM.png,Screen Shot 2020-09-21 at 11.28.39 AM.png'
+media_order: 'special_categories.jpg,special_categories1.jpg,special.png,special1.png,Screen Shot 2020-05-25 at 12.17.56 PM.png,Screen Shot 2020-05-25 at 12.18.02 PM.png,Screen Shot 2020-05-25 at 12.18.18 PM.png,screenshot-localhost-2020.05.25-12_26_33.png,Screen Shot 2020-05-28 at 6.19.35 PM.png,Screenshot 2020-06-05 at 10.30.26 AM.png,Screen Shot 2020-09-21 at 11.28.01 AM.png,Screen Shot 2020-09-21 at 11.28.29 AM.png,Screen Shot 2020-09-21 at 11.28.39 AM.png,Screen Shot 2020-09-21 at 11.37.26 AM.png'
 taxonomy:
     category:
         - docs
@@ -50,9 +50,9 @@ You can also create a new special category with the settings you want.
 4. Fill all the details in Basic options. Fee Recurrence days are for how much time you want to assign the products in this category. Enter the subscription fee, which seller will pay when he assign his products to this category. If you want to create a free special category leave amount to 0.00.
 ![](Screen%20Shot%202020-09-21%20at%2011.28.01%20AM.png)
 5. In badge options you can add the badge icon and style it for special category which will be visible on the assigned products. You can also use badge text and style it the way you want.
-![](Screen%20Shot%202020-09-21%20at%2011.28.29%20AM.png)
+![](Screen%20Shot%202020-09-21%20at%2011.37.26%20AM.png)
 6. In style options you can style the products for that special category, like their background and border.
-![](Screen%20Shot%202020-05-28%20at%206.19.35%20PM.png)
+![](Screen%20Shot%202020-09-21%20at%2011.28.29%20AM.png)
 7. Advanced information
 ![](Screen%20Shot%202020-09-21%20at%2011.28.39%20AM.png) 
 8. Click on save.
