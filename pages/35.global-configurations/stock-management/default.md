@@ -51,9 +51,9 @@ You can also manage stock from the inventory manager and by import:
 1.  Go to the sellacious panel of your website.
 2. To import, first navigate to import utility on the left side of panel. Then click on importer option from the        dropped down menu.
 3. In the Sellacious native format, select download with all specifiacations column and open the downloaded file.
-4. Write the Product_Title whose stocks you want to change, and make the changes in the columns.
+4. Write the Product Title whose stock you want to change, and make the changes in the columns.
 5. Download the file in .csv format.
-6. Edit this file to Add/Update stock
+6. Edit this file to Add/Update stock.
 7. In the Import utility on the left pane, selects importers.
 8. In the Sellacious native format, select upload csv and upload the downloaded csv file.
 9. Select options which you want to import in Import configuration.
