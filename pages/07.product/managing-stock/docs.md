@@ -13,6 +13,7 @@ visible: true
 We can manage stocks from three ways:
 
 **Managing stock through product:** To manage stock through product:
+
 1. Go to the sellacious panel of your website.
 2. In left menu go to shop -> product catalogue
 3. Add/Edit the product
