@@ -34,3 +34,5 @@ Individual Product: If you save individual product, stock will be saved from pro
 If you enable the stock management button, stock will be shown in list like stock+over-stock.
 If you disable the stock management button, stock will be shown in list like ∞
 ![](Screen%20Shot%202020-06-12%20at%207.32.03%20PM.png)
+
+**Note**: You can mark the product is umlimited only product wise.
