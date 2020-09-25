@@ -8,12 +8,15 @@ visible: true
 ---
 
 **Stock**: The goods or merchandise kept on the premises of a shop or warehouse and available for sale or distribution.
-
 **Over stock**: A supply or quantity in excess of demand or requirement.
 
 We can manage stocks from three ways:
 
-**Managing stock through product:** When you set stock management is use individual setting, stock will be saved from product.
+**Managing stock through product:** To manage stock through product:
+1. Go to the sellacious panel of your website.
+2. In left menu go to shop -> product catalogue
+3. Add/Edit the product
+4. Click on invetory tab and you can manage stock from here.
 ![](manage%20stock.png)
 If you enable the stock management button, stock will be shown in list like stock+over-stock.
 If you disable the stock management button, stock will be shown in list like ∞
