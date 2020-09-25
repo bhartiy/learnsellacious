@@ -1,5 +1,5 @@
 ---
-title: 'Managing Stock'
+title: 'Products Stock'
 taxonomy:
     category:
         - docs
