@@ -13,11 +13,10 @@ visible: true
 We can manage stocks from three ways:
 
 **Managing stock through product:** When you set stock management is use individual setting, stock will be saved from product.
-![](Screen%20Shot%202020-06-12%20at%207.29.58%20PM.png)
+![](manage%20stock.png)
 If you enable the stock management button, stock will be shown in list like stock+over-stock.
 If you disable the stock management button, stock will be shown in list like ∞
-![](Screen%20Shot%202020-06-12%20at%207.32.03%20PM.png)
-
+![](40194d4ddaff6c18d34335f58dacd0c2a0ae0703-screen-shot-2020-06-12-at-73203-pm.png)
 **Note**: You can mark the product is umlimited only product wise.
 
 
