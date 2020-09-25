@@ -1,5 +1,6 @@
 ---
 title: 'Stock Management'
+media_order: 'Screen Shot 2020-09-25 at 10.43.39 AM.png'
 visible: true
 ---
 
@@ -19,3 +20,4 @@ You can Manage stock from 3 ways:
 **Default over stock limit**: Set a default over stock sales limit value for all products, this can be overridden in the category if stock management is set to category level.
 
 **Check Stock in Front-end**: If check stock in front-end is enable, it will check stock on frontend and show message "Insufficient stock" if stock is not present in that quantity.
+![](Screen%20Shot%202020-09-25%20at%2010.43.39%20AM.png)
