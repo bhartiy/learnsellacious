@@ -24,12 +24,12 @@ You can Manage stock from 3 ways:
 ![](screenshot-localhost-2020.06.12-18_56_58.png)
 
 **1. Use Global Setting**: If you set stock management setting is use global setting, stock+over-stock will be saved from global in product.
-**2. Use Category Setting**: When you set stock management setting is use category setting, stock management tab is showing in category. From category, you can set stock management from 3 ways: 1. Global, 2. Category, 3. Individual Product
+</br>**2. Use Category Setting**: When you set stock management setting is use category setting, stock management tab is showing in category. From category, you can set stock management from 3 ways: 1. Global, 2. Category, 3. Individual Product
 ![](Screen%20Shot%202020-06-12%20at%207.23.09%20PM.png)
 Global: If you save global in category, stock will be saved from global setting.
 Category: If you save category, stock will be saved from category itself.
 Individual Product: If you save individual product, stock will be saved from product.
-**3. Use Individual Product Setting**: When you set stock management is use individual setting, stock will be saved from product.
+</br>**3. Use Individual Product Setting**: When you set stock management is use individual setting, stock will be saved from product.
 ![](Screen%20Shot%202020-06-12%20at%207.29.58%20PM.png)
 If you enable the stock management button, stock will be shown in list like stock+over-stock.
 If you disable the stock management button, stock will be shown in list like ∞
@@ -37,11 +37,10 @@ If you disable the stock management button, stock will be shown in list like ∞
 
 **Note**: You can mark the product is umlimited only product wise.
 
-You can also manage stock from inventory and by import:
+You can also manage stock from the inventory manager and by import:
 
 **Managing stock in bulk:**
-**Inventory Manager :**
-Inventory is used for managing the stock in your website. This feature will be useful for  the premium users only. You can change the cost price, margin price, list price, fixed price and stock from inventory window.
+</br>**Inventory Manager :** Inventory is used for managing the stock in your website. This feature will be useful for  the premium users only. You can change the cost price, margin price, list price, fixed price and stock from inventory window.
 1. Go to the sellacious panel of your website.
 2. To manage your inventory, first navigate to shop on the left side of the panel. Then,click on inventory manager      option from the dropped down menu.
 3. You can change pricing and stock of any product of your inventory under inventory manager.
