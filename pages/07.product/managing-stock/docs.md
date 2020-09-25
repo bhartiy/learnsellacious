@@ -6,18 +6,19 @@ taxonomy:
 visible: true
 ---
 
-**Stock**: the goods or merchandise kept on the premises of a shop or warehouse and available for sale or distribution.
+**Stock**: The goods or merchandise kept on the premises of a shop or warehouse and available for sale or distribution.
 
-**Over stock**: a supply or quantity in excess of demand or requirement.
+**Over stock**: A supply or quantity in excess of demand or requirement.
 
 We can manage stocks from three ways:
 
-**Managing stock through product:**
-1. Go to the Sellacious panel of your website.
-2. To manage through product, first navigate to shop on the left side of the panel. Then click on Product Catalogue    option from the drop down menu.
-3. You can change pricing and stock of any product of your inventory under Product.
-4. Select any product from the catalogue then edit its fields. Here you can edit the cost price and stock .
-5. Then click on the save button and the changes will save.
+**Managing stock through product:** When you set stock management is use individual setting, stock will be saved from product.
+![](Screen%20Shot%202020-06-12%20at%207.29.58%20PM.png)
+If you enable the stock management button, stock will be shown in list like stock+over-stock.
+If you disable the stock management button, stock will be shown in list like ∞
+![](Screen%20Shot%202020-06-12%20at%207.32.03%20PM.png)
+
+**Note**: You can mark the product is umlimited only product wise.
 
 
 **Managing stock in bulk:**
@@ -44,23 +45,3 @@ Import is used to update stocks in csv file and then import that file  in Sellac
 11. And your changes will be updated.
 
 
-**How to mark a product with unlimited stock?** 
-1. Go to settings menu, select global configuration from the drop down.
-2. Go to stock management option.
-3. In stock management there will be an option to check stock in front-end, disable it or click on                      NO option. 
-
-
-**I don't want to manage stocks of my Product, how can I?**
-1. Go to sellecious panel.
-2. Go to shop->>Product Catalogue.
-3. Edit the product and click on inventory tab, and disable the manage stock button.
-4. Then you don’t have to manage stocks every time. 
-![](manage%20stock.png)
-
-
-**How to mark a default stock/over stock of products?**
-1. Go to settings menu, select global configuration from the drop down.
-2. Go to stock management option.
-3. In stock management there will be an option of Default initial stock which tells us about the stock present of      that product.
-4. You can set the Default initial stock value from there.
-5. There will be an option of Default over stock  limit where you can set the Default ove stock limit.
