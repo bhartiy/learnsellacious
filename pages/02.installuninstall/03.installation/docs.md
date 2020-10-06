@@ -7,7 +7,11 @@ taxonomy:
 visible: true
 ---
 
-'Install via Web' is most probably the easiest way of installing Sellacious.
+There are two ways to install from joomla bakend
+1. Install via Web
+2. Install by upload
+3. 
+**Install via Web:** follow these steps when installing from web
 1. First of all, go to the Joomla administration panel of your website.
 2. Go to Extensions and click on Manage -> Install option from the dropped down menu.
 ![](Install.jpg)
@@ -25,7 +29,8 @@ visible: true
 9. Login to your Sellacious panel by using your Joomla credentials, Sellacious is ready to use.
 ![](sellacious.jpg)
 
-### You can install the sellacious by 'Install by upload'.
+**Install by upload:** follow thsese steps when installing by upload
+
 1. First of all, go to the Joomla administration panel of your website.
 2. Go to Extensions and click on Manage -> Install option from the dropped down menu.
 ![](Install.jpg)
