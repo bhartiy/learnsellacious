@@ -11,7 +11,8 @@ There are two ways to install from joomla bakend
 1. Install via Web
 2. Install by upload
 
-**Install via Web:** follow these steps when installing from web
+### Install via Web:
+Follow these steps when installing from web
 1. First of all, go to the Joomla administration panel of your website.
 2. Go to Extensions and click on Manage -> Install option from the dropped down menu.
 ![](Install.jpg)
@@ -29,7 +30,8 @@ There are two ways to install from joomla bakend
 9. Login to your Sellacious panel by using your Joomla credentials, Sellacious is ready to use.
 ![](sellacious.jpg)
 
-**Install by upload:** follow thsese steps when installing by upload
+### Install by upload:
+Follow thsese steps when installing by upload
 
 1. First of all, go to the Joomla administration panel of your website.
 2. Go to Extensions and click on Manage -> Install option from the dropped down menu.
