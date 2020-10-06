@@ -35,7 +35,7 @@ There are two ways to install from joomla bakend
 2. Go to Extensions and click on Manage -> Install option from the dropped down menu.
 ![](Install.jpg)
 3. Now click on Upload Package File tab in Extensions.
-4. Click on Browse File and select the core package.
+4. Click on Browse File and select the core package and upload.
 ![](Upload1.jpg)
 6.Stop the process once the core package is uplodaed, and then install extended pkg
 ![](Screenshot%202020-05-22%20at%206.50.28%20PM.png)
