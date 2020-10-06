@@ -1,6 +1,6 @@
 ---
 title: 'Install from Joomla Administrator'
-media_order: 'Install.jpg,download_n_install.jpg,sellacious_installation.jpg,component1.jpg,Upload1.jpg,sellacious.jpg,Screenshot 2020-05-22 at 6.50.28 PM.png,install_from_web1.jpg'
+media_order: 'Install.jpg,download_n_install.jpg,sellacious_installation.jpg,component1.jpg,Upload1.jpg,sellacious.jpg,Screenshot 2020-05-22 at 6.50.28 PM.png,install_from_web1.jpg,Screenshot 2020-05-22 at 6.50.28 PM.png'
 taxonomy:
     category:
         - docs
@@ -10,7 +10,7 @@ visible: true
 There are two ways to install from joomla bakend
 1. Install via Web
 2. Install by upload
-3. 
+
 **Install via Web:** follow these steps when installing from web
 1. First of all, go to the Joomla administration panel of your website.
 2. Go to Extensions and click on Manage -> Install option from the dropped down menu.
@@ -35,10 +35,10 @@ There are two ways to install from joomla bakend
 2. Go to Extensions and click on Manage -> Install option from the dropped down menu.
 ![](Install.jpg)
 3. Now click on Upload Package File tab in Extensions.
-4. Click on Browse File and select the downloaded (core+extended) package.
+4. Click on Browse File and select the core package.
 ![](Upload1.jpg)
-6.Click on Download & Install Now button to install the Sellacious additional libraries.
-![](download_n_install.jpg)
+6.Stop the process once the core package is uplodaed, and then install extended pkg
+![](Screenshot%202020-05-22%20at%206.50.28%20PM.png)
 7.Once the processing ends, go to Components and click on Sellacious from the dropped down menu.
 ![](component1.jpg)
 8. After the processing is done, Launch Sellacious.
