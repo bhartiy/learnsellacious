@@ -1,5 +1,5 @@
 ---
-title: 'Frontend product Filter'
+title: 'Frontend Product Filter'
 taxonomy:
     category: docs
 visible: true
