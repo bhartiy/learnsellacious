@@ -1,6 +1,9 @@
 ---
 title: 'Seller profiles'
-media_order: 'seller.png,seller1.png,seller2.png,seller3.png'
+media_order: 'seller.png,seller1.png,seller2.png,seller3.png,Screenshot 2020-10-24 at 3.38.58 PM.png,Screenshot 2020-10-24 at 3.40.36 PM.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -35,5 +38,10 @@ visible: true
 
 ![](seller3.png)
 
-7. Client details will be edited
+7. Seller Returns and Exchange T&C can be saved in seller profile. To do it you need to enable Allow sellers to choose from Settings->Global Configuration->Shop settings.
+![](Screenshot%202020-10-24%20at%203.38.58%20PM.png)
+Return and exchange can be saved here 
+![](Screenshot%202020-10-24%20at%203.40.36%20PM.png)
+which willbe shown on the sellers product details page in modal
+ 
 
