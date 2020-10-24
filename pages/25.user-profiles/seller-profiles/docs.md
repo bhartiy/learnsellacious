@@ -44,6 +44,6 @@ Return and exchange can be saved here
 ![](Screenshot%202020-10-24%20at%203.40.36%20PM.png)
 Return and exchange can be saved from frontend profile edit view also
 ![](Screenshot%202020-10-24%20at%206.24.44%20PM.png)
-which willbe shown on the sellers product details page in modal
+which will be shown on the sellers product details page in modal
 ![](Screenshot%202020-10-24%20at%203.43.14%20PM.png)
 
