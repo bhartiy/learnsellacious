@@ -23,7 +23,7 @@ This section allows you to set pricing type which you want to have for you produ
 ![](Screenshot%202020-10-24%20at%205.58.16%20PM.png)
 3. Show maximum quantity only for prices: shows only maxinimum range of prices
 ![](Screenshot%202020-10-24%20at%206.00.14%20PM.png)
-
 **Sort Dynamic Prices by Minimum Quantity First:** This option sorts Dynamic Prices by Minimum Quantity First then display in table.
 **Hide Default/Fallback Price:** This hides the default price.
 ![](Screenshot%202020-10-24%20at%206.02.46%20PM.png)
+**Use MOQ from Dynamic Prices:** Minimum Purchase Quantity.<br><b>Y: </b>Least Minimum Quantity from Dynamic Prices.<br><br><b>When enabled:</b><br>If X is less than the Y, then Y will be used as MOQ (Minimum Order Quantity). Otherwise, MOQ will be X.<br><br><b>When disabled:</b><br>X will be always be used as MOQ.
