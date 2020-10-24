@@ -9,7 +9,8 @@ visible: true
 
 **Minimum and Maximum Quantity** Numeric values should be whole numbers.
 
-**Minimum quantity** – Customer must purchase more than this amount.
+**Minimum quantity** – Customer must purchase more than this amount. Min Quantity (if available) will be set for the first time in quantity box in details page. If already in cart, it will be 1.
+
 **Maximum quantity** – Customer must purchase less or equal to this amount.
 
 By Default sellacious provide Minimum & Maximum Quantity column, but the user have to enable it.
