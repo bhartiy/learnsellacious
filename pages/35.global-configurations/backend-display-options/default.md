@@ -1,5 +1,6 @@
 ---
 title: 'Backend Display Options'
+published: true
 ---
 
 **Written by**: Rashi Gupta
