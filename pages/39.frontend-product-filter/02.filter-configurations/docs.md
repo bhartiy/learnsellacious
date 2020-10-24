@@ -1,6 +1,6 @@
 ---
 title: 'Filter Configuration'
-media_order: 'Screenshot 2020-10-24 at 2.44.51 PM.png'
+media_order: 'Screenshot 2020-10-24 at 2.44.51 PM.png,Screenshot 2020-10-24 at 3.13.54 PM.png,Screenshot 2020-10-24 at 3.14.07 PM.png'
 taxonomy:
     category:
         - docs
@@ -27,5 +27,8 @@ Varioius Filter Configuration are as follows-
 **Apply filters by:** choose action for applying filters Apply buttons or selecting individual filters.
 Choosing apply button will display apply butto over filter module which will apply all chosen parameters.
 Individual filters will be applied as soona as selected and page will load.
+
+![](Screenshot%202020-10-24%20at%203.14.07%20PM.png)
+![](Screenshot%202020-10-24%20at%203.13.54%20PM.png)
 **Show Choices from selected Category only:** Option to choose to inherit values from parent category or not.
 Suppose there's a category named Laptop and Computers is the parent of Laptop. On products page of Laptop, attributes filters will now only show options of values saved in products of Laptop and not of Computers.
