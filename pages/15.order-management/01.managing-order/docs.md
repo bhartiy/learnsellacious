@@ -46,7 +46,8 @@ a) To Changing order status:
 
 5. And Order will successfully deleted.
 
-**Listing Type in Order**
+##### **Listing Type in Order**
+
 You can see the listing type of products in order. Also you can add the listing type in email template and invoice with the help of shortcode of listimg type.
 ![](Screenshot%20%289%29.png)
 
