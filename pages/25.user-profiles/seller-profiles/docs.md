@@ -1,6 +1,6 @@
 ---
 title: 'Seller profiles'
-media_order: 'seller.png,seller1.png,seller2.png,seller3.png,Screenshot 2020-10-24 at 3.38.58 PM.png,Screenshot 2020-10-24 at 3.40.36 PM.png,Screenshot 2020-10-24 at 3.43.14 PM.png'
+media_order: 'seller.png,seller1.png,seller2.png,seller3.png,Screenshot 2020-10-24 at 3.38.58 PM.png,Screenshot 2020-10-24 at 3.40.36 PM.png,Screenshot 2020-10-24 at 3.43.14 PM.png,Screenshot 2020-10-24 at 6.24.44 PM.png'
 taxonomy:
     category:
         - docs
@@ -42,5 +42,8 @@ visible: true
 ![](Screenshot%202020-10-24%20at%203.38.58%20PM.png)
 Return and exchange can be saved here 
 ![](Screenshot%202020-10-24%20at%203.40.36%20PM.png)
+Return and exchange can be saved from frontend profile edit view also
+![](Screenshot%202020-10-24%20at%206.24.44%20PM.png)
 which willbe shown on the sellers product details page in modal
 ![](Screenshot%202020-10-24%20at%203.43.14%20PM.png)
+
