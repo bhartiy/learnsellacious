@@ -27,4 +27,4 @@ This section allows you to set pricing type which you want to have for you produ
 **Hide Default/Fallback Price:** This hides the default price.
 ![](Screenshot%202020-10-24%20at%206.02.46%20PM.png)
 **Use MOQ from Dynamic Prices:** This config when enabled minimum order quantity will be taken from dynamic price range
-for example X: Minimum Purchase Quantity.<b>Y: </b>Least Minimum Quantity from Dynamic Prices.<br><b>When enabled:</b><br>If X is less than the Y, then Y will be used as MOQ (Minimum Order Quantity). Otherwise, MOQ will be X.<br><br><b>When disabled:</b><br>X will be always be used as MOQ.
+for example let X: Minimum Purchase Quantity and <b>Y:</b>Least Minimum Quantity from Dynamic Prices.<br><b>When enabled:</b><br>If X is less than the Y, then Y will be used as MOQ (Minimum Order Quantity). Otherwise, MOQ will be X.<br><b>When disabled:</b><br>X will be always be used as MOQ.
