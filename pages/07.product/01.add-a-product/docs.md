@@ -1,6 +1,6 @@
 ---
 title: 'Add A Product'
-media_order: 'product_catalogue.jpg,basic-product.png,inventory.png,seller.png,Screen Shot 2020-05-23 at 3.10.07 PM.png,Screen Shot 2020-05-23 at 3.16.38 PM.png,Screen Shot 2020-05-23 at 3.18.48 PM.png'
+media_order: 'product_catalogue.jpg,basic-product.png,inventory.png,seller.png,Screen Shot 2020-05-23 at 3.10.07 PM.png,Screen Shot 2020-05-23 at 3.16.38 PM.png,Screen Shot 2020-05-23 at 3.18.48 PM.png,Screenshot 2020-10-24 at 7.10.09 PM.png'
 taxonomy:
     category:
         - docs
@@ -38,3 +38,6 @@ visible: true
 9. Add variants for this product as varinats can be added only when product is saved.
 
 ![](Screen%20Shot%202020-05-23%20at%203.18.48%20PM.png)
+
+10. Product which is being edited its title will be shown on top 
+![](Screenshot%202020-10-24%20at%207.10.09%20PM.png)
