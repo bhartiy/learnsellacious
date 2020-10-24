@@ -48,7 +48,7 @@ a) To Changing order status:
 
 ##### **Listing Type in Order**
 
-You can see the listing type of products in order. Also you can add the listing type in email template and invoice with the help of shortcode of listimg type.
+You can see the listing type of products in order. Also you can add the listing type in email template and invoice with the help of shortcode of listing type.
 ![](Screenshot%20%289%29.png)
 
 ##### **To see History Details of Orders,Follow Steps:**
