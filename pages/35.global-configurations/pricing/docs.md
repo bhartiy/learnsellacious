@@ -1,6 +1,6 @@
 ---
 title: Pricing
-media_order: 'Screenshot 2020-10-24 at 5.54.48 PM.png,Screenshot 2020-10-24 at 5.58.16 PM.png,Screenshot 2020-10-24 at 6.00.14 PM.png'
+media_order: 'Screenshot 2020-10-24 at 5.54.48 PM.png,Screenshot 2020-10-24 at 5.58.16 PM.png,Screenshot 2020-10-24 at 6.00.14 PM.png,Screenshot 2020-10-24 at 6.02.46 PM.png'
 taxonomy:
     category:
         - docs
@@ -24,3 +24,6 @@ This section allows you to set pricing type which you want to have for you produ
 3. Show maximum quantity only for prices: shows only maxinimum range of prices
 ![](Screenshot%202020-10-24%20at%206.00.14%20PM.png)
 
+**Sort Dynamic Prices by Minimum Quantity First:** This option sorts Dynamic Prices by Minimum Quantity First then display in table.
+**Hide Default/Fallback Price:** This hides the default price.
+![](Screenshot%202020-10-24%20at%206.02.46%20PM.png)
