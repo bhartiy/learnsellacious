@@ -7,9 +7,9 @@ taxonomy:
 visible: true
 ---
 
-Written by: Indresh Maurya
-Date: 24-10-2020
-Compatibility: Sellacious v2.0.0-Beta1+
+**Written by:** Indresh Maurya
+**Date:** 24-10-2020
+**Compatibility:** Sellacious v2.0.0-Beta1+
 
 
 For filter Module optios go to **Settings->Global Configuratjions->Frontened Display Options.**
