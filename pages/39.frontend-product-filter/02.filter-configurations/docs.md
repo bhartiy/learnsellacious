@@ -18,3 +18,14 @@ Varioius Filter Configuration are as follows-
 **Filters to Show:** In this section we can configure what filters we want to show in our frontend display module. Drag and drop fields in Inabled section which you wnat to show in module.
 **NOTE:** There are options for attribute filter to show them all(Global+Product+variants) or some of them. For example if you want to show only product attribute filter in module enable Product attribute filer and keep All, Global and variat disabled.
 ![](Screenshot%202020-10-24%20at%202.44.51%20PM.png)
+**Category Levels:** choose how many category levels can be shown in category filters.
+**Categories Limit:** Choose how many categories can be shown in category filters. 
+**Sub-categories Limit:** Choose how many sub-categories can be shown in category filters.
+**Special Categories Limit:** Choose how many special categories can be shown in category filters.
+**Special Offers Limit:** Choose how many Special offers(discounts) can be shown in filters.
+**Stores Limit:** Choose how many Stores can be shown in filters.
+**Apply filters by:** choose action for applying filters Apply buttons or selecting individual filters.
+Choosing apply button will display apply butto over filter module which will apply all chosen parameters.
+Individual filters will be applied as soona as selected and page will load.
+**Show Choices from selected Category only:** Option to choose to inherit values from parent category or not.
+Suppose there's a category named Laptop and Computers is the parent of Laptop. On products page of Laptop, attributes filters will now only show options of values saved in products of Laptop and not of Computers.
