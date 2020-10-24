@@ -19,4 +19,6 @@ visible: true
 <br>**Hide Zero Price products**: Whether to  hide the products with no price from the frontend listing completely.If disables, They will be shown as out of stock. If you want to hide zero price products then click on ‘yes’ otherwise click on ‘No’.
 <br>**Image Height**: Enter the Image Height of Products listing view.
 <br>**Products Image Size**: Choose how to adjust images within the image container. The aspect ratio of the images will always be maintained.
-<br>**Show image thumbs**: Choose whether to show image thumbs below the product's image in product list. This will let you see all of the product's images in products list pages itself.
+<br>**how image thumbs**: Choose whether to show image thumbs below the product's image in product list. This will let you see all of the product's images in products list pages itself.
+<br>**Default Ordering of Products**: You can select the default order for product listing in list page.
+![](Screen%20Shot%202020-10-24%20at%205.03.47%20PM.png)
