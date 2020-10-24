@@ -19,8 +19,9 @@ visible: true
 **Multi variants:** It represents the same product with different features are to be specified. For example, the color of the product,Size of the product etc.
 You can set the variants from the product catalogue in sellacious admin panel.
 * **Disabled:**  To disable the multi variants feature in sellacious.
-* **Enabled.show variants as options to the main product:** You can use this feature to add multi-variants to main       products in your shop. 
+* **Enabled.show variants as options to the main product:** You can use this feature to add multi-variants to main       products in your shop. Best price product will shown from among the variants.
 * **Enabled.show each variant as a separate product:**  You can use this feature to add multi-variants to seperate       products in your shop. 
+* **Enabled. But do not show variants in products list:** This option allows you to show hide varian display on list page, only main product will be shown on list page and alwyas redirect to main product details page. Variants will be shown in vriant section on details page. 
 
 **Allowed product type**: In this feature you can select the type of products you want to display on the front end.   It can be physical product, Electronic product or both. 
 * **Physical only:** Physical product represents the products physical in nature. For example: Laptops,                 Mobile phones etc. 
