@@ -7,7 +7,7 @@ visible: true
 ---
 
 **Written by:** Indresh Maurya
-**Date:** 23-05-2020
+**Date:** 24-10-2020
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
 
