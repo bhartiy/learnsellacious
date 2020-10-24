@@ -1,6 +1,9 @@
 ---
 title: 'Managing Order'
 media_order: 'orders1.png,orders2.png,orders3.png,orders4.png,orders5.png,orders6.png,orders7.png,orders8.png,orders9.png,orders10.png,orders11.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
