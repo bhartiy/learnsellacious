@@ -1,5 +1,6 @@
 ---
 title: Pricing
+media_order: 'Screenshot 2020-10-24 at 5.54.48 PM.png,Screenshot 2020-10-24 at 5.58.16 PM.png,Screenshot 2020-10-24 at 6.00.14 PM.png'
 taxonomy:
     category:
         - docs
@@ -16,3 +17,10 @@ This section allows you to set pricing type which you want to have for you produ
 **Allowed Price Types:** You can enable disable pricing type from here. This config is also available in category and in product level. which will override this config if enabled.
 **Product Price Display:** Choose wheather to show price only or crossed out list also.
 **Dynamic Prices Display:** In case dynamic price is selected in a product this config allows us in what manner we want to show dynamic price table.
+1. Show Quantity range for prices: It will show quantity range for prices
+![](Screenshot%202020-10-24%20at%205.54.48%20PM.png)
+2.Show minimum quantity only for prices: shows only minimum range of prices
+![](Screenshot%202020-10-24%20at%205.58.16%20PM.png)
+3. Show maximum quantity only for prices: shows only maxinimum range of prices
+![](Screenshot%202020-10-24%20at%206.00.14%20PM.png)
+
