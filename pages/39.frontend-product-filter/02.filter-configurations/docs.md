@@ -1,5 +1,8 @@
 ---
 title: 'Disabling filters'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
