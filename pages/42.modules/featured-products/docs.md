@@ -38,7 +38,8 @@ Sellacious special category module display the special category products in fron
 <br>**Buy Now Button**: It represents the buy now button will be displayed on the front end or not.It will be shown on the upper layer of the listed products.
 <br>**Show price of products**: In module, you have option to show price of products in frontend.
 <br>**Quick View Button**: In module, you have option to show quick view button on products in frontend.
-![](Screen%20Shot%202020-06-05%20at%2012.37.23%20PM.png)
+<br>**View All Products Button**: In module, you can choose whether to show view all products button on frontend or not.
+![](Screen%20Shot%202020-10-26%20at%2012.27.05%20PM.png)
 
 <br>**Show title**: You can select the show or hide. Show button will show the title of the related products and Hide button will hide the title of the related products.
 <br>**Position**: It represents the position of the module. You can choose the position from here.
