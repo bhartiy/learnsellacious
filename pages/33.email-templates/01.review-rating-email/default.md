@@ -17,7 +17,7 @@ We have two review rating email template, these are:
 * **Text Message**: With email, you can send text message as well to user, admin and seller. You just need to enter the text message info in message body with shortcode.
 ![](Screen%20Shot%202020-10-26%20at%205.31.24%20PM.png)
 
-2. **PRODUCT RATING NOTIFICATION**: Product rating notification will be sent to concerned persons based on the selected days in email template and also the status you have set in "Allowed Product Statuses for Review". This email will be sent to customer, seller, admin based on selected days of template.
+2.**PRODUCT RATING NOTIFICATION**: Product rating notification will be sent to concerned persons based on the selected days in email template and also the status you have set in "Allowed Product Statuses for Review". This email will be sent to customer, seller, admin based on selected days of template.
 
 * **Basic Information**: In basic information, there are all short codes that we can use in email template for admin, seller, and user. Also here you can choose after how many days of order placed these reminders should be sent.
 ![](Screenshot%20%2813%29.png)
