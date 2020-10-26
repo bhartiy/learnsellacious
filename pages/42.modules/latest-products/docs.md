@@ -1,5 +1,9 @@
 ---
 title: 'Sellacious Latest Products'
+media_order: 'Screen Shot 2020-06-08 at 7.32.32 PM.png,Screen Shot 2020-06-08 at 7.33.09 PM.png,Screen Shot 2020-06-08 at 7.34.35 PM.png,Screen Shot 2020-06-08 at 7.35.10 PM.png,Screen Shot 2020-10-26 at 12.27.05 PM.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -34,7 +38,9 @@ Sellacious latest products module will display the latest created products.
 **Buy Now Button**: In module, you have option to show Buy now button on products in frontend.
 **Show price of products**: In module, you have option to show price of products in frontend.
 **Quick View Button**: In module, you have option to show quick view button on products in frontend.
-![](Screen%20Shot%202020-06-08%20at%207.32.32%20PM.png)
+**View All Products Button**: In module, you can choose whether to show view all products button on frontend or not.
+
+![](Screen%20Shot%202020-10-26%20at%2012.27.05%20PM.png)
 
 **Advanced:**
 **Module Class Suffix**: A suffix to be applied to the css class of the module (table.moduletable), this allows individual module styling
