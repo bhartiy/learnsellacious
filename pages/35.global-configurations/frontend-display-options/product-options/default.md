@@ -20,5 +20,5 @@ visible: true
 <br>**Image Height**: Enter the Image Height of Products listing view.
 <br>**Products Image Size**: Choose how to adjust images within the image container. The aspect ratio of the images will always be maintained.
 <br>**how image thumbs**: Choose whether to show image thumbs below the product's image in product list. This will let you see all of the product's images in products list pages itself.
-<br>**Default Ordering of Products**: You can select the default order for product listing in list page.
+<br>**Default Ordering of Products**: You can select the default ordering of products listing in the list page. We have 5 types of ordering: 1. Popular, 2. Rating, 3. Newest First, 4. Lowest Price, 5. Highest Price
 ![](Screen%20Shot%202020-10-24%20at%205.03.47%20PM.png)
