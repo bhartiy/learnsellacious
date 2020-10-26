@@ -1,6 +1,9 @@
 ---
 title: 'Creating Coupons'
 media_order: 'coupon.png,cou.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
@@ -13,10 +16,10 @@ visible: true
 ![](coupon.png)
 
 4. Fill the credentials.
-6. In Coupon(edit) section Title, Coupon code, Status and Start Date Fields are mandatory.
+5. In Coupon(edit) section Title, Coupon code, Status and Start Date Fields are mandatory.
+6. Also while creating the coupons, you can hide coupon From Public Page. You can select whether this rule should be hide for registered or guest users. 
 7. Click on save button to save the Coupon details.
 
-![](cou.png)
-
-9. And Coupon is created successfully.
-10. You can create other coupons by using above method.
+![](2020-10-26-15-23-localhost.png)
+8. And Coupon is created successfully.
+9. You can create other coupons by using above method.
