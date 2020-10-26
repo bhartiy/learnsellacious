@@ -25,13 +25,13 @@ You can apply the special listing badge for categories & subcategories, Products
 
 **Social Links**: You can choose whether you have to apply the social links button on store page.
 
-**continue shopping link in cart**:  You can choose whether you have to apply the continue shopping link in cart on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
+**Continue shopping link in cart**:  You can choose whether you have to apply the continue shopping link in cart on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
 
+**Product Owner Name in Cart**: You can choose whether to show Product Seller or Product manufacturer name in cart or you want to show both seller and manufacturer name in cart.
+![](Screenshot%20%2811%29.png)
 **Show Product review stats on Product Review Page**:
 
 **Continue shopping URL**: You can choose whether you have to apply the continue shopping URL on  categories & subcategories, Products list pages, Product details Pages and Product quick view pages.
-
-**Product Owner Name in Cart**: You can choose whether to show product seller or product manufacture name in cart.
 
 **Show 'Whats in box'**: Choose whether you want the 'Whats in box' information of products to display in front end.
 
