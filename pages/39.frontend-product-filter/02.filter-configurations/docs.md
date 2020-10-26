@@ -16,6 +16,8 @@ For filter Module optios go to **Settings->Global Configuratjions->Frontened Dis
 Varioius Filter Configuration are as follows-
 
 **Filters to Show:** In this section we can configure what filters we want to show in our frontend display module. Drag and drop fields in Inabled section which you wnat to show in module.
+<br>**Manufacturer Names Filter**: In frontend, you can also set the filter by **Manufacturer Names**.
+
 **NOTE:** There are options for attribute filter to show them all(Global+Product+variants) or some of them. For example if you want to show only product attribute filter in module enable Product attribute filer and keep All, Global and variat disabled.
 ![](Screenshot%202020-10-24%20at%202.44.51%20PM.png)
 **Category Levels:** choose how many category levels can be shown in category filters.
