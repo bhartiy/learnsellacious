@@ -7,7 +7,7 @@ We have two review rating email template, these are:
 ######1. PRODUCT RATING SUCCESS
 ######2. PRODUCT RATING NOTIFICATION
 
-1. **PRODUCT RATING SUCCESS**: When any user gives rating to the product, rating success email goes to admin, product's seller and buyer. In email template, we have 3 different tabs that contain diff info. 
+1.**PRODUCT RATING SUCCESS**: When any user gives rating to the product, rating success email goes to admin, product's seller and buyer. In email template, we have 3 different tabs that contain diff info. 
 * **Basic Information**: In basic information, there are all short codes that we can use in email template for admin, seller, and user.
 ![](Screen%20Shot%202020-10-26%20at%205.30.41%20PM.png)
 
