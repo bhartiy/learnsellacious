@@ -15,3 +15,5 @@ Custom Shipper attibute has been added in sellacious which can be used un shippi
 
 **Create:** To create shipper field go to Additional attribute->shipping form fields->New and select shipper field from dropdown.
 ![](Screenshot%202020-10-27%20at%207.43.29%20PM.png)
+here we can ask for mutiple shipper and type 
+![](Screenshot%202020-10-27%20at%207.46.03%20PM.png)
