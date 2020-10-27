@@ -9,5 +9,5 @@ visible: true
 
 # Email Templates
 
-1. [Review rating email template](https://www.sellacious.com/documentation-v2#/learn/email-templates/review-rating-email)
-
+1. [Review Rating Email template](https://www.sellacious.com/documentation-v2#/learn/email-templates/review-rating-email)
+2. [Abandoned Cart Notification template](https://www.sellacious.com/documentation-v2#/learn/email-templates/abandoned-cart-notification)
