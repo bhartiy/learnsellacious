@@ -21,3 +21,5 @@ here we can ask for mutiple shipper and type
 ![](Screenshot%202020-10-27%20at%207.48.03%20PM.png)
 **Use:** These fields will show up in shipping step 
 ![](Screenshot%202020-10-27%20at%207.50.33%20PM.png)
+saved information will show in order details page and email/invoice.
+![](Screenshot%202020-10-27%20at%207.51.50%20PM.png)
