@@ -3,6 +3,10 @@ title: 'Abandoned Cart Notification'
 media_order: 'Screenshot (15).png,2020-10-27-11-15-localhost.png,Screen Shot 2020-10-27 at 11.49.57 AM.png,2020-10-27-11-15-localhost (1).png,Screen Shot 2020-10-27 at 12.18.20 PM.png'
 ---
 
+**Written by**: Rashi Gupta
+**Date**: 27-10-2020
+**Compatibility**: Sellacious v2.0.0-Beta1+
+
 Abandoned Cart Email Notification is a follow-up email sent to customer who has added items to their cart and gotten through a portion of the checkout and then left the site without purchasing. Also abadoned cart notification email sent to admin as well to notify that these customers left the items in cart.
 
 In abandoned cart notification, we have 2 template: 1. Admin, 2. Customer(self).
