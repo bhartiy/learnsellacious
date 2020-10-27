@@ -1,6 +1,17 @@
 ---
-title: 'Advance '
+title: 'Advance Reporting'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
-Reporting section will report all the downloads and emails done in the sellacious software.You can check all the emails and downloads information from the backsite of the sellacious. Communication log will help you to list all the email transactions done within the sellacious. Product queries will list all the queries regarding the products, which is sented by the user from the front end of the sellacious. Sellacious Backsite menu will be listed three kinds of downloads: All downloads, File wise Downloads, and product downloads. All these downloads are listed here.
+In advanced report you can also check Abandoned Cart Report. In advanced report you can check total number of products alomg with total products you can also check **cart items** in abanodeoned cart in a drawer to include the "View Products" column.
+
+![](Screenshot%20%2817%29.png)
+
+
+
+
+
+
