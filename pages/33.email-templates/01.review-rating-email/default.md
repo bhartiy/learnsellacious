@@ -3,6 +3,10 @@ title: 'Review Rating Email'
 media_order: '2020-10-26-17-31-localhost.png,Screen Shot 2020-10-26 at 5.26.49 PM.png,Screen Shot 2020-10-26 at 5.30.41 PM.png,Screen Shot 2020-10-26 at 5.31.24 PM.png,Screenshot (13).png,2020-10-26-18-33-localhost.png,Screen Shot 2020-10-26 at 6.37.53 PM.png,Screenshot (14).png'
 ---
 
+**Written by**: Rashi Gupta
+**Date**: 26-10-2020
+**Compatibility**: Sellacious v2.0.0-Beta1+
+
 We have two review rating email template, these are:
 1. PRODUCT RATING SUCCESS
 2. PRODUCT RATING NOTIFICATION
