@@ -7,7 +7,8 @@ taxonomy:
 visible: true
 ---
 
-In advanced report you can also check Abandoned Cart Report. In advanced report, along with total products you can also check **cart items** in abanodeoned cart in a drawer to include the "View Products" column. 
+In advanced report you can also check Abandoned Cart Report. Abandoned cart tracking allows you to measure how many visitors/customers leave the checkout without completing a purchase, leaving items in the cart.
+In advanced report, along with total products you can also check **cart items** in abanodeoned cart in a drawer to include the "View Products" column. 
 
 ![](Screenshot%20%2818%29.png)
 
