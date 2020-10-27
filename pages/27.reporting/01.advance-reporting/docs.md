@@ -11,7 +11,7 @@ visible: true
 **Date**: 27-10-2020
 **Compatibility**: Sellacious v2.0.0-Beta1+
 
-In advanced report you can also check Abandoned Cart Report. Abandoned cart tracking allows you to measure how many visitors/customers leave the checkout without completing a purchase, leaving items in the cart.
+In advanced report you can also check Abandoned Cart Report. Abandoned cart tracking allows you to measure how many visitors/customers leave the checkout without completing a purchase, leaving items in the cart.For only abandoned cart, make sure to enable the config in report **Only Abandoned Carts**.
 In advanced report, along with total products you can also check **cart items** in abanodeoned cart in a drawer to include the "View Products" column. 
 
 ![](Screenshot%20%2818%29.png)
