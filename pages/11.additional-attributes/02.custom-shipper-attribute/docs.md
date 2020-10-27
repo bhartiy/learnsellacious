@@ -1,6 +1,6 @@
 ---
 title: 'Custom Shipper Attribute'
-media_order: 'Screenshot 2020-10-27 at 7.43.29 PM.png'
+media_order: 'Screenshot 2020-10-27 at 7.43.29 PM.png,Screenshot 2020-10-27 at 7.46.03 PM.png,Screenshot 2020-10-27 at 7.48.03 PM.png,Screenshot 2020-10-27 at 7.50.33 PM.png'
 taxonomy:
     category:
         - docs
@@ -17,3 +17,7 @@ Custom Shipper attibute has been added in sellacious which can be used un shippi
 ![](Screenshot%202020-10-27%20at%207.43.29%20PM.png)
 here we can ask for mutiple shipper and type 
 ![](Screenshot%202020-10-27%20at%207.46.03%20PM.png)
+**Assign:** Once the field is saved it can be selected in shipping rule
+![](Screenshot%202020-10-27%20at%207.48.03%20PM.png)
+**Use:** These fields will show up in shipping step 
+![](Screenshot%202020-10-27%20at%207.50.33%20PM.png)
