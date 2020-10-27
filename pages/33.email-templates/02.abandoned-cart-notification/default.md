@@ -1,7 +1,21 @@
 ---
 title: 'Abandoned Cart Notification'
+media_order: 'Screenshot (15).png,2020-10-27-11-15-localhost.png'
 ---
 
+Abandoned Cart Email Notification is a follow-up email sent to customer who has added items to their cart and gotten through a portion of the checkout and then left the site without purchasing. Also abadoned cart notification email sent to admin as well to notify that these customers left the items in cart.
+
+In abandoned cart notification, we have 2 template: 1. Admin, 2. Customer(self).
+
+**1. Admin Template**: Admin template is for admin, when any user left items in cart then notification will also sent to admin based on the number of days selected in **Basic Information Tab**.
+![](Screenshot%20%2815%29.png)
+
+In **Email Tab**, you can set subject of email. Also click on edit button to design the email for admin with help of shortcodes.
+![](2020-10-27-11-15-localhost.png)
+In **Text Message** tab, you can also send text message for abandoned cart with mail.
+![](Screen%20Shot%202020-10-27%20at%2011.49.57%20AM.png)
+
+**2. Customer Template**:
 
 
 Execute Method: We have two methods to execute product rating notification email.
