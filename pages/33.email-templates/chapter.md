@@ -9,4 +9,5 @@ visible: true
 
 # Email Templates
 
-Discover the **email templates** of sellacious 
+1. Review rating email template[](https://www.sellacious.com/documentation-v2#/learn/email-templates/review-rating-email)
+
