@@ -1,5 +1,6 @@
 ---
 title: 'SEO Settings'
+media_order: 'Screenshot (20).png'
 ---
 
 In SEO setting, we have two configuration where we can write JS for order success and order failure.
@@ -7,3 +8,4 @@ In SEO setting, we have two configuration where we can write JS for order succes
 
 2. **Order Failure Script**: Enter Order Failure JS Script for your website, that will execute on order failure.
 
+![](Screenshot%20%2820%29.png)
