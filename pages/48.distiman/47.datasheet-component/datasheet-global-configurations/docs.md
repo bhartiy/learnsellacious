@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Global Configurations'
-media_order: 'Screenshot 2020-10-28 at 11.12.05 AM.png,Screenshot 2020-10-28 at 11.20.51 AM.png'
+media_order: 'Screenshot 2020-10-28 at 11.12.05 AM.png,Screenshot 2020-10-28 at 11.20.51 AM.png,Screenshot 2020-10-28 at 12.14.25 PM.png'
 taxonomy:
     category:
         - docs
@@ -37,6 +37,7 @@ Global Datasheet Global Configurations are as follows-
     Product Specifications- Shows product specification columns
     Variant Specifications- Shows variant specification columns
     Actions- Shows add to cart, buy now, rfq and quote request buttons based on configuration.
+![](Screenshot%202020-10-28%20at%2012.14.25%20PM.png)
     
 **Note** List page containing two or more than two categories will show only **Filterable global specifications** and Category list page will show global and category specific(core+variants) specifications. If all options are disabled then all will show. 
 
