@@ -27,7 +27,7 @@ then go to **Manage->Extention->Manage** and make sure it is enabled
 ![](Screenshot%202020-08-07%20at%203.42.14%20PM.png)
 **4.** This view provides you option to what to show and in what order on datasheet list page/details page.
 
-## Cofiguration
+## Cofigurations
 Separate view is provided for datasheet configuration which will give options to manage the elements in datasheet list view as well as detail page. These configuration can be done on three level
 **1. [Global Level](https://www.sellacious.com/documentation-v2#/learn/distiman/datasheet-component/datasheet-global-configurations)**
 **2. Category Level**
@@ -37,15 +37,8 @@ Separate view is provided for datasheet configuration which will give options to
 
 **Hide Variants:** By default sellacious selects best price listing of a product and displays it in list view. It can be a seller's product or a variant of main product and when clicked, it redirects to respective product details page rather than main product details page. To always show main product in list page and redirect main product details page, enable Hide Variants from list page section of Frontend display options.
 
-![](Screenshot%202020-08-14%20at%2011.15.17%20AM.png)
-
 **Hide Variant Specifications:** In specification section of product details page all product related specifications  viz global, product and variant specifications are shown. To hide variant specifications from product details page disable it from Backend Display Options.
 
-![](Screenshot%202020-08-14%20at%2011.45.59%20AM.png)
-
 **Config to hide placeholder image:** Placeholder image can be hidden from details page if no image is provided. Configuration is provided in frontend display options.
-![](Screenshot%202020-08-25%20at%206.28.28%20PM.png)
 
 **Config to show manufactures in cart:** Frontend display options config allows you to show manufacturer instead of seller in cart.
-
-![](Screenshot%202020-08-29%20at%207.42.52%20PM.png)
