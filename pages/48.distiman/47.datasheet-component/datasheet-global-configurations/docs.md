@@ -14,6 +14,7 @@ visible: true
 Global Datasheet Global Configurations are as follows-
 
 ### Distiman filter Module
+
 **Datasheet Filters Layout:** Enable this option to get compact layout of filter module on list page.
 **Note:** Compact layout works well with Manufacturer fiter, attribute filter and Submit by Apply button options. Attributes will show in module if only they are filterable. We can show/hide individual attribute filters(global/product/variant or all) in module. To know more about sellacious filter go to [Filter Configurations](https://www.sellacious.com/documentation-v2#/learn/frontend-product-filter/filter-configurations)
 ![](Screenshot%202020-10-28%20at%2011.20.51%20AM.png)
@@ -21,7 +22,7 @@ Global Datasheet Global Configurations are as follows-
 **Header Description:** This form can be used to show a description text over filter module.
 
 ### List Page Options
-These are the list page options to show in datasheet-
+These are the list page options to show in datasheet. These option can be ovverriden at category level-
 
 **Datasheet Columns:** You can opt what column to show.
 	Image- Image of product
@@ -52,8 +53,13 @@ These are the list page options to show in datasheet-
 **Disable Hotlink in List:** Link to product details page can be disabled and can be shown as read only.
 **Default List Limit:** We can set no. of products on list page under one pagination.
 ![](Screenshot%202020-10-28%20at%2012.26.42%20PM.png)
-Additional options are provided to configure the category page head layout.
 
+### Category Configuration
+Additional options are provided to configure the category page head layout.
+**Category Head Layout:** Choose categoty head layout to be distiman or default.
+**Show Category Image:** Show hide category image.
+**Category Image Styling:** Choose wheather category image should behave as background.
+**No. of Images:** Choose wheather to show image galery in case you have multiple category images.
 
 
 **List page style:** css of list page can be changed from here and can be reset to default at any time.
