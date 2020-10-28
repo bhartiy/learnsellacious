@@ -17,4 +17,4 @@ Distiman consists of Following Components/plugins
 5. [Distiman Checkout](https://www.sellacious.com/documentation-v2#/learn/distiman/distiman-checkout) Separate checkout process than usual sellacious.
 6. [Quantisation Plugin](https://www.sellacious.com/documentation-v2#/learn/distiman/quantisation-plugin) Enables us to increase step quantity in quantity box.
 
-To know more about distiman visit https://distiman.co
+To know more about distiman product visit https://distiman.co
