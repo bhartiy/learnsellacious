@@ -14,7 +14,7 @@ Here are some additional configuration which come from core sellacoious, but ess
 
 [Filter Configuration](https://www.sellacious.com/documentation-v2#/learn/frontend-product-filter/filter-configurations) To show hide variant specifications from filter module.
 
-[Hide Variants from Datashet](https://www.sellacious.com/learn/global-configurations/general-tab#multi-variants): By default sellacious selects best price listing of a product and displays it in list view. It can be a seller's product or a variant of main product and when clicked, it redirects to respective product details page rather than main product details page. To always show main product in list page and redirect main product details page, enable **Enabled. But do not show variants in products list**.
+[Hide Variants from Datasheet](https://www.sellacious.com/learn/global-configurations/general-tab#multi-variants): By default sellacious selects best price listing of a product and displays it in list view. It can be a seller's product or a variant of main product and when clicked, it redirects to respective product details page rather than main product details page. To always show main product in list page and redirect main product details page, enable **Enabled. But do not show variants in products list**.
 
 **Hide Variant Specifications:** In specification section of product details page all product related specifications  viz global, product and variant specifications are shown. To hide variant specifications from product details page disable it from Backend Display Options.
 
