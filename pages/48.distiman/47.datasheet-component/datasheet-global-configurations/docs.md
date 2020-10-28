@@ -14,7 +14,10 @@ visible: true
 Global Datasheet Global Configurations are as follows-
 1.[Distiman Filter Module](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-global-configurations#distiman-filter-module)
 2.[List Page Options](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-global-configurations#list-page-options)
-3.
+3.[Category Header Style](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-global-configurations#category-header-style)
+4.[List page style](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-global-configurations#list-page-style)
+5.[Detail Page Option](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-global-configurations#detail-page-option)
+6.[Detail Page Style](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-global-configurations#detail-page-style)
 
 ### Distiman filter Module
 
