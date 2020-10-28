@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Component'
-media_order: 'Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png,Screenshot 2020-08-07 at 4.11.49 PM.png,Screenshot 2020-08-07 at 4.48.12 PM.png,image3.png,Screenshot 2020-08-07 at 5.23.11 PM.png,Screenshot 2020-08-07 at 5.28.27 PM.png,details page.png,Screenshot 2020-08-14 at 11.15.17 AM.png,Screenshot 2020-08-14 at 11.45.59 AM.png,test3423.png,Screenshot 2020-08-25 at 5.04.20 PM.png,Screenshot 2020-08-25 at 5.44.16 PM.png,Screenshot 2020-08-25 at 5.51.32 PM.png,Screenshot 2020-08-25 at 5.54.52 PM.png,Screenshot 2020-08-25 at 6.28.28 PM.png,Screenshot 2020-08-29 at 7.42.52 PM.png,Screenshot 2020-10-28 at 11.12.05 AM.png'
+media_order: 'Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png'
 taxonomy:
     category:
         - docs
@@ -32,25 +32,6 @@ Separate view is provided for datasheet configuration which will give options to
 **1. [Global Level](https://www.sellacious.com/documentation-v2#/learn/distiman/datasheet-component/datasheet-global-configurations)**
 **2. Category Level**
 **3. Product Level**
-
-
-
-
-### Category Level
-
-Option are available in category edit for category list page/category product details page and those options if enabled will apply on produsts of that category only. Also the option is given if you want to choose global layout for the category too. **Note:** If a product is associated with more than one categories, category layout will be ignored and global will be applied.
-
-![](Screenshot%202020-08-07%20at%205.23.11%20PM.png)
-
-Additional options are provided to configure the category page head layout.
-
-![](Screenshot%202020-08-25%20at%205.54.52%20PM.png)
-
-### Product Level
-
-Option are available to choose Default(Category/Global) layout or Override Default Layout in product edit and those options if enabled will apply on that particular product only and ignore category/global layout.
-Additional config is given for adding long description
-![](test3423.png)
 
 ### Complementary Configurations
 
