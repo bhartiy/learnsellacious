@@ -45,6 +45,7 @@ Separate view is provided for datasheet configuration which will give options to
 **2.** This view provides you option to what to show and in what order on datasheet list page/details page.
 
 **Datasheet Filters Layout:** Enable this option to get compact layout of filter module on list page. **Note:** Compact layout wirks well with Manufacturer fiter, attribute filter and Submit by Apply button. To know more about sellacious filter go to [Filter Configurations](https://www.sellacious.com/documentation-v2#/learn/frontend-product-filter/filter-configurations)
+![](Screenshot%202020-10-28%20at%2011.20.51%20AM.png)
 ![](Screenshot%202020-10-28%20at%2011.12.05%20AM.png)
 **Header Description:** This form can be used to show a description text over filter module.
 
