@@ -11,6 +11,8 @@ visible: true
 **Date:** 28-10-2020
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
+Global Datasheet Global Configurations are as follows-
+
 **Datasheet Filters Layout:** Enable this option to get compact layout of filter module on list page.
 **Note:** Compact layout works well with Manufacturer fiter, attribute filter and Submit by Apply button options. Attributes will show in module if only they are filterable. We can show/hide individual attribute filters(global/product/variant or all) in module. To know more about sellacious filter go to [Filter Configurations](https://www.sellacious.com/documentation-v2#/learn/frontend-product-filter/filter-configurations)
 ![](Screenshot%202020-10-28%20at%2011.20.51%20AM.png)
