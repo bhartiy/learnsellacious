@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Category Configurations'
-media_order: 'Screenshot 2020-10-28 at 2.39.00 PM.png,image1.png,Screenshot 2020-10-28 at 3.33.35 PM.png,image2.png,image3.png,image4.png,image5.png,image6.png'
+media_order: 'Screenshot 2020-10-28 at 2.39.00 PM.png,image1.png,Screenshot 2020-10-28 at 3.33.35 PM.png,image2.png,image3.png,image4.png,image5.png,image6.png,image7.png,image8.png,image9.png,image10.png'
 taxonomy:
     category:
         - docs
@@ -58,8 +58,7 @@ Additional options are provided to configure the category page head layout.
 
 ### List page style
 css of list page can be changed from here and can be reset to default at any time.
-![](Screenshot%202020-10-28%20at%2012.39.01%20PM.png)
-
+![](image7.png)
 
 ### Detail page option
 You can manage detail page element from here
@@ -76,12 +75,12 @@ You can manage detail page element from here
 **Show Attachments:** Show/hide Attachments.
 **Link Single Attachment with Title:** In case there is single attachment it will show as link.
 **Title of the Attachments:** Give Title to the Attachments.
-![](Screenshot%202020-10-28%20at%2012.45.12%20PM.png)
+![](image8.png)
 **Show Long Description:** Show/hide Long Description.
 **Show Price List:** Show/hide Price List (works only with dynamic pricing).
 **Title for Stock:** Choose what should be title of stock.
 **Unit for Stock (Text):** Choose what should be unit of stock.
-![](Screenshot%202020-10-28%20at%2012.50.16%20PM.png)
+![](image9.png)
 **Show Tablular List:** Show/hide Variants section on details page.
 **Variants List Columns:** Choose what Columns to show in variant section.
 **Datasheet Default Sorting:** Enables you to set default sorting column for variant section datasheet.
@@ -89,7 +88,6 @@ You can manage detail page element from here
 **Table Header:** Show/hide List Header.
 **Table Header:** Show/hide List Footer.
 
-
-
 ### Detail page style
 css of Detail page can be changed from here and can be reset to default at any time.
+![](image10.png)
