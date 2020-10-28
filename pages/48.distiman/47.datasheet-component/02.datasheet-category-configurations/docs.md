@@ -1,5 +1,6 @@
 ---
 title: 'Datasheet Category Configurations'
+media_order: 'Screenshot 2020-10-28 at 2.39.00 PM.png'
 taxonomy:
     category:
         - docs
@@ -15,7 +16,7 @@ Global Datasheet Global Configurations are as follows-
 ### List Page Options
 These are the list page options to show in datasheet. These option can be ovverriden at category level-
 **Use Settings from:** Here we can decide whether to use global datasheet config for this category or use different category settings for this particular category.
-
+![](Screenshot%202020-10-28%20at%202.39.00%20PM.png)
 **Datasheet Columns:** You can opt what column to show.
 	Image- Image of product
     Product- Title of the product
