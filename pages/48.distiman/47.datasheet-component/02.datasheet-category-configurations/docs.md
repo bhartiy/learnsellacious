@@ -85,6 +85,7 @@ You can manage detail page element from here
 ![](image9.png)
 **Show Tablular List:** Show/hide Variants section on details page.
 **Variants List Columns:** Choose what Columns to show in variant section.
+![](Screenshot%202020-10-28%20at%203.57.41%20PM.png)
 **Datasheet Default Sorting:** Enables you to set default sorting column for variant section datasheet.
 **Datasheet Sorting Direction:** Chose sorting direction (ascending/discending).
 **Table Header:** Show/hide List Header.
