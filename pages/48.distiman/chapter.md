@@ -8,7 +8,7 @@ taxonomy:
 
 # Distiman
 
-Distiman consists of Following Component/plugins 
+Distiman consists of Following Components/plugins 
 
 1. [Datasheet:](https://www.sellacious.com/documentation-v2#/learn/distiman/datasheet-component) Tabular layout of list page.
 2. [RFQ:](https://www.sellacious.com/documentation-v2#/learn/distiman/rfq) Enables user to make request for quote.
