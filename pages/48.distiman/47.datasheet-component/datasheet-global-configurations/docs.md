@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Global Configurations'
-media_order: 'Screenshot 2020-10-28 at 11.12.05 AM.png,Screenshot 2020-10-28 at 11.20.51 AM.png,Screenshot 2020-10-28 at 12.14.25 PM.png,Screenshot 2020-10-28 at 12.16.15 PM.png'
+media_order: 'Screenshot 2020-10-28 at 11.12.05 AM.png,Screenshot 2020-10-28 at 11.20.51 AM.png,Screenshot 2020-10-28 at 12.14.25 PM.png,Screenshot 2020-10-28 at 12.16.15 PM.png,Screenshot 2020-10-28 at 12.23.33 PM.png'
 taxonomy:
     category:
         - docs
@@ -47,11 +47,11 @@ These are the list page options to show in datasheet-
 
 **Datasheet Sorting Direction:** We can choose sorting direction (ascending/discending).
 
-You can choose Part Number elements wheather it is Product SKU, Seller SKU, Seller Name or all.
-Link to product details page can be disabled and can be shown as read only.
-
-
-
+**Part Number elements:** You can choose Part Number elements wheather it is Product SKU, Seller SKU, Seller Name or all.
+![](Screenshot%202020-10-28%20at%2012.23.33%20PM.png)
+**Disable Hotlink in List:** Link to product details page can be disabled and can be shown as read only.
+**Default List Limit:** We can set no. of products on list page under one pagination.
+![](Screenshot%202020-10-28%20at%2012.26.42%20PM.png)
 Additional options are provided to configure the category page head layout.
 
 
