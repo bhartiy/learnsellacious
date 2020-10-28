@@ -16,7 +16,8 @@ visible: true
 * **Enabled:** If marketplace is enabled then your shop will considered as multiseller. Therefore, Many sellers can     collaborate with your shop to sell the products.<br>
 * **Show product for each seller separately:** Enable the listing of the products from multiple seller but the           product of each seller will be shown separately in your website.
 
-**Multi variants:** It represents the same product with different features are to be specified. For example, the color of the product,Size of the product etc.
+### Multi variants:
+It represents the same product with different features are to be specified. For example, the color of the product,Size of the product etc.
 You can set the variants from the product catalogue in sellacious admin panel.
 * **Disabled:**  To disable the multi variants feature in sellacious.
 * **Enabled.show variants as options to the main product:** You can use this feature to add multi-variants to main       products in your shop. Best price product will shown from among the variants.
