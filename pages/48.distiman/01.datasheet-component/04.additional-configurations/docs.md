@@ -16,7 +16,7 @@ Here are some additional configuration which come from core sellacoious, but ess
 
 [Hide Variants from Datasheet](https://www.sellacious.com/documentation-v2#/learn/global-configurations/general-tab): By default sellacious selects best price listing of a product and displays it in list view. It can be a seller's product or a variant of main product and when clicked, it redirects to respective product details page rather than main product details page. To always show main product in list page and redirect main product details page, enable **Enabled. But do not show variants in products list**.
 
-**Hide Variant Specifications:** In specification section of product details page all product related specifications  viz global, product and variant specifications are shown. To hide variant specifications from product details page disable it from Backend Display Options.
+[Hide Variant Specifications:](https://www.sellacious.com/documentation-v2#/learn/global-configurations/backend-display-options) In specification section of product details page all product related specifications  viz global, product and variant specifications are shown. To hide variant specifications from product details page disable it from Backend Display Options.
 
 **Config to hide placeholder image:** Placeholder image can be hidden from details page if no image is provided. Configuration is provided in frontend display options.
 
