@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Component'
-media_order: 'Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png'
+media_order: 'Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-10-28 at 2.10.53 PM.png'
 taxonomy:
     category:
         - docs
@@ -11,7 +11,7 @@ taxonomy:
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
 This chapter deals with the Datasheet Component layout and configuration related to it. Datasheet enables us to show list page in sheet format.
-![](Screenshot%202020-08-25%20at%205.04.20%20PM.png)
+![](Screenshot%202020-10-28%20at%202.10.53%20PM.png)
 To enable this component follow these steps-
 
 ## Installation
