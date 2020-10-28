@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Category Configurations'
-media_order: 'Screenshot 2020-10-28 at 2.39.00 PM.png,image1.png,Screenshot 2020-10-28 at 3.33.35 PM.png,image2.png,image3.png,image4.png,image5.png,image6.png,image7.png,image8.png,image9.png,image10.png,image11.png'
+media_order: 'Screenshot 2020-10-28 at 2.39.00 PM.png,image1.png,Screenshot 2020-10-28 at 3.33.35 PM.png,image2.png,image3.png,image4.png,image5.png,image6.png,image7.png,image8.png,image9.png,image10.png,image11.png,Screenshot 2020-10-28 at 3.51.00 PM.png'
 taxonomy:
     category:
         - docs
@@ -89,6 +89,7 @@ You can manage detail page element from here
 **Datasheet Sorting Direction:** Chose sorting direction (ascending/discending).
 **Table Header:** Show/hide List Header.
 **Table Header:** Show/hide List Footer.
+![](Screenshot%202020-10-28%20at%203.51.00%20PM.png)
 
 ### Detail page style
 css of Detail page can be changed from here and can be reset to default at any time.
