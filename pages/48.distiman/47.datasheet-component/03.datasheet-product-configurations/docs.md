@@ -1,5 +1,6 @@
 ---
 title: 'Datasheet Product Configurations'
+media_order: 'Screenshot 2020-10-28 at 4.16.02 PM.png'
 taxonomy:
     category:
         - docs
@@ -15,8 +16,8 @@ Here are the Datasheet product page configurations-
 ### Detail page option
 You can manage detail page element from here
 
-**Use Settings from:** Here we can decide whether to use global datasheet config for this category or use different category settings for this particular category.
-![](image11.png)
+**Use Settings from:** Here we can decide whether to use global datasheet config for this product or use different product level settings for this particular product.
+![](Screenshot%202020-10-28%20at%204.16.02%20PM.png)
 **Product Layout:** Choose which layout should be used in Product Detail Page.
 **Show Seller Logo:** Show/hide seller Logo.
 **Show Manufacturer Logo:** Show/hide Manufacturer Logo.
