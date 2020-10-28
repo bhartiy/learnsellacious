@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Global Configurations'
-media_order: 'Screenshot 2020-10-28 at 11.12.05 AM.png,Screenshot 2020-10-28 at 11.20.51 AM.png,Screenshot 2020-10-28 at 12.14.25 PM.png,Screenshot 2020-10-28 at 12.16.15 PM.png,Screenshot 2020-10-28 at 12.23.33 PM.png,Screenshot 2020-10-28 at 12.35.14 PM.png,Screenshot 2020-10-28 at 12.39.01 PM.png,Screenshot 2020-10-28 at 12.26.42 PM.png,Screenshot 2020-10-28 at 12.40.41 PM.png'
+media_order: 'Screenshot 2020-10-28 at 11.12.05 AM.png,Screenshot 2020-10-28 at 11.20.51 AM.png,Screenshot 2020-10-28 at 12.14.25 PM.png,Screenshot 2020-10-28 at 12.16.15 PM.png,Screenshot 2020-10-28 at 12.23.33 PM.png,Screenshot 2020-10-28 at 12.35.14 PM.png,Screenshot 2020-10-28 at 12.39.01 PM.png,Screenshot 2020-10-28 at 12.26.42 PM.png,Screenshot 2020-10-28 at 12.40.41 PM.png,Screenshot 2020-10-28 at 12.45.12 PM.png'
 taxonomy:
     category:
         - docs
@@ -67,8 +67,8 @@ css of list page can be changed from here and can be reset to default at any tim
 ![](Screenshot%202020-10-28%20at%2012.39.01%20PM.png)
 
 
-**Detail page option:** You can manage detail page element from here
-
+### Detail page option
+You can manage detail page element from here
 
 **Product Layout:** Choose which layout should be used in Product Detail Page.
 **Show Seller Logo:** Show/hide seller Logo.
@@ -82,6 +82,7 @@ css of list page can be changed from here and can be reset to default at any tim
 **Show Attachments:** Show/hide Attachments.
 **Link Single Attachment with Title:** In case there is single attachment it will show as link.
 **Title of the Attachments:** Give Title to the Attachments.
+![](Screenshot%202020-10-28%20at%2012.45.12%20PM.png)
 **Show Long Description:** Show/hide Long Description.
 **Show Price List:** Show/hide Price List (works only with dynamic pricing).
 **Show Tablular List:** Show/hide Variants section on details page.
