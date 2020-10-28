@@ -1,5 +1,6 @@
 ---
 title: 'Datasheet Global Configurations'
+media_order: 'Screenshot 2020-10-28 at 11.12.05 AM.png,Screenshot 2020-10-28 at 11.20.51 AM.png'
 taxonomy:
     category:
         - docs
@@ -11,7 +12,8 @@ visible: true
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
 **Datasheet Filters Layout:** Enable this option to get compact layout of filter module on list page. **Note:** Compact layout wirks well with Manufacturer fiter, attribute filter and Submit by Apply button. To know more about sellacious filter go to [Filter Configurations](https://www.sellacious.com/documentation-v2#/learn/frontend-product-filter/filter-configurations)
-
+![](Screenshot%202020-10-28%20at%2011.20.51%20AM.png)
+![](Screenshot%202020-10-28%20at%2011.12.05%20AM.png)
 **Header Description:** This form can be used to show a description text over filter module.
 
 **List Page Options:** You can opt what column to show and ordering of the columns for list page. **Note** List page containing two or more than two categories will show only **Filterable global specifications** and Category list page will show global and category specific(core+variants) specifications. If all options are disabled then all will show. 
