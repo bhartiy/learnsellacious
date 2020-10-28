@@ -11,7 +11,8 @@ visible: true
 
 ![](screencapture-localhost-ctech4-staging-sellacious-index-php-2020-09-18-11_29_16.png)
 
-**Market place**: Here You can Choose whether to apply the listing of the products from multiple seller or not.
+### Market place: 
+Here You can Choose whether to apply the listing of the products from multiple seller or not.
 * **Disabled:** If marketplace is disabled then your shop will not considered as multi seller.<br>
 * **Enabled:** If marketplace is enabled then your shop will considered as multiseller. Therefore, Many sellers can     collaborate with your shop to sell the products.<br>
 * **Show product for each seller separately:** Enable the listing of the products from multiple seller but the           product of each seller will be shown separately in your website.
