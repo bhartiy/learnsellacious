@@ -32,13 +32,3 @@ Separate view is provided for datasheet configuration which will give options to
 **1. [Global Level](https://www.sellacious.com/documentation-v2#/learn/distiman/datasheet-component/datasheet-global-configurations)**
 **2. Category Level**
 **3. Product Level**
-
-### Complementary Configurations
-
-**Hide Variants:** By default sellacious selects best price listing of a product and displays it in list view. It can be a seller's product or a variant of main product and when clicked, it redirects to respective product details page rather than main product details page. To always show main product in list page and redirect main product details page, enable Hide Variants from list page section of Frontend display options.
-
-**Hide Variant Specifications:** In specification section of product details page all product related specifications  viz global, product and variant specifications are shown. To hide variant specifications from product details page disable it from Backend Display Options.
-
-**Config to hide placeholder image:** Placeholder image can be hidden from details page if no image is provided. Configuration is provided in frontend display options.
-
-**Config to show manufactures in cart:** Frontend display options config allows you to show manufacturer instead of seller in cart.
