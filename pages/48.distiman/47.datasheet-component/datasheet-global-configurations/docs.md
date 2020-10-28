@@ -60,7 +60,7 @@ Additional options are provided to configure the category page head layout.
 **Show Category Image:** Show hide category image.
 **Category Image Styling:** Choose wheather category image should behave as background.
 **No. of Images:** Choose wheather to show image galery in case you have multiple category images.
-
+![](Screenshot%202020-10-28%20at%2012.35.14%20PM.png)
 
 **List page style:** css of list page can be changed from here and can be reset to default at any time.
 
