@@ -12,6 +12,9 @@ visible: true
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
 Global Datasheet Global Configurations are as follows-
+1.[Distiman Filter Module](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-global-configurations#distiman-filter-module)
+2.[List Page Options](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-global-configurations#list-page-options)
+3.
 
 ### Distiman filter Module
 
@@ -54,7 +57,7 @@ These are the list page options to show in datasheet. These option can be ovverr
 **Default List Limit:** We can set no. of products on list page under one pagination.
 ![](Screenshot%202020-10-28%20at%2012.26.42%20PM.png)
 
-### Category Configuration
+### Category Header Style
 Additional options are provided to configure the category page head layout.
 **Category Head Layout:** Choose categoty head layout to be distiman or default.
 **Show Category Image:** Show hide category image.
