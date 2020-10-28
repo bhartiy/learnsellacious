@@ -102,8 +102,7 @@ You can manage detail page element from here
 **Datasheet Sorting Direction:** Chose sorting direction (ascending/discending).
 **Table Header:** Show/hide List Header.
 **Table Header:** Show/hide List Footer.
-
-
+![](Screenshot%202020-10-28%20at%203.51.00%20PM.png)
 
 ### Detail page style
 css of Detail page can be changed from here and can be reset to default at any time.
