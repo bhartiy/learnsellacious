@@ -12,9 +12,8 @@ visible: true
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
 Global Datasheet Global Configurations are as follows-
-
 ### List Page Options
-These are the list page options to show in datasheet. These option can be ovverriden at category level-
+
 **Use Settings from:** Here we can decide whether to use global datasheet config for this category or use different category settings for this particular category.
 ![](Screenshot%202020-10-28%20at%202.39.00%20PM.png)
 **Datasheet Columns:** You can opt what column to show.
