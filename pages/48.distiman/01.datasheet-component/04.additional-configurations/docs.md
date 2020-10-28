@@ -23,3 +23,5 @@ Here are some additional configuration which come from core sellacoious, but ess
 [Config to show manufactures in cart:](https://www.sellacious.com/learn/global-configurations/frontend-display-options/buttons-and-elements) Frontend display options config allows you to show manufacturer instead of seller in cart.
 
 [Min Quantity from Dynamic Prices](https://www.sellacious.com/documentation-v2#/learn/product/minimum-and-max-quantity) This config enables us to take Min order Qty of products from dynamic prices itself.
+
+[Manufacturer filter in filter module](https://www.sellacious.com/learn/frontend-product-filter/filter-configurations) Add manufacturere filter in filter module.
