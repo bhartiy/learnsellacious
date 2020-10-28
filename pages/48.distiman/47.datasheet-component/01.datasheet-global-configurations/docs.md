@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Global Configurations'
-media_order: 'Screenshot 2020-10-28 at 11.12.05 AM.png,Screenshot 2020-10-28 at 11.20.51 AM.png,Screenshot 2020-10-28 at 12.14.25 PM.png,Screenshot 2020-10-28 at 12.16.15 PM.png,Screenshot 2020-10-28 at 12.23.33 PM.png,Screenshot 2020-10-28 at 12.35.14 PM.png,Screenshot 2020-10-28 at 12.39.01 PM.png,Screenshot 2020-10-28 at 12.26.42 PM.png,Screenshot 2020-10-28 at 12.40.41 PM.png,Screenshot 2020-10-28 at 12.45.12 PM.png,Screenshot 2020-10-28 at 12.50.16 PM.png,Screenshot 2020-10-28 at 1.12.10 PM.png,Screenshot 2020-10-28 at 3.33.35 PM.png'
+media_order: 'Screenshot 2020-10-28 at 11.12.05 AM.png,Screenshot 2020-10-28 at 11.20.51 AM.png,Screenshot 2020-10-28 at 12.14.25 PM.png,Screenshot 2020-10-28 at 12.16.15 PM.png,Screenshot 2020-10-28 at 12.23.33 PM.png,Screenshot 2020-10-28 at 12.35.14 PM.png,Screenshot 2020-10-28 at 12.39.01 PM.png,Screenshot 2020-10-28 at 12.26.42 PM.png,Screenshot 2020-10-28 at 12.40.41 PM.png,Screenshot 2020-10-28 at 12.45.12 PM.png,Screenshot 2020-10-28 at 12.50.16 PM.png,Screenshot 2020-10-28 at 1.12.10 PM.png,Screenshot 2020-10-28 at 3.33.35 PM.png,Screenshot 2020-10-28 at 3.51.00 PM.png,Screenshot 2020-10-28 at 3.57.41 PM.png'
 taxonomy:
     category:
         - docs
@@ -98,6 +98,7 @@ You can manage detail page element from here
 ![](Screenshot%202020-10-28%20at%2012.50.16%20PM.png)
 **Show Tablular List:** Show/hide Variants section on details page.
 **Variants List Columns:** Choose what Columns to show in variant section.
+![](Screenshot%202020-10-28%20at%203.57.41%20PM.png)
 **Datasheet Default Sorting:** Enables you to set default sorting column for variant section datasheet.
 **Datasheet Sorting Direction:** Chose sorting direction (ascending/discending).
 **Table Header:** Show/hide List Header.
