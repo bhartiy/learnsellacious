@@ -18,6 +18,6 @@ Here are some additional configuration which come from core sellacoious, but ess
 
 [Hide Variant Specifications:](https://www.sellacious.com/documentation-v2#/learn/global-configurations/backend-display-options) In specification section of product details page all product related specifications  viz global, product and variant specifications are shown. To hide variant specifications from product details page disable it from Backend Display Options.
 
-**Config to hide placeholder image:** Placeholder image can be hidden from details page if no image is provided. Configuration is provided in frontend display options.
+[Config to hide placeholder image:](https://www.sellacious.com/documentation-v2#/learn/global-configurations/frontend-display-options/product-detail-page) Placeholder image can be hidden from details page if no image is provided. Configuration is provided in frontend display options.
 
-**Config to show manufactures in cart:** Frontend display options config allows you to show manufacturer instead of seller in cart.
+[Config to show manufactures in cart:](https://www.sellacious.com/learn/global-configurations/frontend-display-options/buttons-and-elements) Frontend display options config allows you to show manufacturer instead of seller in cart.
