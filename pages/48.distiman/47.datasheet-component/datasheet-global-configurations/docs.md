@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Global Configurations'
-media_order: 'Screenshot 2020-10-28 at 11.12.05 AM.png,Screenshot 2020-10-28 at 11.20.51 AM.png,Screenshot 2020-10-28 at 12.14.25 PM.png,Screenshot 2020-10-28 at 12.16.15 PM.png,Screenshot 2020-10-28 at 12.23.33 PM.png,Screenshot 2020-10-28 at 12.35.14 PM.png,Screenshot 2020-10-28 at 12.39.01 PM.png,Screenshot 2020-10-28 at 12.26.42 PM.png,Screenshot 2020-10-28 at 12.40.41 PM.png,Screenshot 2020-10-28 at 12.45.12 PM.png'
+media_order: 'Screenshot 2020-10-28 at 11.12.05 AM.png,Screenshot 2020-10-28 at 11.20.51 AM.png,Screenshot 2020-10-28 at 12.14.25 PM.png,Screenshot 2020-10-28 at 12.16.15 PM.png,Screenshot 2020-10-28 at 12.23.33 PM.png,Screenshot 2020-10-28 at 12.35.14 PM.png,Screenshot 2020-10-28 at 12.39.01 PM.png,Screenshot 2020-10-28 at 12.26.42 PM.png,Screenshot 2020-10-28 at 12.40.41 PM.png,Screenshot 2020-10-28 at 12.45.12 PM.png,Screenshot 2020-10-28 at 12.50.16 PM.png,Screenshot 2020-10-28 at 1.12.10 PM.png'
 taxonomy:
     category:
         - docs
@@ -60,12 +60,13 @@ These are the list page options to show in datasheet. These option can be ovverr
 **Default List Limit:** We can set no. of products on list page under one pagination.
 ![](Screenshot%202020-10-28%20at%2012.26.42%20PM.png)
 
-### Category Header Style
+### Category Header Layout
 Additional options are provided to configure the category page head layout.
 **Category Head Layout:** Choose categoty head layout to be distiman or default.
 **Show Category Image:** Show hide category image.
 **Category Image Styling:** Choose wheather category image should behave as background.
 **No. of Images:** Choose wheather to show image galery in case you have multiple category images.
+![](Screenshot%202020-10-28%20at%201.12.10%20PM.png)
 ![](Screenshot%202020-10-28%20at%2012.35.14%20PM.png)
 
 ### List page style
