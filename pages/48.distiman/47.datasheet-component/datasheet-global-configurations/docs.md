@@ -85,6 +85,9 @@ You can manage detail page element from here
 ![](Screenshot%202020-10-28%20at%2012.45.12%20PM.png)
 **Show Long Description:** Show/hide Long Description.
 **Show Price List:** Show/hide Price List (works only with dynamic pricing).
+**Title for Stock:** Choose what should be title of stock.
+**Unit for Stock (Text):** Choose what should be unit of stock.
+![](Screenshot%202020-10-28%20at%2012.50.16%20PM.png)
 **Show Tablular List:** Show/hide Variants section on details page.
 **Variants List Columns:** Choose what Columns to show in variant section.
 **Datasheet Default Sorting:** Enables you to set default sorting column for variant section datasheet.
