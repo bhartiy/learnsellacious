@@ -13,13 +13,15 @@ visible: true
 
 Global Datasheet Global Configurations are as follows-
 
+### Distiman filter Module
 **Datasheet Filters Layout:** Enable this option to get compact layout of filter module on list page.
 **Note:** Compact layout works well with Manufacturer fiter, attribute filter and Submit by Apply button options. Attributes will show in module if only they are filterable. We can show/hide individual attribute filters(global/product/variant or all) in module. To know more about sellacious filter go to [Filter Configurations](https://www.sellacious.com/documentation-v2#/learn/frontend-product-filter/filter-configurations)
 ![](Screenshot%202020-10-28%20at%2011.20.51%20AM.png)
 ![](Screenshot%202020-10-28%20at%2011.12.05%20AM.png)
 **Header Description:** This form can be used to show a description text over filter module.
 
-**List Page Options:** These are the list page options to show in datasheet-
+### List Page Options
+These are the list page options to show in datasheet-
 
 **Datasheet Columns:** You can opt what column to show.
 	Image- Image of product
