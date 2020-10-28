@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Component'
-media_order: 'Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png,Screenshot 2020-08-07 at 4.11.49 PM.png,Screenshot 2020-08-07 at 4.48.12 PM.png,image3.png,Screenshot 2020-08-07 at 5.23.11 PM.png,Screenshot 2020-08-07 at 5.28.27 PM.png,details page.png,Screenshot 2020-08-14 at 11.15.17 AM.png,Screenshot 2020-08-14 at 11.45.59 AM.png,test3423.png,Screenshot 2020-08-25 at 5.04.20 PM.png,Screenshot 2020-08-25 at 5.44.16 PM.png,Screenshot 2020-08-25 at 5.51.32 PM.png,Screenshot 2020-08-25 at 5.54.52 PM.png,Screenshot 2020-08-25 at 6.28.28 PM.png,Screenshot 2020-08-29 at 7.42.52 PM.png'
+media_order: 'Screenshot 2020-08-07 at 3.22.21 PM.png,Screenshot 2020-08-07 at 3.25.09 PM.png,Screenshot 2020-08-07 at 3.33.15 PM.png,Screenshot 2020-08-07 at 3.42.14 PM.png,Screenshot 2020-08-07 at 3.53.13 PM.png,Screenshot 2020-08-07 at 4.11.49 PM.png,Screenshot 2020-08-07 at 4.48.12 PM.png,image3.png,Screenshot 2020-08-07 at 5.23.11 PM.png,Screenshot 2020-08-07 at 5.28.27 PM.png,details page.png,Screenshot 2020-08-14 at 11.15.17 AM.png,Screenshot 2020-08-14 at 11.45.59 AM.png,test3423.png,Screenshot 2020-08-25 at 5.04.20 PM.png,Screenshot 2020-08-25 at 5.44.16 PM.png,Screenshot 2020-08-25 at 5.51.32 PM.png,Screenshot 2020-08-25 at 5.54.52 PM.png,Screenshot 2020-08-25 at 6.28.28 PM.png,Screenshot 2020-08-29 at 7.42.52 PM.png,Screenshot 2020-10-28 at 11.12.05 AM.png'
 taxonomy:
     category:
         - docs
@@ -43,6 +43,10 @@ Separate view is provided for datasheet configuration which will give options to
 ![](Screenshot%202020-08-07%20at%203.42.14%20PM.png)
 
 **2.** This view provides you option to what to show and in what order on datasheet list page/details page.
+
+**Datasheet Filters Layout:** Enable this option to get compact layout of filter module on list page. **Note:** Compact layout wirks well with Manufacturer fiter, attribute filter and Submit by Apply button. To know more about sellacious filter go to [Filter Configurations](https://www.sellacious.com/documentation-v2#/learn/frontend-product-filter/filter-configurations)
+![](Screenshot%202020-10-28%20at%2011.12.05%20AM.png)
+**Header Description:** This form can be used to show a description text over filter module.
 
 **List Page Options:** You can opt what column to show and ordering of the columns for list page. **Note** List page containing two or more than two categories will show only **Filterable global specifications** and Category list page will show global and category specific(core+variants) specifications. If all options are disabled then all will show. 
 
