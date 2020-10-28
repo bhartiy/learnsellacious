@@ -30,5 +30,5 @@ then go to **Manage->Extention->Manage** and make sure it is enabled
 ## Cofigurations
 Separate view is provided for datasheet configuration which will give options to manage the elements in datasheet list view as well as detail page. These configuration can be done on three level
 **1. [Global Level](https://www.sellacious.com/documentation-v2#/learn/distiman/datasheet-component/datasheet-global-configurations)**
-**2. Category Level**
+**2. [Category Level](https://www.sellacious.com/documentation-v2#/learn/distiman/datasheet-component/datasheet-category-configurations)**
 **3. Product Level**
