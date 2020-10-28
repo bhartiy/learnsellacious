@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Global Configurations'
-media_order: 'Screenshot 2020-10-28 at 11.12.05 AM.png,Screenshot 2020-10-28 at 11.20.51 AM.png,Screenshot 2020-10-28 at 12.14.25 PM.png,Screenshot 2020-10-28 at 12.16.15 PM.png,Screenshot 2020-10-28 at 12.23.33 PM.png,Screenshot 2020-10-28 at 12.35.14 PM.png,Screenshot 2020-10-28 at 12.39.01 PM.png,Screenshot 2020-10-28 at 12.26.42 PM.png,Screenshot 2020-10-28 at 12.40.41 PM.png,Screenshot 2020-10-28 at 12.45.12 PM.png,Screenshot 2020-10-28 at 12.50.16 PM.png,Screenshot 2020-10-28 at 1.12.10 PM.png'
+media_order: 'Screenshot 2020-10-28 at 11.12.05 AM.png,Screenshot 2020-10-28 at 11.20.51 AM.png,Screenshot 2020-10-28 at 12.14.25 PM.png,Screenshot 2020-10-28 at 12.16.15 PM.png,Screenshot 2020-10-28 at 12.23.33 PM.png,Screenshot 2020-10-28 at 12.35.14 PM.png,Screenshot 2020-10-28 at 12.39.01 PM.png,Screenshot 2020-10-28 at 12.26.42 PM.png,Screenshot 2020-10-28 at 12.40.41 PM.png,Screenshot 2020-10-28 at 12.45.12 PM.png,Screenshot 2020-10-28 at 12.50.16 PM.png,Screenshot 2020-10-28 at 1.12.10 PM.png,Screenshot 2020-10-28 at 3.33.35 PM.png'
 taxonomy:
     category:
         - docs
@@ -46,6 +46,7 @@ These are the list page options to show in datasheet. These option can be ovverr
     Product Specifications- Shows product specification columns
     Variant Specifications- Shows variant specification columns
     Actions- Shows add to cart, buy now, rfq and quote request buttons based on configuration.
+![](Screenshot%202020-10-28%20at%203.33.35%20PM.png)
 ![](Screenshot%202020-10-28%20at%2012.14.25%20PM.png) 
 **Note** List page containing two or more than two categories will show only **Filterable global specifications** and Category list page will show global and category specific(core+variants) specifications. If all options are disabled then all will show. 
 
