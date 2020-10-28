@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Category Configurations'
-media_order: 'Screenshot 2020-10-28 at 2.39.00 PM.png,image1.png,Screenshot 2020-10-28 at 3.33.35 PM.png'
+media_order: 'Screenshot 2020-10-28 at 2.39.00 PM.png,image1.png,Screenshot 2020-10-28 at 3.33.35 PM.png,image2.png'
 taxonomy:
     category:
         - docs
@@ -38,8 +38,7 @@ Global Datasheet Global Configurations are as follows-
 **Note** List page containing two or more than two categories will show only **Filterable global specifications** and Category list page will show global and category specific(core+variants) specifications. If all options are disabled then all will show. 
 
 **Datasheet Default Sorting:** We can choose Default Sorting for list page datasheet from available options. These options also include Specifications.
-![](Screenshot%202020-10-28%20at%2012.16.15%20PM.png)
-
+![](image2.png)
 **Datasheet Sorting Direction:** We can choose sorting direction (ascending/discending).
 
 **Part Number elements:** You can choose Part Number elements wheather it is Product SKU, Seller SKU, Seller Name or all.
