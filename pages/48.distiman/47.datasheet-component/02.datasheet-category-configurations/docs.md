@@ -12,6 +12,12 @@ visible: true
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
 Global Datasheet Global Configurations are as follows-
+[List Page Options](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-category-configurations#list-page-options)
+[Category Header Layout](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-category-configurations#category-header-layout)
+[List page style](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-category-configurations#list-page-style)
+[Detail page option](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-category-configurations#detail-page-option)
+[Detail page option](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-category-configurations#detail-page-style)
+
 ### List Page Options
 
 **Use Settings from:** Here we can decide whether to use global datasheet config for this category or use different category settings for this particular category.
