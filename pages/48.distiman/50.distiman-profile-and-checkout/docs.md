@@ -1,5 +1,5 @@
 ---
-title: 'Distiman Profile and Checkout'
+title: 'Distiman Profile'
 taxonomy:
     category:
         - docs
