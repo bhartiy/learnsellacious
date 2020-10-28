@@ -30,3 +30,4 @@ Here are some additional configuration which come from core sellacoious, but ess
 
 [Disable guest checkout in cart](https://www.sellacious.com/documentation-v2#/learn/global-configurations/shop-settings) We can disable guest checkout from here.
 
+[Choose table layout for dynamic pricing](https://www.sellacious.com/documentation-v2#/learn/global-configurations/pricing) 
