@@ -19,7 +19,14 @@ Global Datasheet Global Configurations are as follows-
 ![](Screenshot%202020-10-28%20at%2011.12.05%20AM.png)
 **Header Description:** This form can be used to show a description text over filter module.
 
-**List Page Options:** You can opt what column to show and ordering of the columns for list page. **Note** List page containing two or more than two categories will show only **Filterable global specifications** and Category list page will show global and category specific(core+variants) specifications. If all options are disabled then all will show. 
+**List Page Options:** These are the list page options to show in datasheet-
+
+**Datasheet Columns:** You can opt what column to show.
+	Image: Image of product
+    Product: Title of the product
+    Part NO.: SKU of product
+    
+**Note** List page containing two or more than two categories will show only **Filterable global specifications** and Category list page will show global and category specific(core+variants) specifications. If all options are disabled then all will show. 
 
 
 
