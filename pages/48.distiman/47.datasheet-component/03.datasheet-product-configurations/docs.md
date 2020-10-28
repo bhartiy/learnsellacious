@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Product Configurations'
-media_order: 'Screenshot 2020-10-28 at 4.16.02 PM.png,image12.png,image13.png,image14.png'
+media_order: 'Screenshot 2020-10-28 at 4.16.02 PM.png,image12.png,image13.png,image14.png,Screenshot 2020-10-28 at 4.21.54 PM.png,Screenshot 2020-10-28 at 4.27.36 PM.png'
 taxonomy:
     category:
         - docs
@@ -36,6 +36,8 @@ You can manage detail page element from here
 **Title for Stock:** Choose what should be title of stock.
 **Unit for Stock (Text):** Choose what should be unit of stock.
 ![](image13.png)
+
+### Config for Tabular list (variants)
 **Show Tablular List:** Show/hide Variants section on details page.
 **Variants List Columns:** Choose what Columns to show in variant section.
 ![](image14.png)
@@ -43,8 +45,14 @@ You can manage detail page element from here
 **Datasheet Sorting Direction:** Chose sorting direction (ascending/discending).
 **Table Header:** Show/hide List Header.
 **Table Header:** Show/hide List Footer.
-![](Screenshot%202020-10-28%20at%203.51.00%20PM.png)
+![](Screenshot%202020-10-28%20at%204.21.54%20PM.png)
+
+### Config for Long Description
+**Show Long Description:** Show/hide long description on details page.
+**Title for Product Description:** Give title to product description (this is for description in product edit basic info.)
+**Long Descriptions- Title**: Title of long description.
+**Long Descriptions- Description:** Field for saving long description.
+![](Screenshot%202020-10-28%20at%204.27.36%20PM.png)
 
 ### Detail page style
 css of Detail page can be changed from here and can be reset to default at any time.
-![](image10.png)
