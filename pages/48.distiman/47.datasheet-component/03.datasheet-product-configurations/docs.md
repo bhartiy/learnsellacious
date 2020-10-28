@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Product Configurations'
-media_order: 'Screenshot 2020-10-28 at 4.16.02 PM.png'
+media_order: 'Screenshot 2020-10-28 at 4.16.02 PM.png,image12.png,image13.png,image14.png'
 taxonomy:
     category:
         - docs
@@ -30,15 +30,15 @@ You can manage detail page element from here
 **Show Attachments:** Show/hide Attachments.
 **Link Single Attachment with Title:** In case there is single attachment it will show as link.
 **Title of the Attachments:** Give Title to the Attachments.
-![](image8.png)
+![](image12.png)
 **Show Long Description:** Show/hide Long Description.
 **Show Price List:** Show/hide Price List (works only with dynamic pricing).
 **Title for Stock:** Choose what should be title of stock.
 **Unit for Stock (Text):** Choose what should be unit of stock.
-![](image9.png)
+![](image13.png)
 **Show Tablular List:** Show/hide Variants section on details page.
 **Variants List Columns:** Choose what Columns to show in variant section.
-![](Screenshot%202020-10-28%20at%203.57.41%20PM.png)
+![](image14.png)
 **Datasheet Default Sorting:** Enables you to set default sorting column for variant section datasheet.
 **Datasheet Sorting Direction:** Chose sorting direction (ascending/discending).
 **Table Header:** Show/hide List Header.
