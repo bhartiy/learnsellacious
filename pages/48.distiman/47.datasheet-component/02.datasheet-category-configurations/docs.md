@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Category Configurations'
-media_order: 'Screenshot 2020-10-28 at 2.39.00 PM.png,image1.png,Screenshot 2020-10-28 at 3.33.35 PM.png,image2.png,image3.png,image4.png,image5.png,image6.png,image7.png,image8.png,image9.png,image10.png'
+media_order: 'Screenshot 2020-10-28 at 2.39.00 PM.png,image1.png,Screenshot 2020-10-28 at 3.33.35 PM.png,image2.png,image3.png,image4.png,image5.png,image6.png,image7.png,image8.png,image9.png,image10.png,image11.png'
 taxonomy:
     category:
         - docs
@@ -63,6 +63,8 @@ css of list page can be changed from here and can be reset to default at any tim
 ### Detail page option
 You can manage detail page element from here
 
+**Use Settings from:** Here we can decide whether to use global datasheet config for this category or use different category settings for this particular category.
+![](image11.png)
 **Product Layout:** Choose which layout should be used in Product Detail Page.
 **Show Seller Logo:** Show/hide seller Logo.
 **Show Manufacturer Logo:** Show/hide Manufacturer Logo.
