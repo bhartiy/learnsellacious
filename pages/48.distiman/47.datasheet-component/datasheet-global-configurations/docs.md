@@ -22,9 +22,21 @@ Global Datasheet Global Configurations are as follows-
 **List Page Options:** These are the list page options to show in datasheet-
 
 **Datasheet Columns:** You can opt what column to show.
-	Image: Image of product
-    Product: Title of the product
-    Part NO.: SKU of product
+	Image- Image of product
+    Product- Title of the product
+    Part NO.- SKU of product
+    Pdf- Product Attachment
+    1 Piece Price- Best price of product
+    Lowest Quantity Price- Price of lowest quantity in dynamic pricing
+	Parice Range- Minimum and maximum price separated by dash
+    Qty in Stock- Avaialble stock quantity of product
+	Min Qty- Minimum order quantity
+    Max Qty- Maximum order quantity
+    Short Description- Short product description
+    Global Specifications- Shows global specification columns
+    Product Specifications- Shows product specification columns
+    Variant Specifications- Shows variant specification columns
+    Actions- Shows add to cart, buy now, rfq and quote request buttons based on configuration.
     
 **Note** List page containing two or more than two categories will show only **Filterable global specifications** and Category list page will show global and category specific(core+variants) specifications. If all options are disabled then all will show. 
 
