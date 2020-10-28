@@ -13,7 +13,7 @@ visible: true
 
 Here are the Datasheet product page configurations-
 
-### Detail page option
+### Detail Page Options
 You can manage detail page element from here
 
 **Use Settings from:** Here we can decide whether to use global datasheet config for this product or use different product level settings for this particular product.
