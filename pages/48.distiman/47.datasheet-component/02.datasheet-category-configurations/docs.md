@@ -1,6 +1,6 @@
 ---
 title: 'Datasheet Category Configurations'
-media_order: 'Screenshot 2020-10-28 at 2.39.00 PM.png,image1.png,Screenshot 2020-10-28 at 3.33.35 PM.png,image2.png,image3.png,image4.png'
+media_order: 'Screenshot 2020-10-28 at 2.39.00 PM.png,image1.png,Screenshot 2020-10-28 at 3.33.35 PM.png,image2.png,image3.png,image4.png,image5.png,image6.png'
 taxonomy:
     category:
         - docs
@@ -53,8 +53,8 @@ Additional options are provided to configure the category page head layout.
 **Show Category Image:** Show hide category image.
 **Category Image Styling:** Choose wheather category image should behave as background.
 **No. of Images:** Choose wheather to show image galery in case you have multiple category images.
-![](Screenshot%202020-10-28%20at%201.12.10%20PM.png)
-![](Screenshot%202020-10-28%20at%2012.35.14%20PM.png)
+![](image5.png)
+![](image6.png)
 
 ### List page style
 css of list page can be changed from here and can be reset to default at any time.
