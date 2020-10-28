@@ -43,7 +43,7 @@ These are the list page options to show in datasheet. These option can be ovverr
 ![](Screenshot%202020-10-28%20at%2012.14.25%20PM.png) 
 **Note** List page containing two or more than two categories will show only **Filterable global specifications** and Category list page will show global and category specific(core+variants) specifications. If all options are disabled then all will show. 
 
-**Datasheet Default Sorting:** We can choose Default Sorting for list page datasheet from available options.
+**Datasheet Default Sorting:** We can choose Default Sorting for list page datasheet from available options. These options also include Specifications.
 ![](Screenshot%202020-10-28%20at%2012.16.15%20PM.png)
 
 **Datasheet Sorting Direction:** We can choose sorting direction (ascending/discending).
