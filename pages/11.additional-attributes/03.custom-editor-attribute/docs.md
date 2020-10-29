@@ -17,7 +17,7 @@ Custom editor attribute is added which can be used for product or profile fields
 ![](Screenshot%202020-10-29%20at%204.09.03%20PM.png)
 Assign: Once the field is saved it can be selected in product/seller/client
 ![](Screenshot%202020-10-29%20at%204.34.34%20PM.png)
-assigned filed will show in specification in product edit/seller profile edit
+assigned filed will show in specification in product edit/seller profile edit, value can be chaged here 
 ![](Screenshot%202020-10-29%20at%204.36.33%20PM.png)
 which when saved will show on respective pages
 ![](Screenshot%202020-10-29%20at%204.38.39%20PM.png)
