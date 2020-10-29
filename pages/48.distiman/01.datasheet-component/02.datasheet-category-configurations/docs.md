@@ -11,7 +11,7 @@ visible: true
 **Date:** 28-10-2020
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
-Global Datasheet Global Configurations are as follows-
+Datasheet Category Configurations are as follows-
 [List Page Options](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-category-configurations#list-page-options)
 [Category Header Layout](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-category-configurations#category-header-layout)
 [List page style](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-category-configurations#list-page-style)
