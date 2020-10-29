@@ -11,7 +11,7 @@ visible: true
 We can sort the specifications in category. Go to Categories->product category->custom fields tab. In core and variant field you can select the specifications for that particular category from dropdown.
 
 ![](Screen%20Shot%202020-10-29%20at%2010.40.06%20AM.png)
-After selecting all specifications, as per your choice you can order or sort them one by one by drag and drop. Also you can also delete the specification by clicking delete icon.
+After selecting all specifications, as per your choice you can order or sort them one by one by drag and drop. Also you can delete the specification from category by clicking delete icon.
 ![](Screenshot%20%2822%29.png)
 
 After saving the custom fields in category, save the value in product. It will look like in frontemnd:
