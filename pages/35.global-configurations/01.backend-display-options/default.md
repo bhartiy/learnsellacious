@@ -1,6 +1,6 @@
 ---
 title: 'Backend Display Options'
-media_order: '90014569-f3c9a280-dcc4-11ea-8a7b-7ef1babce75f.png,Screenshot (10).png'
+media_order: '90014569-f3c9a280-dcc4-11ea-8a7b-7ef1babce75f.png,Screenshot (10).png,2020-10-29-09-57-localhost.png'
 published: true
 ---
 
@@ -22,3 +22,6 @@ published: true
 **Allow HTML in Product Short Description**: You can choose whether to allow html tags in Product Short Description, without the editor.
 
 ![](Screenshot%20%2810%29.png)
+
+**Product Editing Fields**: You can choose which of the following optional fields you want to use while editing a product in backend.
+![](2020-10-29-09-57-localhost.png)
