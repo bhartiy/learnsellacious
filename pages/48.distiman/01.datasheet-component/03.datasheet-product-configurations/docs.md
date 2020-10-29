@@ -12,10 +12,10 @@ visible: true
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
 Here are the Datasheet product page configurations-
-[Detail Page Options](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-product-configurations#detail-page-options)
-[Config for Tabular list (variants)](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-product-configurations#config-for-tabular-list-variants)
-[Config for Long Description](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-product-configurations#config-for-long-description)
-[Detail page style](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-product-configurations#detail-page-style)
+1. [Detail Page Options](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-product-configurations#detail-page-options)
+2. [Config for Tabular list (variants)](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-product-configurations#config-for-tabular-list-variants)
+3. [Config for Long Description](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-product-configurations#config-for-long-description)
+4. [Detail page style](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-product-configurations#detail-page-style)
 
 ### Detail Page Options
 You can manage detail page element from here
