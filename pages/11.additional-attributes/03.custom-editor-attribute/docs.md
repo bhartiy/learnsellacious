@@ -14,3 +14,5 @@ Custom editor attribute is added which can be used for product or profile fields
 
 **Create:** To create editor field go to Additional attribute->product/profile form fields->New and select editor field from dropdown.
 ![](Screenshot%202020-10-29%20at%204.09.03%20PM.png)
+
+Assign: Once the field is saved it can be selected in product/seller/client 
