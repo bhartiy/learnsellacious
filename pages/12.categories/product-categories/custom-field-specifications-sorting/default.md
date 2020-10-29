@@ -4,6 +4,10 @@ media_order: 'Screen Shot 2020-10-29 at 10.40.06 AM.png,Screen Shot 2020-10-29 a
 visible: true
 ---
 
+**Name**: Rashi Gupta
+**Date**: 29-10-2010
+**Compatibility**: Sellacious v2.0.0-Beta1+
+
 We can sort the specifications in category. Go to Categories->product category->custom fields tab. With the help of dropdown , you can select the specifications for that particular category.
 
 ![](Screen%20Shot%202020-10-29%20at%2010.40.06%20AM.png)
