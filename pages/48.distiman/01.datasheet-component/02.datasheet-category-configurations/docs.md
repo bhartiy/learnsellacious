@@ -55,7 +55,7 @@ Datasheet Category Configurations are as follows-
 
 ### Category Header Layout
 Additional options are provided to configure the category page head layout.
-**Category Head Layout:** Choose categoty head layout to be distiman or default.
+**Category Head Layout:** Choose category head layout to be distiman or default.
 **Show Category Image:** Show hide category image.
 **Category Image Styling:** Choose wheather category image should behave as background.
 **No. of Images:** Choose wheather to show image galery in case you have multiple category images.
