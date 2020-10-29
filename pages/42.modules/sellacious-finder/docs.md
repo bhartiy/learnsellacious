@@ -1,6 +1,6 @@
 ---
 title: 'Sellacious Finder'
-media_order: 'Screenshot 2020-10-29 at 3.02.55 PM.png,Screenshot 2020-10-29 at 3.08.42 PM.png,Screenshot 2020-10-29 at 3.18.12 PM.png,Screenshot 2020-10-29 at 3.25.29 PM.png'
+media_order: 'Screenshot 2020-10-29 at 3.02.55 PM.png,Screenshot 2020-10-29 at 3.08.42 PM.png,Screenshot 2020-10-29 at 3.18.12 PM.png,Screenshot 2020-10-29 at 3.25.29 PM.png,Screenshot 2020-10-29 at 3.57.06 PM.png'
 taxonomy:
     category:
         - docs
@@ -36,3 +36,8 @@ After this done go to Joomla backend->manage->modules->New->sellacious finder
 **Result Redirect:** choose wheather to redirect on category page or category products page
 **Show Category Image:** show category image in ajax result
 **Category Results Order:** choose order of categotry in ajax result
+![](Screenshot%202020-10-29%20at%203.57.06%20PM.png)
+**Suggest As You Type:** suggest seller name as you type
+**Result Redirect:** choose wheather to redirect on store page or store products page
+**Show Seller Image:** show seller image in ajax result
+**Seller Results Order:** choose order of seller in ajax result
