@@ -11,7 +11,7 @@ visible: true
 **Date:** 28-10-2020
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
-Global Datasheet Global Configurations are as follows-
+Datasheet Global Configurations are as follows-
 1.[Distiman Filter Module](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-global-configurations#distiman-filter-module)
 2.[List Page Options](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-global-configurations#list-page-options)
 3.[Category Header Layout](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-global-configurations#category-header-layout)
