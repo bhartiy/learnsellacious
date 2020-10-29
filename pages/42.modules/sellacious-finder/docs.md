@@ -1,6 +1,6 @@
 ---
 title: 'Sellacious Finder'
-media_order: 'Screenshot 2020-10-29 at 3.02.55 PM.png,Screenshot 2020-10-29 at 3.08.42 PM.png'
+media_order: 'Screenshot 2020-10-29 at 3.02.55 PM.png,Screenshot 2020-10-29 at 3.08.42 PM.png,Screenshot 2020-10-29 at 3.18.12 PM.png'
 taxonomy:
     category:
         - docs
@@ -23,3 +23,11 @@ After this done go to Joomla backend->manage->modules->New->sellacious finder
 **Input Label:** Show/Hide input label
 **Label Text:** Label Text for label
 **Input Placeholder:** Give Placeholder text for search box.
+![](Screenshot%202020-10-29%20at%203.18.12%20PM.png)
+**Suggest As You Type:** Enable suggest as you type
+**Show Image:** show image of product in ajax result
+**Show Category:** show category of product in ajax result
+**Show SKU:**  show product sku in ajax result
+**Show Manufacturer:** Show Manufacturer in ajax result 
+**Show Price:** Show Price in ajax result
+**Product Results Order:** Give the order of project result, 1 for display producton top.
