@@ -1,6 +1,6 @@
 ---
 title: 'Sellacious Finder'
-media_order: 'Screenshot 2020-10-29 at 3.02.55 PM.png,Screenshot 2020-10-29 at 3.08.42 PM.png,Screenshot 2020-10-29 at 3.18.12 PM.png'
+media_order: 'Screenshot 2020-10-29 at 3.02.55 PM.png,Screenshot 2020-10-29 at 3.08.42 PM.png,Screenshot 2020-10-29 at 3.18.12 PM.png,Screenshot 2020-10-29 at 3.25.29 PM.png'
 taxonomy:
     category:
         - docs
@@ -31,3 +31,8 @@ After this done go to Joomla backend->manage->modules->New->sellacious finder
 **Show Manufacturer:** Show Manufacturer in ajax result 
 **Show Price:** Show Price in ajax result
 **Product Results Order:** Give the order of project result, 1 for display product on top.
+![](Screenshot%202020-10-29%20at%203.25.29%20PM.png)
+**Suggest As You Type:** suggest category name as you type
+**Result Redirect:** choose wheather to redirect on category page or category products page
+**Show Category Image:** show category image in ajax result
+**Category Results Order:** choose order of categotry in ajax result
