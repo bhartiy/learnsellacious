@@ -8,6 +8,14 @@ published: true
 **Date**: 24-10-2020
 **Compatibility**: Sellacious v2.0.0-Beta1+
 
+**Show Ratings in Catalogue**: You can choose whether to show Ratings Column in Product Catalogue or not in backend.
+
+**Show Orders in Catalogue**: You can choose whether to show Orders Column in Product Catalogue or not in backend.
+
+**Show Stock in Catalogue**: You can choose whether to show Stock Column in Product Catalogue or not in backend.
+
+**E-Product Media Versioning**: Choose whether you want to enable versioning for e-product media files. This is useful where you are selling updates for same file in your products, such as software or games.
+
 **Show Variant Specification**: You can choose whether to show variant specifications in product edit backend and product detail page frontend
 ![](90014569-f3c9a280-dcc4-11ea-8a7b-7ef1babce75f.png)
 
