@@ -15,3 +15,4 @@ Sellecious cart module shows items added in cart. Module can be inabled from **j
 ![](Screenshot%202020-10-29%20at%202.35.12%20PM.png)
 From here we can either choose to show cart modal or redirect to checkout page
 ![](Screenshot%202020-10-29%20at%202.43.34%20PM.png)
+![](Screenshot%202020-10-29%20at%202.45.10%20PM.png)
