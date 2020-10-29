@@ -12,11 +12,11 @@ visible: true
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
 Datasheet Category Configurations are as follows-
-[List Page Options](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-category-configurations#list-page-options)
-[Category Header Layout](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-category-configurations#category-header-layout)
-[List page style](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-category-configurations#list-page-style)
-[Detail page option](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-category-configurations#detail-page-option)
-[Detail page option](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-category-configurations#detail-page-style)
+1. [List Page Options](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-category-configurations#list-page-options)
+2. [Category Header Layout](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-category-configurations#category-header-layout)
+3. [List page style](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-category-configurations#list-page-style)
+4. [Detail page option](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-category-configurations#detail-page-option)
+5. [Detail page option](https://www.sellacious.com/learn/distiman/datasheet-component/datasheet-category-configurations#detail-page-style)
 
 ### List Page Options
 
