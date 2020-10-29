@@ -17,3 +17,9 @@ Before we go ahead in module configuration we need to check the elements which w
 After this done go to Joomla backend->manage->modules->New->sellacious finder
 ![](Screenshot%202020-10-29%20at%203.08.42%20PM.png)
 **Select Style:** selects search style from here.
+**Full Width Input:** Enable full width input for search.
+**Submit Button Type:** select submit button type
+**Button Position:** select submit button position
+**Input Label:** Show/Hide input label
+**Label Text:** Label Text for label
+**Input Placeholder:** Give Placeholder text for search box.
