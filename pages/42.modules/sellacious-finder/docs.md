@@ -30,4 +30,4 @@ After this done go to Joomla backend->manage->modules->New->sellacious finder
 **Show SKU:**  show product sku in ajax result
 **Show Manufacturer:** Show Manufacturer in ajax result 
 **Show Price:** Show Price in ajax result
-**Product Results Order:** Give the order of project result, 1 for display producton top.
+**Product Results Order:** Give the order of project result, 1 for display product on top.
