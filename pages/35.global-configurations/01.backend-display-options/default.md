@@ -1,12 +1,15 @@
 ---
 title: 'Backend Display Options'
-media_order: '90014569-f3c9a280-dcc4-11ea-8a7b-7ef1babce75f.png,Screenshot (10).png,2020-10-29-09-57-localhost.png'
+media_order: '90014569-f3c9a280-dcc4-11ea-8a7b-7ef1babce75f.png,Screenshot (10).png,2020-10-29-09-57-localhost.png,Screen Shot 2020-10-29 at 12.13.50 PM.png'
 published: true
 ---
 
 **Written by**: Rashi Gupta
 **Date**: 24-10-2020
 **Compatibility**: Sellacious v2.0.0-Beta1+
+
+**Main Menu**: You can choose a menu to be used for the main navigation menu for sellacious backend. If you want to use system menu, you can select Use System Preset. If you want menu accordingly, you can make menu from menu manager and set the menu from here by selecting "Sellacious Backoffice Menu".
+![](Screen%20Shot%202020-10-29%20at%2012.13.50%20PM.png)
 
 **Show Ratings in Catalogue**: You can choose whether to show Ratings Column in Product Catalogue or not in backend.
 
