@@ -14,7 +14,7 @@ visible: true
 Sellacious finde is a native search module for searching products, categories and sellers.
 Before we go ahead in module configuration we need to check the elements which will be used for indexing of search keywords. To enable these go to Seetings->Global Configurations->General in sellacious backend and look for these fields
 
-**Search Partial Word**: You can choose whether search can match with with whole or partial word. User can search with whole word or partial word too.
+**Search Partial Word**: You can choose whether search can match with whole or partial word. If you select whole word, user can search product with whole word. And if you selcet whole and partial word both, user can search products with partial word too.
 
 ![](Screenshot%202020-10-29%20at%203.02.55%20PM.png)
 After this done go to Joomla backend->manage->modules->New->sellacious finder
