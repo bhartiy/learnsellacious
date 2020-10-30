@@ -20,7 +20,7 @@ You can Edit or Add new address preset from here. The option provided in this fe
 ![](Screenshot%202020-10-30%20at%2011.16.25%20AM.png)
 **Address Form Fields:** From here we can enable what fields we want to show/hide/make required in our modal when asking for address on frontend.
 ![](Screenshot%202020-10-30%20at%2011.21.42%20AM.png)
-**Language Keys** can be used to translate Label of address fields.Clicking on it will take you to translation page where you can select language and translate.
+**Language Keys** can be used to translate Label of address fields. Clicking on it will take you to translation page where you can select language and translate.
 Address lines can be multiple lines and can be mandatory individually
 ![](Screenshot%202020-10-30%20at%2011.48.08%20AM.png)
 To know more about Addres form go to [Address Fields](https://www.sellacious.com/documentation-v2#/learn/global-configurations/frontend-display-options/address-fields)
