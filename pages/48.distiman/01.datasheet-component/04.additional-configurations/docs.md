@@ -32,3 +32,5 @@ Here are some additional configuration which come from core sellacoious, but ess
 
 [Choose table layout for dynamic pricing](https://www.sellacious.com/documentation-v2#/learn/global-configurations/pricing) Here we can choose the layout of dynamic pricing table.
 
+[Address Presets](https://www.sellacious.com/documentation-v2#/learn/settings/address-presets) Address Preset feature enables us to predefine a set of address formats for different countries.
+
