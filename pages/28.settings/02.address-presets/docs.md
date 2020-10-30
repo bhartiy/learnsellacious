@@ -8,7 +8,7 @@ visible: true
 ---
 
 **Written by:** Indresh Maurya
-**Date:** 23-05-2020
+**Date:** 29-10-2020
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
 Not all countries follow same address formate, Address Preset feature inables us to predefine set of address format for different countries.
