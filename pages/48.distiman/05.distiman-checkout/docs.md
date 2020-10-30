@@ -24,4 +24,5 @@ Register Page
 **Add Ordered Items to Wishlist:** This config allows us to add ordered items to wishlist(my parts)
 **Checkout Page Style:** Chekout page styles allows us to do style checkout pages with provided stylesheet.
 ![](Screenshot%202020-10-30%20at%203.19.58%20PM.png)
-**Login Options:** This config allows to set redirection pages after successful login based on seller or client.
+**Login Options:** This config allows to set redirection pages after successful login based on seller or client
+![](Screenshot%202020-10-30%20at%203.20.33%20PM.png)
