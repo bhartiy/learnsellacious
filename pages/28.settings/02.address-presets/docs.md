@@ -16,7 +16,7 @@ We have already provided a set of address formats which can be seen under the Ad
 ![](Screenshot%202020-10-30%20at%2011.12.02%20AM.png)
 You can Edit or Add a new address preset from here. The option provided in this feature are as follows
 **Title:** Title for address preset
-**Applied on Countries:** Select applied countries for this address preset in this field. **NOTE-** Only one address preset can be applied to one country so avoid selecting countries which are aleady present on other presets or remove ot from other preset and then you can add here.
+**Applied on Countries:** Select applied countries for this address present in this field. **NOTE-** Only one address preset can be applied to one country so avoid selecting countries which are already present on other presets or remove it from other presets and then you can add here.
 ![](Screenshot%202020-10-30%20at%2011.16.25%20AM.png)
 **Address Form Fields:** From here we can enable what fields we want to show/hide/make required in our modal when asking for an address on the frontend.
 ![](Screenshot%202020-10-30%20at%2011.21.42%20AM.png)
