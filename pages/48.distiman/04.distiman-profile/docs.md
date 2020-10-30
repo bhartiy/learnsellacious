@@ -1,6 +1,6 @@
 ---
 title: 'Distiman Profile'
-media_order: 'Screenshot 2020-10-30 at 4.02.55 PM.png,Screenshot 2020-10-30 at 4.03.56 PM.png'
+media_order: 'Screenshot 2020-10-30 at 4.03.56 PM.png'
 taxonomy:
     category:
         - docs
@@ -14,4 +14,4 @@ visible: true
 This component allows us to display distiman profile page. View is provided for creating menu 
 ![](Screenshot%202020-10-30%20at%204.03.56%20PM.png)
 Frontend Profile
-![](Screenshot%202020-10-30%20at%204.02.55%20PM.png)
+![](Screenshot%202020-10-30%20at%204.07.38%20PM.png)
