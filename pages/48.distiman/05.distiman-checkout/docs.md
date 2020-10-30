@@ -1,6 +1,6 @@
 ---
 title: 'Distiman Checkout'
-media_order: 'Screenshot 2020-10-30 at 2.54.47 PM.png,Screenshot 2020-10-30 at 2.56.13 PM.png,Screenshot 2020-10-30 at 2.58.32 PM.png'
+media_order: 'Screenshot 2020-10-30 at 2.54.47 PM.png,Screenshot 2020-10-30 at 2.56.13 PM.png,Screenshot 2020-10-30 at 2.58.32 PM.png,Screenshot 2020-10-30 at 3.08.49 PM.png,Screenshot 2020-10-30 at 3.19.58 PM.png'
 taxonomy:
     category:
         - docs
@@ -20,3 +20,8 @@ Login page
 ![](Screenshot%202020-10-30%20at%202.58.32%20PM.png)
 Register Page
 ![](Screenshot%202020-10-30%20at%203.08.49%20PM.png)
+**Backend Configurations:** Distiman checkout configurations are as follows-
+**Add Ordered Items to Wishlist:** This config allows us to add ordered items to wishlist(my parts)
+**Checkout Page Style:** Chekout page styles allows us to do style checkout pages with provided stylesheet.
+![](Screenshot%202020-10-30%20at%203.19.58%20PM.png)
+**Login Options:** This config allows to set redirection pages after successful login based on seller or client.
