@@ -12,13 +12,13 @@ visible: true
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
 Not all countries follow the same address format, the Address Preset feature enables us to predefine a set of address formats for different countries.
-We have already provided set of address formate which can be seen under Address Preset menu in settings.
+We have already provided a set of address formats which can be seen under the Address Preset menu in settings.
 ![](Screenshot%202020-10-30%20at%2011.12.02%20AM.png)
-You can Edit or Add new address preset from here. The option provided in this feature are as follows
+You can Edit or Add a new address preset from here. The option provided in this feature are as follows
 **Title:** Title for address preset
-**Applied on Countries:** Select applied countries for this address preset in this field. **NOTE-** Only one address preset can be applied to one counrty so avoid selecting countries which are aleady present on other presets or remove ot from other preset and then you can add here.
+**Applied on Countries:** Select applied countries for this address preset in this field. **NOTE-** Only one address preset can be applied to one country so avoid selecting countries which are aleady present on other presets or remove ot from other preset and then you can add here.
 ![](Screenshot%202020-10-30%20at%2011.16.25%20AM.png)
-**Address Form Fields:** From here we can enable what fields we want to show/hide/make required in our modal when asking for address on frontend.
+**Address Form Fields:** From here we can enable what fields we want to show/hide/make required in our modal when asking for an address on the frontend.
 ![](Screenshot%202020-10-30%20at%2011.21.42%20AM.png)
 **Language Keys** can be used to translate Label of address fields. Clicking on it will take you to translation page where you can select language and translate.
 Address lines can be multiple lines and can be mandatory individually
