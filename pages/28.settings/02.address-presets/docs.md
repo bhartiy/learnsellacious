@@ -11,7 +11,7 @@ visible: true
 **Date:** 29-10-2020
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
-Not all countries follow same address formate, Address Preset feature inables us to predefine set of address format for different countries.
+Not all countries follow the same address format, the Address Preset feature enables us to predefine a set of address formats for different countries.
 We have already provided set of address formate which can be seen under Address Preset menu in settings.
 ![](Screenshot%202020-10-30%20at%2011.12.02%20AM.png)
 You can Edit or Add new address preset from here. The option provided in this feature are as follows
