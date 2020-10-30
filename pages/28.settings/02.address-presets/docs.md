@@ -23,7 +23,7 @@ You can Edit or Add a new address preset from here. The option provided in this 
 **Language Keys** can be used to translate Label of address fields. Clicking on it will take you to translation page where you can select language and translate.
 Address lines can be multiple lines and can be mandatory individually
 ![](Screenshot%202020-10-30%20at%2011.48.08%20AM.png)
-To know more about Addres form go to [Address Fields](https://www.sellacious.com/documentation-v2#/learn/global-configurations/frontend-display-options/address-fields)
+To know more about Address form go to [Address Fields](https://www.sellacious.com/documentation-v2#/learn/global-configurations/frontend-display-options/address-fields)
 
 **Shortcodes for Address Format:** Short codes are provided for configuring how saved addresses will show up in various places.**NOTE:** COUNTRY_ISO and STATE_ISO codes can be used for showing them in iso format like US For United States etc.
 **Address Format:** Put short codes in the order which you want to display saved addresses on various places.
