@@ -25,7 +25,7 @@ Address lines can be multiple lines and can be mandatory individually
 ![](Screenshot%202020-10-30%20at%2011.48.08%20AM.png)
 To know more about Addres form go to [Address Fields](https://www.sellacious.com/documentation-v2#/learn/global-configurations/frontend-display-options/address-fields)
 
-**Shortcodes for Address Format:** Short code are provided for configuring how saved address will show on various places.**NOTE:** COUNTRY_ISO and STATE_ISO codes can be used for showing them in iso formate like US For United States etc.
+**Shortcodes for Address Format:** Short codes are provided for configuring how saved addresses will show up in various places.**NOTE:** COUNTRY_ISO and STATE_ISO codes can be used for showing them in iso format like US For United States etc.
 **Address Format:** Put short codes in the order which you want to display saved addresses on various places.
 ![](Screenshot%202020-10-30%20at%2011.27.26%20AM.png)
 
