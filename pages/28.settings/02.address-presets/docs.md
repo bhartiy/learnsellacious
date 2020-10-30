@@ -1,6 +1,6 @@
 ---
 title: 'Address Presets'
-media_order: 'Screenshot 2020-10-30 at 11.12.02 AM.png,Screenshot 2020-10-30 at 11.16.25 AM.png,Screenshot 2020-10-30 at 11.21.42 AM.png'
+media_order: 'Screenshot 2020-10-30 at 11.12.02 AM.png,Screenshot 2020-10-30 at 11.16.25 AM.png,Screenshot 2020-10-30 at 11.21.42 AM.png,Screenshot 2020-10-30 at 11.27.26 AM.png,Screenshot 2020-10-30 at 11.48.08 AM.png'
 taxonomy:
     category:
         - docs
@@ -20,5 +20,9 @@ You can Edit or Add new address preset from here. The option provided in this fe
 ![](Screenshot%202020-10-30%20at%2011.16.25%20AM.png)
 **Address Form Fields:** From here we can enable what fields we want to show/hide/make required in our modal when asking for address on frontend.
 ![](Screenshot%202020-10-30%20at%2011.21.42%20AM.png)
-to know more go to [Address Fields](https://www.sellacious.com/documentation-v2#/learn/global-configurations/frontend-display-options/address-fields)
-
+Address lines can be multiple lines and can be mandatory individually
+![](Screenshot%202020-10-30%20at%2011.48.08%20AM.png)
+To know more about Addres form go to [Address Fields](https://www.sellacious.com/documentation-v2#/learn/global-configurations/frontend-display-options/address-fields)
+**Shortcodes for Address Format:** Short code are provided for configuring how saved address will show on various places.**NOTE:** COUNTRY_ISO and STATE_ISO codes can be used for showing them in iso formate like US For United States etc.
+**Address Format:** Put short codes in the order which you want to display saved addresses on various places.
+![](Screenshot%202020-10-30%20at%2011.27.26%20AM.png)
