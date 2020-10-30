@@ -8,7 +8,7 @@ visible: true
 ---
 
 **Written by:** Indresh Maurya
-**Date:** 03-08-2020
+**Date:** 29-10-2020
 **Compatibility:** Sellacious v2.0.0-Beta1+
 
 This Component provides us New Checkout page, user register/login and Cart module for Distiman.
