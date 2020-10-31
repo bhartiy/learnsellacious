@@ -6,3 +6,5 @@ In Number type attribute field, there is new configuration is added in number ty
 
 **Sort Values numerically**: You can choose whether to sort field values numerically in ascending order. If you enable it, number values will be showing in ascending order in filter module.
 
+![](Screenshot%20%2828%29.png)
+
