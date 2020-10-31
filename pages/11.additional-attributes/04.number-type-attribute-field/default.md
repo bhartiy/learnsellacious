@@ -3,6 +3,10 @@ title: 'Number Type Attribute Field'
 media_order: 'Screenshot (28).png,Screenshot (29).png,Screen Shot 2020-10-31 at 11.08.52 AM.png,Screen Shot 2020-10-31 at 11.09.01 AM.png'
 ---
 
+**Name**: Rashi Gupta
+**Date**: 31-10-2020
+**Compatibility**: Sellacious v2.0.0-Beta1+
+
 In Number type attribute field, there is new configuration is added in number type field to sort values numerically. 
 
 **Sort Values numerically**: You can choose whether to sort field values numerically in ascending order. If you enable it, number values will be showing in ascending order in filter module.
