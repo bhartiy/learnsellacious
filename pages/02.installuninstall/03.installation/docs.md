@@ -32,6 +32,7 @@ Follow these steps when installing from web
 
 ### Install by upload:
 Follow thsese steps when installing by upload
+ Download the package from [here](https://www.sellacious.com/p/core/sellacious)
 
 1. First of all, go to the Joomla administration panel of your website.
 2. Go to Extensions and click on Manage -> Install option from the dropped down menu.
