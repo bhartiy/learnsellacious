@@ -15,11 +15,15 @@ In backend product catalogue, we have filters for products.
 **Product Type**: We have three type of products: 1. Physical, 2. Electronic, 3. Package. You can filter product with product type as well.
 ![](Screen%20Shot%202020-10-30%20at%203.20.48%20PM.png)
 
-**Product Category**: In product catalogue filters, there is a product category filter. With product category filter, you can filter products by category.
+**Product Category**: In product catalogue filters, there is a product category filter. By selecting category, you can filter products.
 ![](Screen%20Shot%202020-11-03%20at%204.23.10%20PM.png)
 
 **Pricing Type**: One of the filter is **Pricing Type**. You can select any one of the pricing type, filtered product is showing related to selected pricing type. We have 8 type of pricing: 1. No Pricing, 2. Call for price, 3. Email for price, 4. Free pricing, 5. Querry form for price, 6. Flat price, 7. Basic Pricing, 8. Dynamic pricing
 ![](Screenshot%202020-10-24%20at%206.09.57%20PM.png)
+
+**Product's Seller**:
+
+**Product's Manufacturer**:
 
 
 
