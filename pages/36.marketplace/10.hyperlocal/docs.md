@@ -16,6 +16,7 @@ With the help of Sellacious Hyperlocal you can create your own store sensitive t
 
 **Initial Configurations:**
 To use Sellacious hyperlocal you need Google Geolocation API key.To know how to get Google Geolocation API key visit https://developers.google.com/maps/documentation/geolocation/get-api-key
+
 Save Google api key in Hyperlocal settings in sellacious backend
 ![](Screenshot%202020-11-16%20at%209.29.22%20AM.png)
 This hyperlocal package consists of a **Hyperlocal Module and Plugin**. Both are already built in sellacious latest version. To enable Sellacious Hyperlocal Go to Joomla backend Manage->Modules->New->Sellacious Hyperlocal and publish module.
