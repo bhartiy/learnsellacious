@@ -15,7 +15,8 @@ Distiman consists of Following Components/plugins
 3. [Configurator:](https://www.sellacious.com/documentation-v2#/learn/distiman/configurator) Dynamic SKU generator on product detail page.
 4. [Distiman Profile:](https://www.sellacious.com/documentation-v2#/learn/distiman/distiman-profile) Diatiman profile page, login and logout.
 5. [Distiman Checkout:](https://www.sellacious.com/documentation-v2#/learn/distiman/distiman-checkout) Separate checkout process than usual sellacious.
-6. [Quantisation Plugin:](https://www.sellacious.com/documentation-v2#/learn/distiman/quantisation-plugin) Enables us to increase step quantity in quantity box.
+6. [Tax Certificate](https://www.sellacious.com/documentation-v2#/learn/distiman/tax-certificate) Tax cerificate pligin enables us to inject field in checkout process.
+7. [Quantisation Plugin:](https://www.sellacious.com/documentation-v2#/learn/distiman/quantisation-plugin) Enables us to increase step quantity in quantity box.
 
 Also need some [Additional Sellacious Configurations](https://www.sellacious.com/documentation-v2#/learn/distiman/additional-configurations) to go with distiman.
 
