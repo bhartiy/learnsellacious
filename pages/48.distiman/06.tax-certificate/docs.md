@@ -1,5 +1,6 @@
 ---
 title: 'Tax Certificate'
+media_order: 'Screenshot 2020-12-08 at 10.06.32 AM.png'
 taxonomy:
     category:
         - docs
@@ -13,6 +14,7 @@ Compatibility: Sellacious v2.0.0-Beta1+
 Tax cerificate pligin enables us to inject field in checkout process to ask for uploading tax certificate and taxes are exemted.
 
 1. Install plg_sellacious_taxcertificate and enable it.
+![](Screenshot%202020-12-08%20at%2010.06.32%20AM.png)
 
 
 
