@@ -7,9 +7,9 @@ taxonomy:
 visible: true
 ---
 
-**Written by: Indresh Maurya
-Date: 07-12-2020
-Compatibility: Sellacious v2.0.0-Beta1+**
+**Written by:** Indresh Maurya
+**Date:** 07-12-2020
+**Compatibility:** Sellacious v2.0.0-Beta1+
 
 Tax cerificate plugin enables us to inject field in checkout process to ask for uploading tax certificate and taxes are exemted.
 
