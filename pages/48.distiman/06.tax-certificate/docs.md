@@ -17,7 +17,7 @@ Tax cerificate pligin enables us to inject field in checkout process to ask for 
 ![](Screenshot%202020-12-08%20at%2010.06.32%20AM.png)
 2. Now Field for Enable Tax Certificate and selecting Tax Certificate Geolocations show up under B2B settings tab
 ![](Screenshot%202020-12-08%20at%2010.11.06%20AM.png)
-3. Now when users from selected country checkout, option to upload tax certificate will show up in checkout
+3. Now when users from selected country checkout and chooses non taxable, option to upload tax certificate will show up in checkout
 ![](Screenshot%202020-12-08%20at%2010.14.03%20AM.png)
 After uploading tax certificalte taxes will be exempted from cart
 ![](Screenshot%202020-12-08%20at%2010.16.59%20AM.png)
