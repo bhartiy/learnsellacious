@@ -8,8 +8,8 @@ visible: true
 ---
 
 There are two ways to install from joomla bakend
-1. Install via Web
-2. Install by upload
+1. [Install via Web](https://www.sellacious.com/learn/installuninstall/installation#install-via-web)
+2. [Install by upload](https://www.sellacious.com/learn/installuninstall/installation#install-by-upload)
 
 ### Install via Web:
 Follow these steps when installing from web
