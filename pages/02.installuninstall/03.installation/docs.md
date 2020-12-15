@@ -40,12 +40,12 @@ Follow thsese steps when installing by upload
 3. Now click on Upload Package File tab in Extensions.
 4. Click on Browse File and select and upload the core package(pkg_sellacious_v2.0.0-beta3.zip)
 ![](Upload1.jpg)
-6.Stop the process by clicking red button once the core package is uplodaed, and then install extended pkg(pkg_sellacious_extended_v2.0.0-beta3.zip)
+5.Stop the process by clicking red button once the core package is uplodaed, and then install extended pkg(pkg_sellacious_extended_v2.0.0-beta3.zip)
 ![](Screenshot%202020-05-22%20at%206.50.28%20PM.png)
-7.Once the processing ends, go to Components and click on Sellacious from the dropped down menu.
+6.Once the processing ends, go to Components and click on Sellacious from the dropped down menu.
 ![](component1.jpg)
-8. After the processing is done, Launch Sellacious.
+7. After the processing is done, Launch Sellacious.
 ![](sellacious_installation.jpg)
-9. Login to your Sellacious panel by using your Joomla credentials, Sellacious is ready to use.
+8. Login to your Sellacious panel by using your Joomla credentials, Sellacious is ready to use.
 ![](sellacious.jpg)
-10. You can also access this backoffice using www.yourwebsite.com/sellacious You can also rename /sellacious to /backoffice etc by renaming the folder. 
+9. You can also access this backoffice using www.yourwebsite.com/sellacious You can also rename /sellacious to /backoffice etc by renaming the folder. 
