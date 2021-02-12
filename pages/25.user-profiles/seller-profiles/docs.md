@@ -17,7 +17,8 @@ visible: true
 
 4. Fill the credentials.
 5. In Basic Information section- name, Username, email fields are mandatory.
-6. Click on save button to save the sellers details.
+6. In Seller info tab- Company name, Store name, Store Description, Store address, seller unique code, Seller Logo.
+7. Click on save button to save the sellers details.
 
 ![](seller1.png)
 
