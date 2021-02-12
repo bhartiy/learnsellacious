@@ -31,6 +31,10 @@ You can set the shop settings from the global configuration.
 
 **Shop Currency**: Choose default shop currency. You can change the shop currency from here according to your choice.when you click on the text box drop box menu will be appeared all the currencies are to be listed here.
 
+**Currency Denotation**: Choose how the currency should denoted globaly:
+1. By Symbol
+2. By 3 Letter code
+
 **Order Complete Redirect**: Enter the URL where the user should be redirected on click of continue button on order completion page. You can add the URL of the redirected page of the order. It must be in the complete URL like https://www.google.com
 
 **Display Stock on Product Detail**: If you select Yes, product stock count will display on product detail page.
