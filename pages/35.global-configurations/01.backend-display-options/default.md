@@ -26,8 +26,7 @@ published: true
 
 ![](Screenshot%20%2810%29.png)
 
-### Allow URL in product Images/Attachments:
-
+#### Allow URL in product Images/Attachments:
 This config allows you to add external images/attachment(url) for you product image. After enabling it you will get option to add image url in product edit form for product/variants and external attachment url.
 
 ![](Screenshot%202021-02-13%20at%2012.19.15%20PM.png)
