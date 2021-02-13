@@ -1,6 +1,6 @@
 ---
 title: 'SEO Settings'
-media_order: 'Screenshot (20).png,Screen Shot 2020-10-27 at 6.38.01 PM.png,Screen Shot 2020-10-27 at 6.40.18 PM.png,Screenshot 2021-02-13 at 3.19.32 PM.png'
+media_order: 'Screenshot (20).png,Screen Shot 2020-10-27 at 6.38.01 PM.png,Screen Shot 2020-10-27 at 6.40.18 PM.png,Screenshot 2021-02-13 at 3.19.32 PM.png,Screenshot 2021-02-13 at 3.40.16 PM.png'
 ---
 
 In SEO setting, we have two configuration where we can write JS script for order success and order failure.
@@ -28,3 +28,4 @@ index-nofollw, noindex-follow, noindex-nofollow
 **Disallow categories links in robots.txt:** This helps us to disallow all the category page links.
 
 **Note:** These settings can be overrien if seleced in category level.
+![](Screenshot%202021-02-13%20at%203.40.16%20PM.png)
