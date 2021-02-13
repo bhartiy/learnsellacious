@@ -1,6 +1,6 @@
 ---
 title: 'Manufacturer Profiles'
-media_order: 'manu.profile.png,manu.profile1.png'
+media_order: 'manu.profile.png,manu.profile1.png,clienp.png,98649978-47986600-235e-11eb-9832-492e720dbada.png'
 taxonomy:
     category:
         - docs
@@ -20,7 +20,9 @@ visible: true
 
 4. Fill the Credentials in the given fields.
 5. In Basic Information tab **Name**, **Username**, **Email** Fields are mandatory.
-6. Click on save button to save the manufacturer details.
+6. You can add manufacturer description also in manufaturer description field
+![](98649978-47986600-235e-11eb-9832-492e720dbada.png)
+7. Click on save button to save the manufacturer details.
 
 ![](clienp.png)
 
