@@ -22,9 +22,7 @@ These settings allow us to add rel=nofollow to various pages in sellacous. Which
 This adds rel=nofollow to all the product list pages in sellacous.
 **Add robots meta tag to products page:**
 This helps us to add robots meta tags on product list page. The robots can be added in following combinations-
-* index, nofollow
-* noindex, follow
-* noindex, nofollow
+
 **Add disallow for products links in robots.txt:**
 This helps us to disallow all the products list page links.
 **Add nofollow to category links on levels:**
