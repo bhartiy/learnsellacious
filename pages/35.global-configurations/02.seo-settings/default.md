@@ -34,3 +34,4 @@ Add robots meta tag to category pages on levels.
 **Disallow categories links in robots.txt:**
 This helps us to disallow all the category page links.
 
+These settings can be overrien if seleced in category level.
