@@ -18,20 +18,13 @@ After completing order successfully, alert box will show as per order success sc
 #### Nofollow settings:
 These settings allow us to add rel=nofollow to various pages in sellacous. Which helps us to manage our SEO.
 ![](Screenshot%202021-02-13%20at%203.19.32%20PM.png)
-**Add rel=nofollow to product links:**
-This adds rel=nofollow to all the product list pages in sellacous.
-**Add robots meta tag to products page:**
-This helps us to add robots meta tags on product list page. The robots can be added in following combinations-
+**Add rel=nofollow to product links:** This adds rel=nofollow to all the product list pages in sellacous.
+**Add robots meta tag to products page:** This helps us to add robots meta tags on product list page. The robots can be added in following combinations-
 index-nofollw, noindex-follow, noindex-nofollow
-**Add disallow for products links in robots.txt:**
-This helps us to disallow all the products list page links.
-**Add nofollow to category links on levels:**
-Add robots meta tag to category pages on levels
-**Add robots meta tag to category page:**
-This helps us to add robots meta tags on category page.
-**Add robots meta tag to category pages on levels:**
-Add robots meta tag to category pages on levels.
-**Disallow categories links in robots.txt:**
-This helps us to disallow all the category page links.
+**Add disallow for products links in robots.txt:** This helps us to disallow all the products list page links.
+**Add nofollow to category links on levels:** Add robots meta tag to category pages on levels
+**Add robots meta tag to category page:** This helps us to add robots meta tags on category page.
+**Add robots meta tag to category pages on levels:** Add robots meta tag to category pages on levels.
+**Disallow categories links in robots.txt:** This helps us to disallow all the category page links.
 
-These settings can be overrien if seleced in category level.
+**Note:** These settings can be overrien if seleced in category level.
