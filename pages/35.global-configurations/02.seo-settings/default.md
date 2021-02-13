@@ -27,5 +27,5 @@ index-nofollw, noindex-follow, noindex-nofollow
 **Add robots meta tag to category pages on levels:** Add robots meta tag to category pages on levels.
 **Disallow categories links in robots.txt:** This helps us to disallow all the category page links.
 
-**Note:** These settings can be overrien if seleced in category level.
+**Note:** These settings can be overriden if seleced in category level.
 ![](Screenshot%202021-02-13%20at%203.40.16%20PM.png)
