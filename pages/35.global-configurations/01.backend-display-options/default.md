@@ -1,6 +1,6 @@
 ---
 title: 'Backend Display Options'
-media_order: '90014569-f3c9a280-dcc4-11ea-8a7b-7ef1babce75f.png,Screenshot (10).png,2020-10-29-09-57-localhost.png,Screen Shot 2020-10-29 at 12.13.50 PM.png'
+media_order: '90014569-f3c9a280-dcc4-11ea-8a7b-7ef1babce75f.png,Screenshot (10).png,2020-10-29-09-57-localhost.png,Screen Shot 2020-10-29 at 12.13.50 PM.png,Screenshot 2021-02-13 at 12.19.15 PM.png,Screenshot 2021-02-13 at 12.22.22 PM.png'
 published: true
 ---
 
@@ -25,6 +25,13 @@ published: true
 **Allow HTML in Product Short Description**: You can choose whether to allow html tags in Product Short Description, without the editor.
 
 ![](Screenshot%20%2810%29.png)
+
+### Allow URL in product Images/Attachments:
+
+This config allows you to add external images/attachment(url) for you product image. After enabling it you will get option to add image url in product edit form for product/variants and external attachment url.
+
+![](Screenshot%202021-02-13%20at%2012.19.15%20PM.png)
+![](Screenshot%202021-02-13%20at%2012.22.22%20PM.png)
 
 **Product Editing Fields**: You can choose which of the following optional fields you want to use while editing a product in backend.
 ![](2020-10-29-09-57-localhost.png)
