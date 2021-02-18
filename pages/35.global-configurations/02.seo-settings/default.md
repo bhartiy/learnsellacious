@@ -33,9 +33,9 @@ index-nofollw, noindex-follow, noindex-nofollow
 #### Google Structured Data
 Config is added for existing products markup and local business markup for store.
 ![](Screenshot%202021-02-18%20at%202.23.28%20PM.png)
-Config added to show/hide Products markup in Global and Product category.
-Config added to show/hide Product markup in Global.
-Config added to show/hide Store markup in Global and Seller Profile.
+**Add Markup on Product page:** to show/hide Products markup in Global and Product category.
+**Add Markup on Products page:** to show/hide Product markup in Global.
+**Add Markup on Store page:** to show/hide Store markup in Global and Seller Profile.
 
 If enabled, Store markup should show following Local Business Structured data in "View source" if available,
 **Store Markup:**
