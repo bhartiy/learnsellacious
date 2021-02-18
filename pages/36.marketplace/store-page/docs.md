@@ -1,6 +1,6 @@
 ---
 title: 'The Store Page'
-media_order: 'Screenshot 2020-05-26 at 2.59.32 PM.png,Screenshot 2020-05-26 at 3.10.44 PM.png,Screenshot 2020-05-26 at 3.14.14 PM.png,Screenshot 2020-05-26 at 3.15.57 PM.png,Screenshot 2020-05-26 at 5.41.56 PM.png,Screenshot 2020-05-26 at 5.47.10 PM.png,Screenshot 2020-05-26 at 5.48.24 PM.png,72896075-eb1f7800-3d44-11ea-8c13-51be164f23ed (1).png,Screenshot 2020-05-26 at 5.57.42 PM.png,Screenshot 2020-05-26 at 6.07.55 PM.png,Screenshot 2020-05-26 at 6.16.03 PM.png,Screenshot 2020-05-26 at 6.16.39 PM.png,Screenshot 2020-05-26 at 6.24.36 PM.png,Screenshot 2020-05-26 at 6.23.26 PM.png,Screenshot 2020-05-26 at 6.27.47 PM.png,Screenshot 2020-05-26 at 6.32.21 PM.png,Screenshot 2020-05-26 at 7.20.26 PM.png,Screenshot 2020-05-26 at 7.21.07 PM.png'
+media_order: 'Screenshot 2020-05-26 at 2.59.32 PM.png,Screenshot 2020-05-26 at 3.10.44 PM.png,Screenshot 2020-05-26 at 3.14.14 PM.png,Screenshot 2020-05-26 at 3.15.57 PM.png,Screenshot 2020-05-26 at 5.41.56 PM.png,Screenshot 2020-05-26 at 5.47.10 PM.png,Screenshot 2020-05-26 at 5.48.24 PM.png,72896075-eb1f7800-3d44-11ea-8c13-51be164f23ed (1).png,Screenshot 2020-05-26 at 5.57.42 PM.png,Screenshot 2020-05-26 at 6.07.55 PM.png,Screenshot 2020-05-26 at 6.16.03 PM.png,Screenshot 2020-05-26 at 6.16.39 PM.png,Screenshot 2020-05-26 at 6.24.36 PM.png,Screenshot 2020-05-26 at 6.23.26 PM.png,Screenshot 2020-05-26 at 6.27.47 PM.png,Screenshot 2020-05-26 at 6.32.21 PM.png,Screenshot 2020-05-26 at 7.20.26 PM.png,Screenshot 2020-05-26 at 7.21.07 PM.png,Screenshot 2021-02-18 at 3.15.03 PM.png'
 taxonomy:
     category:
         - docs
@@ -53,17 +53,21 @@ Chat button is visible now on store page
 
 ![](Screenshot%202020-05-26%20at%206.07.55%20PM.png)
 
-**8. Store Reviews:**  Store reviews can be shown on store page, it can be enabled from **Settings->Global Configuration->Frontend Display Options-> Show reviews on Stores View** 
+**8. Store Drscription:**
+Store description added in seller profile will be shown here
+![](Screenshot%202021-02-18%20at%203.15.03%20PM.png)
+
+**9. Store Reviews:**  Store reviews can be shown on store page, it can be enabled from **Settings->Global Configuration->Frontend Display Options-> Show reviews on Stores View** 
 
 ![](Screenshot%202020-05-26%20at%206.24.36%20PM.png)
 ![](Screenshot%202020-05-26%20at%206.23.26%20PM.png)
 
-**9. Filter Module:** Filter module can be enabled on store page, to enable filter module on store page  go to **Settings->Global Configuration->Frontend Display Options-> Show filters on store details page** 
+**10. Filter Module:** Filter module can be enabled on store page, to enable filter module on store page  go to **Settings->Global Configuration->Frontend Display Options-> Show filters on store details page** 
 
 ![](Screenshot%202020-05-26%20at%206.32.21%20PM.png)
 ![](Screenshot%202020-05-26%20at%206.27.47%20PM.png)
 
-**10. Add to favourite store** Users can add a store to its favourite list. When you click the button, store will be added to favourite and it will show Favourite store Page too. To know more about it go to [Favourite store](https://www.sellacious.com/documentation-v2#/learn/marketplace/favourite-store)
+**11. Add to favourite store** Users can add a store to its favourite list. When you click the button, store will be added to favourite and it will show Favourite store Page too. To know more about it go to [Favourite store](https://www.sellacious.com/documentation-v2#/learn/marketplace/favourite-store)
 
 ![](Screenshot%202020-05-26%20at%207.20.26%20PM.png)
 ![](Screenshot%202020-05-26%20at%207.21.07%20PM.png)
