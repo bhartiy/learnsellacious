@@ -1,6 +1,6 @@
 ---
 title: 'Product Attributes'
-media_order: 'aa.png,pa2.png,Screen Shot 2020-05-26 at 10.50.44 AM.png,Screen Shot 2020-05-26 at 10.59.08 AM.png,Screen Shot 2020-05-26 at 11.07.47 AM.png,screenshot-localhost-2020.05.26-11_09_32.png'
+media_order: 'aa.png,pa2.png,Screen Shot 2020-05-26 at 10.50.44 AM.png,Screen Shot 2020-05-26 at 10.59.08 AM.png,Screen Shot 2020-05-26 at 11.07.47 AM.png,screenshot-localhost-2020.05.26-11_09_32.png,Screenshot 2021-02-18 at 2.49.26 PM.png'
 taxonomy:
     category:
         - docs
@@ -30,3 +30,10 @@ In Product attribute field a user can create the custom or additional fields for
    ![](Screen%20Shot%202020-05-26%20at%2011.07.47%20AM.png)
    
    ![](screenshot-localhost-2020.05.26-11_09_32.png)
+   
+#### Product attribute shortcodes:
+
+These product attributes can be used with the help of Product attribute shortcodes at various places in sellaccous like order detail, invoices, pdfs and emails.
+Product specification shortcode can be used like %F-COLOR% (i.e. for field with alias = color).
+![](Screenshot%202021-02-18%20at%202.49.26%20PM.png)
+**Please note** that product specifications that were saved at the time of order will be shown through the shortcode. If a product specification value is edited later in product, it won't be changed in old orders.
