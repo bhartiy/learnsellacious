@@ -38,7 +38,7 @@ Config added to show/hide Product markup in Global.
 Config added to show/hide Store markup in Global and Seller Profile.
 
 If enabled, Store markup should show following Local Business Structured data in "View source" if available,
-
+**Store Markup:**
 Store logo url
 Store name
 Store address, country, locality, state, zip
@@ -47,8 +47,7 @@ Store url
 Mobile/Telephone no.
 Store Timings
 Store reviews
-Product markup -
-
+**Product markup:**
 Name => Product title
 Product images
 Product description
