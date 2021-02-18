@@ -1,6 +1,6 @@
 ---
 title: 'Seller profiles'
-media_order: 'seller.png,seller1.png,seller2.png,seller3.png,Screenshot 2020-10-24 at 3.38.58 PM.png,Screenshot 2020-10-24 at 3.40.36 PM.png,Screenshot 2020-10-24 at 3.43.14 PM.png,Screenshot 2020-10-24 at 6.24.44 PM.png'
+media_order: 'seller.png,seller1.png,seller2.png,seller3.png,Screenshot 2020-10-24 at 3.38.58 PM.png,Screenshot 2020-10-24 at 3.40.36 PM.png,Screenshot 2020-10-24 at 3.43.14 PM.png,Screenshot 2020-10-24 at 6.24.44 PM.png,Screenshot 2021-02-18 at 2.57.35 PM.png'
 taxonomy:
     category:
         - docs
@@ -18,7 +18,9 @@ visible: true
 4. Fill the credentials.
 5. In Basic Information section- name, Username, email fields are mandatory.
 6. In Seller info tab- Company name, Store name, Store Description, Store address, seller unique code, Seller Logo.
-7. Click on save button to save the sellers details.
+7. You can add Store Description also which will be shown on store page of seller.
+![](Screenshot%202021-02-18%20at%202.57.35%20PM.png)
+8. Click on save button to save the sellers details.
 
 ![](seller1.png)
 
