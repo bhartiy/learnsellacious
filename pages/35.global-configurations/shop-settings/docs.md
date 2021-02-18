@@ -68,7 +68,8 @@ You can set the shop settings from the global configuration.
 **Product Unique Fields:** 
 Option to set core fields as unique for products is provided here product sku, manufacturer sku and any used barcode can be set globaly unique, when set from here those filelds in product edit behave unique for each product.
 ![](Screenshot%202021-02-18%20at%203.20.13%20PM.png)
-NOTE: Any product attribute can also be made as an unique field. To know more about it go to https://www.sellacious.com/learn/additional-attributes/unique-product-attribute
+**NOTE:** Any product attribute can also be made as an unique field. To know more about it go to https://www.sellacious.com/learn/additional-attributes/unique-product-attribute
+
 **Rounding Grand Total**
 
 **Rounding Grand Total**: If enabled, Cart Grand Total will be rounded according to the below settings.
