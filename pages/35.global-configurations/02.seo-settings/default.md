@@ -1,6 +1,6 @@
 ---
 title: 'SEO Settings'
-media_order: 'Screenshot (20).png,Screen Shot 2020-10-27 at 6.38.01 PM.png,Screen Shot 2020-10-27 at 6.40.18 PM.png,Screenshot 2021-02-13 at 3.19.32 PM.png,Screenshot 2021-02-13 at 3.40.16 PM.png'
+media_order: 'Screenshot (20).png,Screen Shot 2020-10-27 at 6.38.01 PM.png,Screen Shot 2020-10-27 at 6.40.18 PM.png,Screenshot 2021-02-13 at 3.19.32 PM.png,Screenshot 2021-02-13 at 3.40.16 PM.png,Screenshot 2021-02-18 at 2.23.28 PM.png'
 ---
 
 In SEO setting, we have two configuration where we can write JS script for order success and order failure.
@@ -29,3 +29,32 @@ index-nofollw, noindex-follow, noindex-nofollow
 
 **Note:** These settings can be overriden if seleced in category level.
 ![](Screenshot%202021-02-13%20at%203.40.16%20PM.png)
+
+#### Google Structured Data
+Config is added for existing products markup and local business markup for store.
+![](Screenshot%202021-02-18%20at%202.23.28%20PM.png)
+Config added to show/hide Products markup in Global and Product category.
+Config added to show/hide Product markup in Global.
+Config added to show/hide Store markup in Global and Seller Profile.
+
+If enabled, Store markup should show following Local Business Structured data in "View source" if available,
+
+Store logo url
+Store name
+Store address, country, locality, state, zip
+Store geo coordinates
+Store url
+Mobile/Telephone no.
+Store Timings
+Store reviews
+Product markup -
+
+Name => Product title
+Product images
+Product description
+SKU
+Brand => Manufacturer
+Product rating
+Offer => Seller currency, price, instock/out of stock, Seller name, Url
+
+**Note:** These settings can be overriden if seleced in category and seller profile.
