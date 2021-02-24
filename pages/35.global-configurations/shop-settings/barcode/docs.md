@@ -1,6 +1,6 @@
 ---
 title: Barcode
-media_order: 'Screenshot 2021-02-24 at 6.53.22 PM.png,Screenshot 2021-02-24 at 6.59.10 PM.png,Screenshot 2021-02-24 at 7.01.03 PM.png,Screenshot 2021-02-24 at 7.08.16 PM.png,Screenshot 2021-02-24 at 7.14.05 PM.png,Screenshot 2021-02-24 at 7.17.08 PM.png'
+media_order: 'Screenshot 2021-02-24 at 6.53.22 PM.png,Screenshot 2021-02-24 at 6.59.10 PM.png,Screenshot 2021-02-24 at 7.01.03 PM.png,Screenshot 2021-02-24 at 7.08.16 PM.png,Screenshot 2021-02-24 at 7.14.05 PM.png,Screenshot 2021-02-24 at 7.17.08 PM.png,Screenshot 2021-02-24 at 7.20.25 PM.png'
 taxonomy:
     category:
         - docs
@@ -28,3 +28,5 @@ A barcode field which is being used can be set as unuque field. to do it select 
 This field will behave as unique for products/variants and it will be globally unique
 ![](Screenshot%202021-02-24%20at%207.17.08%20PM.png)
 
+**NOTE:** if you want a barcode field without any validation use **"Barcode"**. This field will also show for seller  listings and can be set sellerwise unique.
+![](Screenshot%202021-02-24%20at%207.20.25%20PM.png)
