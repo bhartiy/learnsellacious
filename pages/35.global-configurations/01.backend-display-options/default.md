@@ -49,7 +49,7 @@ This provides you a text field in product edit to save some in formation about w
 ![](Screenshot%202021-02-25%20at%207.27.38%20PM.png)
 field show up in product edit 
 ![](Screenshot%202021-02-25%20at%207.32.07%20PM.png)
-Which then shown on product details page
+Saved value then shown on product details page
 ![](Screenshot%202021-02-25%20at%207.34.57%20PM.png)
 NOTE: if you want to give option to sellers to save thier own whats in the box, **enable what in the box** config in seller catergory.
 ![](Screenshot%202021-02-25%20at%207.37.30%20PM.png)
