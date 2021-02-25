@@ -21,3 +21,6 @@ Translations can be added for both Listing types and item conditions.
 Published listing types and item conditions will be loaded in Product edit.
 ![](Screenshot%202021-02-25%20at%2011.10.45%20AM.png)
 **NOTE:** If seller categories are selected in "Allowed User Groups", then it will be only allowed to such sellers when editing product.
+
+Permissions for Listing Types added too to manage for any user groups
+![](Screenshot%202021-02-25%20at%2011.22.07%20AM.png)
