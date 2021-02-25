@@ -45,7 +45,7 @@ these fields will show as disabled
 ![](2020-10-29-09-57-localhost.png)
 
 **Whats in the box:**
-This provides you a text feld in product edit to save some in formation abot what are the things included in the product.
+This provides you a text field in product edit to save some in formation about what are the things included in the product.
 ![](Screenshot%202021-02-25%20at%207.27.38%20PM.png)
 ![](Screenshot%202021-02-25%20at%207.32.07%20PM.png)
 Which then shown on product details page
