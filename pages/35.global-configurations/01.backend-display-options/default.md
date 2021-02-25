@@ -1,6 +1,6 @@
 ---
 title: 'Backend Display Options'
-media_order: '90014569-f3c9a280-dcc4-11ea-8a7b-7ef1babce75f.png,Screenshot (10).png,2020-10-29-09-57-localhost.png,Screen Shot 2020-10-29 at 12.13.50 PM.png,Screenshot 2021-02-13 at 12.19.15 PM.png,Screenshot 2021-02-13 at 12.22.22 PM.png'
+media_order: '90014569-f3c9a280-dcc4-11ea-8a7b-7ef1babce75f.png,Screenshot (10).png,2020-10-29-09-57-localhost.png,Screen Shot 2020-10-29 at 12.13.50 PM.png,Screenshot 2021-02-13 at 12.19.15 PM.png,Screenshot 2021-02-13 at 12.22.22 PM.png,Screenshot 2021-02-25 at 7.12.04 PM.png,test.png,test1.png'
 published: true
 ---
 
@@ -31,6 +31,15 @@ This config allows you to add external images/attachment(url) for you product im
 ![](Screenshot%202021-02-13%20at%2012.19.15%20PM.png)
 After enabling it you will get option to add image url in product edit form for product/variants and external attachment url.
 ![](Screenshot%202021-02-13%20at%2012.22.22%20PM.png)
+
+#### Inaccessible Product fields:
+
+This config allows us to show disallowed product as disabled fields in product edit.
+![](Screenshot%202021-02-25%20at%207.12.04%20PM.png)
+For example if basic info is not allowed from permission
+![](test.png)
+these fields will show as disabled
+![](test1.png)
 
 **Product Editing Fields**: You can choose which of the following optional fields you want to use while editing a product in backend.
 ![](2020-10-29-09-57-localhost.png)
