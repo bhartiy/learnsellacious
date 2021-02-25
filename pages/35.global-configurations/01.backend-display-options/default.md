@@ -47,6 +47,7 @@ these fields will show as disabled
 **Whats in the box:**
 This provides you a text field in product edit to save some in formation about what are the things included in the product.
 ![](Screenshot%202021-02-25%20at%207.27.38%20PM.png)
+field show up in product edit 
 ![](Screenshot%202021-02-25%20at%207.32.07%20PM.png)
 Which then shown on product details page
 ![](Screenshot%202021-02-25%20at%207.34.57%20PM.png)
