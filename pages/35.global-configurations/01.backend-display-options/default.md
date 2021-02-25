@@ -1,6 +1,6 @@
 ---
 title: 'Backend Display Options'
-media_order: '90014569-f3c9a280-dcc4-11ea-8a7b-7ef1babce75f.png,Screenshot (10).png,2020-10-29-09-57-localhost.png,Screen Shot 2020-10-29 at 12.13.50 PM.png,Screenshot 2021-02-13 at 12.19.15 PM.png,Screenshot 2021-02-13 at 12.22.22 PM.png,Screenshot 2021-02-25 at 7.12.04 PM.png,test.png,test1.png,Screenshot 2021-02-25 at 7.27.38 PM.png,Screenshot 2021-02-25 at 7.32.07 PM.png,Screenshot 2021-02-25 at 7.34.57 PM.png,Screenshot 2021-02-25 at 7.37.30 PM.png'
+media_order: '90014569-f3c9a280-dcc4-11ea-8a7b-7ef1babce75f.png,Screenshot (10).png,2020-10-29-09-57-localhost.png,Screen Shot 2020-10-29 at 12.13.50 PM.png,Screenshot 2021-02-13 at 12.19.15 PM.png,Screenshot 2021-02-13 at 12.22.22 PM.png,Screenshot 2021-02-25 at 7.12.04 PM.png,test.png,test1.png,Screenshot 2021-02-25 at 7.27.38 PM.png,Screenshot 2021-02-25 at 7.32.07 PM.png,Screenshot 2021-02-25 at 7.34.57 PM.png,Screenshot 2021-02-25 at 7.37.30 PM.png,Screenshot 2021-02-25 at 7.39.36 PM.png,Screenshot 2021-02-25 at 7.42.28 PM.png'
 published: true
 ---
 
@@ -52,6 +52,9 @@ Which then shown on product details page
 ![](Screenshot%202021-02-25%20at%207.34.57%20PM.png)
 NOTE: if you want to give option to sellers to save thier own whats in the box, **enable what in the box** config in seller catergory.
 ![](Screenshot%202021-02-25%20at%207.37.30%20PM.png)
-
+now sellers can have thier own whats in the box
+![](Screenshot%202021-02-25%20at%207.39.36%20PM.png)
+in this case seller whats in the box will be shown on prduct details page
+![](Screenshot%202021-02-25%20at%207.42.28%20PM.png)
 
 
