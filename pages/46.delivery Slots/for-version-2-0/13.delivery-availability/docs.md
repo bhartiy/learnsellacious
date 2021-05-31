@@ -27,7 +27,7 @@ We will learn about these two in detail later in this chapter. First We will cov
 
 ![](Screenshot%202020-05-16%20at%202.39.15%20PM.png)
 
-   This can be set from frontend edit profile of sller (optional)
+   This can be set from frontend edit profile of seller (optional)
 
 ![](Screenshot%202020-05-16%20at%202.45.13%20PM.png)
 
