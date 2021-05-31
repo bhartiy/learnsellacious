@@ -31,8 +31,8 @@ This enables the sellers to show stores status(open/close) on their store page. 
 3. Configure Store timing in Sellers profile from sellacious backend or sellers edit profile in frontend. Here **Show store availability** is to show store status(open/closed) on the store page and **Show store timing** is to show store timing on the store page.
 
 ![](Screenshot%202020-05-21%20at%2010.38.24%20AM.png)
-
-   From frontend edit profile
+ 
+   This can be set from frontend edit profile of sller (optional)
 
 ![](Screenshot%202020-05-21%20at%2010.39.00%20AM.png)
 
