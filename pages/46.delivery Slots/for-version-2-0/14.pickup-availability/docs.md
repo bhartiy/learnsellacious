@@ -25,7 +25,7 @@ This enables the sellers to show stores pickup timing on their store page. To us
 
 ![](Screenshot%202020-05-14%20at%202.46.24%20PM.png)
 
-From frontend edit profile 
+This can be set from frontend edit profile of sller (optional)
 
 ![](Screenshot%202020-05-14%20at%203.07.07%20PM.png)
 
