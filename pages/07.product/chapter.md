@@ -9,4 +9,4 @@ visible: true
 
 # Product
 
-Discover the **product** of sellacious. 
+Discover the **product** of sellacious
