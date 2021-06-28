@@ -4,6 +4,7 @@ taxonomy:
     category:
         - docs
 media_order: 'Screenshot 2021-06-26 at 4.17.59 PM.png,unnamed.png'
+published: true
 ---
 
 Your page content goes here.Sellacious Dhl Configuration
