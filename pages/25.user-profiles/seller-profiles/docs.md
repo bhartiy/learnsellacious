@@ -24,7 +24,7 @@ visible: true
 
 ![](seller1.png)
 
-7. New seller is successfully added.
+9. New seller is successfully added.
 
 
 ##### **To Manage Seller, Follow Steps:**
