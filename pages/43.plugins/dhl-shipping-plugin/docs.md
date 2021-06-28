@@ -5,6 +5,8 @@ taxonomy:
         - docs
 media_order: 'Screenshot 2021-06-26 at 4.17.59 PM.png,unnamed.png'
 published: true
+date: '22-06-2021 15:55'
+publish_date: '22-06-2021 15:55'
 ---
 
 Your page content goes here.Sellacious Dhl Configuration
