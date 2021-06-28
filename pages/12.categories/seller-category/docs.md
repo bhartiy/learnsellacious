@@ -1,6 +1,6 @@
 ---
 title: 'Seller Category'
-media_order: '43.png,44.png,Screenshot (3).png'
+media_order: '43.png,44.png,Screenshot (3).png,1.png'
 taxonomy:
     category:
         - docs
@@ -17,7 +17,9 @@ visible: true
 
 4. Fill the information about the category.
 *  ** Basic information**: You can set the basic information of the category by Type, Name, Category and status. Category       type will be seller because here we are creating a new category in seller.
-*  **Pricing**: 
+*  **Pricing**: You can select the pricing type in seller category for product pricing.
+
+![1](1.png "1")
 *   **Profile Fields**: You can set the profile fields.
 
 ![Screenshot%20%283%29](Screenshot%20%283%29.png "Screenshot%20%283%29")
