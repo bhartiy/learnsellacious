@@ -20,7 +20,7 @@ visible: true
 * ** Basic information**: You can set the basic information of the category by Type, Name, Category and status. Category       type will be seller because here we are creating a new category in seller.
 ![Screenshot%20%283%29](Screenshot%20%283%29.png "Screenshot%20%283%29")
 
-* ** Pricing**: You can select the pricing type in seller category for product pricing.
+* ** Pricing**: You can select the pricing type in seller category for product pricing. Choose which types of prices will be available for the products pricing. Selections in global settings can be further restricted in seller category and then in product categories to show fewer available choices in respective products.
 ![1](1.png "1")
 
 * ** Profile Fields**: You can set the profile fields.
