@@ -11,7 +11,7 @@ visible: true
 Sellacious Dhl Configuration
 
 **Installation:** Install provided plugin from joomla backend->manage->extensions->install. Once installed, enable it.
-![Screenshot%202021-06-26%20at%204.17.59%20PM]
+![Screenshot%202021-06-26%20at%204.17.59%20PM](Screenshot%202021-06-26%20at%204.17.59%20PM.png "Screenshot%202021-06-26%20at%204.17.59%20PM")
 Shipping rule: when plugin is enabled you will get the option to select dhl api during shipping rule creation. Create shipping rule and save api credentials which are 
 Site ID, Password, Account Number, Outbound Account Number
 ![unnamed](unnamed.png "unnamed")
