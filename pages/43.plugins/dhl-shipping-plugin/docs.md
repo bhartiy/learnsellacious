@@ -3,21 +3,17 @@ title: 'Dhl shipping Plugin'
 taxonomy:
     category:
         - docs
+media_order: 'Screenshot 2021-06-26 at 4.17.59 PM.png,unnamed.png'
 ---
 
 Your page content goes here.Sellacious Dhl Configuration
 
 
 Installation: Install provided plugin from joomla backend->manage->extensions->install. Once installed, enable it.
-
-
-
+![Screenshot%202021-06-26%20at%204.17.59%20PM]
 Shipping rule: when plugin is enabled you will get the option to select dhl api during shipping rule creation. Create shipping rule and save api credentials which are 
 Site ID, Password, Account Number, Outbound Account Number
-
-
-
-
+![unnamed](unnamed.png "unnamed")
 Geolocation: Make sure you have geolocation available from country to zip level  for both seller and buyer when they are saving their respective addresses,  If not you can create it manually from sellacious backend->settings->geolocations. You can also purchase and install geolocation in bulk from here.https://www.sellacious.com/apps-and-integrations/geolocations
 
 
