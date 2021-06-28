@@ -1,5 +1,5 @@
 ---
-title: 'Dhl shipping Plugin'
+title: 'DHL Shipping Plugin'
 taxonomy:
     category:
         - docs
