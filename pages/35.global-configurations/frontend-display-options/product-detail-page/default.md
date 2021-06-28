@@ -9,7 +9,7 @@ visible: true
 <br>**Show Shipment Info**: You can choose whether to show shipment information on product detail page or not.
 <br>**Show Listing Type**: You can choose whether to show listing type information on product detail page or not.
 <br>**Show Seller's Ratings**: You can choose whether to show seller's rating on product detail page or not.
-<br>**Manufacturer Link on Product Detail**: Choose where to redirect on click Manufacturer Link on Product Detail Page.
+<br>**Manufacturer Link on Product Detail**: Choose where to redirect on click Manufacturer Link on Product Detail Page. It could be category list, product list and manufacturer detail page.
 <br>**Show reviews on product View**: you can Choose whether to show reviews of product on product detail page view.
 <br>**Number of Reviews for product page**: You can set the number of reviews to show of product on product detail page.
 
