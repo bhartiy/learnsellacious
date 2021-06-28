@@ -10,7 +10,7 @@ visible: true
 **Manufacturer is a person or company that makes goods for sale.**<br>
 **Therefore that person can make its profile and assign its name to the products.**
 
-##### **To Create Manyfacturer Profile, Follow steps:**
+##### **To Create Manufacturer Profile, Follow steps:**
 
 1. Go to the sellacious admin panel of your website.
 2. Go to User profile and select Manufacturer from the dropped down menu.
@@ -20,12 +20,12 @@ visible: true
 
 4. Fill the Credentials in the given fields.
 5. In Basic Information tab **Name**, **Username**, **Email** Fields are mandatory.
-6. You can add manufacturer description also in manufaturer description field
+6. You can add manufacturer description also in manufacturer description field
 ![](98649978-47986600-235e-11eb-9832-492e720dbada.png)
 7. Click on save button to save the manufacturer details.
 
 ![](clienp.png)
 
-7. Created Manufacturer Profile is successfully added.
-8. By default client category is assigned to maufacturer.
-9. Created manufacturer profile will be visible in Manufacturer Profile, If any manufacturer category is assigned      to it.
+8. Created Manufacturer Profile is successfully added.
+9. By default client category is assigned to manufacturer.
+10. Created manufacturer profile will be visible in Manufacturer Profile, If any manufacturer category is assigned to it.
