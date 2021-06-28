@@ -19,11 +19,10 @@ visible: true
 *  ** Basic information**: You can set the basic information of the category by Type, Name, Category and status. Category       type will be seller because here we are creating a new category in seller.
 
 ![Screenshot%20%283%29](Screenshot%20%283%29.png "Screenshot%20%283%29")
-*  **Pricing**: You can select the pricing type in seller category for product pricing.
+*  ** Pricing**: You can select the pricing type in seller category for product pricing.
 
 ![1](1.png "1")
-*   **Profile Fields**: You can set the profile fields.
-
+*  ** Profile Fields**: You can set the profile fields.
 
 5. Click on save button.
 6. And the new seller categories detail is successfully added.
