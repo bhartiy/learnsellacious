@@ -23,7 +23,5 @@ visible: true
 
 ![Screenshot%20%286%29](Screenshot%20%286%29.png "Screenshot%20%286%29")
 7. Click on save button to save the Coupon details.
-
-![](2020-10-26-15-23-localhost.png)
 8. And Coupon is created successfully.
 9. You can create other coupons by using above method.
