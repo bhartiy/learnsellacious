@@ -26,7 +26,7 @@ Note: if you choose shipping selection cart wise then shop shipping origin will 
 ![Screenshot%202021-06-26%20at%204.20.21%20PM](Screenshot%202021-06-26%20at%204.20.21%20PM.png "Screenshot%202021-06-26%20at%204.20.21%20PM")
 **Product Shipping Dimensions:** Make sure dimensions are set for the product. Also, dimensions units should be proper eg. Length, Width, Height in CM and Weight in KG.
 ![Screenshot%202021-06-26%20at%204.21.11%20PM](Screenshot%202021-06-26%20at%204.21.11%20PM.png "Screenshot%202021-06-26%20at%204.21.11%20PM")
-Now on checkout make sure the buyer has the option to select all necessary fields when saving an address. Dhl requires name, country, state, district, city, zip to be saved in buyers address.
+Now on checkout make sure the buyer has the option to select all necessary fields when saving an address. Dhl requires name, company name, country, state, district, city, zip to be saved in buyers address.
 ![Screenshot%202021-06-26%20at%204.25.32%20PM](Screenshot%202021-06-26%20at%204.25.32%20PM.png "Screenshot%202021-06-26%20at%204.25.32%20PM")
 You can manage these fields from address presets. To know more about address presets visit https://www.sellacious.com/documentation-v2#/learn/settings/address-presets.
 
