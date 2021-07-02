@@ -15,18 +15,18 @@ Sellacious Dhl Configuration
 Shipping rule: when plugin is enabled you will get the option to select dhl api during shipping rule creation. Create shipping rule and save api credentials which are 
 Site ID, Password, Account Number, Outbound Account Number
 ![unnamed](unnamed.png "unnamed")
-**Geolocation:** Make sure you have geolocation available from country to zip level  for both seller and buyer when they are saving their respective addresses,  If not you can create it manually from sellacious backend->settings->geolocations. You can also purchase and install geolocation in bulk from here.https://www.sellacious.com/apps-and-integrations/geolocations
+**Geolocation:** Make sure you have geolocation available for country and state. By default it is provided sellacious but if not you can either manually create or install in bulk.
 
-Shipment configuration: configure your shipment configuration from settings->global configuration->shipment. To know more about this visit https://www.sellacious.com/documentation-v2#/learn/global-configurations/shippment
+**Shipment configuration:** configure your shipment configuration from settings->global configuration->shipment. To know more about this visit https://www.sellacious.com/documentation-v2#/learn/global-configurations/shippment
 
 IMPORTANT: If ship by shop then save shipping origin here which will be used when dhl rates are being fetched in frontend checkout. Shop contact no. mandatory.
-If shipped by a concerned seller then save shipping origin to seller’s profile which then will be used to fetch shipping rates on product of that seller. Seller’s contact no. mandatory.
+If shipped by a Concerned Seller then save shipping origin to seller’s profile which then will be used to fetch shipping rates on product of that seller. Seller’s contact no. mandatory.
 
 Note: if you choose shipping selection cart wise then shop shipping origin will be used even if you had chosen shipped by shop. In this scenario make sure  shop shipping origin is saved in the system.
 ![Screenshot%202021-06-26%20at%204.20.21%20PM](Screenshot%202021-06-26%20at%204.20.21%20PM.png "Screenshot%202021-06-26%20at%204.20.21%20PM")
 **Product Shipping Dimensions:** Make sure dimensions are set for the product. Also, dimensions units should be proper eg. Length, Width, Height in CM and Weight in KG.
 ![Screenshot%202021-06-26%20at%204.21.11%20PM](Screenshot%202021-06-26%20at%204.21.11%20PM.png "Screenshot%202021-06-26%20at%204.21.11%20PM")
-Now on checkout make sure the buyer has the option to select all necessary fields when saving an address. Dhl requires buyers name, address line 1, company name, country, state, district/city, zip to be saved in buyers address. Make them mandatory in your address preset.
+Now on checkout make sure the buyer has the option to select all necessary fields when saving an address. Dhl requires buyers name, address line 1, company name, country, state, city, zip to be saved in buyers address. Make them mandatory in your address preset.
 ![Screenshot%202021-06-26%20at%204.25.32%20PM](Screenshot%202021-06-26%20at%204.25.32%20PM.png "Screenshot%202021-06-26%20at%204.25.32%20PM")
 You can manage these fields from address presets. To know more about address presets visit https://www.sellacious.com/documentation-v2#/learn/settings/address-presets.
 
