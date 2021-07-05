@@ -15,7 +15,7 @@ Sellacious Dhl Configuration
 Shipping rule: when plugin is enabled you will get the option to select dhl api during shipping rule creation. Create shipping rule and save api credentials which are 
 Site ID, Password, Account Number, Outbound Account Number
 ![unnamed](unnamed.png "unnamed")
-**Geolocation:** Make sure you have geolocation available for country, state, district and zip( needed for seller origin only), you can either manually create or install in bulk.
+**Geolocation:** Make sure you have geolocation available for country, state( State code required for DHL express), district and zip( needed for seller origin only), you can either manually create or install in bulk.
 
 **Shipment configuration:** configure your shipment configuration from settings->global configuration->shipment. To know more about this visit https://www.sellacious.com/documentation-v2#/learn/global-configurations/shippment
 
