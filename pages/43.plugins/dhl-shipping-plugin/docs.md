@@ -24,7 +24,8 @@ If shipped by a Concerned Seller then save shipping origin to seller’s profile
 
 Note: if you choose shipping selection cart wise then shop shipping origin will be used even if you had chosen shipped by Concerned Seller. In this scenario make sure  shop shipping origin is saved in the system.
 ![Screenshot%202021-06-26%20at%204.20.21%20PM](Screenshot%202021-06-26%20at%204.20.21%20PM.png "Screenshot%202021-06-26%20at%204.20.21%20PM")
-**Product Shipping Dimensions:** Make sure dimensions are set for the product. Also, dimensions units should be proper eg. Length, Width, Height in CM and Weight in KG.
+**Product Shipping Dimensions:** Make sure dimensions are saved in the product.
+
 ![Screenshot%202021-06-26%20at%204.21.11%20PM](Screenshot%202021-06-26%20at%204.21.11%20PM.png "Screenshot%202021-06-26%20at%204.21.11%20PM")
 Now on checkout make sure the buyer has the option to select all necessary fields when saving an address. Dhl requires buyers First name Last name, address line 1, country, state, city, zip to be saved in buyers address. Make them mandatory in your address preset. You can make State and district text only if geolocation is not present. 
 ![Screenshot%202021-07-02%20at%2011.57.10%20AM](Screenshot%202021-07-02%20at%2011.57.10%20AM.png "Screenshot%202021-07-02%20at%2011.57.10%20AM")
@@ -44,3 +45,11 @@ When payment is approved shipping labels will be generated  which can be printed
 3. If an order has multiple quantities of a product, 1 waybill document with summed up package weight and 1 waybill doc for the driver.
 4. Weight is shown in in single decimal point only (API Limitation)
 5. There is no return label yet for returned orders.
+
+**Limitations:**
+(DHL API Limitation)
+1.Weight is shown in in single decimal point only
+2. Address Line to be less than 38 character
+
+
+
