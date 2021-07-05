@@ -26,12 +26,21 @@ Note: if you choose shipping selection cart wise then shop shipping origin will 
 ![Screenshot%202021-06-26%20at%204.20.21%20PM](Screenshot%202021-06-26%20at%204.20.21%20PM.png "Screenshot%202021-06-26%20at%204.20.21%20PM")
 **Product Shipping Dimensions:** Make sure dimensions are set for the product. Also, dimensions units should be proper eg. Length, Width, Height in CM and Weight in KG.
 ![Screenshot%202021-06-26%20at%204.21.11%20PM](Screenshot%202021-06-26%20at%204.21.11%20PM.png "Screenshot%202021-06-26%20at%204.21.11%20PM")
-Now on checkout make sure the buyer has the option to select all necessary fields when saving an address. Dhl requires buyers name, address line 1, company name, country, state, city, zip to be saved in buyers address. Make them mandatory in your address preset. State and city can be renamed from preset to whatever used locally in that area.
+Now on checkout make sure the buyer has the option to select all necessary fields when saving an address. Dhl requires buyers First name Last name, address line 1, country, state, city, zip to be saved in buyers address. Make them mandatory in your address preset. You can make State and district text only if geolocation is not present. 
 ![Screenshot%202021-07-02%20at%2011.57.10%20AM](Screenshot%202021-07-02%20at%2011.57.10%20AM.png "Screenshot%202021-07-02%20at%2011.57.10%20AM")
 You can manage these fields from address presets. To know more about address presets visit https://www.sellacious.com/documentation-v2#/learn/settings/address-presets.
 
 In checkout dhl shipping rule and rates will be shown
 ![Screenshot%202021-06-26%20at%204.32.57%20PM](Screenshot%202021-06-26%20at%204.32.57%20PM.png "Screenshot%202021-06-26%20at%204.32.57%20PM")
+NOTE: On some locations DHL may not provide the shipping. In that case dhl shipping rule will not show up, this may also happen when there is incorrect zip entered. Console log is provided in such case to very this.(in test mode only)
+
 When payment is approved shipping labels will be generated  which can be printed from backend orders view 
 ![Screenshot%202021-06-26%20at%204.35.38%20PM](Screenshot%202021-06-26%20at%204.35.38%20PM.png "Screenshot%202021-06-26%20at%204.35.38%20PM")
 
+
+**More on Labels:** 
+1. Label consist of minimum 2 waybill documents, one for the package and one for the driver.
+2. If there are 2 items in order, it would generate 1 waybill doc for the driver and 2 waybill documents 1 for each package.
+3. If an order has multiple quantities of a product, 1 waybill document with summed up package weight and 1 waybill doc for the driver.
+4. Weight is shown in in single decimal point only (API Limitation)
+5. There is no return label yet for returned orders.
