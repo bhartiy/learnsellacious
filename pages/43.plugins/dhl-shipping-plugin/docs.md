@@ -47,8 +47,8 @@ When payment is approved shipping labels will be generated  which can be printed
 
 **Limitations:**
 (DHL API Limitation)
-1.Weight is shown in in single decimal point only
-2.Address (address line1, 2 etc) to be less than 38 character
+1.Weight is shown in in single decimal point only so if item weight is 0.015 kg it will show 0.0 kg
+2.Address (address line1, 2 etc) to be less than 38 character, if more it will be truncated. 
 
 
 
