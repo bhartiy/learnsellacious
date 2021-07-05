@@ -43,8 +43,7 @@ When payment is approved shipping labels will be generated  which can be printed
 1. Label consist of minimum 2 waybill documents, one for the package and one for the driver.
 2. If there are 2 items in order, it would generate 1 waybill doc for the driver and 2 waybill documents 1 for each package.
 3. If an order has multiple quantities of a product, 1 waybill document with summed up package weight and 1 waybill doc for the driver.
-4. Weight is shown in in single decimal point only (API Limitation)
-5. There is no return label yet for returned orders.
+4. There is no return label yet for returned orders.
 
 **Limitations:**
 (DHL API Limitation)
