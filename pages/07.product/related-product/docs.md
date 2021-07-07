@@ -40,4 +40,4 @@ and create a Sellacious Products Module with  related selected in it
 ![Screenshot%202021-07-07%20at%202.29.23%20PM](Screenshot%202021-07-07%20at%202.29.23%20PM.png "Screenshot%202021-07-07%20at%202.29.23%20PM")
 select this option for 'Related products for'
 ![Screenshot%202021-07-07%20at%202.29.43%20PM](Screenshot%202021-07-07%20at%202.29.43%20PM.png "Screenshot%202021-07-07%20at%202.29.43%20PM")
-give position this module on your details page. and publish it. Now related products will show on details page.
+give position this module in template and publish it. Now related products will show on details page.
