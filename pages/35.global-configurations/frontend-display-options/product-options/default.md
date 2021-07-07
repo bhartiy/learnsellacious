@@ -4,7 +4,7 @@ media_order: 'jskart.png,minimal.png,paymentrcpt (1).pdf,Screen Shot 2020-06-01 
 visible: true
 ---
 
-**Pagination Type**: Choose how you want the users to navigate through a multi-page list of items.
+<br>**Pagination Type**: Choose how you want the users to navigate through a multi-page list of items.
 1. Page number buttons
 2. Load more buttons
 3. Scroll to load more.
