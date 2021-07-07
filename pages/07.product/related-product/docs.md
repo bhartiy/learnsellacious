@@ -1,13 +1,15 @@
 ---
 title: 'Related Product'
-media_order: 'Related Product.PNG'
+media_order: 'Related Product.PNG,Screenshot 2021-07-07 at 2.29.23 PM.png,Screenshot 2021-07-07 at 2.29.43 PM.png'
 taxonomy:
     category:
         - docs
 visible: true
 ---
 
-**Related products groups** are the groups in which related products are to be grouped with specific name.You can choose one or more products which are related to each other and assigned it to a group.
+Related products can be shown by following 2 steps:-
+
+**1.Creating groups:** The groups in which related products are to be grouped with specific name.You can choose one or more products which are related to each other and assigned it to a group.
  
 If a you want to create a new product, all you have to type the group name and press enter. 
 
@@ -32,22 +34,10 @@ If a you want to create a new product, all you have to type the group name and p
 4. Click on save .
 5. And the product is saved in that group.
 
-**You can create a Related Product group through importing method and the steps are:**
-
-1. Go to the sellacious panel of your website.
-2. To import, first navigate to import utility on the left side of panel. Then click on importer option  
-   from  the dropped down menu.
-3. In the Sellacious native format, select download with all specifications column and open the 
-   downloaded file.
-4. You can create a new product there and assign it to a group or you can aasign an available product to a group. 
-5. Add Related product group by filling credentials in **RELATED_PRODUCTS_GROUPS** column.
-6. Download the file in .csv format.
-7. In the Import utility on the left pane, selects importers.
-8. In the Sellacious native format, select upload csv and upload the downloaded csv file.
-9. Select options which you want to import in Import configuration.
-10. Click refresh Cache from left sidebar.
-11. And your changes will be updated.
-
-
-
-
+**2.Publish Related Product Module:** 
+After you have created groups go to joomla backed->Manage->Moduled->New
+and create a Sellacious Products Module with  related selected in it
+![Screenshot%202021-07-07%20at%202.29.23%20PM](Screenshot%202021-07-07%20at%202.29.23%20PM.png "Screenshot%202021-07-07%20at%202.29.23%20PM")
+select this option for 'Related products for'
+![Screenshot%202021-07-07%20at%202.29.43%20PM](Screenshot%202021-07-07%20at%202.29.43%20PM.png "Screenshot%202021-07-07%20at%202.29.43%20PM")
+give position this module on your details page. and publish it. Now related products will show on details page.
