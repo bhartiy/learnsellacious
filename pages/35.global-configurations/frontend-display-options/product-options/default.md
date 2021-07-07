@@ -1,9 +1,14 @@
 ---
 title: 'Product Options'
-media_order: 'jskart.png,minimal.png,paymentrcpt (1).pdf,Screen Shot 2020-06-01 at 6.39.56 PM.png,Screen Shot 2020-06-01 at 6.46.23 PM.png,travelkit.png,blaock_layout.png'
+media_order: 'jskart.png,minimal.png,paymentrcpt (1).pdf,Screen Shot 2020-06-01 at 6.39.56 PM.png,Screen Shot 2020-06-01 at 6.46.23 PM.png,travelkit.png,blaock_layout.png,Screen Shot 2020-10-24 at 5.03.47 PM.png,Screen Shot 2021-07-07 at 12.06.55 PM.png'
 visible: true
 ---
 
+**Pagination Type**: Choose how you want the users to navigate through a multi-page list of items.
+1. Page number buttons
+2. Load more buttons
+3. Scroll to load more.
+![Screen%20Shot%202021-07-07%20at%2012.06.55%20PM](Screen%20Shot%202021-07-07%20at%2012.06.55%20PM.png "Screen%20Shot%202021-07-07%20at%2012.06.55%20PM")
 <br>**Layout Switcher**: Choose which switcher you want to show. Switcher will hide if only 1 option selected. if no option selected then all options will show
 <br>**Default Layout**: Select the default layout for the products list on front-end, by default it is Grid
 <br>**Show layout switcher**: Select whether the users will be able to switch the list layout between grid and list format. If you want to switch then click on the ‘yes’ otherwise click on the ‘No’.
