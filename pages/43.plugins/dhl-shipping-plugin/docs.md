@@ -80,8 +80,9 @@ package weight and dimensions
 ![Screenshot%202021-07-08%20at%207.16.28%20PM](Screenshot%202021-07-08%20at%207.16.28%20PM.png "Screenshot%202021-07-08%20at%207.16.28%20PM")
 
  2.Products object contains information of response send by dhl to sellacious
-total price (currency type BASEC)
+shipping type and total shipping (currency type BASEC)
 ![Screenshot%202021-07-08%20at%207.27.31%20PM](Screenshot%202021-07-08%20at%207.27.31%20PM.png "Screenshot%202021-07-08%20at%207.27.31%20PM")
+
 
 
 **Limitations:**
