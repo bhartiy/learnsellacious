@@ -8,7 +8,6 @@ published: true
 visible: true
 ---
 
-**Configuration**
 
 **Installation:** Install provided plugin from joomla backend->manage->extensions->install. Once installed, enable it.
 ![Screenshot%202021-06-26%20at%204.17.59%20PM](Screenshot%202021-06-26%20at%204.17.59%20PM.png "Screenshot%202021-06-26%20at%204.17.59%20PM")
