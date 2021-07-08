@@ -56,7 +56,7 @@ When payment is approved shipping labels will be generated  which can be printed
 In Console debugging we can check what are the informations are being exchange during fetching rates in checkout.
 **Console debugging In DHL:**  DHL is xml based API so two xml documents are provided in console log
 ![Screenshot%202021-07-08%20at%203.21.03%20PM](Screenshot%202021-07-08%20at%203.21.03%20PM.png "Screenshot%202021-07-08%20at%203.21.03%20PM")
-First doc contains information what is send by sellacious to dhl in request for fetching rates.
+First document contains information what is send by sellacious to dhl in request for fetching rates.
 From and to info: from is the sellers shipment origin and to is buyers shipping address
 ![Screenshot%202021-07-08%20at%203.24.58%20PM](Screenshot%202021-07-08%20at%203.24.58%20PM.png "Screenshot%202021-07-08%20at%203.24.58%20PM")
 under Bkgdetails no. of pieces and individual  piece dimension and weight is shown
