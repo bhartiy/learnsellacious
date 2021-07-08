@@ -1,21 +1,24 @@
 ---
-title: 'DHL Shipping Plugin'
+title: 'DHL/DHL Express Shipping Plugin'
 taxonomy:
     category:
         - docs
-media_order: 'Screenshot 2021-06-26 at 4.17.59 PM.png,unnamed.png,Screenshot 2021-06-26 at 4.20.21 PM.png,Screenshot 2021-06-26 at 4.21.11 PM.png,Screenshot 2021-06-26 at 4.32.57 PM.png,Screenshot 2021-06-26 at 4.35.38 PM.png,Screenshot 2021-07-02 at 11.57.10 AM.png'
+media_order: 'Screenshot 2021-06-26 at 4.17.59 PM.png,unnamed.png,Screenshot 2021-06-26 at 4.20.21 PM.png,Screenshot 2021-06-26 at 4.21.11 PM.png,Screenshot 2021-06-26 at 4.32.57 PM.png,Screenshot 2021-06-26 at 4.35.38 PM.png,Screenshot 2021-07-02 at 11.57.10 AM.png,Screenshot 2021-07-08 at 12.44.44 PM.png'
 published: true
 visible: true
 ---
 
-Sellacious Dhl Configuration
+**Configuration**
 
 **Installation:** Install provided plugin from joomla backend->manage->extensions->install. Once installed, enable it.
 ![Screenshot%202021-06-26%20at%204.17.59%20PM](Screenshot%202021-06-26%20at%204.17.59%20PM.png "Screenshot%202021-06-26%20at%204.17.59%20PM")
-Shipping rule: when plugin is enabled you will get the option to select dhl api during shipping rule creation. Create shipping rule and save api credentials which are 
+for DHl Express
+![Screenshot%202021-07-08%20at%2012.44.44%20PM](Screenshot%202021-07-08%20at%2012.44.44%20PM.png "Screenshot%202021-07-08%20at%2012.44.44%20PM")
+**Shipping rule:** when plugin is enabled you will get the option to select dhl api during shipping rule creation. Create shipping rule and save api credentials which are 
 Site ID, Password, Account Number, Outbound Account Number
 ![unnamed](unnamed.png "unnamed")
-**Geolocation:** Make sure you have geolocation available for country, state( State code required for DHL express), district and zip( needed for seller origin only), you can either manually create or install in bulk.
+**Geolocation:** Make sure you have geolocation available for country, state, district and zip. These geolocations needed for seller origin only, you can either manually create or install in bulk.
+NOTE: For DHL Express state code in State location is required. Usually this is provided by default by sellacious but in case you are creating manually make sure it is present. You can look for your states code on www.iso.org . 
 
 **Shipment configuration:** configure your shipment configuration from settings->global configuration->shipment. To know more about this visit https://www.sellacious.com/documentation-v2#/learn/global-configurations/shippment
 
