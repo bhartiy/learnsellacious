@@ -51,7 +51,7 @@ When payment is approved shipping labels will be generated  which can be printed
 4. There is no return label yet for returned orders.
 
 
-**Console debugging :** Available in in test mode only which can be enabled from shipping rule. 
+**Console debugging :** Console debugging is  available in in test mode only which can be enabled from shipping rule. 
 ![Screenshot%202021-07-08%20at%205.03.16%20PM](Screenshot%202021-07-08%20at%205.03.16%20PM.png "Screenshot%202021-07-08%20at%205.03.16%20PM")
 In Console debugging we can check what are the informations are being exchange during fetching rates in checkout.
 In DHL:  DHL is xml based API so two xml documents are provided in console log
