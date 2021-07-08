@@ -39,7 +39,7 @@ In checkout dhl shipping rule and rates will be shown and can be selected by the
 ![Screenshot%202021-06-26%20at%204.32.57%20PM](Screenshot%202021-06-26%20at%204.32.57%20PM.png "Screenshot%202021-06-26%20at%204.32.57%20PM")
 NOTE: On some locations DHL may not provide the shipping. In that case dhl shipping rule will not show up, this may also happen when there is incorrect zip entered. Console log is provided in such case to verify this.(Available in in test mode only which can be enabled from shipping rule). 
 ![Screenshot%202021-07-08%20at%205.03.16%20PM](Screenshot%202021-07-08%20at%205.03.16%20PM.png "Screenshot%202021-07-08%20at%205.03.16%20PM")
-Console logging is explained later in detail.
+Console debugging is explained later in detail.
 
 When payment is approved shipping labels will be generated  which can be printed from backend orders view. In cart wise and seller wise shipping will show in list view and in item wise shipping it is shown in drawer against individual items.
 ![Screenshot%202021-06-26%20at%204.35.38%20PM](Screenshot%202021-06-26%20at%204.35.38%20PM.png "Screenshot%202021-06-26%20at%204.35.38%20PM")
