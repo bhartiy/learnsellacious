@@ -8,12 +8,11 @@ published: true
 visible: true
 ---
 
-
 **Installation:** Install provided plugin from joomla backend->manage->extensions->install. Once installed, enable it.
 ![Screenshot%202021-06-26%20at%204.17.59%20PM](Screenshot%202021-06-26%20at%204.17.59%20PM.png "Screenshot%202021-06-26%20at%204.17.59%20PM")
 for DHl Express
 ![Screenshot%202021-07-08%20at%2012.44.44%20PM](Screenshot%202021-07-08%20at%2012.44.44%20PM.png "Screenshot%202021-07-08%20at%2012.44.44%20PM")
-**Shipping rule:** when plugin is enabled you will get the option to select dhl api during shipping rule creation. Create shipping rule and save api credentials which are 
+**Shipping rule creation:** when plugin is enabled you will get the option to select dhl api during shipping rule creation. Create shipping rule and save api credentials which are 
 Site ID, Password, Account Number, Outbound Account Number
 ![unnamed](unnamed.png "unnamed")
 for DHL Express we need Site ID/Username, Password, Account Number
