@@ -58,7 +58,7 @@ In DHL:
 DHL is xml based API so two xml documents are provided in console log
 ![Screenshot%202021-07-08%20at%203.21.03%20PM](Screenshot%202021-07-08%20at%203.21.03%20PM.png "Screenshot%202021-07-08%20at%203.21.03%20PM")
 First doc contains information what is send by sellacious to dhl in request for fetching rates.
-from and to info: from is the sellers shipment origin and to is buyers shipping address
+From and to info: from is the sellers shipment origin and to is buyers shipping address
 ![Screenshot%202021-07-08%20at%203.24.58%20PM](Screenshot%202021-07-08%20at%203.24.58%20PM.png "Screenshot%202021-07-08%20at%203.24.58%20PM")
 under Bkgdetails no. of pieces and individual  piece dimension and weight is shown
 ![Screenshot%202021-07-08%20at%203.28.57%20PM](Screenshot%202021-07-08%20at%203.28.57%20PM.png "Screenshot%202021-07-08%20at%203.28.57%20PM")
