@@ -3,7 +3,7 @@ title: 'DHL/DHL Express Shipping Plugin'
 taxonomy:
     category:
         - docs
-media_order: 'Screenshot 2021-06-26 at 4.17.59 PM.png,unnamed.png,Screenshot 2021-06-26 at 4.20.21 PM.png,Screenshot 2021-06-26 at 4.21.11 PM.png,Screenshot 2021-06-26 at 4.32.57 PM.png,Screenshot 2021-06-26 at 4.35.38 PM.png,Screenshot 2021-07-08 at 12.44.44 PM.png,Screenshot 2021-07-08 at 12.58.25 PM.png,Screenshot 2021-07-08 at 3.12.30 PM.png,Screenshot 2021-07-08 at 3.21.03 PM.png,Screenshot 2021-07-08 at 3.24.58 PM.png,Screenshot 2021-07-08 at 3.28.57 PM.png,Screenshot 2021-07-08 at 3.38.39 PM.png,Screenshot 2021-07-08 at 4.53.20 PM.png'
+media_order: 'Screenshot 2021-06-26 at 4.17.59 PM.png,unnamed.png,Screenshot 2021-06-26 at 4.20.21 PM.png,Screenshot 2021-06-26 at 4.21.11 PM.png,Screenshot 2021-06-26 at 4.32.57 PM.png,Screenshot 2021-06-26 at 4.35.38 PM.png,Screenshot 2021-07-08 at 12.44.44 PM.png,Screenshot 2021-07-08 at 12.58.25 PM.png,Screenshot 2021-07-08 at 3.12.30 PM.png,Screenshot 2021-07-08 at 3.21.03 PM.png,Screenshot 2021-07-08 at 3.24.58 PM.png,Screenshot 2021-07-08 at 3.28.57 PM.png,Screenshot 2021-07-08 at 3.38.39 PM.png,Screenshot 2021-07-08 at 4.53.20 PM.png,Screenshot 2021-07-08 at 4.57.19 PM.png'
 published: true
 visible: true
 ---
@@ -67,6 +67,8 @@ under Bkgdetails no. of pieces and individual  piece dimension and weight is sho
 Any error will be sown in notes 
 
 ![Screenshot%202021-07-08%20at%204.53.20%20PM](Screenshot%202021-07-08%20at%204.53.20%20PM.png "Screenshot%202021-07-08%20at%204.53.20%20PM")
+Rates related info  will come in Qtdshp
+![Screenshot%202021-07-08%20at%204.57.19%20PM](Screenshot%202021-07-08%20at%204.57.19%20PM.png "Screenshot%202021-07-08%20at%204.57.19%20PM") 
 
 
 **Limitations:**
