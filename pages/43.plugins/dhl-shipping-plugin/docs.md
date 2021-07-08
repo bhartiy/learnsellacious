@@ -3,7 +3,7 @@ title: 'DHL/DHL Express Shipping Plugin'
 taxonomy:
     category:
         - docs
-media_order: 'Screenshot 2021-06-26 at 4.17.59 PM.png,unnamed.png,Screenshot 2021-06-26 at 4.20.21 PM.png,Screenshot 2021-06-26 at 4.21.11 PM.png,Screenshot 2021-06-26 at 4.32.57 PM.png,Screenshot 2021-06-26 at 4.35.38 PM.png,Screenshot 2021-07-08 at 12.44.44 PM.png,Screenshot 2021-07-08 at 12.58.25 PM.png,Screenshot 2021-07-08 at 3.12.30 PM.png,Screenshot 2021-07-08 at 3.21.03 PM.png,Screenshot 2021-07-08 at 3.24.58 PM.png,Screenshot 2021-07-08 at 3.28.57 PM.png,Screenshot 2021-07-08 at 3.38.39 PM.png,Screenshot 2021-07-08 at 4.53.20 PM.png,Screenshot 2021-07-08 at 4.57.19 PM.png,Screenshot 2021-07-08 at 5.03.16 PM.png,Screenshot 2021-07-08 at 7.03.02 PM.png'
+media_order: 'Screenshot 2021-06-26 at 4.17.59 PM.png,unnamed.png,Screenshot 2021-06-26 at 4.20.21 PM.png,Screenshot 2021-06-26 at 4.21.11 PM.png,Screenshot 2021-06-26 at 4.32.57 PM.png,Screenshot 2021-06-26 at 4.35.38 PM.png,Screenshot 2021-07-08 at 12.44.44 PM.png,Screenshot 2021-07-08 at 12.58.25 PM.png,Screenshot 2021-07-08 at 3.12.30 PM.png,Screenshot 2021-07-08 at 3.21.03 PM.png,Screenshot 2021-07-08 at 3.24.58 PM.png,Screenshot 2021-07-08 at 3.28.57 PM.png,Screenshot 2021-07-08 at 3.38.39 PM.png,Screenshot 2021-07-08 at 4.53.20 PM.png,Screenshot 2021-07-08 at 4.57.19 PM.png,Screenshot 2021-07-08 at 5.03.16 PM.png,Screenshot 2021-07-08 at 7.03.02 PM.png,Screenshot 2021-07-08 at 7.15.04 PM.png,Screenshot 2021-07-08 at 7.16.28 PM.png,Screenshot 2021-07-08 at 7.27.31 PM.png'
 published: true
 visible: true
 ---
@@ -71,9 +71,17 @@ Rates related info  will come in Qtdshp
 
 **Console debugging In DHL Express:** DHL is json based API so two objects are provided in console log
 
-Coustomerdatails contains information what is send by sellacious to dhl in request for fetching rates and products contains information what we are getting in response
+1.Coustomerdatails contains information what is send by sellacious to dhl in request for fetching rates and products contains information what we are getting in response
 ![Screenshot%202021-07-08%20at%207.03.02%20PM](Screenshot%202021-07-08%20at%207.03.02%20PM.png "Screenshot%202021-07-08%20at%207.03.02%20PM")
+shipper and receiver details
+![Screenshot%202021-07-08%20at%207.15.04%20PM](Screenshot%202021-07-08%20at%207.15.04%20PM.png "Screenshot%202021-07-08%20at%207.15.04%20PM")
 
+package weight and dimensions
+![Screenshot%202021-07-08%20at%207.16.28%20PM](Screenshot%202021-07-08%20at%207.16.28%20PM.png "Screenshot%202021-07-08%20at%207.16.28%20PM")
+
+ 2.Products object contains information of response send by dhl to sellacious
+total price (currency type BASEC)
+![Screenshot%202021-07-08%20at%207.27.31%20PM](Screenshot%202021-07-08%20at%207.27.31%20PM.png "Screenshot%202021-07-08%20at%207.27.31%20PM")
 
 
 **Limitations:**
