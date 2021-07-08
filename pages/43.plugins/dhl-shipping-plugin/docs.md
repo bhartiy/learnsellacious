@@ -3,7 +3,7 @@ title: 'DHL/DHL Express Shipping Plugin'
 taxonomy:
     category:
         - docs
-media_order: 'Screenshot 2021-06-26 at 4.17.59 PM.png,unnamed.png,Screenshot 2021-06-26 at 4.20.21 PM.png,Screenshot 2021-06-26 at 4.21.11 PM.png,Screenshot 2021-06-26 at 4.32.57 PM.png,Screenshot 2021-06-26 at 4.35.38 PM.png,Screenshot 2021-07-08 at 12.44.44 PM.png,Screenshot 2021-07-08 at 12.58.25 PM.png,Screenshot 2021-07-08 at 3.12.30 PM.png,Screenshot 2021-07-08 at 3.21.03 PM.png,Screenshot 2021-07-08 at 3.24.58 PM.png,Screenshot 2021-07-08 at 3.28.57 PM.png,Screenshot 2021-07-08 at 3.38.39 PM.png,Screenshot 2021-07-08 at 4.53.20 PM.png,Screenshot 2021-07-08 at 4.57.19 PM.png'
+media_order: 'Screenshot 2021-06-26 at 4.17.59 PM.png,unnamed.png,Screenshot 2021-06-26 at 4.20.21 PM.png,Screenshot 2021-06-26 at 4.21.11 PM.png,Screenshot 2021-06-26 at 4.32.57 PM.png,Screenshot 2021-06-26 at 4.35.38 PM.png,Screenshot 2021-07-08 at 12.44.44 PM.png,Screenshot 2021-07-08 at 12.58.25 PM.png,Screenshot 2021-07-08 at 3.12.30 PM.png,Screenshot 2021-07-08 at 3.21.03 PM.png,Screenshot 2021-07-08 at 3.24.58 PM.png,Screenshot 2021-07-08 at 3.28.57 PM.png,Screenshot 2021-07-08 at 3.38.39 PM.png,Screenshot 2021-07-08 at 4.53.20 PM.png,Screenshot 2021-07-08 at 4.57.19 PM.png,Screenshot 2021-07-08 at 5.03.16 PM.png'
 published: true
 visible: true
 ---
@@ -39,7 +39,9 @@ You can manage these fields from address presets. To know more about address pre
 
 In checkout dhl shipping rule and rates will be shown and can be selected by the user. Here rates are shown along with the method from which is provided by the dhl.
 ![Screenshot%202021-06-26%20at%204.32.57%20PM](Screenshot%202021-06-26%20at%204.32.57%20PM.png "Screenshot%202021-06-26%20at%204.32.57%20PM")
-NOTE: On some locations DHL may not provide the shipping. In that case dhl shipping rule will not show up, this may also happen when there is incorrect zip entered. Console log is provided in such case to verify this.(in test mode only). Console logging is explained later in detail.
+NOTE: On some locations DHL may not provide the shipping. In that case dhl shipping rule will not show up, this may also happen when there is incorrect zip entered. Console log is provided in such case to verify this.(Available in in test mode only which can be enabled from shipping rule). 
+![Screenshot%202021-07-08%20at%205.03.16%20PM](Screenshot%202021-07-08%20at%205.03.16%20PM.png "Screenshot%202021-07-08%20at%205.03.16%20PM")
+Console logging is explained later in detail.
 
 When payment is approved shipping labels will be generated  which can be printed from backend orders view. In cart wise and seller wise shipping will show in list view and in item wise shipping it is shown in drawer against individual items.
 ![Screenshot%202021-06-26%20at%204.35.38%20PM](Screenshot%202021-06-26%20at%204.35.38%20PM.png "Screenshot%202021-06-26%20at%204.35.38%20PM")
@@ -53,7 +55,7 @@ When payment is approved shipping labels will be generated  which can be printed
 4. There is no return label yet for returned orders.
 
 
-**Console logging of shipment info:** In test mode we can check what are the informations are being exchange during fetching rates in checkout.
+**Console debugging :** In test mode we can check what are the informations are being exchange during fetching rates in checkout.
 In DHL: 
 DHL is xml based API so two xml documents are provided in console log
 ![Screenshot%202021-07-08%20at%203.21.03%20PM](Screenshot%202021-07-08%20at%203.21.03%20PM.png "Screenshot%202021-07-08%20at%203.21.03%20PM")
