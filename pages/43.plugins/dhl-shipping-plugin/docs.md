@@ -3,7 +3,7 @@ title: 'DHL/DHL Express Shipping Plugin'
 taxonomy:
     category:
         - docs
-media_order: 'Screenshot 2021-06-26 at 4.17.59 PM.png,unnamed.png,Screenshot 2021-06-26 at 4.20.21 PM.png,Screenshot 2021-06-26 at 4.21.11 PM.png,Screenshot 2021-06-26 at 4.32.57 PM.png,Screenshot 2021-06-26 at 4.35.38 PM.png,Screenshot 2021-07-02 at 11.57.10 AM.png,Screenshot 2021-07-08 at 12.44.44 PM.png,Screenshot 2021-07-08 at 12.58.25 PM.png'
+media_order: 'Screenshot 2021-06-26 at 4.17.59 PM.png,unnamed.png,Screenshot 2021-06-26 at 4.20.21 PM.png,Screenshot 2021-06-26 at 4.21.11 PM.png,Screenshot 2021-06-26 at 4.32.57 PM.png,Screenshot 2021-06-26 at 4.35.38 PM.png,Screenshot 2021-07-02 at 11.57.10 AM.png,Screenshot 2021-07-08 at 12.44.44 PM.png,Screenshot 2021-07-08 at 12.58.25 PM.png,Screenshot 2021-07-08 at 3.12.30 PM.png,Screenshot 2021-07-08 at 3.21.03 PM.png,Screenshot 2021-07-08 at 3.24.58 PM.png'
 published: true
 visible: true
 ---
@@ -37,12 +37,13 @@ Now on checkout make sure the buyer has the option to select all necessary field
 ![Screenshot%202021-07-02%20at%2011.57.10%20AM](Screenshot%202021-07-02%20at%2011.57.10%20AM.png "Screenshot%202021-07-02%20at%2011.57.10%20AM")
 You can manage these fields from address presets. To know more about address presets visit https://www.sellacious.com/documentation-v2#/learn/settings/address-presets.
 
-In checkout dhl shipping rule and rates will be shown
+In checkout dhl shipping rule and rates will be shown and can be selected by the user. Here rates are shown along with the method from which is provided by the dhl.
 ![Screenshot%202021-06-26%20at%204.32.57%20PM](Screenshot%202021-06-26%20at%204.32.57%20PM.png "Screenshot%202021-06-26%20at%204.32.57%20PM")
-NOTE: On some locations DHL may not provide the shipping. In that case dhl shipping rule will not show up, this may also happen when there is incorrect zip entered. Console log is provided in such case to verify this.(in test mode only)
+NOTE: On some locations DHL may not provide the shipping. In that case dhl shipping rule will not show up, this may also happen when there is incorrect zip entered. Console log is provided in such case to verify this.(in test mode only). Console logging is explained later in detail.
 
-When payment is approved shipping labels will be generated  which can be printed from backend orders view 
+When payment is approved shipping labels will be generated  which can be printed from backend orders view. In cart wise and seller wise shipping will show in list view and in item wise shipping it is shown in drawer against individual items.
 ![Screenshot%202021-06-26%20at%204.35.38%20PM](Screenshot%202021-06-26%20at%204.35.38%20PM.png "Screenshot%202021-06-26%20at%204.35.38%20PM")
+![Screenshot%202021-07-08%20at%203.12.30%20PM](Screenshot%202021-07-08%20at%203.12.30%20PM.png "Screenshot%202021-07-08%20at%203.12.30%20PM")
 
 
 **More on Labels:** 
@@ -50,6 +51,17 @@ When payment is approved shipping labels will be generated  which can be printed
 2. If there are 2 items in order, it would generate 1 waybill doc for the driver and 2 waybill documents 1 for each package.
 3. If an order has multiple quantities of a product, 1 waybill document with summed up package weight and 1 waybill doc for the driver.
 4. There is no return label yet for returned orders.
+
+
+**Console logging of shipment info:** In test mode we can check what are the informations are being exchange during fetching rates in checkout.
+In DHL: 
+DHL is xml based API so two xml documents are provided in console log
+![Screenshot%202021-07-08%20at%203.21.03%20PM](Screenshot%202021-07-08%20at%203.21.03%20PM.png "Screenshot%202021-07-08%20at%203.21.03%20PM")
+First doc contains information what is send by sellacious to dhl in request for fetching rates.
+from and to info: from is the sellers shipment origin and to is buyers shipping address
+![Screenshot%202021-07-08%20at%203.24.58%20PM](Screenshot%202021-07-08%20at%203.24.58%20PM.png "Screenshot%202021-07-08%20at%203.24.58%20PM")
+
+
 
 **Limitations:**
 (DHL API Limitation)
