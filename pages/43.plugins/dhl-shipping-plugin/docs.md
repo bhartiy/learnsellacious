@@ -54,7 +54,7 @@ When payment is approved shipping labels will be generated  which can be printed
 **Console debugging :** Console debugging is  available in in test mode only which can be enabled from shipping rule. 
 ![Screenshot%202021-07-08%20at%205.03.16%20PM](Screenshot%202021-07-08%20at%205.03.16%20PM.png "Screenshot%202021-07-08%20at%205.03.16%20PM")
 In Console debugging we can check what are the informations are being exchange during fetching rates in checkout.
-In DHL:  DHL is xml based API so two xml documents are provided in console log
+**Console debugging In DHL:**  DHL is xml based API so two xml documents are provided in console log
 ![Screenshot%202021-07-08%20at%203.21.03%20PM](Screenshot%202021-07-08%20at%203.21.03%20PM.png "Screenshot%202021-07-08%20at%203.21.03%20PM")
 First doc contains information what is send by sellacious to dhl in request for fetching rates.
 From and to info: from is the sellers shipment origin and to is buyers shipping address
