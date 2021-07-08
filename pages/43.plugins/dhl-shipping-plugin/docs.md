@@ -30,7 +30,7 @@ If shipped by a Concerned Seller then save shipping origin to seller’s profile
 
 Note: if you choose shipping selection cart wise then shop shipping origin will be used even if you had chosen shipped by Concerned Seller. In this scenario make sure  shop shipping origin is saved in the system.
 ![Screenshot%202021-06-26%20at%204.20.21%20PM](Screenshot%202021-06-26%20at%204.20.21%20PM.png "Screenshot%202021-06-26%20at%204.20.21%20PM")
-**Product Shipping Dimensions:** Make sure dimensions are saved in the product.
+**Product Shipping Dimensions:** Make sure product shipping dimensions are saved in the product.
 
 ![Screenshot%202021-06-26%20at%204.21.11%20PM](Screenshot%202021-06-26%20at%204.21.11%20PM.png "Screenshot%202021-06-26%20at%204.21.11%20PM")
 Now on checkout make sure the buyer has the option to select all necessary fields when saving an address. Dhl requires buyers Name, address line 1, country, state, city, zip to be saved in buyers address. Make them mandatory in your address preset. You can make State and district text only if geolocation is not present. 
