@@ -70,9 +70,8 @@ Rates related info  will come in Qtdshp
 ![Screenshot%202021-07-08%20at%204.57.19%20PM](Screenshot%202021-07-08%20at%204.57.19%20PM.png "Screenshot%202021-07-08%20at%204.57.19%20PM") 
 
 **Console debugging In DHL Express:** DHL is json based API so two objects are provided in console log
-costomerdetails and products
-Coustomerdatails contains information what is send by sellacious to dhl in request for fetching rates.
-and products contains information what we are getting in response
+
+Coustomerdatails contains information what is send by sellacious to dhl in request for fetching rates and products contains information what we are getting in response
 ![Screenshot%202021-07-08%20at%207.03.02%20PM](Screenshot%202021-07-08%20at%207.03.02%20PM.png "Screenshot%202021-07-08%20at%207.03.02%20PM")
 
 
