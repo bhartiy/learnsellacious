@@ -37,9 +37,7 @@ You can manage these fields from address presets. To know more about address pre
 
 In checkout dhl shipping rule and rates will be shown and can be selected by the user. Here rates are shown along with the method from which is provided by the dhl.
 ![Screenshot%202021-06-26%20at%204.32.57%20PM](Screenshot%202021-06-26%20at%204.32.57%20PM.png "Screenshot%202021-06-26%20at%204.32.57%20PM")
-NOTE: On some locations DHL may not provide the shipping. In that case dhl shipping rule will not show up, this may also happen when there is incorrect zip entered. Console log is provided in such case to verify this.(Available in in test mode only which can be enabled from shipping rule). 
-![Screenshot%202021-07-08%20at%205.03.16%20PM](Screenshot%202021-07-08%20at%205.03.16%20PM.png "Screenshot%202021-07-08%20at%205.03.16%20PM")
-Console debugging is explained later in detail.
+NOTE: On some locations DHL may not provide the shipping. In that case dhl shipping rule will not show up, this may also happen when there is incorrect zip entered. Console log is provided in such case to verify this.
 
 When payment is approved shipping labels will be generated  which can be printed from backend orders view. In cart wise and seller wise shipping will show in list view and in item wise shipping it is shown in drawer against individual items.
 ![Screenshot%202021-06-26%20at%204.35.38%20PM](Screenshot%202021-06-26%20at%204.35.38%20PM.png "Screenshot%202021-06-26%20at%204.35.38%20PM")
@@ -53,9 +51,10 @@ When payment is approved shipping labels will be generated  which can be printed
 4. There is no return label yet for returned orders.
 
 
-**Console debugging :** In test mode we can check what are the informations are being exchange during fetching rates in checkout.
-In DHL: 
-DHL is xml based API so two xml documents are provided in console log
+**Console debugging :** Available in in test mode only which can be enabled from shipping rule. 
+![Screenshot%202021-07-08%20at%205.03.16%20PM](Screenshot%202021-07-08%20at%205.03.16%20PM.png "Screenshot%202021-07-08%20at%205.03.16%20PM")
+In Console debugging we can check what are the informations are being exchange during fetching rates in checkout.
+In DHL:  DHL is xml based API so two xml documents are provided in console log
 ![Screenshot%202021-07-08%20at%203.21.03%20PM](Screenshot%202021-07-08%20at%203.21.03%20PM.png "Screenshot%202021-07-08%20at%203.21.03%20PM")
 First doc contains information what is send by sellacious to dhl in request for fetching rates.
 From and to info: from is the sellers shipment origin and to is buyers shipping address
