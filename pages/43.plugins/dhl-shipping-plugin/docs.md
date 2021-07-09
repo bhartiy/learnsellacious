@@ -8,41 +8,73 @@ published: true
 visible: true
 ---
 
+Written by: Indresh Maurya
+Date: 30-06-202
 
+Dhl/Dhl Express plugin installation, testing and implementation steps
 
-
-**Installation:** Install provided plugin from joomla backend->manage->extensions->install. Once installed, enable it.
+**1. Installation:** Install provided plugin from joomla backend->manage->extensions->install. Once installed, enable it.
 ![Screenshot%202021-06-26%20at%204.17.59%20PM](Screenshot%202021-06-26%20at%204.17.59%20PM.png "Screenshot%202021-06-26%20at%204.17.59%20PM")
 for DHl Express
 ![Screenshot%202021-07-08%20at%2012.44.44%20PM](Screenshot%202021-07-08%20at%2012.44.44%20PM.png "Screenshot%202021-07-08%20at%2012.44.44%20PM")
-**Shipping rule creation:** when plugin is enabled you will get the option to select dhl api during shipping rule creation. Create shipping rule and save api credentials which are 
+
+**2. Shipping rule creation:** when plugin is enabled you will get the option to select dhl api during shipping rule creation. Create shipping rule and save api credentials which are 
 Site ID, Password, Account Number, Outbound Account Number
 ![unnamed](unnamed.png "unnamed")
 for DHL Express we need Site ID/Username, Password, Account Number
 ![Screenshot%202021-07-08%20at%2012.58.25%20PM](Screenshot%202021-07-08%20at%2012.58.25%20PM.png "Screenshot%202021-07-08%20at%2012.58.25%20PM")
 
-**Geolocation:** Make sure you have geolocation available for country, state, district and zip. These geolocations needed for seller origin only, you can either manually create or install in bulk.
+**3. Geolocation:** Make sure you have geolocation available for country, state, district and zip. These geolocations needed for seller origin only, you can either manually create or install in bulk.
 NOTE: For DHL Express state code in State location is required. Usually this is provided by default by sellacious but in case you are creating manually make sure it is present. You can look for your states code on www.iso.org . 
 
-**Shipment configuration:** configure your shipment configuration from settings->global configuration->shipment. To know more about this visit https://www.sellacious.com/documentation-v2#/learn/global-configurations/shippment
+**3. Shipment configuration:** configure your shipment configuration from settings->global configuration->shipment. To know more about this visit https://www.sellacious.com/documentation-v2#/learn/global-configurations/shippment
 
 IMPORTANT: If ship by shop then save shipping origin here which will be used when dhl rates are being fetched in frontend checkout. Shop contact no. mandatory.
 If shipped by a Concerned Seller then save shipping origin to seller’s profile which then will be used to fetch shipping rates on product of that seller. Seller’s contact no. mandatory.
 
 Note: if you choose shipping selection cart wise then shop shipping origin will be used even if you had chosen shipped by Concerned Seller. In this scenario make sure  shop shipping origin is saved in the system.
 ![Screenshot%202021-06-26%20at%204.20.21%20PM](Screenshot%202021-06-26%20at%204.20.21%20PM.png "Screenshot%202021-06-26%20at%204.20.21%20PM")
-**Product Shipping Dimensions:** Make sure product shipping dimensions are saved in the product.
 
+**4. Product Shipping Dimensions:** Make sure product shipping dimensions are saved in the product.
 ![Screenshot%202021-06-26%20at%204.21.11%20PM](Screenshot%202021-06-26%20at%204.21.11%20PM.png "Screenshot%202021-06-26%20at%204.21.11%20PM")
-Now on checkout make sure the buyer has the option to select all necessary fields when saving an address. Dhl requires buyers Name, address lines, country, state, city, zip to be saved in buyers address. Make them mandatory in your address preset. You can make State and district text only if geolocation is not present. 
+
+**5. Address preset configuration:** On checkout make sure the buyer has the option to select all necessary fields when saving an address. Dhl requires buyers Name, address lines, country, city and zip to be saved in buyers address. Make them mandatory in your address preset. You can make State and district text only if geolocation is not present. 
 ![Screenshot%202021-07-08%20at%203.38.39%20PM](Screenshot%202021-07-08%20at%203.38.39%20PM.png "Screenshot%202021-07-08%20at%203.38.39%20PM")
 You can manage these fields from address presets. To know more about address presets visit https://www.sellacious.com/documentation-v2#/learn/settings/address-presets.
 
-In checkout dhl shipping rule and rates will be shown and can be selected by the user. Here rates are shown along with the method from which is provided by the dhl.
+**6. Getting shipping rates in checkout:** In checkout dhl shipping rule and rates will be shown and can be selected by the user. Here rates are shown along with the method from which is provided by the dhl.
 ![Screenshot%202021-06-26%20at%204.32.57%20PM](Screenshot%202021-06-26%20at%204.32.57%20PM.png "Screenshot%202021-06-26%20at%204.32.57%20PM")
 NOTE: On some locations DHL may not provide the shipping. In that case dhl shipping rule will not show up, this may also happen when there is incorrect zip entered. Console log is provided in such case to verify this.
 
-When payment is approved shipping labels will be generated  which can be printed from backend orders view. In cart wise and seller wise shipping will show in list view and in item wise shipping it is shown in drawer against individual items.
+**Console debugging :** Console debugging is  available in in test mode only which can be enabled from shipping rule. 
+![Screenshot%202021-07-08%20at%205.03.16%20PM](Screenshot%202021-07-08%20at%205.03.16%20PM.png "Screenshot%202021-07-08%20at%205.03.16%20PM")
+In Console debugging we can check what are the informations are being exchange during fetching rates in checkout.
+
+**Console debugging In DHL:**  DHL is xml based API so two xml documents are provided in console log
+![Screenshot%202021-07-08%20at%203.21.03%20PM](Screenshot%202021-07-08%20at%203.21.03%20PM.png "Screenshot%202021-07-08%20at%203.21.03%20PM")
+1.First document contains information what is send by sellacious to dhl in request for fetching rates.
+From and to info: from is the sellers shipment origin and to is buyers shipping address
+![Screenshot%202021-07-08%20at%203.24.58%20PM](Screenshot%202021-07-08%20at%203.24.58%20PM.png "Screenshot%202021-07-08%20at%203.24.58%20PM")
+under Bkgdetails no. of pieces and individual  piece dimension and weight is shown
+![Screenshot%202021-07-08%20at%203.28.57%20PM](Screenshot%202021-07-08%20at%203.28.57%20PM.png "Screenshot%202021-07-08%20at%203.28.57%20PM")
+ 2.Second xml document contains what is received from the dhl as response.
+Any error will be sown in notes 
+![Screenshot%202021-07-08%20at%204.53.20%20PM](Screenshot%202021-07-08%20at%204.53.20%20PM.png "Screenshot%202021-07-08%20at%204.53.20%20PM")
+Rates related info  will come in Qtdshp
+![Screenshot%202021-07-08%20at%204.57.19%20PM](Screenshot%202021-07-08%20at%204.57.19%20PM.png "Screenshot%202021-07-08%20at%204.57.19%20PM") 
+
+**Console debugging In DHL Express:** DHL is json based API so two objects are provided in console log
+1.Coustomerdatails contains information what is send by sellacious to dhl in request for fetching rates and products contains information what we are getting in response
+![Screenshot%202021-07-08%20at%207.03.02%20PM](Screenshot%202021-07-08%20at%207.03.02%20PM.png "Screenshot%202021-07-08%20at%207.03.02%20PM")
+shipper and receiver details
+![Screenshot%202021-07-08%20at%207.15.04%20PM](Screenshot%202021-07-08%20at%207.15.04%20PM.png "Screenshot%202021-07-08%20at%207.15.04%20PM")
+package weight and dimensions
+![Screenshot%202021-07-08%20at%207.16.28%20PM](Screenshot%202021-07-08%20at%207.16.28%20PM.png "Screenshot%202021-07-08%20at%207.16.28%20PM")
+ 2.Products object contains information of response send by dhl to sellacious
+shipping type and total shipping (currency type BASEC)
+![Screenshot%202021-07-08%20at%207.27.31%20PM](Screenshot%202021-07-08%20at%207.27.31%20PM.png "Screenshot%202021-07-08%20at%207.27.31%20PM")
+
+**7. Label Generation:** When payment is approved shipping labels will be generated  which can be printed from backend orders view. In cart wise and seller wise shipping will show in list view and in item wise shipping it is shown in drawer against individual items.
 ![Screenshot%202021-06-26%20at%204.35.38%20PM](Screenshot%202021-06-26%20at%204.35.38%20PM.png "Screenshot%202021-06-26%20at%204.35.38%20PM")
 ![Screenshot%202021-07-08%20at%203.12.30%20PM](Screenshot%202021-07-08%20at%203.12.30%20PM.png "Screenshot%202021-07-08%20at%203.12.30%20PM")
 
@@ -52,41 +84,6 @@ When payment is approved shipping labels will be generated  which can be printed
 2. If there are 2 items in order, it would generate 1 waybill doc for the driver and 2 waybill documents 1 for each package.
 3. If an order has multiple quantities of a product, 1 waybill document with summed up package weight and 1 waybill doc for the driver.
 4. There is no return label yet for returned orders.
-
-
-**Console debugging :** Console debugging is  available in in test mode only which can be enabled from shipping rule. 
-![Screenshot%202021-07-08%20at%205.03.16%20PM](Screenshot%202021-07-08%20at%205.03.16%20PM.png "Screenshot%202021-07-08%20at%205.03.16%20PM")
-In Console debugging we can check what are the informations are being exchange during fetching rates in checkout.
-**Console debugging In DHL:**  DHL is xml based API so two xml documents are provided in console log
-![Screenshot%202021-07-08%20at%203.21.03%20PM](Screenshot%202021-07-08%20at%203.21.03%20PM.png "Screenshot%202021-07-08%20at%203.21.03%20PM")
-1.First document contains information what is send by sellacious to dhl in request for fetching rates.
-From and to info: from is the sellers shipment origin and to is buyers shipping address
-![Screenshot%202021-07-08%20at%203.24.58%20PM](Screenshot%202021-07-08%20at%203.24.58%20PM.png "Screenshot%202021-07-08%20at%203.24.58%20PM")
-under Bkgdetails no. of pieces and individual  piece dimension and weight is shown
-![Screenshot%202021-07-08%20at%203.28.57%20PM](Screenshot%202021-07-08%20at%203.28.57%20PM.png "Screenshot%202021-07-08%20at%203.28.57%20PM")
- 
- 2.Second xml document contains what is received from the dhl as response.
-Any error will be sown in notes 
-
-![Screenshot%202021-07-08%20at%204.53.20%20PM](Screenshot%202021-07-08%20at%204.53.20%20PM.png "Screenshot%202021-07-08%20at%204.53.20%20PM")
-Rates related info  will come in Qtdshp
-![Screenshot%202021-07-08%20at%204.57.19%20PM](Screenshot%202021-07-08%20at%204.57.19%20PM.png "Screenshot%202021-07-08%20at%204.57.19%20PM") 
-
-**Console debugging In DHL Express:** DHL is json based API so two objects are provided in console log
-
-1.Coustomerdatails contains information what is send by sellacious to dhl in request for fetching rates and products contains information what we are getting in response
-![Screenshot%202021-07-08%20at%207.03.02%20PM](Screenshot%202021-07-08%20at%207.03.02%20PM.png "Screenshot%202021-07-08%20at%207.03.02%20PM")
-shipper and receiver details
-![Screenshot%202021-07-08%20at%207.15.04%20PM](Screenshot%202021-07-08%20at%207.15.04%20PM.png "Screenshot%202021-07-08%20at%207.15.04%20PM")
-
-package weight and dimensions
-![Screenshot%202021-07-08%20at%207.16.28%20PM](Screenshot%202021-07-08%20at%207.16.28%20PM.png "Screenshot%202021-07-08%20at%207.16.28%20PM")
-
- 2.Products object contains information of response send by dhl to sellacious
-shipping type and total shipping (currency type BASEC)
-![Screenshot%202021-07-08%20at%207.27.31%20PM](Screenshot%202021-07-08%20at%207.27.31%20PM.png "Screenshot%202021-07-08%20at%207.27.31%20PM")
-
-
 
 **Limitations:**
 (DHL API Limitation)
