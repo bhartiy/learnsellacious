@@ -4,11 +4,13 @@ taxonomy:
     category:
         - docs
 visible: true
+media_order: 'Screen Shot 2021-07-09 at 3.16.01 PM.png'
 ---
 
 You can apply the rule filters in taxes and discounts.
 
 **Filters**:
+![Screen%20Shot%202021-07-09%20at%203.16.01%20PM](Screen%20Shot%202021-07-09%20at%203.16.01%20PM.png "Screen%20Shot%202021-07-09%20at%203.16.01%20PM")
 <br>**Minimum Bill amount**: Enter the minimum bill value, that will be required to apply this rule.
 <br>**Maximum Bill amount**: Enter the maximum bill value, that will be required to apply this rule.
 <br>**Guest Setting**: Select whether this rule should apply only for registerd user or also apply for guest.
