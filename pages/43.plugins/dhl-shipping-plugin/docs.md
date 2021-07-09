@@ -34,7 +34,7 @@ Usually this is provided by default by sellacious but in case you are creating m
 **IMPORTANT:** If shipped by shop then save shipping origin here(global) which will be used when dhl rates are being fetched in frontend checkout. Shop contact no. mandatory.
 If shipped by a Concerned Seller then save shipping origin to seller’s profile which then will be used to fetch shipping rates on product of that seller. Seller’s contact no. mandatory.
 
-Note: if you choose shipping selection cart wise then shop shipping origin will be used even if you had chosen shipped by Concerned Seller. In this scenario make sure  shop shipping origin is saved in the system.
+**Note:** if you choose shipping selection cart wise then shop shipping origin will be used even if you had chosen shipped by Concerned Seller. In this scenario make sure  shop shipping origin is saved in the system.
 ![Screenshot%202021-06-26%20at%204.20.21%20PM](Screenshot%202021-06-26%20at%204.20.21%20PM.png "Screenshot%202021-06-26%20at%204.20.21%20PM")
 
 **5. Product Shipping Dimensions:** Make sure product shipping dimensions are saved in the product.
@@ -46,7 +46,7 @@ You can manage these fields from address presets. To know more about address pre
 
 **7. Getting shipping rates in checkout:** In checkout dhl shipping rule and rates will be shown and can be selected by the user. Here rates are shown along with the method from which is provided by the dhl.
 ![Screenshot%202021-06-26%20at%204.32.57%20PM](Screenshot%202021-06-26%20at%204.32.57%20PM.png "Screenshot%202021-06-26%20at%204.32.57%20PM")
-NOTE: On some locations DHL may not provide the shipping. In that case dhl shipping rule will not show up, this may also happen when there is incorrect zip entered. Console log is provided in such case to verify this.
+**NOTE:** On some locations DHL may not provide the shipping. In that case dhl shipping rule will not show up, this may also happen when there is incorrect zip entered. Console log is provided in such case to verify this.
 
 **Console debugging :** Console debugging is  available in in test mode only which can be enabled from shipping rule. 
 ![Screenshot%202021-07-08%20at%205.03.16%20PM](Screenshot%202021-07-08%20at%205.03.16%20PM.png "Screenshot%202021-07-08%20at%205.03.16%20PM")
