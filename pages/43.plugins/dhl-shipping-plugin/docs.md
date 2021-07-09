@@ -31,7 +31,7 @@ Usually this is provided by default by sellacious but in case you are creating m
 
 **4. Shipment configuration:** configure your shipment from settings->global configuration->shipment. To know more about this visit https://www.sellacious.com/documentation-v2#/learn/global-configurations/shippment
 
-IMPORTANT: If shipped by shop then save shipping origin here(global) which will be used when dhl rates are being fetched in frontend checkout. Shop contact no. mandatory.
+**IMPORTANT:** If shipped by shop then save shipping origin here(global) which will be used when dhl rates are being fetched in frontend checkout. Shop contact no. mandatory.
 If shipped by a Concerned Seller then save shipping origin to seller’s profile which then will be used to fetch shipping rates on product of that seller. Seller’s contact no. mandatory.
 
 Note: if you choose shipping selection cart wise then shop shipping origin will be used even if you had chosen shipped by Concerned Seller. In this scenario make sure  shop shipping origin is saved in the system.
