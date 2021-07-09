@@ -25,7 +25,7 @@ for DHL Express we need Site ID/Username, Password, Account Number
 ![Screenshot%202021-07-08%20at%2012.58.25%20PM](Screenshot%202021-07-08%20at%2012.58.25%20PM.png "Screenshot%202021-07-08%20at%2012.58.25%20PM")
 
 **3. Geolocation:** Make sure you have geolocation available for country, state, district and zip. These geolocations needed for seller origin only, you can either manually create or install in bulk.
-NOTE: For DHL Express state code in State location is required.
+**NOTE:** For DHL Express state code in State location is required.
 ![Screenshot%202021-07-09%20at%2011.03.46%20AM](Screenshot%202021-07-09%20at%2011.03.46%20AM.png "Screenshot%202021-07-09%20at%2011.03.46%20AM")
 Usually this is provided by default by sellacious but in case you are creating manually make sure it is present. You can look for your states code on www.iso.org . 
 
