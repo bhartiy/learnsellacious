@@ -10,6 +10,10 @@ taxonomy:
 ##### **Coupon Filters**
 
 ![coupon_filters](coupon_filters.png "coupon_filters")
+
+**Guest Setting**: Select whether this rule should be allowed only for guests or also for guests.
+
+
 **client categories**: 
 Select specific client categories for which this rule to apply. Leave empty to apply for all client categories. Select the client categories listed in the drop down menu.
 
