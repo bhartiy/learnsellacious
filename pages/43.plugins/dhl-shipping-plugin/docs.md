@@ -92,7 +92,7 @@ Shipment Details
 Shipper details
 ![Screenshot%202021-07-09%20at%2010.21.29%20AM](Screenshot%202021-07-09%20at%2010.21.29%20AM.png "Screenshot%202021-07-09%20at%2010.21.29%20AM")
 
-2.Response doc contains information of label barcode, buyer, shipper address, billing details, item dimentions/weight and error in if any.
+2.Response doc contains information of label barcode, buyer, shipper address, billing details, item dimentions/weight and error if any.
 errors are logged under condition fileld 
 ![Screenshot%202021-07-09%20at%2010.32.07%20AM](Screenshot%202021-07-09%20at%2010.32.07%20AM.png "Screenshot%202021-07-09%20at%2010.32.07%20AM")
 
