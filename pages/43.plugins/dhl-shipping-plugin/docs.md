@@ -82,7 +82,7 @@ sometimes it may encountered that shipping rates and rule selection were ok but 
 **Label Debugging in DHL:** Order wise xml docs for label debugging can be found in "/tmp/dhl-xml-api" directory wherever sellacous is installed. 
 ![Screenshot%202021-07-09%20at%2010.09.43%20AM](Screenshot%202021-07-09%20at%2010.09.43%20AM.png "Screenshot%202021-07-09%20at%2010.09.43%20AM")
 Two docs (request and response) is provided for each order. These docs are generated when payment is approved for an order.
-Request doc contains information of what is being send to dhl when label generation request is made by sellacious
+1.Request doc contains information of what is being send to dhl when label generation request is made by sellacious
 like information of Consignee(buyer)
 ![Screenshot%202021-07-09%20at%2010.19.26%20AM](Screenshot%202021-07-09%20at%2010.19.26%20AM.png "Screenshot%202021-07-09%20at%2010.19.26%20AM")
 Shipment Details
@@ -90,7 +90,7 @@ Shipment Details
 Shipper details
 ![Screenshot%202021-07-09%20at%2010.21.29%20AM](Screenshot%202021-07-09%20at%2010.21.29%20AM.png "Screenshot%202021-07-09%20at%2010.21.29%20AM")
 
-Response doc contains information of label barcode, buyer, shipper address, billing details, item dimentions/weight and error in if any.
+2.Response doc contains information of label barcode, buyer, shipper address, billing details, item dimentions/weight and error in if any.
 errors are logged under <condition> fileld 
 ![Screenshot%202021-07-09%20at%2010.32.07%20AM](Screenshot%202021-07-09%20at%2010.32.07%20AM.png "Screenshot%202021-07-09%20at%2010.32.07%20AM")
  
