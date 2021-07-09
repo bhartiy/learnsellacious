@@ -95,7 +95,7 @@ errors are logged under condition fileld
 ![Screenshot%202021-07-09%20at%2010.32.07%20AM](Screenshot%202021-07-09%20at%2010.32.07%20AM.png "Screenshot%202021-07-09%20at%2010.32.07%20AM")
 
 
-**Label Debugging in DHL:**  Order wise json docs for label debugging can be found in "/tmp/dhl-express-api" directory wherever sellacous is installed. 
+**Label Debugging in DHL Express:**  Order wise json docs for label debugging can be found in "/tmp/dhl-express-api" directory wherever sellacous is installed. 
 ![Screenshot%202021-07-09%20at%2010.36.25%20AM](Screenshot%202021-07-09%20at%2010.36.25%20AM.png "Screenshot%202021-07-09%20at%2010.36.25%20AM")
 
 **More on Labels:** 
