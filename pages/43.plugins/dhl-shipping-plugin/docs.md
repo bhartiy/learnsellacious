@@ -125,3 +125,4 @@ in case there is an error it will show that error then
 **Useful Links**
 1. https://xmlportal.dhl.com
 2. https://developer.dhl.com/api-reference
+3. https://developer.dhl.com/documentation
