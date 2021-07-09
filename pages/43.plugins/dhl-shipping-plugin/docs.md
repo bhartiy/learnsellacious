@@ -3,7 +3,7 @@ title: 'DHL/DHL Express Shipping Plugin'
 taxonomy:
     category:
         - docs
-media_order: 'Screenshot 2021-06-26 at 4.17.59 PM.png,unnamed.png,Screenshot 2021-06-26 at 4.20.21 PM.png,Screenshot 2021-06-26 at 4.21.11 PM.png,Screenshot 2021-06-26 at 4.32.57 PM.png,Screenshot 2021-06-26 at 4.35.38 PM.png,Screenshot 2021-07-08 at 12.44.44 PM.png,Screenshot 2021-07-08 at 12.58.25 PM.png,Screenshot 2021-07-08 at 3.12.30 PM.png,Screenshot 2021-07-08 at 3.21.03 PM.png,Screenshot 2021-07-08 at 3.24.58 PM.png,Screenshot 2021-07-08 at 3.28.57 PM.png,Screenshot 2021-07-08 at 3.38.39 PM.png,Screenshot 2021-07-08 at 4.53.20 PM.png,Screenshot 2021-07-08 at 4.57.19 PM.png,Screenshot 2021-07-08 at 5.03.16 PM.png,Screenshot 2021-07-08 at 7.03.02 PM.png,Screenshot 2021-07-08 at 7.15.04 PM.png,Screenshot 2021-07-08 at 7.16.28 PM.png,Screenshot 2021-07-08 at 7.27.31 PM.png,Screenshot 2021-07-09 at 10.09.43 AM.png,Screenshot 2021-07-09 at 10.19.26 AM.png,Screenshot 2021-07-09 at 10.20.26 AM.png,Screenshot 2021-07-09 at 10.21.29 AM.png,Screenshot 2021-07-09 at 10.32.07 AM.png,Screenshot 2021-07-09 at 10.36.25 AM.png'
+media_order: 'Screenshot 2021-06-26 at 4.17.59 PM.png,unnamed.png,Screenshot 2021-06-26 at 4.20.21 PM.png,Screenshot 2021-06-26 at 4.21.11 PM.png,Screenshot 2021-06-26 at 4.32.57 PM.png,Screenshot 2021-06-26 at 4.35.38 PM.png,Screenshot 2021-07-08 at 12.44.44 PM.png,Screenshot 2021-07-08 at 12.58.25 PM.png,Screenshot 2021-07-08 at 3.12.30 PM.png,Screenshot 2021-07-08 at 3.21.03 PM.png,Screenshot 2021-07-08 at 3.24.58 PM.png,Screenshot 2021-07-08 at 3.28.57 PM.png,Screenshot 2021-07-08 at 3.38.39 PM.png,Screenshot 2021-07-08 at 4.53.20 PM.png,Screenshot 2021-07-08 at 4.57.19 PM.png,Screenshot 2021-07-08 at 5.03.16 PM.png,Screenshot 2021-07-08 at 7.03.02 PM.png,Screenshot 2021-07-08 at 7.15.04 PM.png,Screenshot 2021-07-08 at 7.16.28 PM.png,Screenshot 2021-07-08 at 7.27.31 PM.png,Screenshot 2021-07-09 at 10.09.43 AM.png,Screenshot 2021-07-09 at 10.19.26 AM.png,Screenshot 2021-07-09 at 10.20.26 AM.png,Screenshot 2021-07-09 at 10.21.29 AM.png,Screenshot 2021-07-09 at 10.32.07 AM.png,Screenshot 2021-07-09 at 10.36.25 AM.png,Screenshot 2021-07-09 at 10.45.17 AM.png,Screenshot 2021-07-09 at 10.55.16 AM.png,Screenshot 2021-07-09 at 10.43.45 AM.png,Screenshot 2021-07-09 at 10.57.13 AM.png,Screenshot 2021-07-09 at 11.03.46 AM.png'
 published: true
 visible: true
 ---
@@ -25,7 +25,9 @@ for DHL Express we need Site ID/Username, Password, Account Number
 ![Screenshot%202021-07-08%20at%2012.58.25%20PM](Screenshot%202021-07-08%20at%2012.58.25%20PM.png "Screenshot%202021-07-08%20at%2012.58.25%20PM")
 
 **3. Geolocation:** Make sure you have geolocation available for country, state, district and zip. These geolocations needed for seller origin only, you can either manually create or install in bulk.
-NOTE: For DHL Express state code in State location is required. Usually this is provided by default by sellacious but in case you are creating manually make sure it is present. You can look for your states code on www.iso.org . 
+NOTE: For DHL Express state code in State location is required.
+![Screenshot%202021-07-09%20at%2011.03.46%20AM](Screenshot%202021-07-09%20at%2011.03.46%20AM.png "Screenshot%202021-07-09%20at%2011.03.46%20AM")
+Usually this is provided by default by sellacious but in case you are creating manually make sure it is present. You can look for your states code on www.iso.org . 
 
 **3. Shipment configuration:** configure your shipment configuration from settings->global configuration->shipment. To know more about this visit https://www.sellacious.com/documentation-v2#/learn/global-configurations/shippment
 
