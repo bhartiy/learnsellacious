@@ -3,7 +3,7 @@ title: 'DHL/DHL Express Shipping Plugin'
 taxonomy:
     category:
         - docs
-media_order: 'Screenshot 2021-06-26 at 4.17.59 PM.png,unnamed.png,Screenshot 2021-06-26 at 4.20.21 PM.png,Screenshot 2021-06-26 at 4.21.11 PM.png,Screenshot 2021-06-26 at 4.32.57 PM.png,Screenshot 2021-06-26 at 4.35.38 PM.png,Screenshot 2021-07-08 at 12.44.44 PM.png,Screenshot 2021-07-08 at 12.58.25 PM.png,Screenshot 2021-07-08 at 3.12.30 PM.png,Screenshot 2021-07-08 at 3.21.03 PM.png,Screenshot 2021-07-08 at 3.24.58 PM.png,Screenshot 2021-07-08 at 3.28.57 PM.png,Screenshot 2021-07-08 at 3.38.39 PM.png,Screenshot 2021-07-08 at 4.53.20 PM.png,Screenshot 2021-07-08 at 4.57.19 PM.png,Screenshot 2021-07-08 at 5.03.16 PM.png,Screenshot 2021-07-08 at 7.03.02 PM.png,Screenshot 2021-07-08 at 7.15.04 PM.png,Screenshot 2021-07-08 at 7.16.28 PM.png,Screenshot 2021-07-08 at 7.27.31 PM.png,Screenshot 2021-07-09 at 10.09.43 AM.png,Screenshot 2021-07-09 at 10.19.26 AM.png,Screenshot 2021-07-09 at 10.20.26 AM.png,Screenshot 2021-07-09 at 10.21.29 AM.png'
+media_order: 'Screenshot 2021-06-26 at 4.17.59 PM.png,unnamed.png,Screenshot 2021-06-26 at 4.20.21 PM.png,Screenshot 2021-06-26 at 4.21.11 PM.png,Screenshot 2021-06-26 at 4.32.57 PM.png,Screenshot 2021-06-26 at 4.35.38 PM.png,Screenshot 2021-07-08 at 12.44.44 PM.png,Screenshot 2021-07-08 at 12.58.25 PM.png,Screenshot 2021-07-08 at 3.12.30 PM.png,Screenshot 2021-07-08 at 3.21.03 PM.png,Screenshot 2021-07-08 at 3.24.58 PM.png,Screenshot 2021-07-08 at 3.28.57 PM.png,Screenshot 2021-07-08 at 3.38.39 PM.png,Screenshot 2021-07-08 at 4.53.20 PM.png,Screenshot 2021-07-08 at 4.57.19 PM.png,Screenshot 2021-07-08 at 5.03.16 PM.png,Screenshot 2021-07-08 at 7.03.02 PM.png,Screenshot 2021-07-08 at 7.15.04 PM.png,Screenshot 2021-07-08 at 7.16.28 PM.png,Screenshot 2021-07-08 at 7.27.31 PM.png,Screenshot 2021-07-09 at 10.09.43 AM.png,Screenshot 2021-07-09 at 10.19.26 AM.png,Screenshot 2021-07-09 at 10.20.26 AM.png,Screenshot 2021-07-09 at 10.21.29 AM.png,Screenshot 2021-07-09 at 10.32.07 AM.png'
 published: true
 visible: true
 ---
@@ -90,7 +90,9 @@ Shipment Details
 Shipper details
 ![Screenshot%202021-07-09%20at%2010.21.29%20AM](Screenshot%202021-07-09%20at%2010.21.29%20AM.png "Screenshot%202021-07-09%20at%2010.21.29%20AM")
 
-Response doc contains information of label barcode, buyer, shipper address, billing details, item dimentions/weight and error in if any
+Response doc contains information of label barcode, buyer, shipper address, billing details, item dimentions/weight and error in if any.
+errors are logged under <condition> fileld 
+![Screenshot%202021-07-09%20at%2010.32.07%20AM](Screenshot%202021-07-09%20at%2010.32.07%20AM.png "Screenshot%202021-07-09%20at%2010.32.07%20AM")
  
 
 
