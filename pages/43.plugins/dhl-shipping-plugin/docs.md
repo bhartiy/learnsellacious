@@ -3,7 +3,7 @@ title: 'DHL/DHL Express Shipping Plugin'
 taxonomy:
     category:
         - docs
-media_order: 'Screenshot 2021-06-26 at 4.17.59 PM.png,unnamed.png,Screenshot 2021-06-26 at 4.20.21 PM.png,Screenshot 2021-06-26 at 4.21.11 PM.png,Screenshot 2021-06-26 at 4.32.57 PM.png,Screenshot 2021-06-26 at 4.35.38 PM.png,Screenshot 2021-07-08 at 12.44.44 PM.png,Screenshot 2021-07-08 at 12.58.25 PM.png,Screenshot 2021-07-08 at 3.12.30 PM.png,Screenshot 2021-07-08 at 3.21.03 PM.png,Screenshot 2021-07-08 at 3.24.58 PM.png,Screenshot 2021-07-08 at 3.28.57 PM.png,Screenshot 2021-07-08 at 3.38.39 PM.png,Screenshot 2021-07-08 at 4.53.20 PM.png,Screenshot 2021-07-08 at 4.57.19 PM.png,Screenshot 2021-07-08 at 5.03.16 PM.png,Screenshot 2021-07-08 at 7.03.02 PM.png,Screenshot 2021-07-08 at 7.15.04 PM.png,Screenshot 2021-07-08 at 7.16.28 PM.png,Screenshot 2021-07-08 at 7.27.31 PM.png'
+media_order: 'Screenshot 2021-06-26 at 4.17.59 PM.png,unnamed.png,Screenshot 2021-06-26 at 4.20.21 PM.png,Screenshot 2021-06-26 at 4.21.11 PM.png,Screenshot 2021-06-26 at 4.32.57 PM.png,Screenshot 2021-06-26 at 4.35.38 PM.png,Screenshot 2021-07-08 at 12.44.44 PM.png,Screenshot 2021-07-08 at 12.58.25 PM.png,Screenshot 2021-07-08 at 3.12.30 PM.png,Screenshot 2021-07-08 at 3.21.03 PM.png,Screenshot 2021-07-08 at 3.24.58 PM.png,Screenshot 2021-07-08 at 3.28.57 PM.png,Screenshot 2021-07-08 at 3.38.39 PM.png,Screenshot 2021-07-08 at 4.53.20 PM.png,Screenshot 2021-07-08 at 4.57.19 PM.png,Screenshot 2021-07-08 at 5.03.16 PM.png,Screenshot 2021-07-08 at 7.03.02 PM.png,Screenshot 2021-07-08 at 7.15.04 PM.png,Screenshot 2021-07-08 at 7.16.28 PM.png,Screenshot 2021-07-08 at 7.27.31 PM.png,Screenshot 2021-07-09 at 10.09.43 AM.png'
 published: true
 visible: true
 ---
@@ -77,6 +77,10 @@ shipping type and total shipping (currency type BASEC)
 **7. Label Generation:** When payment is approved shipping labels will be generated  which can be printed from backend orders view. In cart wise and seller wise shipping will show in list view and in item wise shipping it is shown in drawer against individual items.
 ![Screenshot%202021-06-26%20at%204.35.38%20PM](Screenshot%202021-06-26%20at%204.35.38%20PM.png "Screenshot%202021-06-26%20at%204.35.38%20PM")
 ![Screenshot%202021-07-08%20at%203.12.30%20PM](Screenshot%202021-07-08%20at%203.12.30%20PM.png "Screenshot%202021-07-08%20at%203.12.30%20PM")
+sometimes it may encountered that shipping rates and rule selection were ok but still lablel are not been generated. This may occure due to missing information what is needed to generate label. Order wise detailed log is provided in "/tmp" directory  for debugging of any such cases.
+
+**Label Debugging in DHL:** Order wise dhl logs for label debugging can be found in "/tmp/dhl-xml-api" directory wherever sellacous is installed. 
+![Screenshot%202021-07-09%20at%2010.08.14%20AM](Screenshot%202021-07-09%20at%2010.08.14%20AM.png "Screenshot%202021-07-09%20at%2010.08.14%20AM")![Screenshot%202021-07-09%20at%2010.09.43%20AM](Screenshot%202021-07-09%20at%2010.09.43%20AM.png "Screenshot%202021-07-09%20at%2010.09.43%20AM")
 
 
 **More on Labels:** 
