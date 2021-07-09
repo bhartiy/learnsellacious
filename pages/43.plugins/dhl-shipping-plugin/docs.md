@@ -83,7 +83,7 @@ sometimes it may encountered that shipping rates and rule selection were ok but 
 
 **Label Debugging in DHL:** Order wise xml docs for label debugging can be found in "/tmp/dhl-xml-api" directory wherever sellacous is installed. 
 ![Screenshot%202021-07-09%20at%2010.09.43%20AM](Screenshot%202021-07-09%20at%2010.09.43%20AM.png "Screenshot%202021-07-09%20at%2010.09.43%20AM")
-Two docs (request and response) is provided for each order. These docs are generated when payment is approved for an order.
+Two docs (request and response) are provided for each order. These docs are generated when payment is approved for an order.
 1.Request doc contains information of what is being send to dhl when label generation request is made by sellacious
 like information of Consignee(buyer)
 ![Screenshot%202021-07-09%20at%2010.19.26%20AM](Screenshot%202021-07-09%20at%2010.19.26%20AM.png "Screenshot%202021-07-09%20at%2010.19.26%20AM")
@@ -99,7 +99,7 @@ errors are logged under condition fileld
 
 **Label Debugging in DHL Express:**  Order wise json docs for label debugging can be found in "/tmp/dhl-express-api" directory wherever sellacous is installed. 
 ![Screenshot%202021-07-09%20at%2010.36.25%20AM](Screenshot%202021-07-09%20at%2010.36.25%20AM.png "Screenshot%202021-07-09%20at%2010.36.25%20AM")
-Two json files (request and response) is provided for each order. These files are generated when payment is approved for an order.
+Two json files (request and response) are provided for each order. These files are generated when payment is approved for an order.
 1.Request files contains information of what is being send to dhl when label generation request is made by sellacious
 like information of shipper and receiver (buyer)
 ![Screenshot%202021-07-09%20at%2010.43.45%20AM](Screenshot%202021-07-09%20at%2010.43.45%20AM.png "Screenshot%202021-07-09%20at%2010.43.45%20AM")
