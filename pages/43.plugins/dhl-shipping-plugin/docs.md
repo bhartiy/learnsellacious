@@ -29,7 +29,7 @@ NOTE: For DHL Express state code in State location is required.
 ![Screenshot%202021-07-09%20at%2011.03.46%20AM](Screenshot%202021-07-09%20at%2011.03.46%20AM.png "Screenshot%202021-07-09%20at%2011.03.46%20AM")
 Usually this is provided by default by sellacious but in case you are creating manually make sure it is present. You can look for your states code on www.iso.org . 
 
-**4. Shipment configuration:** configure your shipment configuration from settings->global configuration->shipment. To know more about this visit https://www.sellacious.com/documentation-v2#/learn/global-configurations/shippment
+**4. Shipment configuration:** configure your shipment from settings->global configuration->shipment. To know more about this visit https://www.sellacious.com/documentation-v2#/learn/global-configurations/shippment
 
 IMPORTANT: If ship by shop then save shipping origin here which will be used when dhl rates are being fetched in frontend checkout. Shop contact no. mandatory.
 If shipped by a Concerned Seller then save shipping origin to seller’s profile which then will be used to fetch shipping rates on product of that seller. Seller’s contact no. mandatory.
