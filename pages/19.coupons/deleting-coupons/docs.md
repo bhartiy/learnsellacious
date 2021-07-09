@@ -1,7 +1,10 @@
 ---
 title: 'Deleting Coupons'
-media_order: 'del. coupon.png,del.coupon1.png,del coupon2.png,del coupon3.png'
+media_order: 'del. coupon.png,del.coupon1.png,del coupon2.png,del coupon3.png,delete_coupon4.png'
 visible: true
+taxonomy:
+    category:
+        - docs
 ---
 
 ##### **To Delete Created Coupons, Follow Steps:**
@@ -22,10 +25,9 @@ visible: true
 ![](del%20coupon2.png)
 
 7. Select coupon you want to delete permanently from the trashed coupons.
-8. Click on delete icon.
+8. Click on delete button on right side.
 
-![](del%20coupon3.png)
-
+![delete_coupon4](delete_coupon4.png "delete_coupon4")
 9. Selected coupon is deleted successfully.
 
 
