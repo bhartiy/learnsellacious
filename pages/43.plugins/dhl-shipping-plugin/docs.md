@@ -60,7 +60,7 @@ From and to info: from is the sellers shipment origin and to is buyers shipping 
 under Bkgdetails no. of pieces and individual  piece dimension and weight is shown
 ![Screenshot%202021-07-08%20at%203.28.57%20PM](Screenshot%202021-07-08%20at%203.28.57%20PM.png "Screenshot%202021-07-08%20at%203.28.57%20PM")
  2.Second xml document contains what is received from the dhl as response.
-Any error will be sown in notes 
+Any error will be shown in notes 
 ![Screenshot%202021-07-08%20at%204.53.20%20PM](Screenshot%202021-07-08%20at%204.53.20%20PM.png "Screenshot%202021-07-08%20at%204.53.20%20PM")
 Rates related info  will come in Qtdshp
 ![Screenshot%202021-07-08%20at%204.57.19%20PM](Screenshot%202021-07-08%20at%204.57.19%20PM.png "Screenshot%202021-07-08%20at%204.57.19%20PM") 
