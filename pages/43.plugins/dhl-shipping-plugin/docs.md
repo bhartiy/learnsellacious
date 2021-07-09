@@ -40,7 +40,7 @@ Note: if you choose shipping selection cart wise then shop shipping origin will 
 **4. Product Shipping Dimensions:** Make sure product shipping dimensions are saved in the product.
 ![Screenshot%202021-06-26%20at%204.21.11%20PM](Screenshot%202021-06-26%20at%204.21.11%20PM.png "Screenshot%202021-06-26%20at%204.21.11%20PM")
 
-**5. Address preset configuration:** On checkout make sure the buyer has the option to select all necessary fields when saving an address. Dhl requires buyers Name, address lines, country, city and zip to be saved in buyers address. Make them mandatory in your address preset. You can make State and district text only if geolocation is not present. 
+**5. Address preset configuration:** On checkout make sure the buyer has the option to select all necessary fields when saving an address. Dhl requires buyers Name, address lines, country, state, city and zip to be saved in buyers address. Make them mandatory in your address preset. You can make State and district text only if geolocation is not present. 
 ![Screenshot%202021-07-08%20at%203.38.39%20PM](Screenshot%202021-07-08%20at%203.38.39%20PM.png "Screenshot%202021-07-08%20at%203.38.39%20PM")
 You can manage these fields from address presets. To know more about address presets visit https://www.sellacious.com/documentation-v2#/learn/settings/address-presets.
 
