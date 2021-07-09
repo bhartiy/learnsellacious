@@ -29,7 +29,7 @@ NOTE: For DHL Express state code in State location is required.
 ![Screenshot%202021-07-09%20at%2011.03.46%20AM](Screenshot%202021-07-09%20at%2011.03.46%20AM.png "Screenshot%202021-07-09%20at%2011.03.46%20AM")
 Usually this is provided by default by sellacious but in case you are creating manually make sure it is present. You can look for your states code on www.iso.org . 
 
-**3. Shipment configuration:** configure your shipment configuration from settings->global configuration->shipment. To know more about this visit https://www.sellacious.com/documentation-v2#/learn/global-configurations/shippment
+**4. Shipment configuration:** configure your shipment configuration from settings->global configuration->shipment. To know more about this visit https://www.sellacious.com/documentation-v2#/learn/global-configurations/shippment
 
 IMPORTANT: If ship by shop then save shipping origin here which will be used when dhl rates are being fetched in frontend checkout. Shop contact no. mandatory.
 If shipped by a Concerned Seller then save shipping origin to seller’s profile which then will be used to fetch shipping rates on product of that seller. Seller’s contact no. mandatory.
@@ -37,14 +37,14 @@ If shipped by a Concerned Seller then save shipping origin to seller’s profile
 Note: if you choose shipping selection cart wise then shop shipping origin will be used even if you had chosen shipped by Concerned Seller. In this scenario make sure  shop shipping origin is saved in the system.
 ![Screenshot%202021-06-26%20at%204.20.21%20PM](Screenshot%202021-06-26%20at%204.20.21%20PM.png "Screenshot%202021-06-26%20at%204.20.21%20PM")
 
-**4. Product Shipping Dimensions:** Make sure product shipping dimensions are saved in the product.
+**5. Product Shipping Dimensions:** Make sure product shipping dimensions are saved in the product.
 ![Screenshot%202021-06-26%20at%204.21.11%20PM](Screenshot%202021-06-26%20at%204.21.11%20PM.png "Screenshot%202021-06-26%20at%204.21.11%20PM")
 
-**5. Address preset configuration:** On checkout make sure the buyer has the option to select all necessary fields when saving an address. Dhl requires buyers Name, address lines, country, state, city and zip to be saved in buyers address. Make them mandatory in your address preset. You can make State and district text only if geolocation is not present. 
+**6. Address preset configuration:** On checkout make sure the buyer has the option to select all necessary fields when saving an address. Dhl requires buyers Name, address lines, country, state, city and zip to be saved in buyers address. Make them mandatory in your address preset. You can make State and district text only if geolocation is not present. 
 ![Screenshot%202021-07-08%20at%203.38.39%20PM](Screenshot%202021-07-08%20at%203.38.39%20PM.png "Screenshot%202021-07-08%20at%203.38.39%20PM")
 You can manage these fields from address presets. To know more about address presets visit https://www.sellacious.com/documentation-v2#/learn/settings/address-presets.
 
-**6. Getting shipping rates in checkout:** In checkout dhl shipping rule and rates will be shown and can be selected by the user. Here rates are shown along with the method from which is provided by the dhl.
+**7. Getting shipping rates in checkout:** In checkout dhl shipping rule and rates will be shown and can be selected by the user. Here rates are shown along with the method from which is provided by the dhl.
 ![Screenshot%202021-06-26%20at%204.32.57%20PM](Screenshot%202021-06-26%20at%204.32.57%20PM.png "Screenshot%202021-06-26%20at%204.32.57%20PM")
 NOTE: On some locations DHL may not provide the shipping. In that case dhl shipping rule will not show up, this may also happen when there is incorrect zip entered. Console log is provided in such case to verify this.
 
@@ -76,7 +76,7 @@ package weight and dimensions
 shipping type and total shipping (currency type BASEC)
 ![Screenshot%202021-07-08%20at%207.27.31%20PM](Screenshot%202021-07-08%20at%207.27.31%20PM.png "Screenshot%202021-07-08%20at%207.27.31%20PM")
 
-**7. Label Generation:** When payment is approved shipping labels will be generated  which can be printed from backend orders view. In cart wise and seller wise shipping will show in list view and in item wise shipping it is shown in drawer against individual items.
+**8. Label Generation:** When payment is approved shipping labels will be generated  which can be printed from backend orders view. In cart wise and seller wise shipping will show in list view and in item wise shipping it is shown in drawer against individual items.
 ![Screenshot%202021-06-26%20at%204.35.38%20PM](Screenshot%202021-06-26%20at%204.35.38%20PM.png "Screenshot%202021-06-26%20at%204.35.38%20PM")
 ![Screenshot%202021-07-08%20at%203.12.30%20PM](Screenshot%202021-07-08%20at%203.12.30%20PM.png "Screenshot%202021-07-08%20at%203.12.30%20PM")
 sometimes it may encountered that shipping rates and rule selection were ok but still lablel are not been generated. This may occure due to missing information what is needed to generate label. Order wise detailed log is provided in "/tmp" directory  for debugging of any such cases.
