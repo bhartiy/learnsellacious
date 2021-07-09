@@ -1,13 +1,15 @@
 ---
 title: 'Coupon Filters'
-media_order: 'coupon filters.png'
+media_order: 'coupon filters.png,coupon_filters.png'
 visible: true
+taxonomy:
+    category:
+        - docs
 ---
 
 ##### **Coupon Filters**
 
-![](coupon%20filters.png)
-
+![coupon_filters](coupon_filters.png "coupon_filters")
 **client categories**: 
 Select specific client categories for which this rule to apply. Leave empty to apply for all client categories. Select the client categories listed in the drop down menu.
 
