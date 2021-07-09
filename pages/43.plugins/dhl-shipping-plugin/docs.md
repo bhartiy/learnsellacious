@@ -80,7 +80,7 @@ shipping type and total shipping (currency type BASEC)
 sometimes it may encountered that shipping rates and rule selection were ok but still lablel are not been generated. This may occure due to missing information what is needed to generate label. Order wise detailed log is provided in "/tmp" directory  for debugging of any such cases.
 
 **Label Debugging in DHL:** Order wise dhl logs for label debugging can be found in "/tmp/dhl-xml-api" directory wherever sellacous is installed. 
-![Screenshot%202021-07-09%20at%2010.08.14%20AM](Screenshot%202021-07-09%20at%2010.08.14%20AM.png "Screenshot%202021-07-09%20at%2010.08.14%20AM")![Screenshot%202021-07-09%20at%2010.09.43%20AM](Screenshot%202021-07-09%20at%2010.09.43%20AM.png "Screenshot%202021-07-09%20at%2010.09.43%20AM")
+![Screenshot%202021-07-09%20at%2010.09.43%20AM](Screenshot%202021-07-09%20at%2010.09.43%20AM.png "Screenshot%202021-07-09%20at%2010.09.43%20AM")
 
 
 **More on Labels:** 
