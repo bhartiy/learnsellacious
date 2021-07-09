@@ -11,7 +11,7 @@ visible: true
 Written by: Indresh Maurya
 Date: 30-06-202
 
-Dhl/Dhl Express plugin installation, testing and implementation steps
+Steps for Dhl/Dhl Express plugin installation, testing and implementation are as follows-
 
 **1. Installation:** Install provided plugin from joomla backend->manage->extensions->install. Once installed, enable it.
 ![Screenshot%202021-06-26%20at%204.17.59%20PM](Screenshot%202021-06-26%20at%204.17.59%20PM.png "Screenshot%202021-06-26%20at%204.17.59%20PM")
