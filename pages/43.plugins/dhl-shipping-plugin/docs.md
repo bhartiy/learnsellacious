@@ -122,4 +122,6 @@ in case there is an error it will show that error then
 2.Address (address line1, 2 etc) to be less than 38 character, if more it will be truncated. 
 3.Seller shipping origin (state) to have state code in geolocations.
 
-
+**Useful Links**
+1. https://xmlportal.dhl.com
+2. https://developer.dhl.com/api-reference
