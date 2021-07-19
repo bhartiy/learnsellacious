@@ -21,7 +21,7 @@ User can add the additional attribute for the products, profile, Query form, Pay
 
 ![](pa.png)
 
-5. fill the credentials in the Additional Attribute Fields.
+5. Fill the credentials in the Additional Attribute Fields.
 6. Click on the save button to save the details.
 
 ![Screenshot%20%287%29](Screenshot%20%287%29.png "Screenshot%20%287%29")
