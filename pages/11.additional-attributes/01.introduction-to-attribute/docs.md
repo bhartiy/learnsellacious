@@ -1,6 +1,6 @@
 ---
 title: 'Introduction to Attribute'
-media_order: pa.png
+media_order: 'pa.png,pa2.png,Screenshot (7).png'
 taxonomy:
     category:
         - docs
@@ -24,6 +24,5 @@ User can add the additional attribute for the products, profile, Query form, Pay
 5. fill the credentials in the Additional Attribute Fields.
 6. Click on the save button to save the details.
 
-![](pa2.png)
-
+![Screenshot%20%287%29](Screenshot%20%287%29.png "Screenshot%20%287%29")
 7. And additional attribute is created.
