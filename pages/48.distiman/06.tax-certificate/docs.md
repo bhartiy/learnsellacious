@@ -23,3 +23,6 @@ Tax cerificate plugin enables us to inject field in checkout process to ask for 
 ![](Screenshot%202020-12-08%20at%2010.16.59%20AM.png)
 5. Uploaded tax certificate will be availble in backecd orders invoice for evolution
 ![](Screenshot%202020-12-08%20at%2010.22.01%20AM.png)
+
+**Limitations**
+1. For text certificate Taxable/Non Taxable in checkout, Billing and shipping address should be from US.
