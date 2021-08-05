@@ -28,7 +28,11 @@ completion of launch may take 10 to 15 minutes. You can check status in mean tim
 When its completed it will look something like this
 ![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2011.36.29%20AM.png)
 
-Clicking on view microsite takes you to manufacturers microsite frontend. Product list page shows all the products listed by you on the main site. In microsite products can be searched in search box and  details page similar to main site. Items can be added to cart and checkout.
+Clicking on view microsite takes you to manufacturers microsite frontend.
+
+![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2012.16.26%20PM.png)
+
+Product list page shows all the products listed by you on the main site. In microsite products can be searched in search box and  details page similar to main site. Items can be added to cart and checkout.
 **Note:** Checkout will redirect you to main website.
 
 **2. Manage microsite:** Manage microsite logins the manufacturer to coot-cms. Where you can manage the layout of your microsite.
