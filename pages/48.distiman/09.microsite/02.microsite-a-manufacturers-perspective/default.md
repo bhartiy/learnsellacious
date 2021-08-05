@@ -8,6 +8,8 @@ Index of contents
 [Login to sellacious backend](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#login-to-sellacious-backend)
 [Manage Microsite View](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#manage-microsite-view)
 [Launching microsite](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#1-launching-microsite)
+[Manage microsite](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#2-manage-microsite)
+
 [How to Use Embed code](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#2-how-to-use-embed-code)
 
 
@@ -36,10 +38,11 @@ A manufacturer can take following steps to manage the microsite-
 
 ![Screenshot%202021-08-05%20at%203.14.46%20PM](Screenshot%202021-08-05%20at%203.14.46%20PM.png "Screenshot%202021-08-05%20at%203.14.46%20PM")
 
-here there are 2 main functionalities available for manufacturer
+here there are 3 main functionalities available for manufacturer
 
 1. Launching microsite
-2. Generating embed code for a product
+2. Managing microsite
+3. Generating embed code for a product
 
 ##### 1. Launching microsite :
  Here you get option to choose your subdomain and launch your site. if the subdomain is available green button to launch microsite will show
