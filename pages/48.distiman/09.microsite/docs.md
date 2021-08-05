@@ -3,7 +3,7 @@ title: Microsite
 taxonomy:
     category:
         - docs
-media_order: 'Screenshot 2021-08-05 at 11.19.08 AM.png,Screenshot 2021-08-05 at 11.21.59 AM.png,Screenshot 2021-08-05 at 11.25.18 AM.png,Screenshot 2021-08-05 at 11.27.49 AM.png,Screenshot 2021-08-05 at 11.28.45 AM.png,Screenshot 2021-08-05 at 11.36.29 AM.png,Screenshot 2021-08-05 at 12.09.06 PM.png,Screenshot 2021-08-05 at 12.10.12 PM.png'
+media_order: 'Screenshot 2021-08-05 at 11.19.08 AM.png,Screenshot 2021-08-05 at 11.21.59 AM.png,Screenshot 2021-08-05 at 11.25.18 AM.png,Screenshot 2021-08-05 at 11.27.49 AM.png,Screenshot 2021-08-05 at 11.28.45 AM.png,Screenshot 2021-08-05 at 11.36.29 AM.png,Screenshot 2021-08-05 at 12.09.06 PM.png,Screenshot 2021-08-05 at 12.10.12 PM.png,Screenshot 2021-08-05 at 12.16.26 PM.png'
 ---
 
 **(This documentation is applicable only on sites which are powered by masterapi plugin)**
@@ -37,3 +37,11 @@ When its completed it will look something like this
 
 ![Screenshot%202021-08-05%20at%2012.09.06%20PM](Screenshot%202021-08-05%20at%2012.09.06%20PM.png "Screenshot%202021-08-05%20at%2012.09.06%20PM")
 ![Screenshot%202021-08-05%20at%2012.10.12%20PM](Screenshot%202021-08-05%20at%2012.10.12%20PM.png "Screenshot%202021-08-05%20at%2012.10.12%20PM")
+
+**6. View Microsite:** Clicking on view microsite takes you to manufacturers microsite
+
+![Screenshot%202021-08-05%20at%2012.16.26%20PM](Screenshot%202021-08-05%20at%2012.16.26%20PM.png "Screenshot%202021-08-05%20at%2012.16.26%20PM")
+
+**7. Manage microsite:** Manage microsite logins the manufacturer to coot-cms.
+
+![Screenshot%202021-08-05%20at%2012.18.16%20PM](Screenshot%202021-08-05%20at%2012.18.16%20PM.png "Screenshot%202021-08-05%20at%2012.18.16%20PM")
