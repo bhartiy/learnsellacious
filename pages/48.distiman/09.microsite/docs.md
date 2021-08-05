@@ -67,7 +67,7 @@ When its completed it will look something like this
 
 **8. Embed Code:** Embed code a product can be generated in this section which then can be used to show market source of the product.
 
-How to work with Embed code:
+How generate Embed code:
 
 Generate embed code of a product enter sku of the product in this field
 
@@ -77,4 +77,5 @@ you can see this sku is now integrated with embed code
 
 ![Screenshot%202021-08-05%20at%2012.45.53%20PM](Screenshot%202021-08-05%20at%2012.45.53%20PM.png "Screenshot%202021-08-05%20at%2012.45.53%20PM")
 
+this code can be copied by clicking anywhere on it.
 
