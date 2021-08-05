@@ -8,7 +8,7 @@ Index of contents
 
 
 
-###### Introduction: 
+##### Introduction: 
 Microsite provides an option to have aggregated marketplace to existing manufacturers on instocka platform. 
 Theres are two ways to achieve this-
 
