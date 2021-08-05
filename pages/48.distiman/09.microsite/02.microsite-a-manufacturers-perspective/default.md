@@ -7,8 +7,8 @@ Index of contents
 [Introduction](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#introduction)
 [Login to sellacious backend](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#login-to-sellacious-backend)
 [Manage Microsite View](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#manage-microsite-view)
-[Launching microsite](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#launching-microsite)
-[How to Use Embed code](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#how-to-use-embed-code)
+[Launching microsite](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#1-launching-microsite)
+[How to Use Embed code](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#2-how-to-use-embed-code)
 
 
 
