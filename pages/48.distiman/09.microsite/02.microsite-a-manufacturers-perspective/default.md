@@ -13,8 +13,8 @@ Once the masterAPI plugin is enabled, menu is created and manufacturer backend l
 ![Screenshot%202021-08-05%20at%203.01.49%20PM](Screenshot%202021-08-05%20at%203.01.49%20PM.png "Screenshot%202021-08-05%20at%203.01.49%20PM")
 
 **4. Choosing subdomain and launching microsite :** Once you are logged in as manufacturer and visit to manage microsite view you will see option to choose your subdomain and launch your site.
+![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2011.25.18%20AM.png)
 
-https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2011.25.18%20AM.png
 when you click on launch it will start launching your subdomain
 ![Screenshot%202021-08-05%20at%2011.27.49%20AM](Screenshot%202021-08-05%20at%2011.27.49%20AM.png "Screenshot%202021-08-05%20at%2011.27.49%20AM")
 completion of launch may take some time, you can check status in mean time
