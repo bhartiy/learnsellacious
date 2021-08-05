@@ -3,7 +3,7 @@ title: Microsite
 taxonomy:
     category:
         - docs
-media_order: 'Screenshot 2021-08-05 at 11.19.08 AM.png,Screenshot 2021-08-05 at 11.21.59 AM.png,Screenshot 2021-08-05 at 11.25.18 AM.png,Screenshot 2021-08-05 at 11.27.49 AM.png,Screenshot 2021-08-05 at 11.28.45 AM.png,Screenshot 2021-08-05 at 11.36.29 AM.png,Screenshot 2021-08-05 at 12.09.06 PM.png,Screenshot 2021-08-05 at 12.10.12 PM.png,Screenshot 2021-08-05 at 12.16.26 PM.png,Screenshot 2021-08-05 at 12.27.22 PM.png,Screenshot 2021-08-05 at 12.18.16 PM.png,Screenshot 2021-08-05 at 12.28.46 PM.png,Screenshot 2021-08-05 at 12.30.12 PM.png'
+media_order: 'Screenshot 2021-08-05 at 11.19.08 AM.png,Screenshot 2021-08-05 at 11.21.59 AM.png,Screenshot 2021-08-05 at 11.25.18 AM.png,Screenshot 2021-08-05 at 11.27.49 AM.png,Screenshot 2021-08-05 at 11.28.45 AM.png,Screenshot 2021-08-05 at 11.36.29 AM.png,Screenshot 2021-08-05 at 12.09.06 PM.png,Screenshot 2021-08-05 at 12.10.12 PM.png,Screenshot 2021-08-05 at 12.16.26 PM.png,Screenshot 2021-08-05 at 12.27.22 PM.png,Screenshot 2021-08-05 at 12.18.16 PM.png,Screenshot 2021-08-05 at 12.28.46 PM.png,Screenshot 2021-08-05 at 12.30.12 PM.png,Screenshot 2021-08-05 at 12.44.31 PM.png,Screenshot 2021-08-05 at 12.45.53 PM.png'
 ---
 
 **(This documentation is applicable only on sites which are powered by masterapi plugin)**
@@ -63,3 +63,18 @@ When its completed it will look something like this
 **Note:** Checkout will redirect you to main website.
 
 ![Screenshot%202021-08-05%20at%2012.30.12%20PM](Screenshot%202021-08-05%20at%2012.30.12%20PM.png "Screenshot%202021-08-05%20at%2012.30.12%20PM")
+
+
+**8. Embed Code:** Embed code a product can be generated in this section which then can be used to show market source of the product.
+
+How to work with Embed code:
+
+Generate embed code of a product enter sku of the product in this field
+
+![Screenshot%202021-08-05%20at%2012.44.31%20PM](Screenshot%202021-08-05%20at%2012.44.31%20PM.png "Screenshot%202021-08-05%20at%2012.44.31%20PM")
+
+you can see this sku is now integrated with embed code
+
+![Screenshot%202021-08-05%20at%2012.45.53%20PM](Screenshot%202021-08-05%20at%2012.45.53%20PM.png "Screenshot%202021-08-05%20at%2012.45.53%20PM")
+
+
