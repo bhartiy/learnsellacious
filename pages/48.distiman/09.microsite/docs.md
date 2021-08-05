@@ -3,7 +3,7 @@ title: Microsite
 taxonomy:
     category:
         - docs
-media_order: 'Screenshot 2021-08-05 at 11.19.08 AM.png,Screenshot 2021-08-05 at 11.21.59 AM.png,Screenshot 2021-08-05 at 11.25.18 AM.png,Screenshot 2021-08-05 at 11.27.49 AM.png,Screenshot 2021-08-05 at 11.28.45 AM.png,Screenshot 2021-08-05 at 11.36.29 AM.png'
+media_order: 'Screenshot 2021-08-05 at 11.19.08 AM.png,Screenshot 2021-08-05 at 11.21.59 AM.png,Screenshot 2021-08-05 at 11.25.18 AM.png,Screenshot 2021-08-05 at 11.27.49 AM.png,Screenshot 2021-08-05 at 11.28.45 AM.png,Screenshot 2021-08-05 at 11.36.29 AM.png,Screenshot 2021-08-05 at 12.09.06 PM.png,Screenshot 2021-08-05 at 12.10.12 PM.png'
 ---
 
 **(This documentation is applicable only on sites which are powered by masterapi plugin)**
@@ -23,7 +23,7 @@ Launching and working of microsite is explained in following steps:
 
 ![Screenshot%202021-08-05%20at%2011.21.59%20AM](Screenshot%202021-08-05%20at%2011.21.59%20AM.png "Screenshot%202021-08-05%20at%2011.21.59%20AM")
 
-**4.Choose subdomain:** Once you are logged in as manufacturer and visit to manage microsite view you will see option to choose your subdomain and launch your site.
+**4. Choose subdomain:** Once you are logged in as manufacturer and visit to manage microsite view you will see option to choose your subdomain and launch your site.
 
 ![Screenshot%202021-08-05%20at%2011.25.18%20AM](Screenshot%202021-08-05%20at%2011.25.18%20AM.png "Screenshot%202021-08-05%20at%2011.25.18%20AM")
 when you click on launch it will start launching your subdomain
@@ -32,3 +32,8 @@ completion of launch may take some time, you can check status in mean time
 ![Screenshot%202021-08-05%20at%2011.28.45%20AM](Screenshot%202021-08-05%20at%2011.28.45%20AM.png "Screenshot%202021-08-05%20at%2011.28.45%20AM")
 When its completed it will look something like this
 ![Screenshot%202021-08-05%20at%2011.36.29%20AM](Screenshot%202021-08-05%20at%2011.36.29%20AM.png "Screenshot%202021-08-05%20at%2011.36.29%20AM")
+
+**5. Subdomain Change:** subdomain can be changed here by clicking on change subdomain button.
+
+![Screenshot%202021-08-05%20at%2012.09.06%20PM](Screenshot%202021-08-05%20at%2012.09.06%20PM.png "Screenshot%202021-08-05%20at%2012.09.06%20PM")
+![Screenshot%202021-08-05%20at%2012.10.12%20PM](Screenshot%202021-08-05%20at%2012.10.12%20PM.png "Screenshot%202021-08-05%20at%2012.10.12%20PM")
