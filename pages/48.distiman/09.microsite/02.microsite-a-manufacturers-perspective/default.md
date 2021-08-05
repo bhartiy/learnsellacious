@@ -16,8 +16,8 @@ Once the masterAPI plugin is enabled, menu is created and manufacturer backend l
 ![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2011.25.18%20AM.png)
 
 when you click on launch it will start launching your subdomain
-![Screenshot%202021-08-05%20at%2011.27.49%20AM](Screenshot%202021-08-05%20at%2011.27.49%20AM.png "Screenshot%202021-08-05%20at%2011.27.49%20AM")
+![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2011.27.49%20AM.png)
 completion of launch may take some time, you can check status in mean time
-![Screenshot%202021-08-05%20at%2011.28.45%20AM](Screenshot%202021-08-05%20at%2011.28.45%20AM.png "Screenshot%202021-08-05%20at%2011.28.45%20AM")
+![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2011.28.45%20AM.png)
 When its completed it will look something like this
-![Screenshot%202021-08-05%20at%2011.36.29%20AM](Screenshot%202021-08-05%20at%2011.36.29%20AM.png "Screenshot%202021-08-05%20at%2011.36.29%20AM")
+![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2011.36.29%20AM.png)
