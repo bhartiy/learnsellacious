@@ -3,7 +3,8 @@ title: 'Microsite: a manufacturer''s perspective'
 media_order: 'Screenshot 2021-08-05 at 3.14.46 PM.png'
 ---
 
-This documentation is a look at microsite from manufacturers perspective.
+
+
 Once the masterAPI plugin is enabled, menu is created and manufacturer backend login permission is given by shop owner a manufacturer can take following steps to manage the microsite-
 
 **Login to sellacious backend:** manufacturer can login in sellacious backend (https://instocka.com/sellacious) and get the limited access to manage certain things based on permission. Managing microsite is one of them.
@@ -48,7 +49,10 @@ you can see this sku is now integrated with embed code
 
 this code can be copied by clicking anywhere on it.
 
+**Automating the process of embed code:** As you can see the only variable in the embed code is product sku so by changing this value it can be used in many product pages.
+
+
 **How to use embed code:**
 
-Embed code can be used in a product details page. market-source of the product will show like this
+Embed code can be used in a product details page. Suppose you have own website and product pages are there already, You can inject this embed code in the page and market-source of the product will show on details page. The Product and its sellers inventory details will show up in this section. This also enable you to add to cart and checkout from here.
 ![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2012.53.37%20PM.png)
