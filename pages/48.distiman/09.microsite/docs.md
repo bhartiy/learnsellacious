@@ -60,6 +60,6 @@ When its completed it will look something like this
 ![Screenshot%202021-08-05%20at%2012.28.46%20PM](Screenshot%202021-08-05%20at%2012.28.46%20PM.png "Screenshot%202021-08-05%20at%2012.28.46%20PM")
 
 * items can be added to cart and checkout.
-Note: Checkout will redirect you to main website.
+**Note:** Checkout will redirect you to main website.
 
 ![Screenshot%202021-08-05%20at%2012.30.12%20PM](Screenshot%202021-08-05%20at%2012.30.12%20PM.png "Screenshot%202021-08-05%20at%2012.30.12%20PM")
