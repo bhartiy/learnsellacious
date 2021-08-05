@@ -3,7 +3,7 @@ title: Mirosite
 taxonomy:
     category:
         - docs
-media_order: 'Screenshot 2021-08-05 at 11.19.08 AM.png,Screenshot 2021-08-05 at 11.21.59 AM.png'
+media_order: 'Screenshot 2021-08-05 at 11.19.08 AM.png,Screenshot 2021-08-05 at 11.21.59 AM.png,Screenshot 2021-08-05 at 11.25.18 AM.png,Screenshot 2021-08-05 at 11.27.49 AM.png,Screenshot 2021-08-05 at 11.28.45 AM.png'
 ---
 
 (This documentation is applicable only on sites which are powered by masterapi plugin)
@@ -22,6 +22,9 @@ Launching and working of microsite is explained in following steps:
 ![Screenshot%202021-08-05%20at%2011.21.59%20AM](Screenshot%202021-08-05%20at%2011.21.59%20AM.png "Screenshot%202021-08-05%20at%2011.21.59%20AM")
 
 **4.Choose subdomain:** Once you are logged in as manufacturer and visit to manage microsite view you will see option to choose your subdomain and launch your site.
-
-
+![Screenshot%202021-08-05%20at%2011.25.18%20AM](Screenshot%202021-08-05%20at%2011.25.18%20AM.png "Screenshot%202021-08-05%20at%2011.25.18%20AM")
+when you click on launch it will start launching your subdomain
+![Screenshot%202021-08-05%20at%2011.27.49%20AM](Screenshot%202021-08-05%20at%2011.27.49%20AM.png "Screenshot%202021-08-05%20at%2011.27.49%20AM")
+completion of launch may take some time, you can check status in mean time
+![Screenshot%202021-08-05%20at%2011.28.45%20AM](Screenshot%202021-08-05%20at%2011.28.45%20AM.png "Screenshot%202021-08-05%20at%2011.28.45%20AM")
 
