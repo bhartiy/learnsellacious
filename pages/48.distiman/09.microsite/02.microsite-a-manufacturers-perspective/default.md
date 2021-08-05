@@ -3,6 +3,18 @@ title: 'Microsite: a manufacturer''s perspective'
 media_order: 'Screenshot 2021-08-05 at 3.14.46 PM.png,Screenshot 2021-08-05 at 5.49.46 PM.png,Screenshot 2021-08-05 at 5.55.41 PM.png'
 ---
 
+Microsite provides an option to have aggregated marketplace to existing manufacturers on instocka platform. 
+Theres are two ways to achieve this-
+
+1. By using platform url/(creating microsite using subdomain on instocka platform)
+2. By using embed code containing  product sku
+
+
+**By using platform url/subdomain of the instocka platform:** By using microsite functionality manufacturers can show their products on a subdomain of main platform (like mysite.instocka.com) . Standard  product list page, product details page, search functionality  and cart modal identical to main instocka is provided. Option to edit the layout of the microsite is also given through coot-cms. Here one can manage the look and theme of the website. 
+Other benefits of using microsite is here you can create their own pages, change color theme and configure branding etc. And you don't need to change your website. Search option, add to cart and checkout are provided in microsite itself.
+
+**By using embed code containing  product sku:** Other option is using embed code one can use their own existing website and integrate their instocka products to the details page of manufacturers existing product details page. The embed code is same and we just needs to change the sku in embed code and inject it in the detials page. This process can be automated easily by developers. How to use embed code is explained below in detail.
+
 Once the masterAPI plugin is enabled, menu is created and manufacturer backend login permission is given by shop owner a manufacturer can take following steps to manage the microsite-
 
 **Login to sellacious backend:** manufacturer can login in sellacious backend (https://instocka.com/sellacious) and get the limited access to manage certain things based on permission. Managing microsite is one of them.
