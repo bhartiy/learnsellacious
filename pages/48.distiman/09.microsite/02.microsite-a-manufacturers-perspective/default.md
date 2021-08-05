@@ -1,6 +1,6 @@
 ---
 title: 'Microsite: a manufacturer''s perspective'
-media_order: 'Screenshot 2021-08-05 at 3.01.49 PM.png'
+media_order: 'Screenshot 2021-08-05 at 3.14.46 PM.png'
 ---
 
 This documentation is a look at microsite from manufacturers perspective.
@@ -10,7 +10,7 @@ Once the masterAPI plugin is enabled, menu is created and manufacturer backend l
 
 **2. Manage Microsite View:** After login go to manage microsite view
 
-![Screenshot%202021-08-05%20at%203.01.49%20PM](Screenshot%202021-08-05%20at%203.01.49%20PM.png "Screenshot%202021-08-05%20at%203.01.49%20PM")
+![Screenshot%202021-08-05%20at%203.14.46%20PM](Screenshot%202021-08-05%20at%203.14.46%20PM.png "Screenshot%202021-08-05%20at%203.14.46%20PM")
 
 **4. Choosing subdomain and launching microsite :** Once you are logged in as manufacturer and visit to manage microsite view you will see option to choose your subdomain and launch your site.
 ![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2011.25.18%20AM.png)
