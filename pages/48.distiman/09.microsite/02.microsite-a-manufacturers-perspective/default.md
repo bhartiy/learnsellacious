@@ -11,7 +11,8 @@ Theres are two ways to achieve this-
 
 
 **By using platform url/subdomain of the instocka platform:** By using microsite functionality manufacturers can show their products on a subdomain of main platform (like mysite.instocka.com) . Standard  product list page, product details page, search functionality  and cart modal identical to main instocka is provided. Option to edit the layout of the microsite is also given through coot-cms. Here one can manage the look and theme of the website. 
-Other benefits of using microsite is here you can create their own pages, change color theme and configure branding etc. And you don't need to change your website. Search option, add to cart and checkout are provided in microsite itself.
+
+Other benefits of using microsite is here manufacturer can add content on predesigned and provided content pages including home, services, contact, privacy policy etc, change color theme and configure branding etc. This is very benificial if you do not want to modify your current website, and do not want to involve developer, and want to finish your own marketplace in minutes. This process is self serviced. Lot of other options are also available if you go microsite way example. Search option, add to cart and checkout are provided in microsite itself.
 
 **By using embed code containing  product sku:** Other option is using embed code one can use their own existing website and integrate their instocka products to the details page of manufacturers existing product details page. The embed code is same and we just needs to change the sku in embed code and inject it in the detials page. This process can be automated easily by developers. How to use embed code is explained later in this chapter in detail.
 
