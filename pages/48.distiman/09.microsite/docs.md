@@ -3,7 +3,7 @@ title: Microsite
 taxonomy:
     category:
         - docs
-media_order: 'Screenshot 2021-08-05 at 11.19.08 AM.png,Screenshot 2021-08-05 at 11.21.59 AM.png,Screenshot 2021-08-05 at 11.25.18 AM.png,Screenshot 2021-08-05 at 11.27.49 AM.png,Screenshot 2021-08-05 at 11.28.45 AM.png,Screenshot 2021-08-05 at 11.36.29 AM.png,Screenshot 2021-08-05 at 12.09.06 PM.png,Screenshot 2021-08-05 at 12.10.12 PM.png,Screenshot 2021-08-05 at 12.16.26 PM.png,Screenshot 2021-08-05 at 12.27.22 PM.png,Screenshot 2021-08-05 at 12.18.16 PM.png,Screenshot 2021-08-05 at 12.28.46 PM.png,Screenshot 2021-08-05 at 12.30.12 PM.png,Screenshot 2021-08-05 at 12.44.31 PM.png,Screenshot 2021-08-05 at 12.45.53 PM.png,Screenshot 2021-08-05 at 12.51.44 PM.png,Screenshot 2021-08-05 at 12.53.37 PM.png,Screenshot 2021-08-05 at 3.24.13 PM.png,Screenshot 2021-08-05 at 3.27.09 PM.png'
+media_order: 'Screenshot 2021-08-05 at 11.19.08 AM.png,Screenshot 2021-08-05 at 11.21.59 AM.png,Screenshot 2021-08-05 at 11.25.18 AM.png,Screenshot 2021-08-05 at 11.27.49 AM.png,Screenshot 2021-08-05 at 11.28.45 AM.png,Screenshot 2021-08-05 at 11.36.29 AM.png,Screenshot 2021-08-05 at 12.09.06 PM.png,Screenshot 2021-08-05 at 12.10.12 PM.png,Screenshot 2021-08-05 at 12.16.26 PM.png,Screenshot 2021-08-05 at 12.27.22 PM.png,Screenshot 2021-08-05 at 12.18.16 PM.png,Screenshot 2021-08-05 at 12.28.46 PM.png,Screenshot 2021-08-05 at 12.30.12 PM.png,Screenshot 2021-08-05 at 12.44.31 PM.png,Screenshot 2021-08-05 at 12.45.53 PM.png,Screenshot 2021-08-05 at 12.51.44 PM.png,Screenshot 2021-08-05 at 12.53.37 PM.png,Screenshot 2021-08-05 at 3.24.13 PM.png,Screenshot 2021-08-05 at 3.27.09 PM.png,Screenshot 2021-08-05 at 3.29.39 PM.png'
 ---
 
 **(This documentation is applicable only on sites which are powered by masterapi plugin)**
@@ -98,4 +98,6 @@ Lets take an example of joomla article-
 
 ![Screenshot%202021-08-05%20at%203.24.13%20PM](Screenshot%202021-08-05%20at%203.24.13%20PM.png "Screenshot%202021-08-05%20at%203.24.13%20PM")![Screenshot%202021-08-05%20at%203.27.09%20PM](Screenshot%202021-08-05%20at%203.27.09%20PM.png "Screenshot%202021-08-05%20at%203.27.09%20PM")
 
-**10. Delete Microsite:**
+**10. Delete Microsite:** By clicking this button you can delete your microsite.
+
+![Screenshot%202021-08-05%20at%203.29.39%20PM](Screenshot%202021-08-05%20at%203.29.39%20PM.png "Screenshot%202021-08-05%20at%203.29.39%20PM")
