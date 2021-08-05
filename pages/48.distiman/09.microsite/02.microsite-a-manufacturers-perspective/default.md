@@ -62,6 +62,6 @@ Embed code can be used in a product details page. if you observe closely there a
 ![Screenshot%202021-08-05%20at%205.49.46%20PM](Screenshot%202021-08-05%20at%205.49.46%20PM.png "Screenshot%202021-08-05%20at%205.49.46%20PM")
 
 You need to put links head and div in body where you want to show market-source your product page
-for example here its kept below description section
+**for example** here its kept below description section
 
 ![Screenshot%202021-08-05%20at%205.55.41%20PM](Screenshot%202021-08-05%20at%205.55.41%20PM.png "Screenshot%202021-08-05%20at%205.55.41%20PM")
