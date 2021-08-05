@@ -1,5 +1,5 @@
 ---
-title: Mirosite
+title: Microsite
 taxonomy:
     category:
         - docs
