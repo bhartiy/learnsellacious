@@ -17,7 +17,7 @@ Once the masterAPI plugin is enabled, menu is created and manufacturer backend l
 
 when you click on launch it will start launching your subdomain
 ![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2011.27.49%20AM.png)
-completion of launch may take some time, you can check status in mean time
+completion of launch may take 10 to 15 minutes. You can check status in mean time
 ![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2011.28.45%20AM.png)
 When its completed it will look something like this
 ![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2011.36.29%20AM.png)
