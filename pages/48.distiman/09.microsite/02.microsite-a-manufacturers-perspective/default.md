@@ -12,11 +12,10 @@ Once the masterAPI plugin is enabled, menu is created and manufacturer backend l
 
 ![Screenshot%202021-08-05%20at%203.14.46%20PM](Screenshot%202021-08-05%20at%203.14.46%20PM.png "Screenshot%202021-08-05%20at%203.14.46%20PM")
 
-here there are 3 main functionalities available for manufacturer
+here there are 2 main functionalities available for manufacturer
 
 1. Launching microsite
-2. Managing microsite
-3. Generating embed code for a product
+2. Generating embed code for a product
 
 **1. Launching microsite :** Here you get option to choose your subdomain and launch your site. if the subdomain is available green button to launch microsite will show
 ![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2011.25.18%20AM.png)
@@ -35,9 +34,7 @@ Clicking on view microsite takes you to manufacturers microsite frontend.
 Product list page shows all the products listed by you on the main site. In microsite products can be searched in search box and  details page similar to main site. Items can be added to cart and checkout.
 **Note:** Checkout will redirect you to main website.
 
-**2. Manage microsite:** Manage microsite logins the manufacturer to coot-cms. Where you can manage the layout of your microsite.
-
-**3. Generating embed code:** Embed code of a product can be generated in this section which then can be used to show market source of the product on your own website.
+**2. Generating embed code:** Embed code of a product can be generated in this section which then can be used to show market source of the product on your own website.
 
 **How generate Embed code:**
 
