@@ -15,7 +15,7 @@ Other benefits of using microsite is here you can create their own pages, change
 
 **By using embed code containing  product sku:** Other option is using embed code one can use their own existing website and integrate their instocka products to the details page of manufacturers existing product details page. The embed code is same and we just needs to change the sku in embed code and inject it in the detials page. This process can be automated easily by developers. How to use embed code is explained later in this chapter in detail.
 
-Once the masterAPI plugin is enabled, menu is created and manufacturer backend login permission is given by shop owner a manufacturer can take following steps to manage the microsite-
+A manufacturer can take following steps to manage the microsite-
 
 **Login to sellacious backend:** manufacturer can login in sellacious backend (https://instocka.com/sellacious) and get the limited access to manage certain things based on permission. Managing microsite is one of them.
 
