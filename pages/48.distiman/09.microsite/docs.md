@@ -38,7 +38,7 @@ When its completed it will look something like this
 ![Screenshot%202021-08-05%20at%2012.09.06%20PM](Screenshot%202021-08-05%20at%2012.09.06%20PM.png "Screenshot%202021-08-05%20at%2012.09.06%20PM")
 ![Screenshot%202021-08-05%20at%2012.10.12%20PM](Screenshot%202021-08-05%20at%2012.10.12%20PM.png "Screenshot%202021-08-05%20at%2012.10.12%20PM")
 
-### 6. View Microsite: 
+##### 6. View Microsite: 
 Clicking on view microsite takes you to manufacturers microsite frontend
 
 ![Screenshot%202021-08-05%20at%2012.16.26%20PM](Screenshot%202021-08-05%20at%2012.16.26%20PM.png "Screenshot%202021-08-05%20at%2012.16.26%20PM")
