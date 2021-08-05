@@ -38,10 +38,19 @@ When its completed it will look something like this
 ![Screenshot%202021-08-05%20at%2012.09.06%20PM](Screenshot%202021-08-05%20at%2012.09.06%20PM.png "Screenshot%202021-08-05%20at%2012.09.06%20PM")
 ![Screenshot%202021-08-05%20at%2012.10.12%20PM](Screenshot%202021-08-05%20at%2012.10.12%20PM.png "Screenshot%202021-08-05%20at%2012.10.12%20PM")
 
-**6. View Microsite:** Clicking on view microsite takes you to manufacturers microsite
+**6. View Microsite:** Clicking on view microsite takes you to manufacturers microsite frontend
 
 ![Screenshot%202021-08-05%20at%2012.16.26%20PM](Screenshot%202021-08-05%20at%2012.16.26%20PM.png "Screenshot%202021-08-05%20at%2012.16.26%20PM")
 
 **7. Manage microsite:** Manage microsite logins the manufacturer to coot-cms.
 
 ![Screenshot%202021-08-05%20at%2012.18.16%20PM](Screenshot%202021-08-05%20at%2012.18.16%20PM.png "Screenshot%202021-08-05%20at%2012.18.16%20PM")
+
+**More on Microsite frontend-**
+* Product list page shows all the products if particular manufacturer
+
+![Screenshot%202021-08-05%20at%2012.16.26%20PM](Screenshot%202021-08-05%20at%2012.16.26%20PM.png "Screenshot%202021-08-05%20at%2012.16.26%20PM")
+
+* items can be searched in search box
+
+![Screenshot%202021-08-05%20at%2012.27.22%20PM](Screenshot%202021-08-05%20at%2012.27.22%20PM.png "Screenshot%202021-08-05%20at%2012.27.22%20PM")
