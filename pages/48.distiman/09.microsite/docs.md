@@ -3,7 +3,7 @@ title: Microsite
 taxonomy:
     category:
         - docs
-media_order: 'Screenshot 2021-08-05 at 11.19.08 AM.png,Screenshot 2021-08-05 at 11.21.59 AM.png,Screenshot 2021-08-05 at 11.25.18 AM.png,Screenshot 2021-08-05 at 11.27.49 AM.png,Screenshot 2021-08-05 at 11.28.45 AM.png,Screenshot 2021-08-05 at 11.36.29 AM.png,Screenshot 2021-08-05 at 12.09.06 PM.png,Screenshot 2021-08-05 at 12.10.12 PM.png,Screenshot 2021-08-05 at 12.16.26 PM.png'
+media_order: 'Screenshot 2021-08-05 at 11.19.08 AM.png,Screenshot 2021-08-05 at 11.21.59 AM.png,Screenshot 2021-08-05 at 11.25.18 AM.png,Screenshot 2021-08-05 at 11.27.49 AM.png,Screenshot 2021-08-05 at 11.28.45 AM.png,Screenshot 2021-08-05 at 11.36.29 AM.png,Screenshot 2021-08-05 at 12.09.06 PM.png,Screenshot 2021-08-05 at 12.10.12 PM.png,Screenshot 2021-08-05 at 12.16.26 PM.png,Screenshot 2021-08-05 at 12.27.22 PM.png,Screenshot 2021-08-05 at 12.18.16 PM.png,Screenshot 2021-08-05 at 12.28.46 PM.png,Screenshot 2021-08-05 at 12.30.12 PM.png'
 ---
 
 **(This documentation is applicable only on sites which are powered by masterapi plugin)**
@@ -54,3 +54,12 @@ When its completed it will look something like this
 * items can be searched in search box
 
 ![Screenshot%202021-08-05%20at%2012.27.22%20PM](Screenshot%202021-08-05%20at%2012.27.22%20PM.png "Screenshot%202021-08-05%20at%2012.27.22%20PM")
+
+* details page similar to main site
+
+![Screenshot%202021-08-05%20at%2012.28.46%20PM](Screenshot%202021-08-05%20at%2012.28.46%20PM.png "Screenshot%202021-08-05%20at%2012.28.46%20PM")
+
+* items can be added to cart and checkout.
+Note: Checkout will redirect you to main website.
+
+![Screenshot%202021-08-05%20at%2012.30.12%20PM](Screenshot%202021-08-05%20at%2012.30.12%20PM.png "Screenshot%202021-08-05%20at%2012.30.12%20PM")
