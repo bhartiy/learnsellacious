@@ -50,16 +50,5 @@ this code can be copied by clicking anywhere on it.
 
 **How to use embed code:**
 
-Embed code can be used in an joomla article or an html web page to show marketsource
-
-Lets take an example of joomla article-
-
-1. Make a joomla article and paste the embed code in it
-
-![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2012.51.44%20PM.png)
-
-2. make a menu of this article
-
-3. visit the menu in frontend and marketsource of the product will show here
-
+Embed code can be used in a product details page. market-source of the product will show like this
 ![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2012.53.37%20PM.png)
