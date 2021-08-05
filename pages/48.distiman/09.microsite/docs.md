@@ -3,7 +3,7 @@ title: Microsite
 taxonomy:
     category:
         - docs
-media_order: 'Screenshot 2021-08-05 at 11.19.08 AM.png,Screenshot 2021-08-05 at 11.21.59 AM.png,Screenshot 2021-08-05 at 11.25.18 AM.png,Screenshot 2021-08-05 at 11.27.49 AM.png,Screenshot 2021-08-05 at 11.28.45 AM.png,Screenshot 2021-08-05 at 11.36.29 AM.png,Screenshot 2021-08-05 at 12.09.06 PM.png,Screenshot 2021-08-05 at 12.10.12 PM.png,Screenshot 2021-08-05 at 12.16.26 PM.png,Screenshot 2021-08-05 at 12.27.22 PM.png,Screenshot 2021-08-05 at 12.18.16 PM.png,Screenshot 2021-08-05 at 12.28.46 PM.png,Screenshot 2021-08-05 at 12.30.12 PM.png,Screenshot 2021-08-05 at 12.44.31 PM.png,Screenshot 2021-08-05 at 12.45.53 PM.png'
+media_order: 'Screenshot 2021-08-05 at 11.19.08 AM.png,Screenshot 2021-08-05 at 11.21.59 AM.png,Screenshot 2021-08-05 at 11.25.18 AM.png,Screenshot 2021-08-05 at 11.27.49 AM.png,Screenshot 2021-08-05 at 11.28.45 AM.png,Screenshot 2021-08-05 at 11.36.29 AM.png,Screenshot 2021-08-05 at 12.09.06 PM.png,Screenshot 2021-08-05 at 12.10.12 PM.png,Screenshot 2021-08-05 at 12.16.26 PM.png,Screenshot 2021-08-05 at 12.27.22 PM.png,Screenshot 2021-08-05 at 12.18.16 PM.png,Screenshot 2021-08-05 at 12.28.46 PM.png,Screenshot 2021-08-05 at 12.30.12 PM.png,Screenshot 2021-08-05 at 12.44.31 PM.png,Screenshot 2021-08-05 at 12.45.53 PM.png,Screenshot 2021-08-05 at 12.51.44 PM.png,Screenshot 2021-08-05 at 12.53.37 PM.png'
 ---
 
 **(This documentation is applicable only on sites which are powered by masterapi plugin)**
@@ -67,7 +67,7 @@ When its completed it will look something like this
 
 **8. Embed Code:** Embed code a product can be generated in this section which then can be used to show market source of the product.
 
-How generate Embed code:
+**How generate Embed code:**
 
 Generate embed code of a product enter sku of the product in this field
 
@@ -79,3 +79,17 @@ you can see this sku is now integrated with embed code
 
 this code can be copied by clicking anywhere on it.
 
+**How to use embed code:**
+
+Embed code can be used in an joomla article or an html web page to show marketsource
+
+Lets take an example of joomla article-
+
+1. Make a joomla article and paste the embed code in it
+
+![Screenshot%202021-08-05%20at%2012.51.44%20PM](Screenshot%202021-08-05%20at%2012.51.44%20PM.png "Screenshot%202021-08-05%20at%2012.51.44%20PM")
+2. make a menu of this article
+
+3. visit the menu in frontend and marketsource of the product will show here
+
+![Screenshot%202021-08-05%20at%2012.53.37%20PM](Screenshot%202021-08-05%20at%2012.53.37%20PM.png "Screenshot%202021-08-05%20at%2012.53.37%20PM")
