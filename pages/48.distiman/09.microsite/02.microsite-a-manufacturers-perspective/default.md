@@ -59,7 +59,10 @@ Clicking on view microsite takes you to manufacturers microsite frontend.
 Product list page shows all the products listed by you on the main site. In microsite products can be searched in search box and  details page similar to main site. Items can be added to cart and checkout.
 **Note:** Checkout will redirect you to main website.
 
-##### 2. How to Use Embed code:
+##### 2. Manage Microsite:
+Clicking on manage microsite redirects to  coot-cms where there are options to change branding, alter theme and style the product details page.
+
+##### 3. How to Use Embed code:
  Embed code of a product can be generated in this section which then can be used to show market source of the product on your own website. Suppose you have own website and product pages are there already, You can inject this embed code in the page and market-source of the product will show on details page. The Product and its sellers inventory details will show up in this section. This also enable you to add to cart and checkout from here.
 
 ![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2012.53.37%20PM.png)
@@ -88,7 +91,7 @@ Embed code can be used in a product details page. if you observe closely there a
 
 ![Screenshot%202021-08-05%20at%205.49.46%20PM](Screenshot%202021-08-05%20at%205.49.46%20PM.png "Screenshot%202021-08-05%20at%205.49.46%20PM")
 
-You need to put links head and div in body where you want to show market-source your product page
+You need to put links in head and div in body where you want to show market-source your product page
 **for example** here its kept below description section
 
 ![Screenshot%202021-08-05%20at%207.10.17%20PM](Screenshot%202021-08-05%20at%207.10.17%20PM.png "Screenshot%202021-08-05%20at%207.10.17%20PM")
