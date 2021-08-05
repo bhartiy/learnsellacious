@@ -24,8 +24,8 @@ When its completed it will look something like this
 
 
 here we have 5 options 
-1. [View microsite](https://www.sellacious.com/learn/distiman/microsite#6-view-microsite)
-2. [Embed code](https://www.sellacious.com/learn/distiman/microsite#8-embed-code)
+1. [View microsite](https://www.sellacious.com/documentation-v2#/learn/distiman/microsite#6-view-microsite)
+2. [Embed code](https://www.sellacious.com/documentation-v2#/learn/distiman/microsite#8-embed-code)
 3. manage microsite
 4. suspend microsite
 5. delete microsite.
