@@ -1,9 +1,7 @@
 ---
 title: 'Microsite: a manufacturer''s perspective'
-media_order: 'Screenshot 2021-08-05 at 3.14.46 PM.png'
+media_order: 'Screenshot 2021-08-05 at 3.14.46 PM.png,Screenshot 2021-08-05 at 5.49.46 PM.png,Screenshot 2021-08-05 at 5.55.41 PM.png'
 ---
-
-
 
 Once the masterAPI plugin is enabled, menu is created and manufacturer backend login permission is given by shop owner a manufacturer can take following steps to manage the microsite-
 
@@ -56,3 +54,15 @@ this code can be copied by clicking anywhere on it.
 
 Embed code can be used in a product details page. Suppose you have own website and product pages are there already, You can inject this embed code in the page and market-source of the product will show on details page. The Product and its sellers inventory details will show up in this section. This also enable you to add to cart and checkout from here.
 ![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2012.53.37%20PM.png)
+
+if you observe closely there are two part in embed code
+
+1. head links 
+2. div to render market-source
+
+![Screenshot%202021-08-05%20at%205.49.46%20PM](Screenshot%202021-08-05%20at%205.49.46%20PM.png "Screenshot%202021-08-05%20at%205.49.46%20PM")
+
+You need to put links head and div in body where you want to show market-source your product page
+for example here its kept below description section
+
+![Screenshot%202021-08-05%20at%205.55.41%20PM](Screenshot%202021-08-05%20at%205.55.41%20PM.png "Screenshot%202021-08-05%20at%205.55.41%20PM")
