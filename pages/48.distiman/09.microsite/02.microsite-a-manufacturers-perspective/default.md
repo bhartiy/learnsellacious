@@ -1,6 +1,6 @@
 ---
 title: 'Microsite: a manufacturer''s perspective'
-media_order: 'Screenshot 2021-08-05 at 3.14.46 PM.png,Screenshot 2021-08-05 at 5.49.46 PM.png,Screenshot 2021-08-05 at 7.05.55 PM.png'
+media_order: 'Screenshot 2021-08-05 at 3.14.46 PM.png,Screenshot 2021-08-05 at 5.49.46 PM.png,Screenshot 2021-08-05 at 7.10.17 PM.png'
 ---
 
 Microsite provides an option to have aggregated marketplace to existing manufacturers on instocka platform. 
@@ -76,4 +76,4 @@ Embed code can be used in a product details page. if you observe closely there a
 You need to put links head and div in body where you want to show market-source your product page
 **for example** here its kept below description section
 
-![Screenshot%202021-08-05%20at%207.05.55%20PM](Screenshot%202021-08-05%20at%207.05.55%20PM.png "Screenshot%202021-08-05%20at%207.05.55%20PM")
+![Screenshot%202021-08-05%20at%207.10.17%20PM](Screenshot%202021-08-05%20at%207.10.17%20PM.png "Screenshot%202021-08-05%20at%207.10.17%20PM")
