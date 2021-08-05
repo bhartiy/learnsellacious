@@ -47,7 +47,7 @@ When its completed it will look something like this
 ![Screenshot%202021-08-05%20at%2012.18.16%20PM](Screenshot%202021-08-05%20at%2012.18.16%20PM.png "Screenshot%202021-08-05%20at%2012.18.16%20PM")
 
 **More on Microsite frontend-**
-* Product list page shows all the products if particular manufacturer
+* Product list page shows all the products of particular manufacturer
 
 ![Screenshot%202021-08-05%20at%2012.16.26%20PM](Screenshot%202021-08-05%20at%2012.16.26%20PM.png "Screenshot%202021-08-05%20at%2012.16.26%20PM")
 
