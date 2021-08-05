@@ -5,10 +5,10 @@ media_order: 'Screenshot 2021-08-05 at 3.14.46 PM.png,Screenshot 2021-08-05 at 5
 
 Index of contents
 [Introduction](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#introduction)
-[Login to sellacious backend](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#Login to sellacious backend)
-[Manage Microsite View](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#Manage Microsite View)
-[Launching microsite](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#Launching microsite)
-[How to Use Embed code](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#How to Use Embed code)
+[Login to sellacious backend](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#login-to-sellacious-backend)
+[Manage Microsite View](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#manage-microsite-view)
+[Launching microsite](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#launching-microsite)
+[How to Use Embed code](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#how-to-use-embed-code)
 
 
 
