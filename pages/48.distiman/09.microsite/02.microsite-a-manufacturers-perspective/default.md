@@ -33,7 +33,10 @@ Clicking on view microsite takes you to manufacturers microsite frontend.
 Product list page shows all the products listed by you on the main site. In microsite products can be searched in search box and  details page similar to main site. Items can be added to cart and checkout.
 **Note:** Checkout will redirect you to main website.
 
-**2. Generating embed code:** Embed code of a product can be generated in this section which then can be used to show market source of the product on your own website.
+**2. Embed code:** Embed code of a product can be generated in this section which then can be used to show market source of the product on your own website. Suppose you have own website and product pages are there already, You can inject this embed code in the page and market-source of the product will show on details page. The Product and its sellers inventory details will show up in this section. This also enable you to add to cart and checkout from here.
+
+![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2012.53.37%20PM.png)
+
 
 **How generate Embed code:**
 
@@ -52,11 +55,7 @@ this code can be copied by clicking anywhere on it.
 
 **How to use embed code:**
 
-Embed code can be used in a product details page. Suppose you have own website and product pages are there already, You can inject this embed code in the page and market-source of the product will show on details page. The Product and its sellers inventory details will show up in this section. This also enable you to add to cart and checkout from here.
-![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2012.53.37%20PM.png)
-
-if you observe closely there are two part in embed code
-
+Embed code can be used in a product details page. if you observe closely there are two part in embed code
 1. head links 
 2. div to render market-source
 
