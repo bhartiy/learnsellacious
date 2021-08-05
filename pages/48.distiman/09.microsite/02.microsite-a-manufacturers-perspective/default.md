@@ -21,3 +21,11 @@ completion of launch may take 10 to 15 minutes. You can check status in mean tim
 ![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2011.28.45%20AM.png)
 When its completed it will look something like this
 ![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2011.36.29%20AM.png)
+
+
+here we have 5 options 
+1. [View microsite](https://www.sellacious.com/learn/distiman/microsite#6-view-microsite)
+2. [Embed code](https://www.sellacious.com/learn/distiman/microsite#8-embed-code)
+3. manage microsite
+4. suspend microsite
+5. delete microsite.
