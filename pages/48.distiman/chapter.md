@@ -17,7 +17,7 @@ Distiman consists of Following Components/plugins
 5. [Distiman Checkout:](https://www.sellacious.com/documentation-v2#/learn/distiman/distiman-checkout) Separate checkout process than usual sellacious.
 6. [Tax Certificate](https://www.sellacious.com/documentation-v2#/learn/distiman/tax-certificate) Tax cerificate plugin enables us to inject Tax Certificate field in checkout process.
 7. [Quantisation Plugin:](https://www.sellacious.com/documentation-v2#/learn/distiman/quantisation-plugin) Enables us to increase step quantity in quantity box.
-
+8. Microsite(Applicable only in instocka)
 Also need some [Additional Sellacious Configurations](https://www.sellacious.com/documentation-v2#/learn/distiman/additional-configurations) to go with distiman.
 
 To know more about distiman product visit https://distiman.co
