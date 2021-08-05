@@ -31,3 +31,5 @@ When its completed it will look something like this
 Clicking on view microsite takes you to manufacturers microsite frontend. Product list page shows all the products listed by you on the main site. In microsite products can be searched in search box and  details page similar to main site. Items can be added to cart and checkout.
 **Note:** Checkout will redirect you to main website.
 
+**2. Manage microsite:** Manage microsite logins the manufacturer to coot-cms. Where you can manage the layout of your microsite.
+
