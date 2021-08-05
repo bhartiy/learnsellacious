@@ -33,3 +33,32 @@ Clicking on view microsite takes you to manufacturers microsite frontend. Produc
 
 **2. Manage microsite:** Manage microsite logins the manufacturer to coot-cms. Where you can manage the layout of your microsite.
 
+**3. Generating embed code:** Embed code of a product can be generated in this section which then can be used to show market source of the product on your own website.
+
+**How generate Embed code:**
+
+Generate embed code of a product enter sku of the product in this field
+
+![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2012.44.31%20PM.png)
+
+you can see this sku is now integrated with embed code
+
+![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2012.45.53%20PM.png)
+
+this code can be copied by clicking anywhere on it.
+
+**How to use embed code:**
+
+Embed code can be used in an joomla article or an html web page to show marketsource
+
+Lets take an example of joomla article-
+
+1. Make a joomla article and paste the embed code in it
+
+![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2012.51.44%20PM.png)
+
+2. make a menu of this article
+
+3. visit the menu in frontend and marketsource of the product will show here
+
+![](https://www.sellacious.com/learn/user/pages/48.distiman/09.microsite/Screenshot%202021-08-05%20at%2012.53.37%20PM.png)
