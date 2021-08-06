@@ -1,6 +1,6 @@
 ---
 title: 'Microsite: a manufacturer''s perspective'
-media_order: 'Screenshot 2021-08-05 at 3.14.46 PM.png,Screenshot 2021-08-05 at 5.49.46 PM.png,Screenshot 2021-08-05 at 7.10.17 PM.png'
+media_order: 'Screenshot 2021-08-05 at 3.14.46 PM.png,Screenshot 2021-08-05 at 5.49.46 PM.png,Screenshot 2021-08-05 at 7.10.17 PM.png,Screenshot 2021-08-06 at 10.23.32 AM.png,Screenshot 2021-08-06 at 11.50.33 AM.png'
 ---
 
 Index of contents
@@ -65,8 +65,11 @@ Product list page shows all the products listed by you on the main site. In micr
 Clicking on manage microsite redirects to  coot-cms where there are options to change branding, alter theme and style the product details page. In Brand setting following are the elements which can be personalised.
 * Logo/Branding: A manufacturer can have own logo in the microsite.
 * Primary color: Primary color is used for buttons and all the maim labels in the site.
-* 
 
+![Screenshot%202021-08-06%20at%2010.23.32%20AM](Screenshot%202021-08-06%20at%2010.23.32%20AM.png "Screenshot%202021-08-06%20at%2010.23.32%20AM")
+
+* table background color can be set for factory direct, wholesaler, distributers and other sellers
+![Screenshot%202021-08-06%20at%2011.50.33%20AM](Screenshot%202021-08-06%20at%2011.50.33%20AM.png "Screenshot%202021-08-06%20at%2011.50.33%20AM")
 
 ##### 3. How to Use Embed code:
  Embed code of a product can be generated in this section which then can be used to show market source of the product on your own website. Suppose you have own website and product pages are there already, You can inject this embed code in the page and market-source of the product will show on details page. The Product and its sellers inventory details will show up in this section. This also enable you to add to cart and checkout from here.
