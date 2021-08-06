@@ -9,7 +9,7 @@ Index of contents
 [Manage Microsite View](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#manage-microsite-view)
 [Launching microsite](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#1-launching-microsite)
 [Manage microsite](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#2-manage-microsite)
-[How to Use Embed code](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#2-how-to-use-embed-code)
+[How to Use Embed code](https://www.sellacious.com/learn/distiman/microsite/microsite-a-manufacturers-perspective#3-how-to-use-embed-code)
 
 
 
