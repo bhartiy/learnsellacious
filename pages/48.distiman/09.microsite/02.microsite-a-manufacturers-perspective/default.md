@@ -62,7 +62,11 @@ Product list page shows all the products listed by you on the main site. In micr
 **Note:** Checkout will redirect you to main website.
 
 ##### 2. Manage Microsite:
-Clicking on manage microsite redirects to  coot-cms where there are options to change branding, alter theme and style the product details page.
+Clicking on manage microsite redirects to  coot-cms where there are options to change branding, alter theme and style the product details page. In Brand setting following are the elements which can be personalised.
+* Logo/Branding: A manufacturer can have own logo in the microsite.
+* Primary color: Primary color is used for buttons and all the maim labels in the site.
+* 
+
 
 ##### 3. How to Use Embed code:
  Embed code of a product can be generated in this section which then can be used to show market source of the product on your own website. Suppose you have own website and product pages are there already, You can inject this embed code in the page and market-source of the product will show on details page. The Product and its sellers inventory details will show up in this section. This also enable you to add to cart and checkout from here.
