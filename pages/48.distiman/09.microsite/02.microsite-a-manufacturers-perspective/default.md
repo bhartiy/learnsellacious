@@ -70,6 +70,7 @@ Clicking on manage microsite redirects to  coot-cms where there are options to c
 
 * table background color can be set for factory direct, wholesaler, distributers and other sellers
 ![Screenshot%202021-08-06%20at%2011.50.33%20AM](Screenshot%202021-08-06%20at%2011.50.33%20AM.png "Screenshot%202021-08-06%20at%2011.50.33%20AM")
+* microsite font, header/footer color and backgroud, border color also can be set here.
 
 ##### 3. How to Use Embed code:
  Embed code of a product can be generated in this section which then can be used to show market source of the product on your own website. Suppose you have own website and product pages are there already, You can inject this embed code in the page and market-source of the product will show on details page. The Product and its sellers inventory details will show up in this section. This also enable you to add to cart and checkout from here.
