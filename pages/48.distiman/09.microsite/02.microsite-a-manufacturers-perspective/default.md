@@ -68,7 +68,7 @@ Clicking on manage microsite redirects to  coot-cms where there are options to c
 
 ![Screenshot%202021-08-06%20at%2010.23.32%20AM](Screenshot%202021-08-06%20at%2010.23.32%20AM.png "Screenshot%202021-08-06%20at%2010.23.32%20AM")
 
-* table background color can be set for factory direct, wholesaler, distributers and other sellers
+* table background color can be set for factory direct, wholesaler, stockiest, distributers and other sellers
 ![Screenshot%202021-08-06%20at%2011.50.33%20AM](Screenshot%202021-08-06%20at%2011.50.33%20AM.png "Screenshot%202021-08-06%20at%2011.50.33%20AM")
 * microsite font, header/footer color and backgroud, border color also can be set here.
 
