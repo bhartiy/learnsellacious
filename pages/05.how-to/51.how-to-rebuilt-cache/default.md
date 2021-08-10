@@ -3,9 +3,9 @@ title: 'How to rebuilt cache'
 media_order: 'Screenshot (1).png,Screenshot (2).png,Screenshot (3).png,Screenshot 2021-08-10 at 9.49.29 AM.png'
 ---
 
-*Written by**: Rashi Gupta
-**Date**: 10-08-2021
-**Compatibility**: Sellacious v2.0.0-Beta1+
+**Written by** : Rashi Gupta
+**Date** : 10-08-2021
+**Compatibility** : Sellacious v2.0.0-Beta1+
 
 To rebuilt the cache, follow the below steps:
 
