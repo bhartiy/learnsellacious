@@ -19,5 +19,5 @@ To import the orders, follow the below steps:
 4. In type option, select the Order importer and enter the template title
 5. **Allowed user categories** : Select the categories of users to allow the access to selected users. Leave blank to allow none.
 6. **Upload Sample CSV** : You can upload a Sample CSV file to guide the users about the format for the import CSV.
-7. **Upload Documentation** : You can upload a documentation for the users including information about the import feature, terms and condition as well as the import instructions
-8. 
+7. **Upload Documentation** : You can upload a documentation for the users including information about the import feature, terms and condition as well as the import instructions.
+8. **Help Link** : Enter a link to the page for the documentation about the import feature, terms and condition as well as the import instructions.
