@@ -1,6 +1,6 @@
 ---
 title: 'Export Orders'
-media_order: 'Screenshot (4).png,Screen Shot 2021-08-11 at 3.35.15 PM.png,Screen Shot 2021-08-11 at 3.35.29 PM.png,Screen Shot 2021-08-11 at 3.35.39 PM.png,Screenshot 2021-08-11 at 4.02.19 PM.png'
+media_order: 'Screenshot (4).png,Screen Shot 2021-08-11 at 3.35.15 PM.png,Screen Shot 2021-08-11 at 3.35.29 PM.png,Screen Shot 2021-08-11 at 3.35.39 PM.png,Screenshot 2021-08-11 at 4.02.19 PM.png,Screen Shot 2021-08-11 at 4.10.58 PM.png'
 ---
 
 **Written by** : Rashi Gupta
@@ -34,3 +34,10 @@ media_order: 'Screenshot (4).png,Screen Shot 2021-08-11 at 3.35.15 PM.png,Screen
 7. Export started and shows the success message, you can also download from here.
 
 ![Screenshot%202021-08-11%20at%204.02.19%20PM](Screenshot%202021-08-11%20at%204.02.19%20PM.png "Screenshot%202021-08-11%20at%204.02.19%20PM")
+
+In template, we have other export options too:
+1. Enter your secret key.
+ ![Screen%20Shot%202021-08-11%20at%204.10.58%20PM](Screen%20Shot%202021-08-11%20at%204.10.58%20PM.png "Screen%20Shot%202021-08-11%20at%204.10.58%20PM")
+ 2. You can choose how do you want to receive the exported file by Email link only or Immediate Download and Email Link
+ 3. You can copy the export link by click on **copy to click**
+ 4. With the help of export link, you can download the exported file
