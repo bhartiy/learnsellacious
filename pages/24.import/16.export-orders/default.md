@@ -1,5 +1,6 @@
 ---
 title: 'Export Orders'
+media_order: 'Screenshot (4).png'
 ---
 
 **Written by** : Rashi Gupta
@@ -15,6 +16,8 @@ This feature enable you to export the orders from the shop in csv format. Orders
 1. Go to the sellacious backend in shop menu,
 2. Go to the orders page
 3. Click on the Export orders button to export the orders
+
+![Screenshot%20%284%29](Screenshot%20%284%29.png "Screenshot%20%284%29")
 4. Orders will be export in csv format
 
 **From orders importer template**
