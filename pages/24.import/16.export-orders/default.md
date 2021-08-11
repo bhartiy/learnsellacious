@@ -39,7 +39,7 @@ In template, we have other **Export Options** too:
 1. Enter your secret key.
 
 ![Screen%20Shot%202021-08-11%20at%204.10.58%20PM](Screen%20Shot%202021-08-11%20at%204.10.58%20PM.png "Screen%20Shot%202021-08-11%20at%204.10.58%20PM")
- 2. You can choose how do you want to receive the exported file by Email link only or Immediate Download and Email Link
+ 2. You can choose how do you want to receive the exported file by **Email link only** or **Immediate Download and Email Link**
  3. You can copy the export link by click on **copy to click**
  4. With the help of export link, you can download the exported file
 
