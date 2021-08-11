@@ -21,3 +21,4 @@ To import the orders, follow the below steps:
 6. **Upload Sample CSV** : You can upload a Sample CSV file to guide the users about the format for the import CSV.
 7. **Upload Documentation** : You can upload a documentation for the users including information about the import feature, terms and condition as well as the import instructions.
 8. **Help Link** : Enter a link to the page for the documentation about the import feature, terms and condition as well as the import instructions.
+9.  **Send Email to** : Enter the email addresses and names who should receive the notification after import/export using this template.
