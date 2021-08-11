@@ -24,7 +24,7 @@ To import the orders, first you need to create the order template:
 9.  **Send Email to** : Enter the email addresses and names who should receive the notification after import/export using this template.
 10.  Save the template.
 
-To import the orders, follow the steps:
+**To import the orders, follow the steps:**
 1. Go to the import utility-> imports
 2. Click on new button
 
