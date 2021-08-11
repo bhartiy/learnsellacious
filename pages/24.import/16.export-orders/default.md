@@ -22,8 +22,6 @@ Import needs to installed to export the orders from the order template
 4. Orders will be export in csv format
 
 **From orders importer template**
-To export the orders from Order template,
-
 1. Go to the sellacious backend->import utility menu
 2. In the import utility. go to the exports page
 3. Click on the new button to export order
