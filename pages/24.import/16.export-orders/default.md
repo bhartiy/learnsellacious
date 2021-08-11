@@ -3,7 +3,7 @@ title: 'Export Orders'
 ---
 
 **Written by** : Rashi Gupta
-**Date** : 23-05-2020
+**Date** : 11-08-2021
 **Compatibility** : Sellacious v2.0.0-Beta1+
 
 This feature enable you to export the orders from the shop in csv format. Orders can be exported by two methods-
