@@ -7,7 +7,7 @@ media_order: 'Screenshot (4).png,Screen Shot 2021-08-11 at 3.35.15 PM.png,Screen
 **Date** : 11-08-2021
 **Compatibility** : Sellacious v2.0.0-rc5
 
-This feature enable you to export the orders from the shop in csv format. Orders can be exported by two methods-
+**Importer needs to installed** to export the orders from the shop in csv format. Orders can be exported by two methods-
 
 1. From orders view by export orders
 2. From orders importer template
