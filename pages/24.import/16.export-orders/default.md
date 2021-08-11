@@ -1,6 +1,6 @@
 ---
 title: 'Export Orders'
-media_order: 'Screenshot (4).png,Screen Shot 2021-08-11 at 3.35.15 PM.png'
+media_order: 'Screenshot (4).png,Screen Shot 2021-08-11 at 3.35.15 PM.png,Screen Shot 2021-08-11 at 3.35.29 PM.png,Screen Shot 2021-08-11 at 3.35.39 PM.png'
 ---
 
 **Written by** : Rashi Gupta
@@ -26,4 +26,13 @@ To export the orders from Orders template,
 1. Go to the sellacious backend->import utility menu
 2. In the import utility. go to the exports page
 3. Click on the new button to export order
-4. 
+4. Select the export type: Order exporter
+
+![Screen%20Shot%202021-08-11%20at%203.35.15%20PM](Screen%20Shot%202021-08-11%20at%203.35.15%20PM.png "Screen%20Shot%202021-08-11%20at%203.35.15%20PM")
+5. Then select the export template: Order template
+
+![Screen%20Shot%202021-08-11%20at%203.35.29%20PM](Screen%20Shot%202021-08-11%20at%203.35.29%20PM.png "Screen%20Shot%202021-08-11%20at%203.35.29%20PM")
+6. Click on the queue export button
+7. Export started and shows the success message
+
+![Screen%20Shot%202021-08-11%20at%203.35.39%20PM](Screen%20Shot%202021-08-11%20at%203.35.39%20PM.png "Screen%20Shot%202021-08-11%20at%203.35.39%20PM")
