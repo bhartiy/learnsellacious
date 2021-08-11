@@ -21,7 +21,7 @@ This feature enable you to export the orders from the shop in csv format. Orders
 4. Orders will be export in csv format
 
 **From orders importer template**
-To export the orders from Orders template,
+To export the orders from Order template,
 
 1. Go to the sellacious backend->import utility menu
 2. In the import utility. go to the exports page
