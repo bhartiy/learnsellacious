@@ -35,3 +35,5 @@ To import the orders, follow the steps:
 4. Select the import template
 
 ![Screen%20Shot%202021-08-11%20at%205.30.59%20PM](Screen%20Shot%202021-08-11%20at%205.30.59%20PM.png "Screen%20Shot%202021-08-11%20at%205.30.59%20PM")
+5. Upload the csv to import the orders
+6. Click on Continue upload button to start the import.
