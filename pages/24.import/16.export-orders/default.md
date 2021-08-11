@@ -42,3 +42,6 @@ In template, we have other export options too:
  2. You can choose how do you want to receive the exported file by Email link only or Immediate Download and Email Link
  3. You can copy the export link by click on **copy to click**
  4. With the help of export link, you can download the exported file
+
+In template, we have CSV columns tab where we can map the columns. Only mapped columns shows in the exported csv.
+![Screen%20Shot%202021-08-11%20at%204.47.09%20PM](Screen%20Shot%202021-08-11%20at%204.47.09%20PM.png "Screen%20Shot%202021-08-11%20at%204.47.09%20PM")
