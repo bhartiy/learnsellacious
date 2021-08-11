@@ -9,7 +9,7 @@ media_order: 'Screenshot (6).png'
 
 **Import order is not supported yet**
 
-To import the orders, follow the below steps:
+To import the orders, first you need to create the order template:
 
 1. First create the order template.
 2. From the import utility menu in backend, go to the templates
@@ -22,3 +22,5 @@ To import the orders, follow the below steps:
 7. **Upload Documentation** : You can upload a documentation for the users including information about the import feature, terms and condition as well as the import instructions.
 8. **Help Link** : Enter a link to the page for the documentation about the import feature, terms and condition as well as the import instructions.
 9.  **Send Email to** : Enter the email addresses and names who should receive the notification after import/export using this template.
+10.  Save the template.
+
