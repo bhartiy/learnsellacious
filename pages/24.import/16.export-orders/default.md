@@ -31,6 +31,6 @@ media_order: 'Screenshot (4).png,Screen Shot 2021-08-11 at 3.35.15 PM.png,Screen
 
 ![Screen%20Shot%202021-08-11%20at%203.35.29%20PM](Screen%20Shot%202021-08-11%20at%203.35.29%20PM.png "Screen%20Shot%202021-08-11%20at%203.35.29%20PM")
 6. Click on the queue export button
-7. Export started and shows the success message, also you can download from here.
+7. Export started and shows the success message, you can also download from here.
 
 ![Screenshot%202021-08-11%20at%204.02.19%20PM](Screenshot%202021-08-11%20at%204.02.19%20PM.png "Screenshot%202021-08-11%20at%204.02.19%20PM")
