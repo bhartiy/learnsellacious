@@ -1,6 +1,6 @@
 ---
 title: 'Import Order'
-media_order: 'Screenshot (6).png'
+media_order: 'Screenshot (6).png,Screenshot (7).png,Screen Shot 2021-08-11 at 5.30.43 PM.png,Screen Shot 2021-08-11 at 5.30.59 PM.png'
 ---
 
 **Written by** : Rashi Gupta
@@ -24,3 +24,14 @@ To import the orders, first you need to create the order template:
 9.  **Send Email to** : Enter the email addresses and names who should receive the notification after import/export using this template.
 10.  Save the template.
 
+To import the orders, follow the steps:
+1. Go to the import utility-> imports
+2. Click on new button
+
+![Screenshot%20%287%29](Screenshot%20%287%29.png "Screenshot%20%287%29")
+3. Select the import type
+
+![Screen%20Shot%202021-08-11%20at%205.30.43%20PM](Screen%20Shot%202021-08-11%20at%205.30.43%20PM.png "Screen%20Shot%202021-08-11%20at%205.30.43%20PM")
+4. Select the import template
+
+![Screen%20Shot%202021-08-11%20at%205.30.59%20PM](Screen%20Shot%202021-08-11%20at%205.30.59%20PM.png "Screen%20Shot%202021-08-11%20at%205.30.59%20PM")
