@@ -11,9 +11,9 @@ With export order functionality orders can be exported in form of csv file.
 **NOTE: Importer plugin needs to be installed in order to export functionality to work** 
 Orders can be exported by three methods-
 
-[1. From orders view by export orders](https://www.sellacious.com/documentation-v2#/learn/import/export-orders#from-orders-page-in-backend)
-[2. From orders importer template](https://www.sellacious.com/documentation-v2#/learn/import/export-orders#from-orders-importer-template)
-[3. By export link with secret-key](https://www.sellacious.com/documentation-v2#/learn/import/export-orders#by-export-link-with-secret-key)
+[1. From orders view by export orders](https://www.sellacious.com/learn/import/export-orders#from-orders-page-in-backend)
+[2. From orders importer template](https://www.sellacious.com/learn/import/export-orders#from-orders-importer-template)
+[3. By export link with secret-key](https://www.sellacious.com/learn/import/export-orders#by-export-link-with-secret-key)
 
 ##### From Orders page in backend
 
