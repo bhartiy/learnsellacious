@@ -28,7 +28,7 @@ Orders can be exported by three methods-
 ##### From orders importer template
 
 1. Go to the sellacious backend->import utility->templates
-3. Click on the new export button
+3. Click on the new export button in order importer template
 
 ![Screenshot%202021-08-12%20at%205.17.00%20PM](Screenshot%202021-08-12%20at%205.17.00%20PM.png "Screenshot%202021-08-12%20at%205.17.00%20PM")
 
