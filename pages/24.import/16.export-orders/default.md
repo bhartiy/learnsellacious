@@ -59,7 +59,10 @@ As export link can be generated which can run export orders by just sending the 
 
  2. You can choose how do you want to receive the exported file by **Email link only** or **Immediate Download and Email Link**
  3. You can copy the export link by click on **copy to click**
- 4. With the help of export link, you can download the exported file
+ 4. To run export order paste the export link in browser and export order will be executed. Your export scv will be generated and email will be send to recipients.
 
-In template, we have CSV columns tab where we can map the columns. Only mapped columns goes in the exported csv.
+**ADDITIONALLY:**
+
+If you want to export certain number of columns in our export csv, In template, we have CSV columns tab where we can map the columns then Only mapped columns goes in the exported csv.
+
 ![Screen%20Shot%202021-08-11%20at%204.47.09%20PM](Screen%20Shot%202021-08-11%20at%204.47.09%20PM.png "Screen%20Shot%202021-08-11%20at%204.47.09%20PM")
