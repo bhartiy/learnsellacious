@@ -1,37 +1,47 @@
 ---
 title: 'Export Orders'
-media_order: 'Screenshot (4).png,Screen Shot 2021-08-11 at 3.35.15 PM.png,Screen Shot 2021-08-11 at 3.35.29 PM.png,Screen Shot 2021-08-11 at 3.35.39 PM.png,Screenshot 2021-08-11 at 4.02.19 PM.png,Screen Shot 2021-08-11 at 4.10.58 PM.png'
+media_order: 'Screenshot (4).png,Screen Shot 2021-08-11 at 3.35.15 PM.png,Screen Shot 2021-08-11 at 3.35.29 PM.png,Screen Shot 2021-08-11 at 3.35.39 PM.png,Screenshot 2021-08-11 at 4.02.19 PM.png,Screen Shot 2021-08-11 at 4.10.58 PM.png,Screen Shot 2021-08-11 at 4.47.09 PM.png,Screenshot 2021-08-12 at 5.17.00 PM.png'
 ---
 
 **Written by** : Rashi Gupta
 **Date** : 11-08-2021
 **Compatibility** : Sellacious v2.0.0-rc5
 
-**Importer needs to installed** to export the orders from the shop in csv format. Orders can be exported by two methods-
+With export order functionality orders can be exported in form of csv file.
+**NOTE: Importer plugin needs to be installed in order to export functionality to work** 
+Orders can be exported by three methods-
 
 1. From orders view by export orders
 2. From orders importer template
+3. By export link with secretkey
 
-**From Orders page in backend**
+##### From Orders page in backend
+
 1. Go to the sellacious backend in shop menu,
 2. Go to the orders page
 3. Click on the Export orders button to export the orders
 
 ![Screenshot%20%284%29](Screenshot%20%284%29.png "Screenshot%20%284%29")
-4. Orders will be export in csv format
 
-**From orders importer template**
-1. Go to the sellacious backend->import utility menu
-2. In the import utility. go to the exports page
-3. Click on the new button to export order
-4. Select the export type: Order exporter
+4. Orders will be downloaded in csv format
+
+##### From orders importer template
+
+1. Go to the sellacious backend->import utility->templates
+3. Click on the new export button
+
+![Screenshot%202021-08-12%20at%205.17.00%20PM](Screenshot%202021-08-12%20at%205.17.00%20PM.png "Screenshot%202021-08-12%20at%205.17.00%20PM")
+
+5. Select the export type: Order exporter
 
 ![Screen%20Shot%202021-08-11%20at%203.35.15%20PM](Screen%20Shot%202021-08-11%20at%203.35.15%20PM.png "Screen%20Shot%202021-08-11%20at%203.35.15%20PM")
+
 5. Then select the export template: Order template
 
 ![Screen%20Shot%202021-08-11%20at%203.35.29%20PM](Screen%20Shot%202021-08-11%20at%203.35.29%20PM.png "Screen%20Shot%202021-08-11%20at%203.35.29%20PM")
+
 6. Click on the queue export button
-7. Export started and shows the success message, you can also download from here.
+7. Export started and shows the success message, you can also download exported csv from here.
 
 ![Screenshot%202021-08-11%20at%204.02.19%20PM](Screenshot%202021-08-11%20at%204.02.19%20PM.png "Screenshot%202021-08-11%20at%204.02.19%20PM")
 
