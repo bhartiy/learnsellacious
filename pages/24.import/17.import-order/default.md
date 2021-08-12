@@ -7,7 +7,7 @@ media_order: 'Screenshot (6).png,Screenshot (7).png,Screen Shot 2021-08-11 at 5.
 **Date** : 11-08-2021
 **Compatibility** : Sellacious v2.0.0-rc5
 
-**Import order is not supported yet**
+**Import order is not supported yet this documentation is for import order template**
 
 To import the orders, first you need to create the order template:
 
@@ -16,6 +16,7 @@ To import the orders, first you need to create the order template:
 3. Click on new button to create new order import template
 
 ![Screenshot%20%286%29](Screenshot%20%286%29.png "Screenshot%20%286%29")
+
 4. In type option, select the Order importer and enter the template title
 5. **Allowed user categories** : Select the categories of users to allow the access to selected users. Leave blank to allow none.
 6. **Upload Sample CSV** : You can upload a Sample CSV file to guide the users about the format for the import CSV.
@@ -23,17 +24,3 @@ To import the orders, first you need to create the order template:
 8. **Help Link** : Enter a link to the page for the documentation about the import feature, terms and condition as well as the import instructions.
 9.  **Send Email to** : Enter the email addresses and names who should receive the notification after import/export using this template.
 10.  Save the template.
-
-**To import the orders, follow the steps:**
-1. Go to the import utility-> imports
-2. Click on new button
-
-![Screenshot%20%287%29](Screenshot%20%287%29.png "Screenshot%20%287%29")
-3. Select the import type
-
-![Screen%20Shot%202021-08-11%20at%205.30.43%20PM](Screen%20Shot%202021-08-11%20at%205.30.43%20PM.png "Screen%20Shot%202021-08-11%20at%205.30.43%20PM")
-4. Select the import template
-
-![Screen%20Shot%202021-08-11%20at%205.30.59%20PM](Screen%20Shot%202021-08-11%20at%205.30.59%20PM.png "Screen%20Shot%202021-08-11%20at%205.30.59%20PM")
-5. Upload the csv to import the orders
-6. Click on Continue upload button to start the import.
