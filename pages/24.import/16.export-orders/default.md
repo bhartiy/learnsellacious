@@ -1,6 +1,6 @@
 ---
 title: 'Export Orders'
-media_order: 'Screenshot (4).png,Screen Shot 2021-08-11 at 3.35.15 PM.png,Screen Shot 2021-08-11 at 3.35.29 PM.png,Screen Shot 2021-08-11 at 3.35.39 PM.png,Screenshot 2021-08-11 at 4.02.19 PM.png,Screen Shot 2021-08-11 at 4.10.58 PM.png,Screen Shot 2021-08-11 at 4.47.09 PM.png,Screenshot 2021-08-12 at 5.17.00 PM.png'
+media_order: 'Screenshot (4).png,Screen Shot 2021-08-11 at 3.35.15 PM.png,Screen Shot 2021-08-11 at 3.35.29 PM.png,Screen Shot 2021-08-11 at 3.35.39 PM.png,Screenshot 2021-08-11 at 4.02.19 PM.png,Screen Shot 2021-08-11 at 4.10.58 PM.png,Screen Shot 2021-08-11 at 4.47.09 PM.png,Screenshot 2021-08-12 at 5.17.00 PM.png,Screenshot 2021-08-12 at 5.27.25 PM.png'
 ---
 
 **Written by** : Rashi Gupta
@@ -13,7 +13,7 @@ Orders can be exported by three methods-
 
 1. From orders view by export orders
 2. From orders importer template
-3. By export link with secretkey
+3. By export link with secret-key
 
 ##### From Orders page in backend
 
@@ -45,10 +45,18 @@ Orders can be exported by three methods-
 
 ![Screenshot%202021-08-11%20at%204.02.19%20PM](Screenshot%202021-08-11%20at%204.02.19%20PM.png "Screenshot%202021-08-11%20at%204.02.19%20PM")
 
-In template, we have other **Export Options** too:
-1. Enter your secret key.
+An email will also be send containing export log and export csv file, which can be downloaded.
+the recipients can be added in basic info tab of order import-export template.
+
+![Screenshot%202021-08-12%20at%205.27.25%20PM](Screenshot%202021-08-12%20at%205.27.25%20PM.png "Screenshot%202021-08-12%20at%205.27.25%20PM")
+
+##### By export link with secret-key
+
+As export link can be generated which can run export orders by just sending the request from browser.
+1.To generate link go to Export options tab of import-export orders template, Enter your secret key and save your export order link will be generated
 
 ![Screen%20Shot%202021-08-11%20at%204.10.58%20PM](Screen%20Shot%202021-08-11%20at%204.10.58%20PM.png "Screen%20Shot%202021-08-11%20at%204.10.58%20PM")
+
  2. You can choose how do you want to receive the exported file by **Email link only** or **Immediate Download and Email Link**
  3. You can copy the export link by click on **copy to click**
  4. With the help of export link, you can download the exported file
