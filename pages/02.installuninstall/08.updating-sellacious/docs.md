@@ -11,10 +11,11 @@ visible: true
 Kindly Take backup of your website and databse before updating it. 
 It's preferred not to upgrade live site and upgrade it over staging first, test it and then move it to live.
 There are two ways to update Sellacious on your site.
-1. Manual Update
-2. From Joomla
+1. Manual Update (read and follow each step carefully)
+2. From Joomla (this method has issues do not use it)
 
-**1. To update sellacious manually, follow below steps:**
+**Manual Update:**
+
 1. Go to https://www.sellacious.com/p/core/sellacious and download core and extended package of latest version of sellacious.
 
 ![](Screen%20Shot%202020-08-14%20at%202.27.59%20PM.png)
@@ -33,15 +34,13 @@ There are two ways to update Sellacious on your site.
 
 ![](Screenshot%202020-05-22%20at%205.32.03%20PM.png)
 
-**Note: Installation of this package after Core is very important to fetch all the important updates of sellacious. If you don't install this package of sellacious, you'll face the issue with your sellacious.**
-
 8. After updating extended package you will be redirected to this page which means sellacious is updated successfully. 
 
 ![](Screenshot%202020-05-22%20at%206.16.50%20PM.png)
 
 ---
 
-**2. To Update from  Joomla, follow the steps:**
+**2. Update from Joomla:**
 
 1. Go to the Joomla administration panel of your website.
 2. Go to Extensions and click on Manage.
