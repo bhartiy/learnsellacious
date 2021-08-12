@@ -59,7 +59,7 @@ As export link can be generated which can run export orders by just sending the 
 
  2. You can choose how do you want to receive the exported file by **Email link only** or **Immediate Download and Email Link**
  3. You can copy the export link by click on **copy to click**
- 4. To run export order paste the export link in browser and export order will be executed. Your export scv will be generated and email will be send to recipients.
+ 4. To run export order paste the export link in browser and hit enter, export order will be executed. Your export scv will be generated/downloaded and email will be send to recipients.
 
 **ADDITIONALLY:**
 
